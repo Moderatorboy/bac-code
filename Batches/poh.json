@@ -1,0 +1,88 @@
+[
+  {
+    "batch_name": "PROFESSOR OF HOW 3D",
+    "channel_id": "-1003637459451",
+    "chapters": [
+      {
+        "chapter_name": "COMPLETE MODULE",
+        "lectures": [
+          {
+            "lec_no": "1099",
+            "title": "MODULE 01 | LESSON 01 TO 06",
+            "video_id": 1099
+          },
+          {
+            "lec_no": "1100",
+            "title": "MODULE 02 | LESSON 01 TO 06",
+            "video_id": 1100
+          },
+          {
+            "lec_no": "1101",
+            "title": "MODULE 02 | LESSON 07 TO 12",
+            "video_id": 1101
+          },
+          {
+            "lec_no": "1102",
+            "title": "MODULE 03 | LESSON 01 TO 08",
+            "video_id": 1102
+          },
+          {
+            "lec_no": "1103",
+            "title": "MODULE 03 | LESSON 09 TO 13",
+            "video_id": 1103
+          },
+          {
+            "lec_no": "1104",
+            "title": "MODULE 03 | LESSON 14 TO 19",
+            "video_id": 1104
+          },
+          {
+            "lec_no": "1105",
+            "title": "MODULE 03 | LESSON 20 TO 25",
+            "video_id": 1105
+          },
+          {
+            "lec_no": "1106",
+            "title": "MODULE 03 | LESSON 26 TO 29",
+            "video_id": 1106
+          },
+          {
+            "lec_no": "1107",
+            "title": "MODULE 03 | LESSON 30 TO 35",
+            "video_id": 1107
+          },
+          {
+            "lec_no": "1108",
+            "title": "MODULE 04 | LESSON 01 TO 12",
+            "video_id": 1108
+          },
+          {
+            "lec_no": "1109",
+            "title": "MODULE 04 | LESSON 03 TO 23",
+            "video_id": 1109
+          },
+          {
+            "lec_no": "1110",
+            "title": "MODULE 05 | LESSON 01 TO 08",
+            "video_id": 1110
+          },
+          {
+            "lec_no": "1111",
+            "title": "MODULE 06 | LESSON 01 TO 08",
+            "video_id": 1111
+          },
+          {
+            "lec_no": "1112",
+            "title": "MODULE 07 | LESSON 01 TO 04",
+            "video_id": 1112
+          },
+          {
+            "lec_no": "1113",
+            "title": "MODULE 08 | LESSON 01 TO 04",
+            "video_id": 1113
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "batch_name": "Vivek Bindra Courses",
+    "channel_id": "-1003637459451",
+    "chapters": [
+      {
+        "chapter_name": "DROPSHIPPING",
+        "lectures": [
+          {
+            "lec_no": "L-01",
+            "title": "Introduction",
+            "video_id": 25638
+          },
+          {
+            "lec_no": "L-02",
+            "title": "How to Start a Dropshipping Business",
+            "video_id": 25639
+          },
+          {
+            "lec_no": "L-03",
+            "title": "How to Create an Online Store",
+            "video_id": 25640
+          },
+          {
+            "lec_no": "L-04",
+            "title": "Designing Website for Dropshipping",
+            "video_id": 25641
+          },
+          {
+            "lec_no": "L-05",
+            "title": "Adding & Customising Products",
+            "video_id": 25642
+          },
+          {
+            "lec_no": "L-06",
+            "title": "Product Research for Dropshipping Business",
+            "video_id": 25643
+          },
+          {
+            "lec_no": "L-07",
+            "title": "Generating Sales in Dropshipping",
+            "video_id": 25644
+          },
+          {
+            "lec_no": "L-08",
+            "title": "How to Advertise on Facebook for Dropshipping",
+            "video_id": 25645
+          },
+          {
+            "lec_no": "L-09",
+            "title": "Targeting Customers through Product Ads",
+            "video_id": 25646
+          },
+          {
+            "lec_no": "L-10",
+            "title": "Summary",
+            "video_id": 25647
+          }
+        ]
+      }
+    ]
+  }
+]

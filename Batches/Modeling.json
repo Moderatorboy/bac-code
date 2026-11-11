@@ -1,0 +1,438 @@
+[
+  {
+    "batch_name": "Financial Modeling Fundamentals",
+    "channel_id": "-1003637459451",
+    "chapters": [
+      {
+        "chapter_name": "Course Introduction",
+        "lectures": [
+          {
+            "lec_no": "L-01",
+            "title": "1.01 Course Introduction and Preview",
+            "video_id": 1882,
+            "notes_id": 1881
+          },
+          {
+            "lec_no": "L-02",
+            "title": "1.03 What Is a Financial Model and Why Do You Need It",
+            "video_id": 1886,
+            "notes_id": 1885,
+            "sheet_id": 1883
+          }
+        ]
+      },
+      {
+        "chapter_name": "Understanding Financial Statements",
+        "lectures": [
+          {
+            "lec_no": "L-03",
+            "title": "2.01 Understanding Financial Statements",
+            "video_id": 1888,
+            "notes_id": 1887
+          },
+          {
+            "lec_no": "L-04",
+            "title": "2.02 Introduction to Profit & Loss",
+            "video_id": 1890,
+            "notes_id": 1889
+          },
+          {
+            "lec_no": "L-05",
+            "title": "2.03 Understanding the Balance Sheet",
+            "video_id": 1892,
+            "notes_id": 1891
+          },
+          {
+            "lec_no": "L-06",
+            "title": "2.04 Introduction to Statement of Cash Flows",
+            "video_id": 1894,
+            "notes_id": 1893
+          },
+          {
+            "lec_no": "L-07",
+            "title": "2.05 Cash vs Accrual Accounting",
+            "video_id": 1896,
+            "notes_id": 1895
+          },
+          {
+            "lec_no": "L-08",
+            "title": "2.06 How the Balance Sheet and Income Statement Are Connected",
+            "video_id": 1898,
+            "notes_id": 1897
+          },
+          {
+            "lec_no": "L-09",
+            "title": "2.07 Understanding Debits & Credits",
+            "video_id": 1900,
+            "notes_id": 1899
+          },
+          {
+            "lec_no": "L-10",
+            "title": "2.08 How Financial Statements Are Affected",
+            "video_id": 1904,
+            "notes_id": 1901,
+            "sheet_id": 1903
+          }
+        ]
+      },
+      {
+        "chapter_name": "Building Financial Statements",
+        "lectures": [
+          {
+            "lec_no": "L-11",
+            "title": "3.01 Building a Summary P&L",
+            "video_id": 1907,
+            "notes_id": 1906
+          },
+          {
+            "lec_no": "L-12",
+            "title": "3.02 Building a Summary Balance Sheet",
+            "video_id": 1910,
+            "notes_id": 1908,
+            "sheet_id": 1909
+          },
+          {
+            "lec_no": "L-13",
+            "title": "3.03 Building a Detailed Profit & Loss",
+            "video_id": 1912,
+            "notes_id": 1911
+          },
+          {
+            "lec_no": "L-14",
+            "title": "3.04 Building a Detailed Balance Sheet",
+            "video_id": 1915,
+            "notes_id": 1913,
+            "sheet_id": 1914
+          }
+        ]
+      },
+      {
+        "chapter_name": "Cash Flows",
+        "lectures": [
+          {
+            "lec_no": "L-15",
+            "title": "4.01 The Psychology Behind Cash Flows",
+            "video_id": 1917,
+            "notes_id": 1916
+          },
+          {
+            "lec_no": "L-16",
+            "title": "4.02 Showcasing the Impact on Cash Flows",
+            "video_id": 1922,
+            "notes_id": 1921,
+            "sheet_id": 1920
+          },
+          {
+            "lec_no": "L-17",
+            "title": "4.03 The Mathematics Behind Cash Flows",
+            "video_id": 1925,
+            "notes_id": 1924,
+            "sheet_id": 1923
+          },
+          {
+            "lec_no": "L-18",
+            "title": "4.04 Financial Statements and Their Connections",
+            "video_id": 1926
+          }
+        ]
+      },
+      {
+        "chapter_name": "Connecting Financial Statements",
+        "lectures": [
+          {
+            "lec_no": "L-19",
+            "title": "5.01 Connecting the Income Statement to the Balance Sheet",
+            "video_id": 1930,
+            "notes_id": 1927,
+            "sheet_id": 1929
+          },
+          {
+            "lec_no": "L-20",
+            "title": "5.02 Creating a Statement of Cash Flows - Part I",
+            "video_id": 1932,
+            "notes_id": 1931
+          },
+          {
+            "lec_no": "L-21",
+            "title": "5.03 Creating a Statement of Cash Flows - Part II",
+            "video_id": 1936,
+            "notes_id": 1933,
+            "sheet_id": 1935
+          },
+          {
+            "lec_no": "L-22",
+            "title": "5.04 Creating a Summarized Three-Statement Model",
+            "video_id": 1939,
+            "notes_id": 1937,
+            "sheet_id": 1938
+          }
+        ]
+      },
+      {
+        "chapter_name": "Model Structure and Best Practices",
+        "lectures": [
+          {
+            "lec_no": "L-23",
+            "title": "6.00 Understanding Model Structure and Best Practices",
+            "video_id": 1943,
+            "notes_id": 1942,
+            "sheet_id": 1941
+          },
+          {
+            "lec_no": "L-24",
+            "title": "6.01 Financial Model Structure",
+            "video_id": 1944
+          },
+          {
+            "lec_no": "L-25",
+            "title": "6.02 Understanding Financial Drivers",
+            "video_id": 1947,
+            "notes_id": 1946
+          },
+          {
+            "lec_no": "L-26",
+            "title": "6.03 Implementing Error Checks",
+            "video_id": 1949,
+            "notes_id": 1948
+          },
+          {
+            "lec_no": "L-27",
+            "title": "6.04 Color Coding and Auditing",
+            "video_id": 1950
+          },
+          {
+            "lec_no": "L-28",
+            "title": "6.05 Creating Template Tabs",
+            "video_id": 1952,
+            "notes_id": 1951
+          },
+          {
+            "lec_no": "L-29",
+            "title": "6.06 Presenting Summary Financials",
+            "video_id": 1954,
+            "notes_id": 1953
+          }
+        ]
+      },
+      {
+        "chapter_name": "Building the Financial Model",
+        "lectures": [
+          {
+            "lec_no": "L-30",
+            "title": "7.01 Creating Template Tabs",
+            "video_id": 1959,
+            "notes_id": 1958,
+            "sheet_id": 1957
+          },
+          {
+            "lec_no": "L-31",
+            "title": "7.02 Creating Income Statement Drivers",
+            "video_id": 1961,
+            "sheet_id": 1960
+          },
+          {
+            "lec_no": "L-32",
+            "title": "7.03 Creating Balance Sheet Drivers",
+            "video_id": 1964,
+            "notes_id": 1962,
+            "sheet_id": 1963
+          },
+          {
+            "lec_no": "L-33",
+            "title": "7.04 Setting Up Color Coding",
+            "video_id": 1968,
+            "notes_id": 1966,
+            "sheet_id": 1967
+          },
+          {
+            "lec_no": "L-34",
+            "title": "7.05 Adding Error Checks",
+            "video_id": 1971,
+            "sheet_id": 1970
+          },
+          {
+            "lec_no": "L-35",
+            "title": "7.06 Creating an Instructions Tab",
+            "video_id": 1976,
+            "notes_id": 1975,
+            "sheet_id": 1974
+          },
+          {
+            "lec_no": "L-36",
+            "title": "7.07 Connect Summary Financials",
+            "video_id": 1977
+          }
+        ]
+      },
+      {
+        "chapter_name": "Actuals in Financial Model",
+        "lectures": [
+          {
+            "lec_no": "L-37",
+            "title": "8.01 Why You Should Include Actuals in Your Financial Model",
+            "video_id": 1982,
+            "notes_id": 1981,
+            "sheet_id": 1979
+          },
+          {
+            "lec_no": "L-38",
+            "title": "8.02 How to Actualize Your Model",
+            "video_id": 1984,
+            "notes_id": 1983
+          }
+        ]
+      },
+      {
+        "chapter_name": "Projections - Basic",
+        "lectures": [
+          {
+            "lec_no": "L-39",
+            "title": "9.00 Chapter Overview",
+            "video_id": 1985
+          },
+          {
+            "lec_no": "L-40",
+            "title": "9.01 Projecting Revenue",
+            "video_id": 1987,
+            "notes_id": 1986
+          },
+          {
+            "lec_no": "L-41",
+            "title": "9.02 Projecting Headcount",
+            "video_id": 1989,
+            "notes_id": 1988
+          },
+          {
+            "lec_no": "L-42",
+            "title": "9.03 Projecting Profit & Loss",
+            "video_id": 1991,
+            "notes_id": 1990
+          },
+          {
+            "lec_no": "L-43",
+            "title": "9.04 Projecting Balance Sheet",
+            "video_id": 1993,
+            "notes_id": 1992
+          }
+        ]
+      },
+      {
+        "chapter_name": "Projections - Advanced Setup",
+        "lectures": [
+          {
+            "lec_no": "L-44",
+            "title": "10.00 Chapter Overview",
+            "video_id": 1995,
+            "notes_id": 1994
+          },
+          {
+            "lec_no": "L-45",
+            "title": "10.01 Creating P&L Drivers",
+            "video_id": 1996
+          },
+          {
+            "lec_no": "L-46",
+            "title": "10.02 Creating Balance Sheet Drivers",
+            "video_id": 2001,
+            "notes_id": 1997,
+            "sheet_id": 2000
+          },
+          {
+            "lec_no": "L-47",
+            "title": "10.03 Linking Income Statement to Drivers",
+            "video_id": 2003,
+            "notes_id": 2002
+          },
+          {
+            "lec_no": "L-48",
+            "title": "10.04 Linking Balance Sheet to Drivers",
+            "video_id": 2005,
+            "notes_id": 2004
+          },
+          {
+            "lec_no": "L-49",
+            "title": "10.05 Creating a Statement of Cash Flows",
+            "video_id": 2008,
+            "notes_id": 2007
+          },
+          {
+            "lec_no": "L-50",
+            "title": "10.06 Creating Summary Financials and Instructions",
+            "video_id": 2009
+          }
+        ]
+      },
+      {
+        "chapter_name": "Advanced Projections and Analysis",
+        "lectures": [
+          {
+            "lec_no": "L-51",
+            "title": "11.00 Advanced Projections and Analysis",
+            "video_id": 2011,
+            "notes_id": 2010
+          },
+          {
+            "lec_no": "L-52",
+            "title": "11.01 Setting Revenue & COGS Projections",
+            "video_id": 2018,
+            "notes_id": 2017,
+            "sheet_id": 2016
+          },
+          {
+            "lec_no": "L-53",
+            "title": "11.02 Setting Operating Expense Projections",
+            "video_id": 2019
+          },
+          {
+            "lec_no": "L-54",
+            "title": "11.03 Setting Other Income-Expense Projections",
+            "video_id": 2021,
+            "notes_id": 2020
+          },
+          {
+            "lec_no": "L-55",
+            "title": "11.04 Setting Asset Projections",
+            "video_id": 2023,
+            "notes_id": 2022
+          },
+          {
+            "lec_no": "L-56",
+            "title": "11.05 Setting Liabilities and Owners Equity Projections",
+            "video_id": 2025,
+            "notes_id": 2024
+          },
+          {
+            "lec_no": "L-57",
+            "title": "11.06 Roll forward - Profit & Loss",
+            "video_id": 2028,
+            "notes_id": 2027
+          },
+          {
+            "lec_no": "L-58",
+            "title": "11.07 Rolling Forward - Balance Sheet",
+            "video_id": 2031,
+            "notes_id": 2030,
+            "sheet_id": 2029
+          },
+          {
+            "lec_no": "L-59",
+            "title": "11.08 Creating a Budget vs Actuals Dashboard",
+            "video_id": 2034,
+            "notes_id": 2032,
+            "sheet_id": 2033
+          }
+        ]
+      },
+      {
+        "chapter_name": "Course Recap",
+        "lectures": [
+          {
+            "lec_no": "L-60",
+            "title": "12.01 Course Recap and Key Takeaways",
+            "video_id": 2035
+          }
+        ]
+      }
+    ]
+  }
+]

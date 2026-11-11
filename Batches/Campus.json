@@ -1,0 +1,2294 @@
+[
+  {
+    "batch_name": "Campus",
+    "display_name": "CAMPUS X DSMP 2.0",
+    "channel_id": "-1003637459451",
+    "chapters": [
+      {
+        "chapter_name": "CAMPUS X DSMP 2.0",
+        "lectures": [
+          {
+            "title": "Welcome Note & Course Structure",
+            "video_id": 10833,
+            "notes_id": null
+          },
+          {
+            "title": "Introduction to Web Scraping",
+            "video_id": 10835,
+            "notes_id": null
+          },
+          {
+            "title": "What is Web Scraping",
+            "video_id": 10837,
+            "notes_id": null
+          },
+          {
+            "title": "Types of Web Scraping",
+            "video_id": 10839,
+            "notes_id": null
+          },
+          {
+            "title": "Ethical Considerations of Web Scraping",
+            "video_id": 10841,
+            "notes_id": null
+          },
+          {
+            "title": "Advantages of Web Scraping",
+            "video_id": 10843,
+            "notes_id": null
+          },
+          {
+            "title": "Disadvantages of Web Scraping",
+            "video_id": 10845,
+            "notes_id": null
+          },
+          {
+            "title": "Alternatives to Web Scraping",
+            "video_id": 10847,
+            "notes_id": null
+          },
+          {
+            "title": "3",
+            "video_id": 10850,
+            "notes_id": null
+          },
+          {
+            "title": "Environment Setup",
+            "video_id": 10851,
+            "notes_id": null
+          },
+          {
+            "title": "About Anaconda",
+            "video_id": 10852,
+            "notes_id": null
+          },
+          {
+            "title": "Common Anaconda Prompts",
+            "video_id": 10853,
+            "notes_id": null
+          },
+          {
+            "title": "Creating a Project Environment and Kernel",
+            "video_id": 10854,
+            "notes_id": null
+          },
+          {
+            "title": "4",
+            "video_id": 10856,
+            "notes_id": null
+          },
+          {
+            "title": "Primer On Web",
+            "video_id": 10857,
+            "notes_id": null
+          },
+          {
+            "title": "Client Server Architecture",
+            "video_id": 10858,
+            "notes_id": null
+          },
+          {
+            "title": "HTTP Request & Response - Pt 1",
+            "video_id": 10859,
+            "notes_id": null
+          },
+          {
+            "title": "HTTP Request & Response - Pt 2",
+            "video_id": 10860,
+            "notes_id": null
+          },
+          {
+            "title": "HTTP Methods",
+            "video_id": 10861,
+            "notes_id": null
+          },
+          {
+            "title": "HTTP Methods",
+            "video_id": 10862,
+            "notes_id": null
+          },
+          {
+            "title": "HTTP Status Codes",
+            "video_id": 10863,
+            "notes_id": null
+          },
+          {
+            "title": "Web Technologies",
+            "video_id": 10864,
+            "notes_id": null
+          },
+          {
+            "title": "Web Interaction with Requests Module",
+            "video_id": 10866,
+            "notes_id": null
+          },
+          {
+            "title": "About Requests",
+            "video_id": 10867,
+            "notes_id": null
+          },
+          {
+            "title": "Working with GET Method",
+            "video_id": 10868,
+            "notes_id": null
+          },
+          {
+            "title": "Working with POST Method",
+            "video_id": 10869,
+            "notes_id": null
+          },
+          {
+            "title": "Working with PUT and DELETE methods",
+            "video_id": 10870,
+            "notes_id": null
+          },
+          {
+            "title": "Working with HTTP Headers",
+            "video_id": 10871,
+            "notes_id": null
+          },
+          {
+            "title": "Working with Response Object",
+            "video_id": 10872,
+            "notes_id": null
+          },
+          {
+            "title": "Working with Public API",
+            "video_id": 10873,
+            "notes_id": null
+          },
+          {
+            "title": "About Beautiful Soup",
+            "video_id": 10875,
+            "notes_id": null
+          },
+          {
+            "title": "Creating a Soup Object",
+            "video_id": 10876,
+            "notes_id": null
+          },
+          {
+            "title": "Exploring the Soup Object - 1",
+            "video_id": 10877,
+            "notes_id": null
+          },
+          {
+            "title": "Exploring the Soup Object - 2",
+            "video_id": 10878,
+            "notes_id": null
+          },
+          {
+            "title": "Exploring the Soup Object - 3",
+            "video_id": 10879,
+            "notes_id": null
+          },
+          {
+            "title": "Soup Object using Requests",
+            "video_id": 10880,
+            "notes_id": null
+          },
+          {
+            "title": "Mini Project using Beautiful Soup, Requests & Pandas - 1",
+            "video_id": 10881,
+            "notes_id": null
+          },
+          {
+            "title": "Mini Project using Beautiful Soup, Requests & Pandas - 2",
+            "video_id": 10882,
+            "notes_id": null
+          },
+          {
+            "title": "Mini Project using Beautiful Soup, Requests & Pandas - 3",
+            "video_id": 10883,
+            "notes_id": null
+          },
+          {
+            "title": "- Mini Project using Beautiful Soup, Requests & Pandas - 4",
+            "video_id": 10884,
+            "notes_id": null
+          },
+          {
+            "title": "Web Automation using Selenium",
+            "video_id": 10886,
+            "notes_id": null
+          },
+          {
+            "title": "About Selenium",
+            "video_id": 10887,
+            "notes_id": null
+          },
+          {
+            "title": "Getting Started with Selenium",
+            "video_id": 10888,
+            "notes_id": null
+          },
+          {
+            "title": "Getting Started with Selenium",
+            "video_id": 10889,
+            "notes_id": null
+          },
+          {
+            "title": "Strategies for Locating Web Elements",
+            "video_id": 10890,
+            "notes_id": null
+          },
+          {
+            "title": "Understanding XPath",
+            "video_id": 10891,
+            "notes_id": null
+          },
+          {
+            "title": "Basic Interaction with Web Elements",
+            "video_id": 10892,
+            "notes_id": null
+          },
+          {
+            "title": "Basic Interaction with Web Elements",
+            "video_id": 10893,
+            "notes_id": null
+          },
+          {
+            "title": "Basic Interaction with Web Elements",
+            "video_id": 10894,
+            "notes_id": null
+          },
+          {
+            "title": "Working with Dropdowns",
+            "video_id": 10895,
+            "notes_id": null
+          },
+          {
+            "title": "Working with MultiSelect",
+            "video_id": 10896,
+            "notes_id": null
+          },
+          {
+            "title": "Basic Scrolling",
+            "video_id": 10897,
+            "notes_id": null
+          },
+          {
+            "title": "Infinite Scrolling",
+            "video_id": 10898,
+            "notes_id": null
+          },
+          {
+            "title": "Advanced Web Interactions - Intro",
+            "video_id": 10899,
+            "notes_id": null
+          },
+          {
+            "title": "Explicit Waits",
+            "video_id": 10900,
+            "notes_id": null
+          },
+          {
+            "title": "Implicit Waits",
+            "video_id": 10901,
+            "notes_id": null
+          },
+          {
+            "title": "Working with IFrames",
+            "video_id": 10902,
+            "notes_id": null
+          },
+          {
+            "title": "Working with Alerts - 1",
+            "video_id": 10903,
+            "notes_id": null
+          },
+          {
+            "title": "Working with Alerts - 2",
+            "video_id": 10904,
+            "notes_id": null
+          },
+          {
+            "title": "Best Practices & Optimization - 1",
+            "video_id": 10905,
+            "notes_id": null
+          },
+          {
+            "title": "Best Practices & Optimization - 2",
+            "video_id": 10906,
+            "notes_id": null
+          },
+          {
+            "title": "Agenda",
+            "video_id": 10908,
+            "notes_id": null
+          },
+          {
+            "title": "- Understanding Captchas",
+            "video_id": 10909,
+            "notes_id": null
+          },
+          {
+            "title": "- Preventing Captchas",
+            "video_id": 10910,
+            "notes_id": null
+          },
+          {
+            "title": "- Handling Captchas (Theory)",
+            "video_id": 10911,
+            "notes_id": null
+          },
+          {
+            "title": "- Handling Captchas using input()",
+            "video_id": 10912,
+            "notes_id": null
+          },
+          {
+            "title": "- Handling Captchas using Modules",
+            "video_id": 10913,
+            "notes_id": null
+          },
+          {
+            "title": "- Handling Captchas using Modules - 2",
+            "video_id": 10914,
+            "notes_id": null
+          },
+          {
+            "title": "- Best Practices & Takeaways",
+            "video_id": 10915,
+            "notes_id": null
+          },
+          {
+            "title": "About Scrapy Module",
+            "video_id": 10917,
+            "notes_id": null
+          },
+          {
+            "title": "- Introduction to Scrapy",
+            "video_id": 10918,
+            "notes_id": null
+          },
+          {
+            "title": "- Installation",
+            "video_id": 10919,
+            "notes_id": null
+          },
+          {
+            "title": "- Basic Setup & Project Structure",
+            "video_id": 10920,
+            "notes_id": null
+          },
+          {
+            "title": "- Running a Spider",
+            "video_id": 10921,
+            "notes_id": null
+          },
+          {
+            "title": "- Spiders",
+            "video_id": 10922,
+            "notes_id": null
+          },
+          {
+            "title": "- Definition of Spider",
+            "video_id": 10923,
+            "notes_id": null
+          },
+          {
+            "title": "- Spider in Scrapy",
+            "video_id": 10924,
+            "notes_id": null
+          },
+          {
+            "title": "- Anatomy of Spider",
+            "video_id": 10925,
+            "notes_id": null
+          },
+          {
+            "title": "- Anatomy of Spider",
+            "video_id": 10926,
+            "notes_id": null
+          },
+          {
+            "title": "- Types of Spiders",
+            "video_id": 10927,
+            "notes_id": null
+          },
+          {
+            "title": "- Working with Scrapy",
+            "video_id": 10928,
+            "notes_id": null
+          },
+          {
+            "title": "- Scrapy Shell - 1",
+            "video_id": 10929,
+            "notes_id": null
+          },
+          {
+            "title": "- Scrapy Shell - 2",
+            "video_id": 10930,
+            "notes_id": null
+          },
+          {
+            "title": "- Scrapy Spider with Python",
+            "video_id": 10931,
+            "notes_id": null
+          },
+          {
+            "title": "- Advanced Features",
+            "video_id": 10932,
+            "notes_id": null
+          },
+          {
+            "title": "- Custom Spider Settings",
+            "video_id": 10933,
+            "notes_id": null
+          },
+          {
+            "title": "- Data & Item Pipelines",
+            "video_id": 10934,
+            "notes_id": null
+          },
+          {
+            "title": "- User-Agent Rotation & Proxy Usage",
+            "video_id": 10935,
+            "notes_id": null
+          },
+          {
+            "title": "- Login Pages",
+            "video_id": 10936,
+            "notes_id": null
+          },
+          {
+            "title": "- Handling APIs",
+            "video_id": 10937,
+            "notes_id": null
+          },
+          {
+            "title": "- Mini Project",
+            "video_id": 10938,
+            "notes_id": null
+          },
+          {
+            "title": "- Best Practices",
+            "video_id": 10939,
+            "notes_id": null
+          },
+          {
+            "title": "Project Intro",
+            "video_id": 10941,
+            "notes_id": null
+          },
+          {
+            "title": "Action Plan",
+            "video_id": 10942,
+            "notes_id": null
+          },
+          {
+            "title": "Prerequisites",
+            "video_id": 10943,
+            "notes_id": null
+          },
+          {
+            "title": "Prerequisites Continued",
+            "video_id": 10944,
+            "notes_id": null
+          },
+          {
+            "title": "Scraping the Data - 1",
+            "video_id": 10945,
+            "notes_id": null
+          },
+          {
+            "title": "Scraping the Data - 2",
+            "video_id": 10946,
+            "notes_id": null
+          },
+          {
+            "title": "Scraping the Data - 3",
+            "video_id": 10947,
+            "notes_id": null
+          },
+          {
+            "title": "Scraping the Data - 4",
+            "video_id": 10948,
+            "notes_id": null
+          },
+          {
+            "title": "Scraping the Data - 5",
+            "video_id": 10949,
+            "notes_id": null
+          },
+          {
+            "title": "Cleaning the Data - 1",
+            "video_id": 10950,
+            "notes_id": null
+          },
+          {
+            "title": "Cleaning the Data - 2",
+            "video_id": 10951,
+            "notes_id": null
+          },
+          {
+            "title": "Cleaning the Data - 3",
+            "video_id": 10952,
+            "notes_id": null
+          },
+          {
+            "title": "Restructuring the Code - 1",
+            "video_id": 10953,
+            "notes_id": null
+          },
+          {
+            "title": "Restructuring the Code - 2",
+            "video_id": 10954,
+            "notes_id": null
+          },
+          {
+            "title": "Action Plan",
+            "video_id": 10956,
+            "notes_id": null
+          },
+          {
+            "title": "Prerequisites",
+            "video_id": 10957,
+            "notes_id": null
+          },
+          {
+            "title": "Interacting with Target Website - 99acres - 1",
+            "video_id": 10958,
+            "notes_id": null
+          },
+          {
+            "title": "Interacting with Target Website - 99acres - 2",
+            "video_id": 10959,
+            "notes_id": null
+          },
+          {
+            "title": "Interacting with Target Website - 99acres - 3",
+            "video_id": 10960,
+            "notes_id": null
+          },
+          {
+            "title": "Interacting with Target Website - 99acres - 4",
+            "video_id": 10961,
+            "notes_id": null
+          },
+          {
+            "title": "Interacting with Target Website - 99acres - 5",
+            "video_id": 10962,
+            "notes_id": null
+          },
+          {
+            "title": "Interacting with Target Website - 99acres - 6",
+            "video_id": 10963,
+            "notes_id": null
+          },
+          {
+            "title": "Interacting with Target Website - 99acres - 7",
+            "video_id": 10964,
+            "notes_id": null
+          },
+          {
+            "title": "Interacting with Target Website - 99acres - 8",
+            "video_id": 10965,
+            "notes_id": null
+          },
+          {
+            "title": "Scraping the Data + Page Navigation Fix - 1",
+            "video_id": 10966,
+            "notes_id": null
+          },
+          {
+            "title": "Scraping the Data + Page Navigation Fix - 2",
+            "video_id": 10967,
+            "notes_id": null
+          },
+          {
+            "title": "Scraping the Data + Page Navigation Fix - 3",
+            "video_id": 10968,
+            "notes_id": null
+          },
+          {
+            "title": "Cleaning the Data - 1",
+            "video_id": 10969,
+            "notes_id": null
+          },
+          {
+            "title": "Cleaning the Data - 2",
+            "video_id": 10970,
+            "notes_id": null
+          },
+          {
+            "title": "Cleaning the Data - 3",
+            "video_id": 10971,
+            "notes_id": null
+          },
+          {
+            "title": "Restructuring the Code - 1",
+            "video_id": 10972,
+            "notes_id": null
+          },
+          {
+            "title": "Restructuring the Code - 2",
+            "video_id": 10973,
+            "notes_id": null
+          },
+          {
+            "title": "Restructuring the Code - 3",
+            "video_id": 10974,
+            "notes_id": null
+          },
+          {
+            "title": "Course Outro",
+            "video_id": 10975,
+            "notes_id": null
+          },
+          {
+            "title": "Completed❤️",
+            "video_id": 10977,
+            "notes_id": null
+          },
+          {
+            "title": "🪷 Radhe Radhe 🦚🦚",
+            "video_id": 10978,
+            "notes_id": null
+          },
+          {
+            "title": "➭ 𝐁𝐚𝐭𝐜𝐡 » Deep Learning for Computer Vision (DLCV)\n\nDownloaded By »",
+            "video_id": 10979,
+            "notes_id": null
+          },
+          {
+            "title": "2. CampusX DLCV Course Schedule",
+            "video_id": 10981,
+            "notes_id": null
+          },
+          {
+            "title": "💫 ONLY VIDEOS ARE AVAILABLE WITH US. [Assignment/Solution Not Available]",
+            "video_id": 10984,
+            "notes_id": null
+          },
+          {
+            "title": "1. Session 1 - Introduction to Computer Vision",
+            "video_id": 10985,
+            "notes_id": null
+          },
+          {
+            "title": "2. Session 2 - Understanding Edge Detection",
+            "video_id": 10986,
+            "notes_id": null
+          },
+          {
+            "title": "3. Doubt Clearance Session 1",
+            "video_id": 10987,
+            "notes_id": null
+          },
+          {
+            "title": "4_Session_3_Padding_and_Strides_during_Convolution_of_Images",
+            "video_id": 10988,
+            "notes_id": null
+          },
+          {
+            "title": "5. Session 4 - Convolution on RGB images and Code Examples",
+            "video_id": 10989,
+            "notes_id": null
+          },
+          {
+            "title": "6. Doubt Clearance Session 2",
+            "video_id": 10990,
+            "notes_id": null
+          },
+          {
+            "title": "7_Session_5_Building_CNN_from_scratch_and_complete_pipeline_for",
+            "video_id": 10991,
+            "notes_id": null
+          },
+          {
+            "title": "8. Session 6 - Working with Callbacks and Transfer Learning",
+            "video_id": 10992,
+            "notes_id": null
+          },
+          {
+            "title": "9. Doubt Clearance Session 3",
+            "video_id": 10993,
+            "notes_id": null
+          },
+          {
+            "title": "10_Session_7_Understanding_Popular_model_Architectures_and_Transfer",
+            "video_id": 10994,
+            "notes_id": null
+          },
+          {
+            "title": "11_Session_8_Model_architecture_VGG16_and_Residual_Networks_w_Code",
+            "video_id": 10995,
+            "notes_id": null
+          },
+          {
+            "title": "12. Doubt Clearance Session 4",
+            "video_id": 10996,
+            "notes_id": null
+          },
+          {
+            "title": "13_Session_9_Understanding_ResNet_and_Inception_Net_with_Code_Examples",
+            "video_id": 10997,
+            "notes_id": null
+          },
+          {
+            "title": "14_Session_10_Inception_Network_architecture_understanding_and_coding",
+            "video_id": 10998,
+            "notes_id": null
+          },
+          {
+            "title": "15. Doubt Clearance Session 5",
+            "video_id": 10999,
+            "notes_id": null
+          },
+          {
+            "title": "16. Session 11 - End to End CNN project Part - 1",
+            "video_id": 11000,
+            "notes_id": null
+          },
+          {
+            "title": "17. Doubt Clearance Session 6",
+            "video_id": 11001,
+            "notes_id": null
+          },
+          {
+            "title": "18. Session 12 - Generative Adversarial Networks Theory",
+            "video_id": 11002,
+            "notes_id": null
+          },
+          {
+            "title": "19. Session 13 - GAN Implementation with code",
+            "video_id": 11003,
+            "notes_id": null
+          },
+          {
+            "title": "20. Doubt Clearance Session 7",
+            "video_id": 11004,
+            "notes_id": null
+          },
+          {
+            "title": "21. Session 14 - Semantic Segmentation using UNET",
+            "video_id": 11005,
+            "notes_id": null
+          },
+          {
+            "title": "22. Session 15 - Data Preparation for Semantic Segmentation",
+            "video_id": 11006,
+            "notes_id": null
+          },
+          {
+            "title": "23. Doubt Clearance Session 8",
+            "video_id": 11007,
+            "notes_id": null
+          },
+          {
+            "title": "24_Session_16_Coding_and_Training_UNET_Architecture_for_Butterfly",
+            "video_id": 11008,
+            "notes_id": null
+          },
+          {
+            "title": "25_Session_17_Object_detection_Basics_and_Understanding_R_CNN_Techniques",
+            "video_id": 11009,
+            "notes_id": null
+          },
+          {
+            "title": "26. Doubt Clearance Session 9",
+            "video_id": 11010,
+            "notes_id": null
+          },
+          {
+            "title": "27_Session_18_RCNN_evaluation,_Non_Max_Suppression_&_Intro_to_Fast",
+            "video_id": 11011,
+            "notes_id": null
+          },
+          {
+            "title": "28_Session_19_Faster_RCNN_and_Creating_Multiclass_Object_detection",
+            "video_id": 11012,
+            "notes_id": null
+          },
+          {
+            "title": "29. Doubt Clearance Session 10",
+            "video_id": 11013,
+            "notes_id": null
+          },
+          {
+            "title": "30. Session 20 - Coding Faster RCNN Project",
+            "video_id": 11014,
+            "notes_id": null
+          },
+          {
+            "title": "31. Session 21 - YOLO - Introduction & Architecture",
+            "video_id": 11015,
+            "notes_id": null
+          },
+          {
+            "title": "32. Doubt Clearance Session 11",
+            "video_id": 11016,
+            "notes_id": null
+          },
+          {
+            "title": "33. Session 22 - Custom Training YOLO V11 from Scratch",
+            "video_id": 11017,
+            "notes_id": null
+          },
+          {
+            "title": "34. Session 23 - Deploying YOLO Model on Cloud",
+            "video_id": 11018,
+            "notes_id": null
+          },
+          {
+            "title": "35. Doubt Clearance Session 12",
+            "video_id": 11019,
+            "notes_id": null
+          },
+          {
+            "title": "36. Session 24 - Self Driving Car",
+            "video_id": 11020,
+            "notes_id": null
+          },
+          {
+            "title": "37. Session 25 - Self Driving Car Code Implementation",
+            "video_id": 11021,
+            "notes_id": null
+          },
+          {
+            "title": "38. Doubt Clearance Session 13",
+            "video_id": 11022,
+            "notes_id": null
+          },
+          {
+            "title": "Complete 💯",
+            "video_id": 11023,
+            "notes_id": null
+          },
+          {
+            "title": "CAMPUS DSMP 2.0",
+            "video_id": 11024,
+            "notes_id": null
+          },
+          {
+            "title": "https://docs.google.com/spreadsheets/d/1GgTcZ7zimed7SNIMWlUBdtzSeYo9E5qK2lI39IPPPj8/edit?gid=0#gid=0",
+            "video_id": 11025,
+            "notes_id": null
+          },
+          {
+            "title": "photo_2025-01-15_14-58-14_7483921010803081428 FREE.jpg\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11026,
+            "notes_id": null
+          },
+          {
+            "title": "Orientation Session (17th Nov 730 PM IST) FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11027,
+            "notes_id": null
+          },
+          {
+            "title": "How to join DSMP 2.0 Live Sessions FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11029,
+            "notes_id": null
+          },
+          {
+            "title": "photo_2025-01-15_14-16-48_7483924021575155872 FREE.jpg\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11030,
+            "notes_id": null
+          },
+          {
+            "title": "💜 01 - MLOps 💜",
+            "video_id": 11031,
+            "notes_id": null
+          },
+          {
+            "title": "photo_2025-01-15_16-33-07_7483924300748030100 FREE.jpg\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11032,
+            "notes_id": null
+          },
+          {
+            "title": "01. Session 1 on MLOPs - Introduction to MLOps FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11033,
+            "notes_id": null
+          },
+          {
+            "title": "Week_1 FREE.html\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11034,
+            "notes_id": null
+          },
+          {
+            "title": "Week_1 FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11035,
+            "notes_id": null
+          },
+          {
+            "title": "02. Session 2 on MLOps - Version Control FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11036,
+            "notes_id": null
+          },
+          {
+            "title": "Week_1_ML_pipeline_example FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11037,
+            "notes_id": null
+          },
+          {
+            "title": "03. MLOps Doubt Clearance Session 1 FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11038,
+            "notes_id": null
+          },
+          {
+            "title": "04. Session 3 on MLOps - Reproducibility FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11039,
+            "notes_id": null
+          },
+          {
+            "title": "Week_2 FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11040,
+            "notes_id": null
+          },
+          {
+            "title": "05. Session 4 on MLOps - Data Version Control (DVC) FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11041,
+            "notes_id": null
+          },
+          {
+            "title": "Week_2_class_2 FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11042,
+            "notes_id": null
+          },
+          {
+            "title": "06. MLOps Doubt Clearance Session 2 FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11043,
+            "notes_id": null
+          },
+          {
+            "title": "07_Session_5_on_MLOps_ML_Pipelines_and_Experimentation_Tracking FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11044,
+            "notes_id": null
+          },
+          {
+            "title": "08_Session_6_on_MLOps_ML_Pipelines_and_Experiment_Tracking_Contd FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11045,
+            "notes_id": null
+          },
+          {
+            "title": "09. MLOps Doubt Clearance Session 3 FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11046,
+            "notes_id": null
+          },
+          {
+            "title": "10. Session 7 on MLOps - Continuous Integration FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11047,
+            "notes_id": null
+          },
+          {
+            "title": "11. Session 8 on MLOps - Dockers FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11048,
+            "notes_id": null
+          },
+          {
+            "title": "Week_3 FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11049,
+            "notes_id": null
+          },
+          {
+            "title": "photo_2025-01-15_18-12-21_7483971691417174336 FREE.jpg\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11050,
+            "notes_id": null
+          },
+          {
+            "title": "12. Session 9 on MLOPs - Continuous Deployment FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11051,
+            "notes_id": null
+          },
+          {
+            "title": "Week_4 FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11052,
+            "notes_id": null
+          },
+          {
+            "title": "13. MLOps Doubt Clearance Session 4 FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11053,
+            "notes_id": null
+          },
+          {
+            "title": "14. Session 10 on MLOps - Introduction to AWS FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11054,
+            "notes_id": null
+          },
+          {
+            "title": "Week_5 FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11055,
+            "notes_id": null
+          },
+          {
+            "title": "15. Session 11 on MLOps - Deployment on AWS FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11056,
+            "notes_id": null
+          },
+          {
+            "title": "16. MLOps End-to-End Project Part 1 FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11057,
+            "notes_id": null
+          },
+          {
+            "title": "17. MLOps End-to-End Project Part 2 FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11058,
+            "notes_id": null
+          },
+          {
+            "title": "18. MLOps End-to-End Project Part 3 FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11059,
+            "notes_id": null
+          },
+          {
+            "title": "19. MLOps Doubt Clearance Session 5 FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11060,
+            "notes_id": null
+          },
+          {
+            "title": "20. Session 12 on MLOps - Distributed Infrastructure FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11061,
+            "notes_id": null
+          },
+          {
+            "title": "21. Session 13 on MLOps - Kubernetes Internals FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11062,
+            "notes_id": null
+          },
+          {
+            "title": "22. MLOps Doubt Clearance Session 6 FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11063,
+            "notes_id": null
+          },
+          {
+            "title": "23. Session 14 on MLOps - Deployment on Kubernetes FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11064,
+            "notes_id": null
+          },
+          {
+            "title": "Week_6 FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11065,
+            "notes_id": null
+          },
+          {
+            "title": "photo_2025-01-15_19-50-18_7484014473586409496 FREE.jpg\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11066,
+            "notes_id": null
+          },
+          {
+            "title": "24. Session 15 on MLOps - Seldon Deployments FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11067,
+            "notes_id": null
+          },
+          {
+            "title": "Week_7 FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11068,
+            "notes_id": null
+          },
+          {
+            "title": "25. MLOps Doubt Clearance Session 7 FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11069,
+            "notes_id": null
+          },
+          {
+            "title": "26. Session 16 on MLOps - Monitoring & Alerting FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11070,
+            "notes_id": null
+          },
+          {
+            "title": "Week_8 FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11071,
+            "notes_id": null
+          },
+          {
+            "title": "27. Session 17 on MLOps - Rollout & Rollback Strategies FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11072,
+            "notes_id": null
+          },
+          {
+            "title": "Week_8_updated FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11073,
+            "notes_id": null
+          },
+          {
+            "title": "28. Session on MLOps - Interview Questions FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11074,
+            "notes_id": null
+          },
+          {
+            "title": "29. Session 18 on MLOps - ML Technical Debt FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11075,
+            "notes_id": null
+          },
+          {
+            "title": "Week_9 FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11076,
+            "notes_id": null
+          },
+          {
+            "title": "30. MLOps Doubt Clearance Session 8 FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11077,
+            "notes_id": null
+          },
+          {
+            "title": "💜 02 - KMeans Clustering 💜",
+            "video_id": 11078,
+            "notes_id": null
+          },
+          {
+            "title": "photo_2025-01-15_20-53-30_7484045697998651696 FREE.jpg\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11079,
+            "notes_id": null
+          },
+          {
+            "title": "01. Session 1 on KMeans Clustering FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11080,
+            "notes_id": null
+          },
+          {
+            "title": "02. Session 2 on KMeans Clustering FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11082,
+            "notes_id": null
+          },
+          {
+            "title": "kmeans FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11084,
+            "notes_id": null
+          },
+          {
+            "title": "Assignment 😌\nhttps://www.kaggle.com/code/campusx/ipl-kmeans-clustering",
+            "video_id": 11085,
+            "notes_id": null
+          },
+          {
+            "title": "03. Session 3 on KMeans Clustering FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11089,
+            "notes_id": null
+          },
+          {
+            "title": "kmeans_assignment_2 FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11091,
+            "notes_id": null
+          },
+          {
+            "title": "Task DataSet 😌\n\nhttps://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2015-01.csv",
+            "video_id": 11092,
+            "notes_id": null
+          },
+          {
+            "title": "04. KMeans Clustering Algorithm From Scratch In Python FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11094,
+            "notes_id": null
+          },
+          {
+            "title": "Codes 😌\nhttps://github.com/campusx-official/100-days-of-machine-learning/tree/main/kmeans",
+            "video_id": 11095,
+            "notes_id": null
+          },
+          {
+            "title": "05. MiniBatch KMeans Task Solution FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11096,
+            "notes_id": null
+          },
+          {
+            "title": "Codes 😌\nhttps://www.kaggle.com/code/sampsuman/minibatchclustering-nyc-yellowtaxi",
+            "video_id": 11097,
+            "notes_id": null
+          },
+          {
+            "title": "💜 03 - Unsupervised Machine Learning 💜",
+            "video_id": 11098,
+            "notes_id": null
+          },
+          {
+            "title": "photo_2025-01-16_07-02-32_7484064759063511084 FREE.jpg\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11099,
+            "notes_id": null
+          },
+          {
+            "title": "01. Session on DBSCAN FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11100,
+            "notes_id": null
+          },
+          {
+            "title": "dbscan_demo FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11102,
+            "notes_id": null
+          },
+          {
+            "title": "Visualization😌\nhttps://www.naftaliharris.com/blog/visualizing-dbscan-clustering/",
+            "video_id": 11103,
+            "notes_id": null
+          },
+          {
+            "title": "02. Session on Hierarchical Clustering FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11104,
+            "notes_id": null
+          },
+          {
+            "title": "agglomerative_clustering FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11106,
+            "notes_id": null
+          },
+          {
+            "title": "DataSet 😌\nhttps://www.kaggle.com/datasets/rohan0301/unsupervised-learning-on-country-data/code?datasetId=721951&sortBy=voteCount",
+            "video_id": 11107,
+            "notes_id": null
+          },
+          {
+            "title": "03. Session on Gaussian Mixture Models FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11108,
+            "notes_id": null
+          },
+          {
+            "title": "04. Session 2 on Gaussian Mixture Models FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11109,
+            "notes_id": null
+          },
+          {
+            "title": "gaussian_mixture_models FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11111,
+            "notes_id": null
+          },
+          {
+            "title": "05. Session on T-SNE FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11112,
+            "notes_id": null
+          },
+          {
+            "title": "Blog-1 😌\nhttps://distill.pub/2016/misread-tsne/",
+            "video_id": 11115,
+            "notes_id": null
+          },
+          {
+            "title": "Blog-2 😌\nhttps://colah.github.io/posts/2014-10-Visualizing-MNIST/",
+            "video_id": 11116,
+            "notes_id": null
+          },
+          {
+            "title": "06. Session 2 on T-SNE FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11117,
+            "notes_id": null
+          },
+          {
+            "title": "tsne FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11119,
+            "notes_id": null
+          },
+          {
+            "title": "💜 04. Feature Engineering 💜",
+            "video_id": 11120,
+            "notes_id": null
+          },
+          {
+            "title": "photo_2025-01-19_12-16-38_7484095536799154832 FREE.jpg\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11121,
+            "notes_id": null
+          },
+          {
+            "title": "Session 1 on Encoding Categorical Features FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11122,
+            "notes_id": 11123
+          },
+          {
+            "title": "encoding_categorical_variables FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11124,
+            "notes_id": null
+          },
+          {
+            "title": "cars FREE.csv\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11125,
+            "notes_id": null
+          },
+          {
+            "title": "customer FREE.csv\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11126,
+            "notes_id": null
+          },
+          {
+            "title": "Session on Sklearn ColumnTransformer & Pipeline FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11127,
+            "notes_id": null
+          },
+          {
+            "title": "sklearn_column_transformer FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11128,
+            "notes_id": null
+          },
+          {
+            "title": "Session on Sklearn Deep Dive FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11129,
+            "notes_id": 11130
+          },
+          {
+            "title": "sklearn_deep_dive FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11131,
+            "notes_id": null
+          },
+          {
+            "title": "Session 2 on Encoding Categorical Features FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11132,
+            "notes_id": 11133
+          },
+          {
+            "title": "encoding_categorical_variables_1 FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11134,
+            "notes_id": null
+          },
+          {
+            "title": "Session 1 on Discretization FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11135,
+            "notes_id": null
+          },
+          {
+            "title": "discretization FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11136,
+            "notes_id": null
+          },
+          {
+            "title": "Session 2 on Discretization FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11137,
+            "notes_id": null
+          },
+          {
+            "title": "binning FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11139,
+            "notes_id": null
+          },
+          {
+            "title": "Additional Link 😌\nhttps://scikit-learn.org/stable/auto_examples/preprocessing/plot_discretization_strategies.html#sphx-glr-auto-examples-preprocessing-plot-discretization-strategies-py",
+            "video_id": 11140,
+            "notes_id": null
+          },
+          {
+            "title": "Session 1 on Handling Missing Data FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11141,
+            "notes_id": 11142
+          },
+          {
+            "title": "handling_missing_values FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11143,
+            "notes_id": null
+          },
+          {
+            "title": "missingno-master FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11144,
+            "notes_id": null
+          },
+          {
+            "title": "Session 2 on Handling Missing Data FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11145,
+            "notes_id": 11146
+          },
+          {
+            "title": "automatically_select_imputer_parameters FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11147,
+            "notes_id": null
+          },
+          {
+            "title": "Session 3 on Handling Missing Values FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11148,
+            "notes_id": 11149
+          },
+          {
+            "title": "photo_2025-01-27_09-50-20_7484136386233106608 FREE.jpg\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11150,
+            "notes_id": null
+          },
+          {
+            "title": "knn_imputer FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11151,
+            "notes_id": null
+          },
+          {
+            "title": "step_by_step FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11152,
+            "notes_id": null
+          },
+          {
+            "title": "iterative_imputer FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11153,
+            "notes_id": null
+          },
+          {
+            "title": "Session on Feature Scaling FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11154,
+            "notes_id": null
+          },
+          {
+            "title": "standardization FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11155,
+            "notes_id": null
+          },
+          {
+            "title": "Session 2 on Feature Scaling FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11156,
+            "notes_id": null
+          },
+          {
+            "title": "min_max_scaling FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11158,
+            "notes_id": null
+          },
+          {
+            "title": "Session 1 on Outlier Detection FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11159,
+            "notes_id": null
+          },
+          {
+            "title": "day42 FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11160,
+            "notes_id": null
+          },
+          {
+            "title": "day43 FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11161,
+            "notes_id": null
+          },
+          {
+            "title": "Session 2 on Outlier Detection FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11162,
+            "notes_id": null
+          },
+          {
+            "title": "Session 3 on Outlier Detection FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11163,
+            "notes_id": null
+          },
+          {
+            "title": "multivariate_outlier_detection_technique FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11164,
+            "notes_id": null
+          },
+          {
+            "title": "Session on Feature Transformation FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11166,
+            "notes_id": 11167
+          },
+          {
+            "title": "day30 FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11168,
+            "notes_id": null
+          },
+          {
+            "title": "feature_transformations FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11169,
+            "notes_id": null
+          },
+          {
+            "title": "💜 05. Advanced XGBoost 💜",
+            "video_id": 11170,
+            "notes_id": null
+          },
+          {
+            "title": "photo_2025-01-27_09-59-35_7484154167397712084 FREE.jpg\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11171,
+            "notes_id": null
+          },
+          {
+            "title": "Session on Revisiting XGBoost FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11172,
+            "notes_id": 11173
+          },
+          {
+            "title": "Session on XGBoost Regularization FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11174,
+            "notes_id": null
+          },
+          {
+            "title": "Session 2 on XGBoost Regularization FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11175,
+            "notes_id": null
+          },
+          {
+            "title": "xgboost_regularization FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11177,
+            "notes_id": null
+          },
+          {
+            "title": "Session on XGBoost Optimizations FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11178,
+            "notes_id": 11179
+          },
+          {
+            "title": "xgboost_optimizations FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11180,
+            "notes_id": null
+          },
+          {
+            "title": "How XGBoost Handles Missing Values FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11181,
+            "notes_id": 11182
+          },
+          {
+            "title": "handle_missing_valuees FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11183,
+            "notes_id": null
+          },
+          {
+            "title": "💜 06. Other Boosting Frameworks 💜",
+            "video_id": 11184,
+            "notes_id": null
+          },
+          {
+            "title": "photo_2025-01-30_14-37-27_7484164651412882036 FREE.jpg\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11185,
+            "notes_id": null
+          },
+          {
+            "title": "01. Session 1 on Introduction to LightGBM FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11186,
+            "notes_id": null
+          },
+          {
+            "title": "LightGBM FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11188,
+            "notes_id": null
+          },
+          {
+            "title": "02. Session 2 on LightGBM (GOSS & EFB) FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11189,
+            "notes_id": null
+          },
+          {
+            "title": "LightGBM - 1 & 2 FREE.docx\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11192,
+            "notes_id": null
+          },
+          {
+            "title": "03. Session 1 on CatBoost Practical Introduction FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11193,
+            "notes_id": null
+          },
+          {
+            "title": "catboost_regression FREE.ipynb\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11195,
+            "notes_id": null
+          },
+          {
+            "title": "💜 07. Miscellaneous Topics 💜",
+            "video_id": 11196,
+            "notes_id": null
+          },
+          {
+            "title": "photo_2025-02-02_08-26-19_7484174259254722656 FREE.jpg\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11197,
+            "notes_id": null
+          },
+          {
+            "title": "01. Session 1 on Imbalanced Data - Introduction FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11198,
+            "notes_id": null
+          },
+          {
+            "title": "02. Session 2 on Imbalanced Data - Oversampling Techniques FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11200,
+            "notes_id": null
+          },
+          {
+            "title": "03. Oversampling Techniques Continued FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11202,
+            "notes_id": null
+          },
+          {
+            "title": "04. Session 3 on Imbalanced Data - Undersampling Techniques FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11203,
+            "notes_id": null
+          },
+          {
+            "title": "05. Session 1 on Regular Expressions FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11205,
+            "notes_id": null
+          },
+          {
+            "title": "06. Session 2 on Regular Expressions FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11206,
+            "notes_id": null
+          },
+          {
+            "title": "06. Session 2 on Regular Expressions FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11207,
+            "notes_id": null
+          },
+          {
+            "title": "07. Session 1 on MongoDB FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11208,
+            "notes_id": null
+          },
+          {
+            "title": "08. Session 2 on MongoDB FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11209,
+            "notes_id": null
+          },
+          {
+            "title": "09. Introduction to Bayesian Optimization FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11210,
+            "notes_id": null
+          },
+          {
+            "title": "10. Session 2 on Bayesian Optimization FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11211,
+            "notes_id": null
+          },
+          {
+            "title": "11. Optuna Part 1 FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11212,
+            "notes_id": null
+          },
+          {
+            "title": "12. Optuna Part 2 FREE\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11213,
+            "notes_id": null
+          },
+          {
+            "title": "💜 08 - Interview Questions 💜",
+            "video_id": 11214,
+            "notes_id": null
+          },
+          {
+            "title": "01. Session 1 on Interview Questions on Statistics",
+            "video_id": 11215,
+            "notes_id": null
+          },
+          {
+            "title": "02. Session 2 on Interview Questions on Statistics",
+            "video_id": 11216,
+            "notes_id": null
+          },
+          {
+            "title": "03. Session 3 on Interview Questions on Statistics",
+            "video_id": 11217,
+            "notes_id": null
+          },
+          {
+            "title": "04. Session 4 on Interview Questions on Statistics",
+            "video_id": 11218,
+            "notes_id": null
+          },
+          {
+            "title": "05. Session on Project Based Interview Questions",
+            "video_id": 11219,
+            "notes_id": null
+          },
+          {
+            "title": "06. Session 1 on ML Interview Questions",
+            "video_id": 11220,
+            "notes_id": null
+          },
+          {
+            "title": "06. Session 1 on ML Interview Questions",
+            "video_id": 11221,
+            "notes_id": null
+          },
+          {
+            "title": "07. Session 2 on ML Interview Questions",
+            "video_id": 11222,
+            "notes_id": null
+          },
+          {
+            "title": "08. Session 3 on ML Interview Questions",
+            "video_id": 11223,
+            "notes_id": null
+          },
+          {
+            "title": "09. Session 4 on ML Interview Questions",
+            "video_id": 11224,
+            "notes_id": null
+          },
+          {
+            "title": "10. Session 1 on SQL Interview Questions",
+            "video_id": 11225,
+            "notes_id": null
+          },
+          {
+            "title": "11. Session 2 on SQL Interview Questions",
+            "video_id": 11226,
+            "notes_id": null
+          },
+          {
+            "title": "💜 09. MLOps Revisited 💜",
+            "video_id": 11227,
+            "notes_id": null
+          },
+          {
+            "title": "01. Session 1 MLOps Revisited - Introduction to MLOps",
+            "video_id": 11228,
+            "notes_id": null
+          },
+          {
+            "title": "02. Session 2 on MLOps Revisited - MLOps Tools Stack",
+            "video_id": 11230,
+            "notes_id": null
+          },
+          {
+            "title": "03. Session 3 on MLOps Revisited - MLOps Tools Stack Part 2",
+            "video_id": 11232,
+            "notes_id": null
+          },
+          {
+            "title": "04. Session 4 on MLOps Revisited MLOps - Tools Stack Part 3",
+            "video_id": 11233,
+            "notes_id": null
+          },
+          {
+            "title": "05. Session 5 on MLOps Revisited - DevOps 05. Fundamentals",
+            "video_id": 11235,
+            "notes_id": null
+          },
+          {
+            "title": "06. Session 6 on MLOps Revisited - DevOps Contd",
+            "video_id": 11237,
+            "notes_id": null
+          },
+          {
+            "title": "07. Session 7 on MLOps Revisited - MLOps Tool Stack - CI-CD",
+            "video_id": 11239,
+            "notes_id": null
+          },
+          {
+            "title": "08_Session_8_on_MLOps_Revisited_MLOps_Tool_Stack_Cloud_Infrastructure",
+            "video_id": 11240,
+            "notes_id": null
+          },
+          {
+            "title": "09. Session 9 on MLOps Revisited - ML Pipelines using DVC",
+            "video_id": 11241,
+            "notes_id": null
+          },
+          {
+            "title": "10. Session 10 on MLOps Revisited - Improving ML Pipelines",
+            "video_id": 11242,
+            "notes_id": null
+          },
+          {
+            "title": "11. Session 11 on MLOps Revisited - Version Control",
+            "video_id": 11243,
+            "notes_id": null
+          },
+          {
+            "title": "photo_2025-02-16_12-20-12_7485479534175715388",
+            "video_id": 11244,
+            "notes_id": null
+          },
+          {
+            "title": "12_Session_12_on_MLOps_Revisited_Data_Versioning_using_DVC",
+            "video_id": 11245,
+            "notes_id": null
+          },
+          {
+            "title": "photo_2025-02-16_12-21-05_7485480805486035168",
+            "video_id": 11246,
+            "notes_id": null
+          },
+          {
+            "title": "13_Session_13_on_MLOPs_Revisited_Pipeline_x_Data_Versioning_x_AWS",
+            "video_id": 11247,
+            "notes_id": null
+          },
+          {
+            "title": "14_Session_14_Part_1_on_MLOps_Revisited_Experiment_Tracking_using",
+            "video_id": 11248,
+            "notes_id": null
+          },
+          {
+            "title": "photo_2025-02-16_12-23-16_7485482772581056536",
+            "video_id": 11249,
+            "notes_id": null
+          },
+          {
+            "title": "photo_2025-02-16_12-23-16_7485482914314977448",
+            "video_id": 11250,
+            "notes_id": null
+          },
+          {
+            "title": "15_Session_14_Part_2_on_MLOps_Revisited_Experiment_Tracking_using",
+            "video_id": 11251,
+            "notes_id": null
+          },
+          {
+            "title": "16. Session 15 on MLOps Revisited -  Itroduction to MLflow",
+            "video_id": 11252,
+            "notes_id": null
+          },
+          {
+            "title": "17_Session_16_Part1_on_MLOps_Revisited_MLflow_Remote_Tracking_using",
+            "video_id": 11253,
+            "notes_id": null
+          },
+          {
+            "title": "18_Session_16_Part_2_on_MLOps_Revisited_MLflow_Remote_Tracking_using",
+            "video_id": 11254,
+            "notes_id": null
+          },
+          {
+            "title": "photo_2025-02-16_12-26-12_7485487119087960140",
+            "video_id": 11255,
+            "notes_id": null
+          },
+          {
+            "title": "photo_2025-02-16_12-26-12_7485487265116848272",
+            "video_id": 11256,
+            "notes_id": null
+          },
+          {
+            "title": "19_Session_17_Part_1_on_MLOps_Revisited_Autologging_in_MLflow",
+            "video_id": 11257,
+            "notes_id": null
+          },
+          {
+            "title": "20_Session_17_Part_2_on_MLOps_Revisited_Hyperparameter_Tuning_in",
+            "video_id": 11258,
+            "notes_id": null
+          },
+          {
+            "title": "21. Session 18 on MLOps Revisited Model Registry",
+            "video_id": 11259,
+            "notes_id": null
+          },
+          {
+            "title": "22. Session 19 on MLOps Revisited - Mini Project",
+            "video_id": 11261,
+            "notes_id": null
+          },
+          {
+            "title": "23. Session 20 on MLOps Revisited -  Model Serving",
+            "video_id": 11262,
+            "notes_id": null
+          },
+          {
+            "title": "24. Session 21 on MLOps Revisited - Fundamentals of CI",
+            "video_id": 11263,
+            "notes_id": null
+          },
+          {
+            "title": "25. Session 22 on MLOps Revisited - CI in MLOps",
+            "video_id": 11265,
+            "notes_id": null
+          },
+          {
+            "title": "26. Session 23 on MLOps Revisited CI in MLOps Contd",
+            "video_id": 11266,
+            "notes_id": null
+          },
+          {
+            "title": "27_Session_24_Part_1_on_MLOps_Revisited_Docker_Fundamentals_Theory",
+            "video_id": 11267,
+            "notes_id": null
+          },
+          {
+            "title": "28_Session_24_Part_2_on_MLOps_Revisited_Docker_Fundamentals_Practical",
+            "video_id": 11268,
+            "notes_id": null
+          },
+          {
+            "title": "29. Session 25 on MLOps Revisited - Dockers in MLOps",
+            "video_id": 11269,
+            "notes_id": null
+          },
+          {
+            "title": "30. Session 26 on MLOps Revisited - Deployment on AWS EC2",
+            "video_id": 11270,
+            "notes_id": null
+          },
+          {
+            "title": "31_Session_27_on_MLOps_Revisited_Deployment_on_AWS_ECR_x_AWS_EC2",
+            "video_id": 11271,
+            "notes_id": null
+          },
+          {
+            "title": "32_Session_28_Part_1_on_MLOps_Revisited_Multi_container_deployment",
+            "video_id": 11272,
+            "notes_id": null
+          },
+          {
+            "title": "photo_2025-02-23_10-26-34_7485512605423894584",
+            "video_id": 11273,
+            "notes_id": null
+          },
+          {
+            "title": "33_Session_28_Part_1_on_MLOps_Revisited_AWS_EC2_x_Load_Balancer",
+            "video_id": 11274,
+            "notes_id": null
+          },
+          {
+            "title": "photo_2025-02-23_10-26-59_7485514052827873292",
+            "video_id": 11275,
+            "notes_id": null
+          },
+          {
+            "title": "34_Session_29_Part_1_on_MLOps_Revisited_Updating_Deployment",
+            "video_id": 11276,
+            "notes_id": null
+          },
+          {
+            "title": "photo_2025-02-23_10-27-13_7485514860281725032",
+            "video_id": 11277,
+            "notes_id": null
+          },
+          {
+            "title": "35_Session_29_Part_2_on_MLOps_Revisited_Deployment_using_AWS_CodeDeploy",
+            "video_id": 11278,
+            "notes_id": null
+          },
+          {
+            "title": "photo_2025-02-23_10-27-37_7485516174541717508",
+            "video_id": 11279,
+            "notes_id": null
+          },
+          {
+            "title": "photo_2025-02-23_10-27-37_7485516316275638324",
+            "video_id": 11280,
+            "notes_id": null
+          },
+          {
+            "title": "36_Session_30_Part_1_on_MLOps_Revisited_Deployment_Strategies_Rolling",
+            "video_id": 11281,
+            "notes_id": null
+          },
+          {
+            "title": "37_Session_30_Part_2_on_MLOps_Revisited_Deployment_Strategies_Blue",
+            "video_id": 11282,
+            "notes_id": null
+          },
+          {
+            "title": "38_Session_31_on_MLOps_Revisited_CI_CD_with_AWS_CodeDeploy",
+            "video_id": 11283,
+            "notes_id": null
+          },
+          {
+            "title": "💜 10. Extra Sessions 💜",
+            "video_id": 11284,
+            "notes_id": null
+          },
+          {
+            "title": "01. Interview Questions on Statistics",
+            "video_id": 11285,
+            "notes_id": null
+          },
+          {
+            "title": "02. Model Explainability",
+            "video_id": 11286,
+            "notes_id": null
+          },
+          {
+            "title": "03. Interview Questions on Regression",
+            "video_id": 11287,
+            "notes_id": null
+          },
+          {
+            "title": "04. How to Solve a Banking Problem using ML",
+            "video_id": 11288,
+            "notes_id": null
+          },
+          {
+            "title": "05. Session on ResNET Paper Discussion",
+            "video_id": 11289,
+            "notes_id": null
+          },
+          {
+            "title": "06. Introduction to PyTorch",
+            "video_id": 11290,
+            "notes_id": null
+          },
+          {
+            "title": "07. Named Entity Recognition using NLTK & Spacy",
+            "video_id": 11291,
+            "notes_id": null
+          },
+          {
+            "title": "08. Latent Dirichlet Allocation (LDA)",
+            "video_id": 11292,
+            "notes_id": null
+          },
+          {
+            "title": "09. Introduction to PowerBI",
+            "video_id": 11293,
+            "notes_id": null
+          },
+          {
+            "title": "10. Anomaly Detection",
+            "video_id": 11294,
+            "notes_id": null
+          },
+          {
+            "title": "11. Prompt Engineering",
+            "video_id": 11295,
+            "notes_id": null
+          },
+          {
+            "title": "12. Interview Questions on Tree Based Models",
+            "video_id": 11296,
+            "notes_id": null
+          },
+          {
+            "title": "13. Multioutput and Multiclass Classification Problem",
+            "video_id": 11297,
+            "notes_id": null
+          },
+          {
+            "title": "14. EKYC Using Computer Vision",
+            "video_id": 11298,
+            "notes_id": null
+          },
+          {
+            "title": "15. Time Series Forecasting",
+            "video_id": 11299,
+            "notes_id": null
+          },
+          {
+            "title": "16. A-B Testing",
+            "video_id": 11300,
+            "notes_id": null
+          },
+          {
+            "title": "17. Langchain",
+            "video_id": 11301,
+            "notes_id": null
+          },
+          {
+            "title": "18. FastAPI",
+            "video_id": 11302,
+            "notes_id": null
+          },
+          {
+            "title": "19. Vertex AI",
+            "video_id": 11303,
+            "notes_id": null
+          },
+          {
+            "title": "20. RAG",
+            "video_id": 11304,
+            "notes_id": null
+          },
+          {
+            "title": "💜 11. Capstone Project 2 | YouTube Comment Analysis 💜",
+            "video_id": 11305,
+            "notes_id": null
+          },
+          {
+            "title": "01. Session 1 - Project Planning",
+            "video_id": 11306,
+            "notes_id": null
+          },
+          {
+            "title": "02. Session 2 - Preprocessing & EDA",
+            "video_id": 11308,
+            "notes_id": null
+          },
+          {
+            "title": "03. Session 3 - Building a Baseline Model",
+            "video_id": 11309,
+            "notes_id": null
+          },
+          {
+            "title": "04. Session 4 (Part 1) - Improving the Baseline Model",
+            "video_id": 11310,
+            "notes_id": null
+          },
+          {
+            "title": "05. Session 4 (Part 2) - Improving the Baseline Model",
+            "video_id": 11311,
+            "notes_id": null
+          },
+          {
+            "title": "06. Session 5 - Improving the LightGBM model",
+            "video_id": 11312,
+            "notes_id": null
+          },
+          {
+            "title": "07. Session 6 - Building the DVC Pipeline",
+            "video_id": 11313,
+            "notes_id": null
+          },
+          {
+            "title": "08. Session 7 - Adding Model Registry",
+            "video_id": 11314,
+            "notes_id": null
+          },
+          {
+            "title": "09. Session 8 - Building the Chrome Plugin Part 1",
+            "video_id": 11315,
+            "notes_id": null
+          },
+          {
+            "title": "10. Session 9 - Building the Chrome Plugin Part 2",
+            "video_id": 11316,
+            "notes_id": null
+          },
+          {
+            "title": "11. Session 10 (Part 1) - Adding the CI workflow",
+            "video_id": 11318,
+            "notes_id": null
+          },
+          {
+            "title": "12. Session 10 (Part 2) - Adding the CI workflow",
+            "video_id": 11319,
+            "notes_id": null
+          },
+          {
+            "title": "13. Session 11 - Dockerization",
+            "video_id": 11320,
+            "notes_id": null
+          },
+          {
+            "title": "14. Session 12 - Deployment",
+            "video_id": 11321,
+            "notes_id": null
+          },
+          {
+            "title": "💜 12. Capstone Project 3 | Swiggy Delivery Time Prediction 💜",
+            "video_id": 11322,
+            "notes_id": null
+          },
+          {
+            "title": "01. Session 1 - Understanding the Problem Statement",
+            "video_id": 11323,
+            "notes_id": null
+          },
+          {
+            "title": "02. Session 2 - Data Cleaning",
+            "video_id": 11325,
+            "notes_id": null
+          },
+          {
+            "title": "03. Session 3 - EDA",
+            "video_id": 11327,
+            "notes_id": null
+          },
+          {
+            "title": "04. Session 4 - Building a baseline model",
+            "video_id": 11329,
+            "notes_id": null
+          },
+          {
+            "title": "05. Session 5 (Part 1) - Experimentation Part 1",
+            "video_id": 11331,
+            "notes_id": null
+          },
+          {
+            "title": "06. Session 5 (Part 2) - Experimentation Part 2",
+            "video_id": 11333,
+            "notes_id": null
+          },
+          {
+            "title": "07. Session 6 - Building the DVC Pipeline Workflow",
+            "video_id": 11334,
+            "notes_id": null
+          },
+          {
+            "title": "07. Session 6 - Building the DVC Pipeline Workflow",
+            "video_id": 11336,
+            "notes_id": null
+          },
+          {
+            "title": "08. Session 7 - Model Registry and Building the API\n➭ 𝐁𝐚𝐭𝐜𝐡 » CAMPUS X DSMP 2.0\n➭ Quality » 1080\n\n✨ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐃 𝐁𝐘 :",
+            "video_id": 11338,
+            "notes_id": null
+          },
+          {
+            "title": "09. Session 8 (Part 1) - Model Testing",
+            "video_id": 11339,
+            "notes_id": null
+          },
+          {
+            "title": "10. Session 8 (Part 2) - CI",
+            "video_id": 11340,
+            "notes_id": null
+          },
+          {
+            "title": "11. Session 9 - Dockers and CD",
+            "video_id": 11342,
+            "notes_id": null
+          },
+          {
+            "title": "12. Session 10 (Part 1) - Deployment on AWS",
+            "video_id": 11343,
+            "notes_id": null
+          },
+          {
+            "title": "13. Session 10 (Part 2) - Deployment on AWS",
+            "video_id": 11345,
+            "notes_id": null
+          },
+          {
+            "title": "💜 13. Capstone Project 4 - Hybrid Recommender System 💜",
+            "video_id": 11346,
+            "notes_id": null
+          },
+          {
+            "title": "01. Session 1 - Project Overview [Reuploaded]",
+            "video_id": 11347,
+            "notes_id": null
+          },
+          {
+            "title": "02. Session 2 - EDA",
+            "video_id": 11349,
+            "notes_id": null
+          },
+          {
+            "title": "03. Session 3 (Part 1) - Content Based Recommender System",
+            "video_id": 11351,
+            "notes_id": null
+          },
+          {
+            "title": "04. Session 3 (Part 2) - Content Based Recommender System",
+            "video_id": 11353,
+            "notes_id": null
+          },
+          {
+            "title": "05_Session_4_Part_1_Collaborative_Filtering_Based_Recommender_System",
+            "video_id": 11354,
+            "notes_id": null
+          },
+          {
+            "title": "06_Session_4_Part_2_Collaborative_Filtering_Based_Recommender_System",
+            "video_id": 11356,
+            "notes_id": null
+          },
+          {
+            "title": "07. Session 5 - Building the Hybrid Recommender System",
+            "video_id": 11357,
+            "notes_id": null
+          },
+          {
+            "title": "08. Session 6 - Improving Hybrid Recommender System",
+            "video_id": 11359,
+            "notes_id": null
+          },
+          {
+            "title": "09. Session 7 - DVC Pipeline & CI",
+            "video_id": 11361,
+            "notes_id": null
+          },
+          {
+            "title": "10. Session 8 - Dockers and CD",
+            "video_id": 11363,
+            "notes_id": null
+          },
+          {
+            "title": "11. Session 9 - Deployment on AWS",
+            "video_id": 11365,
+            "notes_id": null
+          },
+          {
+            "title": "photo_2025-03-16_18-33-00_7485606386034802872",
+            "video_id": 11367,
+            "notes_id": null
+          },
+          {
+            "title": "photo_2025-03-16_18-33-10_7485606527768723632",
+            "video_id": 11368,
+            "notes_id": null
+          },
+          {
+            "title": "12. Session 10 (Part 1) - Blue Green Deployment Phase 1",
+            "video_id": 11369,
+            "notes_id": null
+          },
+          {
+            "title": "photo_2025-03-16_18-33-23_7485607769014272020",
+            "video_id": 11371,
+            "notes_id": null
+          },
+          {
+            "title": "13. Session 10 (Part 2) - Blue Green Deployment Phase 2",
+            "video_id": 11372,
+            "notes_id": null
+          }
+        ]
+      }
+    ]
+  }
+]

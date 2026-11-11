@@ -1,0 +1,397 @@
+[
+  {
+    "batch_name": "Mobile Video Editing",
+    "parent_batch": "EARNERS",
+    "channel_id": "-1003637459451",
+    "study_material": [
+      {
+        "title": "Lecture Planner",
+        "file_id": 26597
+      },
+      {
+        "title": "Class Schedule",
+        "file_id": 26600
+      }
+    ],
+    "chapters": [
+      {
+        "chapter_name": "Gyan Sir",
+        "lectures": [
+          {
+            "lec_no": "121",
+            "title": "Basic & Setup (Video Only)",
+            "video_id": 26590
+          },
+          {
+            "lec_no": "121",
+            "title": "Basic Editing Mastery (Video Only)",
+            "video_id": 30386,
+            "notes_id": 30393
+          },
+          {
+            "lec_no": "121",
+            "title": "Live Doubt Session 01 (Video Only)",
+            "video_id": 30390
+          },
+          {
+            "lec_no": "121",
+            "title": "Keyframe + Animation (Video Only)",
+            "video_id": 30391,
+            "notes_id": 30394
+          },
+          {
+            "lec_no": "121",
+            "title": "Text + Audio + Subtitles (Video Only)",
+            "video_id": 30392,
+            "notes_id": 30395
+          }
+        ]
+      },
+      {
+        "chapter_name": "Dheeraj Sir",
+        "lectures": [
+          {
+            "lec_no": "121",
+            "title": "Introduction To VN (Video Only)",
+            "video_id": 26589
+          },
+          {
+            "lec_no": "121",
+            "title": "Basic Editing in VN (Video Only)",
+            "video_id": 30387
+          },
+          {
+            "lec_no": "121",
+            "title": "Live Doubt Session 01 (Video Only)",
+            "video_id": 30396
+          },
+          {
+            "lec_no": "121",
+            "title": "Multi Layering In VN (Video Only)",
+            "video_id": 30397,
+            "notes_id": 30399
+          },
+          {
+            "lec_no": "121",
+            "title": "Transitions & Effects (Video Only)",
+            "video_id": 30398,
+            "notes_id": 30400
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch_name": "AI & CHATGPT",
+    "parent_batch": "EARNERS",
+    "channel_id": "-1003637459451",
+    "study_material": [
+      {
+        "title": "Lecture Planner",
+        "file_id": 26598
+      },
+      {
+        "title": "Class Schedule",
+        "file_id": 26600
+      }
+    ],
+    "chapters": [
+      {
+        "chapter_name": "PRATEIK Sir",
+        "lectures": [
+          {
+            "lec_no": "121",
+            "title": "AI Kya Hai Kaise Kaam Karta Hai",
+            "video_id": 26602
+          },
+          {
+            "lec_no": "121",
+            "title": "ChatGPT Setup - Pura Tour Karte Hai (Video Only)",
+            "video_id": 30401
+          },
+          {
+            "lec_no": "121",
+            "title": "Live Doubt Session 01 (Video Only)",
+            "video_id": 30402
+          },
+          {
+            "lec_no": "121",
+            "title": "Prompting Basics - AI Se Sahi Tarah Baat Karo (Video Only)",
+            "video_id": 30403
+          },
+          {
+            "lec_no": "121",
+            "title": "Advanced Prompting - AIM Framework Sikho (Video Only)",
+            "video_id": 30404
+          }
+        ]
+      },
+      {
+        "chapter_name": "Khushal Sir",
+        "lectures": [
+          {
+            "lec_no": "121",
+            "title": "AI Intro Zero to Pro - Setup, Tools & First Results",
+            "video_id": 26601
+          },
+          {
+            "lec_no": "121",
+            "title": "Prompt Engineering (Basic + Advance) (Video Only)",
+            "video_id": 30388
+          },
+          {
+            "lec_no": "121",
+            "title": "Live Doubt Session 01 (Video Only)",
+            "video_id": 30405
+          },
+          {
+            "lec_no": "121",
+            "title": "Basic Graphic Designing From Ai (Video Only)",
+            "video_id": 30406
+          },
+          {
+            "lec_no": "121",
+            "title": "Basic Graphic Designing From Ai (Video Only)",
+            "video_id": 30407
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch_name": "Youtube Content Creation",
+    "parent_batch": "EARNERS",
+    "channel_id": "-1003637459451",
+    "study_material": [
+      {
+        "title": "Lecture Planner",
+        "file_id": 26591
+      },
+      {
+        "title": "Class Schedule",
+        "file_id": 26600
+      }
+    ],
+    "chapters": [
+      {
+        "chapter_name": " Alankrit Sir",
+        "lectures": [
+          {
+            "lec_no": "121",
+            "title": "How YT Works? And Channel Creation Live (Video Only)",
+            "video_id": 26603,
+            "notes_id": 30412
+          },
+          {
+            "lec_no": "121",
+            "title": " Hook And First Video Upload (Video Only)",
+            "video_id": 30408,
+            "notes_id": 30413
+          },
+          {
+            "lec_no": "121",
+            "title": "Live Doubt Session 01 (Video Only)",
+            "video_id": 30409
+          },
+          {
+            "lec_no": "121",
+            "title": "How to Record? (Video Only)",
+            "video_id": 30410,
+            "notes_id": 30414
+          },
+          {
+            "lec_no": "121",
+            "title": "Storytelling Formula (Video Only)",
+            "video_id": 30411,
+            "notes_id": 30415
+          }
+        ]
+      },
+      {
+        "chapter_name": "Aayush Sir",
+        "lectures": [
+          {
+            "lec_no": "121",
+            "title": "Starting YouTube in 2026 - How YouTube Works? (Video Only)",
+            "video_id": 26604,
+            "notes_id": 30420
+          },
+          {
+            "lec_no": "121",
+            "title": "2 Metrics that Control Everything on YouTube (Video Only)",
+            "video_id": 30416,
+            "notes_id": 30421
+          },
+          {
+            "lec_no": "121",
+            "title": "Live Doubt Session 01 (Video Only)",
+            "video_id": 30417
+          },
+          {
+            "lec_no": "121",
+            "title": "Channel Setup (Video Only)",
+            "video_id": 30418,
+            "notes_id": 30422
+          },
+          {
+            "lec_no": "121",
+            "title": "Psychology of First Impression (Video Only)",
+            "video_id": 30419,
+            "notes_id": 30423
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch_name": "Mobile Graphic Designing",
+    "parent_batch": "EARNERS",
+    "channel_id": "-1003637459451",
+    "study_material": [
+      {
+        "title": "Lecture Planner",
+        "file_id": 26596
+      },
+      {
+        "title": "Class Schedule",
+        "file_id": 26600
+      }
+    ],
+    "chapters": [
+      {
+        "chapter_name": "Priyanshu Sir",
+        "lectures": [
+          {
+            "lec_no": "121",
+            "title": "What is Graphic Design? (Video Only)",
+            "video_id": 26607
+          },
+          {
+            "lec_no": "121",
+            "title": "Design Principles (Video Only)",
+            "video_id": 30424
+          },
+          {
+            "lec_no": "121",
+            "title": "Live Doubt Session 01 (Video Only)",
+            "video_id": 30425
+          },
+          {
+            "lec_no": "121",
+            "title": "Color Theory and design (Video Only)",
+            "video_id": 30426
+          },
+          {
+            "lec_no": "121",
+            "title": "C.R.A.P. Design Principles (Video Only)",
+            "video_id": 30427,
+            "notes_id": 30428
+          }
+        ]
+      },
+      {
+        "chapter_name": "Saad Sir",
+        "lectures": [
+          {
+            "lec_no": "121",
+            "title": "Graphic Designing Intro (Video Only)",
+            "video_id": 26608
+          },
+          {
+            "lec_no": "121",
+            "title": "Design Tools Intro (Video Only)",
+            "video_id": 30429,
+            "notes_id": 30433
+          },
+          {
+            "lec_no": "121",
+            "title": "Live Doubt Session 01 (Video Only)",
+            "video_id": 30430
+          },
+          {
+            "lec_no": "121",
+            "title": "Manual Designing Vs Ai Designing (Video Only)",
+            "video_id": 30431
+          },
+          {
+            "lec_no": "121",
+            "title": "Introduction Of Color Theory (Video Only)",
+            "video_id": 30432
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch_name": "Instagram & Social Media",
+    "parent_batch": "EARNERS",
+    "channel_id": "-1003637459451",
+    "study_material": [
+      {
+        "title": "Lecture Planner",
+        "file_id": 26599
+      },
+      {
+        "title": "Class Schedule",
+        "file_id": 26600
+      }
+    ],
+    "chapters": [
+      {
+        "chapter_name": "Mahima Ma'am",
+        "lectures": [
+          {
+            "lec_no": "121",
+            "title": "Identity And Setup (Video Only)",
+            "video_id": 26605
+          },
+          {
+            "lec_no": "121",
+            "title": "Content Types & First Post (Video Only)",
+            "video_id": 30434
+          },
+          {
+            "lec_no": "121",
+            "title": " Live Doubt Session 01 (Video Only)",
+            "video_id": 30435
+          },
+          {
+            "lec_no": "121",
+            "title": "Niche Selection - Content 10 days content plan (Video Only)",
+            "video_id": 30436
+          },
+          {
+            "lec_no": "121",
+            "title": "Creating Faceless Content + Edits App Basics (Video Only)",
+            "video_id": 30437
+          }
+        ]
+      },
+      {
+        "chapter_name": "Sargam Ma'am",
+        "lectures": [
+          {
+            "lec_no": "121",
+            "title": "Welcome And Profile Setup (Video Only)",
+            "video_id": 26606
+          },
+          {
+            "lec_no": "121",
+            "title": "Bio And Instagram Settings (Video Only)",
+            "video_id": 30439
+          },
+          {
+            "lec_no": "121",
+            "title": "Niche Finding + Face/Faceless (Video Only)",
+            "video_id": 30440
+          },
+          {
+            "lec_no": "121",
+            "title": "Market & Competition Research  (Video Only)",
+            "video_id": 30441
+          }
+        ]
+      }
+    ]
+  }
+]

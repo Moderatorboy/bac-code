@@ -1,0 +1,1998 @@
+[
+  {
+    "batch_name": "ADHOC",
+    "parent_batch": "HARKIRAT COHORT",
+    "direct_subject": "ADHOC",
+    "channel_id": "-1003637459451",
+    "chapters": [
+      {
+        "chapter_name": "ADHOC",
+        "lectures": [
+          {
+            "lec_no": "0",
+            "title": "GSOC contribution",
+            "video_id": 9905
+          },
+          {
+            "lec_no": "1",
+            "title": "Next.js",
+            "video_id": 9906
+          },
+          {
+            "lec_no": "2",
+            "title": "Processing (p5.js) setup and issue solving",
+            "video_id": 9907
+          },
+          {
+            "lec_no": "3",
+            "title": "Processing (p5.js) setup and issue solving",
+            "video_id": 9908
+          },
+          {
+            "lec_no": "4",
+            "title": "P5-js web editor configuration",
+            "video_id": 9909
+          },
+          {
+            "lec_no": "5",
+            "title": "GSoC Backend Contribution",
+            "video_id": 9910
+          },
+          {
+            "lec_no": "6",
+            "title": "TRPC intro",
+            "video_id": 9912
+          },
+          {
+            "lec_no": "7",
+            "title": "TRPC Part 2",
+            "video_id": 9913
+          },
+          {
+            "lec_no": "8",
+            "title": "Cohort 1 | Real time communication, Distributed computing",
+            "video_id": 9914
+          },
+          {
+            "lec_no": "9",
+            "title": "Freelancing Masterclass (Cohort 1)",
+            "video_id": 9915
+          },
+          {
+            "lec_no": "10",
+            "title": "Freelancing Masterclass Part 2",
+            "video_id": 9916
+          },
+          {
+            "lec_no": "11",
+            "title": "10th August 2024 - Fellowship Video",
+            "video_id": 9917
+          },
+          {
+            "lec_no": "12",
+            "title": "React Interview questions",
+            "video_id": 9919
+          },
+          {
+            "lec_no": "13",
+            "title": "ESLInt, Prettier",
+            "video_id": 9920
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch_name": "DSA",
+    "parent_batch": "HARKIRAT COHORT",
+    "direct_subject": "DSA",
+    "channel_id": "-1003637459451",
+    "chapters": [
+      {
+        "chapter_name": "DSA",
+        "lectures": [
+          {
+            "lec_no": "001",
+            "title": "DSA Trial Class Introduction 020424",
+            "video_id": 9922
+          },
+          {
+            "lec_no": "002",
+            "title": "DSA 2 Array 0504 (Zoom Recording)",
+            "video_id": 9923
+          },
+          {
+            "lec_no": "003",
+            "title": "DSA 3 Complexity Analysis 1005",
+            "video_id": 9924
+          },
+          {
+            "lec_no": "004",
+            "title": "DSA 4 Arrays - Continued",
+            "video_id": 9925
+          },
+          {
+            "lec_no": "005",
+            "title": "DSA 5 C (part 12)",
+            "video_id": 9926
+          },
+          {
+            "lec_no": "006",
+            "title": "DSA 6 C (part 22) 1804",
+            "video_id": 9927
+          },
+          {
+            "lec_no": "007",
+            "title": "DSA 7 Recursion - 1",
+            "video_id": 9928
+          },
+          {
+            "lec_no": "008",
+            "title": "DSA 8 Recursion - 2",
+            "video_id": 9929
+          },
+          {
+            "lec_no": "009",
+            "title": "DSA 9 Binary Search",
+            "video_id": 9930
+          },
+          {
+            "lec_no": "010",
+            "title": "DSA 10 Binary Search - 2",
+            "video_id": 9931
+          },
+          {
+            "lec_no": "011",
+            "title": "DSA 11 Linked List",
+            "video_id": 9932
+          },
+          {
+            "lec_no": "012",
+            "title": "DSA 0 by Riddhi 1105",
+            "video_id": 9933
+          },
+          {
+            "lec_no": "013",
+            "title": "DSA (1) Problem solving on Recursion (12) 1305",
+            "video_id": 9934
+          },
+          {
+            "lec_no": "014",
+            "title": "DSA (1) Problem solving on Recursion (22) 1305",
+            "video_id": 9935
+          },
+          {
+            "lec_no": "015",
+            "title": "DSA 2 Basics of java 1605",
+            "video_id": 9936
+          },
+          {
+            "lec_no": "016",
+            "title": "DSA 3 Problem Solving on Arrays 2005",
+            "video_id": 9937
+          },
+          {
+            "lec_no": "017",
+            "title": "DSA 4 Basics of DSA 2205",
+            "video_id": 9938
+          },
+          {
+            "lec_no": "018",
+            "title": "DSA 5 Strings and ArrayList 2705",
+            "video_id": 9939
+          },
+          {
+            "lec_no": "019",
+            "title": "DSA 6 Strings and ArrayList (Part-2) 2905",
+            "video_id": 9940
+          },
+          {
+            "lec_no": "020",
+            "title": "DSA 7 Hashing and HashMaps 0306",
+            "video_id": 9941
+          },
+          {
+            "lec_no": "021",
+            "title": "DSA 8 Hashing and HashMaps (Part - 2) 0506",
+            "video_id": 9942
+          },
+          {
+            "lec_no": "022",
+            "title": "DSA 9 Hashing and HashMaps (Problem solving) 1006",
+            "video_id": 9943
+          },
+          {
+            "lec_no": "023",
+            "title": "DSA 10 Two Pointers 1206",
+            "video_id": 9944
+          },
+          {
+            "lec_no": "024",
+            "title": "DSA 11 Two Pointers (Part - 2) 1706",
+            "video_id": 9945
+          },
+          {
+            "lec_no": "025",
+            "title": "DSA (12) Bit Manipulation",
+            "video_id": 9946
+          },
+          {
+            "lec_no": "026",
+            "title": "DSA 13 Problems on Bit Manipulation",
+            "video_id": 9947
+          },
+          {
+            "lec_no": "027",
+            "title": "DSA 14 Recursion and Backtracking",
+            "video_id": 9948
+          },
+          {
+            "lec_no": "028",
+            "title": "DSA 15 Back Tracking - 2 0807",
+            "video_id": 9949
+          },
+          {
+            "lec_no": "029",
+            "title": "DSA 16 Sorting-1 Problems (Merge)",
+            "video_id": 9950
+          },
+          {
+            "lec_no": "030",
+            "title": "DSA 17 Linked List Problems",
+            "video_id": 9951
+          },
+          {
+            "lec_no": "031",
+            "title": "DSA 18 Sorting-III Cyclic Sort & Problems",
+            "video_id": 9952
+          },
+          {
+            "lec_no": "032",
+            "title": "DSA 19 Stacks and Queues",
+            "video_id": 9953
+          },
+          {
+            "lec_no": "033",
+            "title": "DSA 20 Stacks",
+            "video_id": 9954
+          },
+          {
+            "lec_no": "034",
+            "title": "DSA 21 Stacks -2",
+            "video_id": 9955
+          },
+          {
+            "lec_no": "035",
+            "title": "DSA 22 Heaps & Priority Queues - 1",
+            "video_id": 9956
+          },
+          {
+            "lec_no": "036",
+            "title": "DSA 23 Heaps & Priority Queues-2",
+            "video_id": 9957
+          },
+          {
+            "lec_no": "037",
+            "title": "DSA 24 Priority Queues - 3",
+            "video_id": 9958
+          },
+          {
+            "lec_no": "038",
+            "title": "Trees - 2",
+            "video_id": 9959
+          },
+          {
+            "lec_no": "039",
+            "title": "Trees - 3",
+            "video_id": 9960
+          },
+          {
+            "lec_no": "040",
+            "title": "Binary Search Tree - 1",
+            "video_id": 9961
+          },
+          {
+            "lec_no": "041",
+            "title": "Binary Search Trees - 2",
+            "video_id": 9962
+          },
+          {
+            "lec_no": "043",
+            "title": "Tries",
+            "video_id": 9963
+          },
+          {
+            "lec_no": "044",
+            "title": "Intro to Dynamic Programming",
+            "video_id": 9964
+          },
+          {
+            "lec_no": "045",
+            "title": "Dynamic Programming Problems",
+            "video_id": 9965
+          },
+          {
+            "lec_no": "046",
+            "title": "Dynamic Programming-3",
+            "video_id": 9966
+          },
+          {
+            "lec_no": "047",
+            "title": "DP on Grids",
+            "video_id": 9967
+          },
+          {
+            "lec_no": "48",
+            "title": "2D Dynamic Programming @FUCKALLRESOURCES",
+            "video_id": 9968
+          },
+          {
+            "lec_no": "49",
+            "title": "Knapsack & DP",
+            "video_id": 9969
+          },
+          {
+            "lec_no": "050",
+            "title": "Paritition DP",
+            "video_id": 9970
+          },
+          {
+            "lec_no": "051",
+            "title": "Dynamic Programming _ Miscellaneous",
+            "video_id": 9971
+          },
+          {
+            "lec_no": "052",
+            "title": "Binary Search Problems",
+            "video_id": 9972
+          },
+          {
+            "lec_no": "053",
+            "title": "Binary Search 2",
+            "video_id": 9973
+          },
+          {
+            "lec_no": "054",
+            "title": "Binary Search",
+            "video_id": 9974
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-055",
+            "title": "DSA INDEX ",
+            "notes_id": 9975
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch_name": "DEVOPS",
+    "parent_batch": "HARKIRAT COHORT",
+    "direct_subject": "DEVOPS",
+    "channel_id": "-1003637459451",
+    "chapters": [
+      {
+        "chapter_name": "General",
+        "lectures": [
+          {
+            "lec_no": "0",
+            "title": "Kubernetes and Actionable Docker",
+            "video_id": 9979
+          },
+          {
+            "lec_no": "0",
+            "title": "Bash and Terminal",
+            "video_id": 9980
+          },
+          {
+            "lec_no": "0",
+            "title": "[Devops] Week 24.1 _ Starting Devops , VMs",
+            "video_id": 9981
+          },
+          {
+            "lec_no": "0",
+            "title": "[Devops] Week 24.2 _ Reverse Proxies Process Management and Deployment",
+            "video_id": 9982
+          },
+          {
+            "lec_no": "0",
+            "title": "Week 25 _ process management and CI_CD _ 01_02",
+            "video_id": 9983
+          },
+          {
+            "lec_no": "0",
+            "title": "Week_25_Continuing_CI,_certificate_management_and_testing_02_02",
+            "video_id": 9984
+          },
+          {
+            "lec_no": "0",
+            "title": "25.3 [Devops From Cohort-2] Certificate Management",
+            "video_id": 9985
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch_name": "Web3",
+    "parent_batch": "HARKIRAT COHORT",
+    "channel_id": "-1003637459451",
+    "chapters": [
+      {
+        "chapter_name": "Week 1",
+        "lectures": [
+          {
+            "title": "Orientation (Web3) - Part 1",
+            "video_id": 9988
+          },
+          {
+            "title": "Orientation (Web3) - Part 2",
+            "video_id": 9989
+          }
+        ],
+        "sheets": [
+          {
+            "name": "Slides: Orientation (Web3) - Part 1",
+            "link": "https://projects.100xdevs.com/tracks/web3-orientation/Web3-Cohort---Orientation-1"
+          },
+          {
+            "name": "Orientation Class None_1750113569",
+            "id": 9990
+          },
+          {
+            "name": "None_1750113579",
+            "id": 9991
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 2",
+        "lectures": [
+          {
+            "title": "Public key Cryptography",
+            "video_id": 9993
+          },
+          {
+            "title": "- Public key Cryptography Offline",
+            "video_id": 9995
+          }
+        ],
+        "sheets": [
+          {
+            "name": "Slides: Public key Cryptography",
+            "link": "https://projects.100xdevs.com/tracks/public-private-keys/Public-Key-Cryptography-1"
+          },
+          {
+            "name": "Public key Cryptography Notes None_1750114028",
+            "id": 9994
+          },
+          {
+            "name": "https://projects.100xdevs.com/",
+            "id": 9997,
+            "link": "https://projects.100xdevs.com/"
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 3",
+        "lectures": [
+          {
+            "title": "Creating A Web Based Wallet @SWC",
+            "video_id": 10000
+          }
+        ],
+        "sheets": [
+          {
+            "name": "Notes None_1750114798",
+            "id": 10001
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 4",
+        "lectures": [
+          {
+            "title": "|| Solana Jargons, Programming Models, Tokens                                                              https://petal-estimate-4e9.notion.site/Solana-Jargon-Programming-model-Tokens-45937002d4c24cda9d02fc02a6dedc1c",
+            "video_id": 10004
+          },
+          {
+            "title": "|| Solana Jargons, Programming Models, Tokens - Offline",
+            "video_id": 10005
+          }
+        ],
+        "sheets": [
+          {
+            "name": "Slides: || Solana Jargons, Programming Models, Tokens                                                              https://petal-estimate-4e9.notion.site/Solana-Jargon-Programming-model-Tokens-45937002d4c24cda9d02fc02a6dedc1c",
+            "link": "https://petal-estimate-4e9.notion.site/Solana-Jargon-Programming-model-Tokens-45937002d4c24cda9d02fc02a6dedc1c"
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 5",
+        "lectures": [
+          {
+            "title": "|| Solana Wallet Adapter, Client Side Solana",
+            "video_id": 10007
+          }
+        ],
+        "sheets": [],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 6",
+        "lectures": [
+          {
+            "title": "|| Token Launchpad in React                                                        https://petal-estimate-4e9.notion.site/Token-launchpad-in-react-f0027bd023d4467ab5eb87d16ab21b40",
+            "video_id": 10009
+          }
+        ],
+        "sheets": [
+          {
+            "name": "Slides: || Token Launchpad in React                                                        https://petal-estimate-4e9.notion.site/Token-launchpad-in-react-f0027bd023d4467ab5eb87d16ab21b40",
+            "link": "https://petal-estimate-4e9.notion.site/Token-launchpad-in-react-f0027bd023d4467ab5eb87d16ab21b40"
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 7",
+        "lectures": [
+          {
+            "title": "Authorities_ Owners and Accounts on Solana                                                           https://petal-estimate-4e9.notion.site/Ownership-Authorities-Programs-and-PDAs-b2b8bfeae8064753982be9bd67afbb7b",
+            "video_id": 10011
+          }
+        ],
+        "sheets": [
+          {
+            "name": "Slides: Authorities_ Owners and Accounts on Solana                                                           https://petal-estimate-4e9.notion.site/Ownership-Authorities-Programs-and-PDAs-b2b8bfeae8064753982be9bd67afbb7b",
+            "link": "https://petal-estimate-4e9.notion.site/Ownership-Authorities-Programs-and-PDAs-b2b8bfeae8064753982be9bd67afbb7b"
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 8",
+        "lectures": [
+          {
+            "title": ".1 _ Dapps_ Wallet adapter and simple apps",
+            "video_id": 10013
+          },
+          {
+            "title": ".2 _ Token Launchpad in React                                       NOTES https://petal-estimate-4e9.notion.site/Ownership-Authorities-Programs-and-PDAs-b2b8bfeae8064753982be9bd67afbb7b",
+            "video_id": 10014
+          },
+          {
+            "title": "|| Program Derived Addresses                                                                         https://www.canva.com/design/DAGRS0XmC9E/x1lzALp0Um8RAshjCg6Yug/edit",
+            "video_id": 10016
+          }
+        ],
+        "sheets": [
+          {
+            "name": "Slides: .2 _ Token Launchpad in React                                       NOTES https://petal-estimate-4e9.notion.site/Ownership-Authorities-Programs-and-PDAs-b2b8bfeae8064753982be9bd67afbb7b",
+            "link": "https://petal-estimate-4e9.notion.site/Ownership-Authorities-Programs-and-PDAs-b2b8bfeae8064753982be9bd67afbb7b"
+          },
+          {
+            "name": "Slides: || Program Derived Addresses                                                                         https://www.canva.com/design/DAGRS0XmC9E/x1lzALp0Um8RAshjCg6Yug/edit",
+            "link": "https://www.canva.com/design/DAGRS0XmC9E/x1lzALp0Um8RAshjCg6Yug/edit"
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 9",
+        "lectures": [
+          {
+            "title": "DEX AMMs,and Liquidity Pools   Notes -     https://petal-estimate-4e9.notion.site/Decentralized-exchanges-1147dfd1073580dd8956cd90985c3fd7 git link -    https://github.com/100xdevs-cohort-3/week-9-swap-contract",
+            "video_id": 10018
+          }
+        ],
+        "sheets": [
+          {
+            "name": "Slides: DEX AMMs,and Liquidity Pools   Notes -     https://petal-estimate-4e9.notion.site/Decentralized-exchanges-1147dfd1073580dd8956cd90985c3fd7 git link -    https://github.com/100xdevs-cohort-3/week-9-swap-contract",
+            "link": "https://petal-estimate-4e9.notion.site/Decentralized-exchanges-1147dfd1073580dd8956cd90985c3fd7"
+          },
+          {
+            "name": "Assignment Posted here https://github.com/100xdevs-cohort-3/assignmentsProject Code Posted here https://projects.100xdevs.com/",
+            "id": 10019,
+            "link": "https://github.com/100xdevs-cohort-3/assignments"
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 10",
+        "lectures": [
+          {
+            "title": "Week 10.1  https://www.canva.com/design/DAGTK9Vx3sU/xZr-61ABL0eHGa6aSzVm5A/edit",
+            "video_id": 10021
+          }
+        ],
+        "sheets": [
+          {
+            "name": "Slides: Week 10.1  https://www.canva.com/design/DAGTK9Vx3sU/xZr-61ABL0eHGa6aSzVm5A/edit",
+            "link": "https://www.canva.com/design/DAGTK9Vx3sU/xZr-61ABL0eHGa6aSzVm5A/edit"
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 11",
+        "lectures": [
+          {
+            "title": "|| ETH Adapters  https://petal-estimate-4e9.notion.site/ETH-on-the-frontend-1227dfd107358015bb15e3e87367db55",
+            "video_id": 10023
+          }
+        ],
+        "sheets": [
+          {
+            "name": "Slides: || ETH Adapters  https://petal-estimate-4e9.notion.site/ETH-on-the-frontend-1227dfd107358015bb15e3e87367db55",
+            "link": "https://petal-estimate-4e9.notion.site/ETH-on-the-frontend-1227dfd107358015bb15e3e87367db55"
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 12",
+        "lectures": [
+          {
+            "title": "| Impermanent loss, Creating a Liquidity pool - 01",
+            "video_id": 10025
+          },
+          {
+            "title": "~ Impermanent loss, Creating a Liquidity pool - 2  https://petal-estimate-4e9.notion.site/DEXs-funding-1297dfd107358026b8d1c232caf6dbcd",
+            "video_id": 10026
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 13",
+        "lectures": [
+          {
+            "title": "[Web3] 13.1 _ LSTs, Coding an LST platform",
+            "video_id": 10028
+          },
+          {
+            "title": "Solana Jargon, Programming Model, Tokens Part 1",
+            "video_id": 10030
+          },
+          {
+            "title": "Solana Jargon, Programming Model, Tokens Part 1",
+            "video_id": 10031
+          },
+          {
+            "title": "Solana Jargon, Programming Model, Tokens Part 2",
+            "video_id": 10032
+          }
+        ],
+        "sheets": [
+          {
+            "name": "Slides: ~ Impermanent loss, Creating a Liquidity pool - 2  https://petal-estimate-4e9.notion.site/DEXs-funding-1297dfd107358026b8d1c232caf6dbcd",
+            "link": "https://petal-estimate-4e9.notion.site/DEXs-funding-1297dfd107358026b8d1c232caf6dbcd"
+          },
+          {
+            "name": "LSTs, Coding An LST Platform.Rao_Sahab None_1750117134",
+            "id": 10029
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 14",
+        "lectures": [
+          {
+            "title": "Web3] 14.1 _ Private key management, Building a project",
+            "video_id": 10034
+          }
+        ],
+        "sheets": [
+          {
+            "name": "Slides: Web3] 14.1 _ Private key management, Building a project",
+            "link": "https://petal-estimate-4e9.notion.site/Projects-class-1387dfd1073580a6912be8ca93cc7479"
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 15",
+        "lectures": [
+          {
+            "title": "[Web3] 15.1 _ Intro to Solidity",
+            "video_id": 10036
+          },
+          {
+            "title": "[Web3] 15.2 _ Solidity part 2 (offline)",
+            "video_id": 10037
+          },
+          {
+            "title": "Brainly end to end",
+            "video_id": 10038
+          }
+        ],
+        "sheets": [
+          {
+            "name": "Slides: [Web3] 15.1 _ Intro to Solidity",
+            "link": "https://www.canva.com/design/DAGWfh7FkYs/atPF0eKRrFcVvxIWs1R3Sw/edit"
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 16",
+        "lectures": [
+          {
+            "title": "WEEK 16.1 WEBSOCKETS                                                  NOTES https://petal-estimate-4e9.notion.site/WebSockets-1477dfd10735802982becc925074b5f0",
+            "video_id": 10040
+          },
+          {
+            "title": "WebSockets Project - Chat app",
+            "video_id": 10041
+          }
+        ],
+        "sheets": [
+          {
+            "name": "Slides: WEEK 16.1 WEBSOCKETS                                                  NOTES https://petal-estimate-4e9.notion.site/WebSockets-1477dfd10735802982becc925074b5f0",
+            "link": "https://petal-estimate-4e9.notion.site/WebSockets-1477dfd10735802982becc925074b5f0"
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 17",
+        "lectures": [
+          {
+            "title": "Week 17.1 _ Postgres and SQL databases                                                                     NOTES https://projects.100xdevs.com/tracks/YOSAherHkqWXhOdlE4yE/sql-1",
+            "video_id": 10043
+          },
+          {
+            "title": "Week 17.2 _ Postgres and SQL databases - Part 2",
+            "video_id": 10044
+          }
+        ],
+        "sheets": [
+          {
+            "name": "Slides: Week 17.1 _ Postgres and SQL databases                                                                     NOTES https://projects.100xdevs.com/tracks/YOSAherHkqWXhOdlE4yE/sql-1",
+            "link": "https://projects.100xdevs.com/tracks/YOSAherHkqWXhOdlE4yE/sql-1"
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 18",
+        "lectures": [
+          {
+            "title": "WEEK 18.1 _ Prisma and ORMs",
+            "video_id": 10046
+          },
+          {
+            "title": "Week 18.2 _ Prisma advanced , introducing SSR",
+            "video_id": 10047
+          }
+        ],
+        "sheets": [
+          {
+            "name": "Slides: WEEK 18.1 _ Prisma and ORMs",
+            "link": "https://projects.100xdevs.com/tracks/gZf9uBBNSbBR7UCqyyqT/prisma-1"
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 19",
+        "lectures": [
+          {
+            "title": "Week 19.1 _ NextJS continuation                                              LECTURE",
+            "video_id": 10049
+          }
+        ],
+        "sheets": [
+          {
+            "name": "Slides: Week 19.1 _ NextJS continuation                                              LECTURE",
+            "link": "https://projects.100xdevs.com/tracks/nextjs-2/next-2-1"
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 20",
+        "lectures": [
+          {
+            "title": "Week 20.1 _ Next.js Continued Notes: https://github.com/irohandev/WebDev-DevOps-Cohort-3.0",
+            "video_id": 10051
+          },
+          {
+            "title": "Week 20.2 _ NextAuth",
+            "video_id": 10052
+          }
+        ],
+        "sheets": [
+          {
+            "name": "Slides: Week 20.1 _ Next.js Continued Notes: https://github.com/irohandev/WebDev-DevOps-Cohort-3.0",
+            "link": "https://petal-estimate-4e9.notion.site/NextJS-Part-3-1637dfd107358090800ff3aaed7a5b3c"
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 21",
+        "lectures": [
+          {
+            "title": "Week 21.1 _ Mono repos and turborepo Notes:- https://petal-estimate-4e9.notion.site/Monorepos-b40e9c44a2ee4fe3badc3883841fc2c0",
+            "video_id": 10054
+          },
+          {
+            "title": "week 21.2 _ Monorepos Continued (Better Quality)",
+            "video_id": 10055
+          },
+          {
+            "title": "Week 21.3 _ CSR vs SSR vs Static Site Generation",
+            "video_id": 10056
+          },
+          {
+            "title": "Week 21.4 _ Building PayTM Project",
+            "video_id": 10057
+          },
+          {
+            "title": "Week 21.5 _ PayTM Frontend",
+            "video_id": 10058
+          }
+        ],
+        "sheets": [
+          {
+            "name": "Slides: Week 21.1 _ Mono repos and turborepo Notes:- https://petal-estimate-4e9.notion.site/Monorepos-b40e9c44a2ee4fe3badc3883841fc2c0",
+            "link": "https://petal-estimate-4e9.notion.site/Monorepos-b40e9c44a2ee4fe3badc3883841fc2c0"
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 22",
+        "lectures": [
+          {
+            "title": "[Web3] Week 22 _  Upgradability in ETH  [Offline] 🅃🄴🄰🄼🅆🄾🅁🄺",
+            "video_id": 10060
+          },
+          {
+            "title": "[Web3] Week 22.1 _  Building a proxy staking contract 🅃🄴🄰🄼🅆🄾🅁🄺",
+            "video_id": 10061
+          }
+        ],
+        "sheets": [],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 23",
+        "lectures": [
+          {
+            "title": "[Web3] 23.1 _ Upgradable staking contracts — Continued",
+            "video_id": 10063
+          }
+        ],
+        "sheets": [],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 24",
+        "lectures": [
+          {
+            "title": "[Web3] 24.1 _ ETH end to end app",
+            "video_id": 10065
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 26",
+        "lectures": [
+          {
+            "title": "Web3_26_1_Rust_Bootcamp_Part_1_Data_types,_conditionals,_loops, Suffix ",
+            "video_id": 10066
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 27",
+        "lectures": [
+          {
+            "title": "[Web3] 27.1 _ Rust Bootcamp Part 2",
+            "video_id": 10067
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 28",
+        "lectures": [
+          {
+            "title": "[Web3] 28.1 _ Rust Part - 3",
+            "video_id": 10068
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 29",
+        "lectures": [
+          {
+            "title": "[Web3] 29.1 _ Deriving macros, serde, borsh and lifetimes",
+            "video_id": 10069
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 30",
+        "lectures": [
+          {
+            "title": "[Web3] 30.1 _ serde, borsh, lifetimes, your first solana program",
+            "video_id": 10070
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 31",
+        "lectures": [
+          {
+            "title": "[Web3] 31.1 _ Solana native contracts in rust",
+            "video_id": 10071
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 32",
+        "lectures": [
+          {
+            "title": "[Web3] 32.1 _ Writing JS clients for smart contracts",
+            "video_id": 10072
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 33",
+        "lectures": [
+          {
+            "title": "[Web3] 33.1 _ Building a coin flip game on solana with Biswa",
+            "video_id": 10073
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 34",
+        "lectures": [
+          {
+            "title": "[Web3] 34.1 _ PDAs in Solana",
+            "video_id": 10074
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 37",
+        "lectures": [
+          {
+            "title": "Video Title : [WEB3] Week 37 | pdas, bumps and invoke_signed | 02/04 - (4.00): https [1920x1080p] Batch Name : Complete Web Development + Devops + Blockchain Cohort",
+            "video_id": 10075
+          },
+          {
+            "title": "[🎥]Vid Id : 007nVideo Title : week 37.2 | ArgoCD and Gitops | 04/05 - (3.00): https [1920x1080p] Batch Name : Complete Web Development + Devops + Blockchain Cohort",
+            "video_id": 10076
+          }
+        ],
+        "sheets": [],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 38",
+        "lectures": [
+          {
+            "title": "➭ Title »  [Home] Week 39  Project class - Creating betterstack  3105 - (400)",
+            "video_id": 10078
+          },
+          {
+            "title": "[Home] [Web3] Week 38  Anchor vs Raw Contracts  1605 - (400)",
+            "video_id": 10079
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 39",
+        "lectures": [
+          {
+            "title": "[Home] [Web3] Week 39  Anchor 2 - CPIS and PDAs in anchor  2",
+            "video_id": 10080
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 40",
+        "lectures": [
+          {
+            "title": "[Home] [Web3] Week 40  PDAs in anchor, staking program  3005 (1)",
+            "video_id": 10081
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 41",
+        "lectures": [
+          {
+            "title": "[WEB3] Week 41 Private key management  0606",
+            "video_id": 10082
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 43",
+        "lectures": [
+          {
+            "title": "[WEB3] Week 43  Creating a cloud wallet  0808",
+            "video_id": 10083
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 44",
+        "lectures": [
+          {
+            "title": "Week 44.1  Telegram Bonk Bot",
+            "video_id": 10084
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 45",
+        "lectures": [
+          {
+            "title": "Week 45.1 - Wrapping up web3 cohort,  colosseum idea",
+            "video_id": 10085
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch_name": "WEBDEV",
+    "parent_batch": "HARKIRAT COHORT",
+    "channel_id": "-1003637459451",
+    "chapters": [
+      {
+        "chapter_name": "Week 1",
+        "lectures": [
+          {
+            "title": "001. 1.1 _ Web Dev _ Devops Orientation",
+            "video_id": 10089
+          },
+          {
+            "title": "002. 1.2 _ Basics of Javascript _4th Aug_ 2024",
+            "video_id": 10090
+          },
+          {
+            "title": "Introduction, Settings up IDE",
+            "video_id": 10092
+          },
+          {
+            "title": "Week 0.2 - HTML basic (Tags, Attributes)",
+            "video_id": 10093
+          },
+          {
+            "title": "Week 0.3 - CSS Basics",
+            "video_id": 10094
+          }
+        ],
+        "sheets": [
+          {
+            "name": "Slides: 001. 1.1 _ Web Dev",
+            "link": "https://projects.100xdevs.com/tracks/web-orientation/Web-Dev---Devops-Orientation-1"
+          },
+          {
+            "name": "Slides: 002. 1.2 _ Basics of Javascript _4th Aug_ 2024",
+            "link": "https://projects.100xdevs.com/tracks/javascript-1/Javascript-101-1"
+          },
+          {
+            "name": "Slides: Introduction, Settings up IDE",
+            "link": "https://slides.com/harkiratsingh-8/deck#/1"
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 2",
+        "lectures": [
+          {
+            "title": "Async JS",
+            "video_id": 10096
+          },
+          {
+            "title": ". Promises  ",
+            "video_id": 10097
+          },
+          {
+            "title": "Week 2.3. Bash and Terminals _Basics_ ",
+            "video_id": 10099
+          },
+          {
+            "title": "Week 2.4 - Bash and Terminal (Advance)",
+            "video_id": 10100
+          },
+          {
+            "title": "Week 2.5. Installing Node.js_ How to solve an assignment",
+            "video_id": 10101
+          },
+          {
+            "title": "Week 2.6 Solving VSCode Assignment ",
+            "video_id": 10102
+          },
+          {
+            "title": "Week 2.7. Callback hell_ Rejects and async_await ",
+            "video_id": 10103
+          }
+        ],
+        "sheets": [
+          {
+            "name": "Slides: Async JS",
+            "link": "https://projects.100xdevs.com/tracks/async-js-1/Asynchronous-Javascript--Callbacks-and-more-1"
+          },
+          {
+            "name": "Slides: . Promises",
+            "link": "https://projects.100xdevs.com/tracks/promises-async-await/Promises-and-async--await-1"
+          },
+          {
+            "name": "Slides: Week 2.5. Installing Node.js_ How to solve an assignment",
+            "link": "https://petal-estimate-4e9.notion.site/Installing-node-Solving-assignments-3dfb37111f9e48ca80caac66dbe97331"
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 3",
+        "lectures": [
+          {
+            "title": "DOM",
+            "video_id": 10105
+          },
+          {
+            "title": "DOM (Advance) ",
+            "video_id": 10106
+          }
+        ],
+        "sheets": [
+          {
+            "name": "Slides: DOM ",
+            "link": "https://projects.100xdevs.com/tracks/dom-1/Basics-of-DOM-1"
+          },
+          {
+            "name": "Slides: DOM (Advance)  ",
+            "link": "https://projects.100xdevs.com/tracks/dom-2/DOM-Part-2--1"
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 4",
+        "lectures": [
+          {
+            "title": "NodeJs  BUN  JS Run-Time",
+            "video_id": 10108
+          },
+          {
+            "title": "HTTP Servers        https://petal-estimate-4e9.notion.site/Node-js-Bun-and-JS-runtimes-a09a41ccd61c4f498e55750c9a1c9b34",
+            "video_id": 10109
+          },
+          {
+            "title": "017. Express and HTTP server _ Postman https://100x-b-mcdn.akamai.net.in/cohort-2-",
+            "video_id": 10111
+          },
+          {
+            "title": "018. Middleware",
+            "video_id": 10112
+          }
+        ],
+        "sheets": [
+          {
+            "name": "Slides: NodeJs  BUN  JS Run-Time [ 🅃🄴🄰🄼🅆🄾🅁🄺           https://petal-estimate-4e9.notion.site/Node-js-Bun-and-JS-runtimes-a09a41ccd61c4f498e55750c9a1c9b34",
+            "link": "https://petal-estimate-4e9.notion.site/Node-js-Bun-and-JS-runtimes-a09a41ccd61c4f498e55750c9a1c9b34"
+          },
+          {
+            "name": "Slides: HTTP Servers        https://petal-estimate-4e9.notion.site/Node-js-Bun-and-JS-runtimes-a09a41ccd61c4f498e55750c9a1c9b34",
+            "link": "https://petal-estimate-4e9.notion.site/Node-js-Bun-and-JS-runtimes-a09a41ccd61c4f498e55750c9a1c9b34"
+          },
+          {
+            "name": "Slides: 017. Express and HTTP server _ Postman https://100x-b-mcdn.akamai.net.in/cohort-2-",
+            "link": "https://100x-b-mcdn.akamai.net.in/cohort-2-slides/express2.pdf"
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 5",
+        "lectures": [
+          {
+            "title": "Headers_ Query params and Express ",
+            "video_id": 10114
+          },
+          {
+            "title": "Middlewares and cors    https://petal-estimate-4e9.notion.site/HTTP-Deep-dive-d59b6336fa5a46daa56c21063578d400",
+            "video_id": 10115
+          },
+          {
+            "title": ". Git and Github ",
+            "video_id": 10117
+          },
+          {
+            "title": "|| Filter, Map, Arrow Functions",
+            "video_id": 10118
+          },
+          {
+            "title": ". Axios vs Fetch ",
+            "video_id": 10119
+          }
+        ],
+        "sheets": [
+          {
+            "name": "Slides: Middlewares and cors    https://petal-estimate-4e9.notion.site/HTTP-Deep-dive-d59b6336fa5a46daa56c21063578d400",
+            "link": "https://petal-estimate-4e9.notion.site/HTTP-Deep-dive-d59b6336fa5a46daa56c21063578d400"
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 6",
+        "lectures": [
+          {
+            "title": "HTTP Deep dive             https://petal-estimate-4e9.notion.site/Authentincation-a4b43c7cc1d14535a7b5b366080095fa",
+            "video_id": 10121
+          },
+          {
+            "title": "Auth and connecting FE to BE ",
+            "video_id": 10122
+          },
+          {
+            "title": ". JWT and Auth Recap ",
+            "video_id": 10123
+          },
+          {
+            "title": ". Mongo Installation [ 🅃🄴🄰🄼🅆🄾🅁🄺",
+            "video_id": 10124
+          }
+        ],
+        "sheets": [
+          {
+            "name": "Slides: HTTP Deep dive             https://petal-estimate-4e9.notion.site/Authentincation-a4b43c7cc1d14535a7b5b366080095fa",
+            "link": "https://petal-estimate-4e9.notion.site/Authentincation-a4b43c7cc1d14535a7b5b366080095fa"
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 7",
+        "lectures": [
+          {
+            "title": "MongoDB    https://petal-estimate-4e9.notion.site/Databases-and-MongoDb-1017dfd107358065a996cda5ed89682e",
+            "video_id": 10126
+          },
+          {
+            "title": "|| Passwords ,Zod part-1",
+            "video_id": 10127
+          },
+          {
+            "title": "|| Passwords Zod - part-2",
+            "video_id": 10128
+          }
+        ],
+        "sheets": [
+          {
+            "name": "Slides: MongoDB    https://petal-estimate-4e9.notion.site/Databases-and-MongoDb-1017dfd107358065a996cda5ed89682e",
+            "link": "https://petal-estimate-4e9.notion.site/Databases-and-MongoDb-1017dfd107358065a996cda5ed89682e"
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 8",
+        "lectures": [
+          {
+            "title": "8_1 _ Backend of Course selling app",
+            "video_id": 10130
+          },
+          {
+            "title": "Backend of Course selling app - Part 2 ",
+            "video_id": 10131
+          },
+          {
+            "title": ". Mongo Deep dive",
+            "video_id": 10132
+          }
+        ],
+        "sheets": [
+          {
+            "name": "Slides: 8_1 _ Backend of Course selling app",
+            "link": "https://github.com/100xdevs-cohort-3/week-8-course-selling-project"
+          },
+          {
+            "name": "Slides: . Mongo Deep dive",
+            "link": "https://100x-b-mcdn.akamai.net.in/cohort-2-slides/Week_4.3.pdf"
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 9",
+        "lectures": [
+          {
+            "title": "React Basics         ",
+            "video_id": 10134
+          },
+          {
+            "title": "React useState                  ",
+            "video_id": 10135
+          },
+          {
+            "title": "(recorded) - React from basics",
+            "video_id": 10136
+          },
+          {
+            "title": "| React from basics (Part 2)",
+            "video_id": 10137
+          }
+        ],
+        "sheets": [
+          {
+            "name": "Slides: React Basics                     ",
+            "link": "https://www.canva.com/design/DAGStTo7_1Y/H-uoNlkdJ2X4P3LbOME45Q/edit"
+          },
+          {
+            "name": "Slides: React useState                   ",
+            "link": "https://petal-estimate-4e9.notion.site/React-Part-1-1177dfd1073580069172fc54e33929c0"
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 10",
+        "lectures": [
+          {
+            "title": "| React Part 2. (SPAs, routing)",
+            "video_id": 10139
+          },
+          {
+            "title": "| React Part 3 (Context API, Rolling up the state)",
+            "video_id": 10140
+          }
+        ],
+        "sheets": [],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 11",
+        "lectures": [
+          {
+            "title": "|| Custom Hooks",
+            "video_id": 10142
+          },
+          {
+            "title": "|| Recoil  ",
+            "video_id": 10143
+          },
+          {
+            "title": "|| Recoil Deep Dive - Offline  Lecture",
+            "video_id": 10144
+          }
+        ],
+        "sheets": [
+          {
+            "name": "Slides: || Recoil",
+            "link": "https://petal-estimate-4e9.notion.site/Recoil-1247dfd107358016bdb1ea1bb52e4a68"
+          },
+          {
+            "name": "Slides: || Recoil Deep Dive - Offline  Lecture",
+            "link": "https://drive.google.com/file/d/1DKFKbl35icY1LD7tIt7jGawpd7UZtZT1/view?usp=sharing"
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 12",
+        "lectures": [
+          {
+            "title": "|| Ui/Ux Primitives by Keshav - Part 1",
+            "video_id": 10146
+          },
+          {
+            "title": "| Ui/Ux Primitives by Keshav - Part 2",
+            "video_id": 10147
+          }
+        ],
+        "sheets": [
+          {
+            "name": "Slides: || Ui/Ux Primitives by Keshav - Part 1",
+            "link": "https://pricey-pyjama-7d5.notion.site/UI-UX-Primitives-12521c8092ab809bb9cfe39227759220"
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 13",
+        "lectures": [
+          {
+            "title": "Week 13.1 . Tailwind, ref arrays and building components",
+            "video_id": 10149
+          },
+          {
+            "title": "Week 13.2 . Tailwind Part 2, Creating sidebars",
+            "video_id": 10150
+          }
+        ],
+        "sheets": [],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 14",
+        "lectures": [
+          {
+            "title": "Week 14.1 _ Typescript Part 1",
+            "video_id": 10152
+          },
+          {
+            "title": "Week 14.2 _ Types, Interfaces and implementing interfaces",
+            "video_id": 10153
+          },
+          {
+            "title": "Week 14.3 _ Typescript Advance APIs",
+            "video_id": 10154
+          }
+        ],
+        "sheets": [],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 15",
+        "lectures": [
+          {
+            "title": "Week_15_1_End_to_end_app_in_typescript_building_a_second_brain_app",
+            "video_id": 10156
+          },
+          {
+            "title": "Week 15.2 _ Creating a UI Library, Button component",
+            "video_id": 10157
+          },
+          {
+            "title": "Brainly end to end",
+            "video_id": 10158
+          }
+        ],
+        "sheets": [],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 16",
+        "lectures": [
+          {
+            "title": "Week 16.1 _ Websockets ",
+            "video_id": 10160
+          },
+          {
+            "title": "WebSockets Project - Chat app",
+            "video_id": 10161
+          }
+        ],
+        "sheets": [
+          {
+            "name": "Slides: Week 16.1 _ Websockets ",
+            "link": "https://petal-estimate-4e9.notion.site/WebSockets-1477dfd10735802982becc925074b5f0"
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 17",
+        "lectures": [
+          {
+            "title": "Week 17.1 _ Postgres and SQL databases ",
+            "video_id": 10163
+          },
+          {
+            "title": "Week 17.2 _ Postgres and SQL databases - Part 2",
+            "video_id": 10164
+          }
+        ],
+        "sheets": [
+          {
+            "name": "Slides: Week 17.1 _ Postgres and SQL databases",
+            "link": "https://projects.100xdevs.com/tracks/YOSAherHkqWXhOdlE4yE/sql-1"
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 18",
+        "lectures": [
+          {
+            "title": "Prisma and ORMs",
+            "video_id": 10166
+          },
+          {
+            "title": "Week 18.2 _ Prisma advanced , introducing SSR",
+            "video_id": 10167
+          }
+        ],
+        "sheets": [
+          {
+            "name": "Assignment Posted here",
+            "id": 10168,
+            "link": "https://github.com/100xdevs-cohort-3/assignments"
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 19",
+        "lectures": [
+          {
+            "title": "Week 19.1 Next Js Continuation.   Lectures",
+            "video_id": 10170
+          }
+        ],
+        "sheets": [
+          {
+            "name": "Slides: Week 19.1 Next Js Continuation.   Lectures",
+            "link": "https://projects.100xdevs.com/tracks/nextjs-2/next-2-1"
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 20",
+        "lectures": [
+          {
+            "title": "Week 20.1_Next.js Continued",
+            "video_id": 10172
+          },
+          {
+            "title": "Week 20.2 Next Auth",
+            "video_id": 10173
+          }
+        ],
+        "sheets": [
+          {
+            "name": "Slides: Week 20.1_Next.js Continued",
+            "link": "https://petal-estimate-4e9.notion.site/NextJS-Part-3-1637dfd107358090800ff3aaed7a5b3c"
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 21",
+        "lectures": [
+          {
+            "title": "Week 21.1_Mono repos and turborepoNotes",
+            "video_id": 10175
+          },
+          {
+            "title": "Week 21.2 Monorepos Terepero ( Better Quality)",
+            "video_id": 10176
+          },
+          {
+            "title": "Week 21.3. CSR vs SSR STATIC SITE  GENERATION",
+            "video_id": 10177
+          },
+          {
+            "title": "Week 21.4 Building PayTm Project",
+            "video_id": 10178
+          },
+          {
+            "title": "Week 21.5 PayTm Frontend",
+            "video_id": 10179
+          }
+        ],
+        "sheets": [
+          {
+            "name": "Slides: Week 21.1_Mono repos and turborepoNotes",
+            "link": "https://petal-estimate-4e9.notion.site/Monorepos-b40e9c44a2ee4fe3badc3883841fc2c0"
+          }
+        ],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 22",
+        "lectures": [
+          {
+            "title": "Week 22.1 _ End to End - Project #1 - Excalidraw 🅃🄴🄰🄼🅆🄾🅁🄺",
+            "video_id": 10181
+          },
+          {
+            "title": "Week 22.2 _ End to End - Project #1 - Excalidraw Part-2 🅃🄴🄰🄼🅆🄾🅁🄺",
+            "video_id": 10182
+          }
+        ],
+        "sheets": [],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 23",
+        "lectures": [
+          {
+            "title": "Week 23.1 _ Excalidraw Part 3",
+            "video_id": 10184
+          },
+          {
+            "title": "Week 23.2 _ Excalidraw Part 4",
+            "video_id": 10185
+          }
+        ],
+        "sheets": [],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 24",
+        "lectures": [
+          {
+            "title": "||Starting Devops , VMs",
+            "video_id": 10187
+          },
+          {
+            "title": "|| Reverse Proxies Process Management and Deployment",
+            "video_id": 10188
+          }
+        ],
+        "sheets": [],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 25",
+        "lectures": [
+          {
+            "title": "||process management and CI_CD _ 01_02",
+            "video_id": 10190
+          },
+          {
+            "title": "||Continuing_CI,_certificate_management_and_testing_02_02",
+            "video_id": 10191
+          },
+          {
+            "title": "[Devops From Cohort-2] Certificate Management",
+            "video_id": 10192
+          }
+        ],
+        "sheets": [],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 26",
+        "lectures": [
+          {
+            "title": "|| Starting Docker",
+            "video_id": 10194
+          },
+          {
+            "title": "|| Docker Part-2",
+            "video_id": 10195
+          }
+        ],
+        "sheets": [],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 27",
+        "lectures": [
+          {
+            "title": "|| Docker compose CI CD with docker",
+            "video_id": 10197
+          },
+          {
+            "title": "|| Implementation stream Deploying a_monorepo_using_docker",
+            "video_id": 10198
+          }
+        ],
+        "sheets": [],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 28",
+        "lectures": [
+          {
+            "title": "||  Vertical and horizontal scaling, ASGs",
+            "video_id": 10200
+          },
+          {
+            "title": "|| Autoscaling Groups",
+            "video_id": 10201
+          }
+        ],
+        "sheets": [],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 29",
+        "lectures": [
+          {
+            "title": "||Building a autoscaling orchestrator_for_Bolt_Project_class",
+            "video_id": 10203
+          }
+        ],
+        "sheets": [],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 30",
+        "lectures": [
+          {
+            "title": "|| AWS ERC, ECS and container orchestation",
+            "video_id": 10205
+          },
+          {
+            "title": "|| Monitoring and Newrelic",
+            "video_id": 10206
+          }
+        ],
+        "sheets": [],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 31",
+        "lectures": [
+          {
+            "title": "|| Monitoring, prometheus and grafana",
+            "video_id": 10208
+          }
+        ],
+        "sheets": [],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 32",
+        "lectures": [
+          {
+            "title": "|| Prometheus and Grafana Part-2",
+            "video_id": 10210
+          }
+        ],
+        "sheets": [],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 33",
+        "lectures": [
+          {
+            "title": "|| Serverless",
+            "video_id": 10212
+          },
+          {
+            "title": "||Kubernetes_Architecture,_Control_Plane,_Worker_Nodes,",
+            "video_id": 10213
+          }
+        ],
+        "sheets": [],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 34",
+        "lectures": [
+          {
+            "title": "||  Kubernetes Part - 2",
+            "video_id": 10215
+          },
+          {
+            "title": "||  Kubernetes Part - 3",
+            "video_id": 10216
+          }
+        ],
+        "sheets": [],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 35",
+        "lectures": [
+          {
+            "title": "|| Namespaces, clusterip and ingress",
+            "video_id": 10218
+          },
+          {
+            "title": "|| CPIs and liteSVM",
+            "video_id": 10219
+          }
+        ],
+        "sheets": [],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 36",
+        "lectures": [
+          {
+            "title": "|| secrets ,  configmaps and ingression",
+            "video_id": 10221
+          },
+          {
+            "title": "Video Title : Week 36.2 | Secrets and Configmap part-2 - (3.00)",
+            "video_id": 10222
+          },
+          {
+            "title": "Video Title : week 36.2 | PV and PVC | offline video - (3.00)",
+            "video_id": 10223
+          },
+          {
+            "title": "Video Title : Week 36.2 | CPI | Offline - (3.00)",
+            "video_id": 10224
+          }
+        ],
+        "sheets": [],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 37",
+        "lectures": [
+          {
+            "title": "Video Title : Week 37.1 | Horizontal pod autosaceler, node autoscaler | 03/04 - (3.00): https [1920x1080p] Batch Name : Complete Web Development + Devops + Blockchain Cohort🅃🄴🄰🄼🅆🄾🅁🄺",
+            "video_id": 10226
+          },
+          {
+            "title": "Video Title : week 37.2 | ArgoCD and Gitops | 04/05 - (3.00): https [1920x1080p] Batch Name : Complete Web Development + Devops + Blockchain Cohort🅃🄴🄰🄼🅆🄾🅁🄺",
+            "video_id": 10227
+          }
+        ],
+        "sheets": [],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 39",
+        "lectures": [
+          {
+            "title": "Week 39  Project class - Creating betterstack  3105🅃🄴🄰🄼🅆🄾🅁🄺",
+            "video_id": 10231
+          }
+        ],
+        "sheets": [],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 40",
+        "lectures": [
+          {
+            "title": "Week 40.1  Creating betterstack in Rust",
+            "video_id": 10233
+          }
+        ],
+        "sheets": [],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 41",
+        "lectures": [
+          {
+            "title": "Week 41.1  Project Review Class",
+            "video_id": 10235
+          },
+          {
+            "title": "Week 41.2  Betterstack part 3  offline video",
+            "video_id": 10236
+          }
+        ],
+        "sheets": [],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 42",
+        "lectures": [
+          {
+            "title": "Week 42.1  Async Backend Communication and Redis streams  Bet",
+            "video_id": 10238
+          }
+        ],
+        "sheets": [],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 43",
+        "lectures": [
+          {
+            "title": "Week 43.1  Adding worker and Pusher using redis streams in Ja",
+            "video_id": 10240
+          },
+          {
+            "title": "Week 43.2  Finishing the frontend  offline video",
+            "video_id": 10241
+          }
+        ],
+        "sheets": [],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 44",
+        "lectures": [
+          {
+            "title": "➭ Title » Week 44.1  Scaling HTTP Servers and WS Servers",
+            "video_id": 10243
+          }
+        ],
+        "sheets": [],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 45",
+        "lectures": [
+          {
+            "title": "openAPI spec, Autogenerated clients, Rate Limiting",
+            "video_id": 10245
+          }
+        ],
+        "sheets": [],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 46",
+        "lectures": [
+          {
+            "title": "Performance Benchmarks - Rust vs Go vs JavaScript",
+            "video_id": 10247
+          }
+        ],
+        "sheets": [],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 47",
+        "lectures": [
+          {
+            "title": "Rate Limiting, DDoS and Captcha",
+            "video_id": 10249
+          }
+        ],
+        "sheets": [],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 48",
+        "lectures": [
+          {
+            "title": "Deploy Anything with Coolify  Offline video",
+            "video_id": 10251
+          }
+        ],
+        "sheets": [],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 49",
+        "lectures": [
+          {
+            "title": "| Building Codeforces",
+            "video_id": 10253
+          }
+        ],
+        "sheets": [],
+        "dpps": []
+      },
+      {
+        "chapter_name": "Week 50",
+        "lectures": [
+          {
+            "title": "Continuing the project platform",
+            "video_id": 10255
+          },
+          {
+            "title": "➭ Title » Week 51.1  Sharding, Replication and System Design  Offline Video - ( Super 30 )",
+            "video_id": 10256
+          }
+        ],
+        "sheets": [],
+        "dpps": []
+      }
+    ]
+  }
+]

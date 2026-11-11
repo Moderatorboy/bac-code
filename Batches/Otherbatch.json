@@ -1,0 +1,5062 @@
+[
+  {
+    "batch_name": "ENGG MATHS I",
+    "parent_batch": "GATEWAY 1ST YEAR",
+    "channel_id": "-1003875077565",
+    "chapters": [
+      {
+        "chapter_name": "AKTU BTech I-Year Syllabus",
+        "lectures": [
+          {
+            "lec_no": "L-03",
+            "title": "AKTU BTech I-Year Syllabus",
+            "notes_id": 3
+          }
+        ]
+      },
+      {
+        "chapter_name": "AKTU 2023-24 Even & Odd Question Papers",
+        "lectures": [
+          {
+            "lec_no": "L-04",
+            "title": "Even QPapers - Electrical 2023-24 Even Sempdf",
+            "notes_id": 4
+          },
+          {
+            "lec_no": "L-05",
+            "title": "Even QPapers - Electronics 2023-24 Even Sempdf",
+            "notes_id": 5
+          },
+          {
+            "lec_no": "L-06",
+            "title": "Even QPapers - EVS 2023-24 Even Sempdf",
+            "notes_id": 6
+          },
+          {
+            "lec_no": "L-07",
+            "title": "Even QPapers - Maths-II 2023-24 Even Sempdf",
+            "notes_id": 7
+          },
+          {
+            "lec_no": "L-08",
+            "title": "Even QPapers - Mechanical 2023-24 Even Sempdf",
+            "notes_id": 8
+          },
+          {
+            "lec_no": "L-09",
+            "title": "Even QPapers - Physics 2023-24 Even Sempdf",
+            "notes_id": 9
+          },
+          {
+            "lec_no": "L-10",
+            "title": "Even QPapers - PPS 2023-24 Even Sempdf",
+            "notes_id": 10
+          },
+          {
+            "lec_no": "L-11",
+            "title": "Even QPapers - Soft Skill 2023-24 Even Sempdf",
+            "notes_id": 11
+          },
+          {
+            "lec_no": "L-12",
+            "title": "Odd QPapers - Chemistry 2023-24 Odd Sempdf",
+            "notes_id": 12
+          },
+          {
+            "lec_no": "L-13",
+            "title": "Odd QPapers - Electrical 2023-24 Odd Sempdf",
+            "notes_id": 13
+          },
+          {
+            "lec_no": "L-14",
+            "title": "Odd QPapers - Electronics 2023-24 Odd Sempdf",
+            "notes_id": 14
+          },
+          {
+            "lec_no": "L-15",
+            "title": "Odd QPapers - EVS 2023-24 Odd Sempdf",
+            "notes_id": 15
+          },
+          {
+            "lec_no": "L-16",
+            "title": "Odd QPapers - Maths-I 2023-24 Odd Sempdf",
+            "notes_id": 16
+          },
+          {
+            "lec_no": "L-17",
+            "title": "Odd QPapers - Mechanical 2023-24 Odd Sempdf",
+            "notes_id": 17
+          },
+          {
+            "lec_no": "L-18",
+            "title": "Odd QPapers - Physics 2023-24 Odd Sempdf",
+            "notes_id": 18
+          },
+          {
+            "lec_no": "L-19",
+            "title": "Odd QPapers - PPS 2023-24 Odd Sempdf",
+            "notes_id": 19
+          },
+          {
+            "lec_no": "L-20",
+            "title": "Odd QPapers - Soft Skill 2023-24 Odd Sempdf",
+            "notes_id": 20
+          }
+        ]
+      },
+      {
+        "chapter_name": "AKTU 2022-23 Even & Odd Question Papers",
+        "lectures": [
+          null,
+          {
+            "lec_no": "L-21",
+            "title": "Even QPapers - Chemistry 2022-23 Even Sempdf",
+            "notes_id": 21
+          },
+          {
+            "lec_no": "L-22",
+            "title": "Even QPapers - Electrical 2022-23 Even Sempdf",
+            "notes_id": 22
+          },
+          {
+            "lec_no": "L-23",
+            "title": "Even QPapers - Electronics 2022-23 Even Sempdf",
+            "notes_id": 23
+          },
+          {
+            "lec_no": "L-24",
+            "title": "Even QPapers - EVS 2022-23 Even Sempdf",
+            "notes_id": 24
+          },
+          {
+            "lec_no": "L-25",
+            "title": "Even QPapers - Maths-II 2022-23 Even Sempdf",
+            "notes_id": 25
+          },
+          {
+            "lec_no": "L-26",
+            "title": "Even QPapers - Mechanical 2022-23 Even Sempdf",
+            "notes_id": 26
+          },
+          {
+            "lec_no": "L-27",
+            "title": "Even QPapers - Physics 2022-23 Even Sempdf",
+            "notes_id": 27
+          },
+          {
+            "lec_no": "L-28",
+            "title": "Even QPapers - PPS 2022-23 Even Sempdf",
+            "notes_id": 28
+          },
+          {
+            "lec_no": "L-29",
+            "title": "Even QPapers - Soft Skill 2022-23 Even Sempdf",
+            "notes_id": 29
+          },
+          {
+            "lec_no": "L-30",
+            "title": "Odd QPapers - Chemistry 2022-23 Odd Sempdf",
+            "notes_id": 30
+          },
+          {
+            "lec_no": "L-31",
+            "title": "Odd QPapers - Electrical 2022-23 Odd Sempdf",
+            "notes_id": 31
+          },
+          {
+            "lec_no": "L-32",
+            "title": "Odd QPapers - Electronics 2022-23 Odd Sempdf",
+            "notes_id": 32
+          },
+          {
+            "lec_no": "L-33",
+            "title": "Odd QPapers - EVS 2022-23 Odd Sempdf",
+            "notes_id": 33
+          },
+          {
+            "lec_no": "L-34",
+            "title": "Odd QPapers - Maths-I 2022-23 Odd Sempdf",
+            "notes_id": 34
+          },
+          {
+            "lec_no": "L-35",
+            "title": "Odd QPapers - Mechanical 2022-23 Odd Sempdf",
+            "notes_id": 35
+          },
+          {
+            "lec_no": "L-36",
+            "title": "Odd QPapers - Physics 2022-23 Odd Sempdf",
+            "notes_id": 36
+          },
+          {
+            "lec_no": "L-37",
+            "title": "Odd QPapers - PPS 2022-23 Odd Sempdf",
+            "notes_id": 37
+          },
+          {
+            "lec_no": "L-38",
+            "title": "Odd QPapers - Soft Skill 2022-23 Odd Sempdf",
+            "notes_id": 38
+          }
+        ]
+      },
+      {
+        "chapter_name": "Engg Maths-I - M-I UNIT-I U-1",
+        "lectures": [
+          {
+            "lec_no": "L-46",
+            "title": "Syllabus Introduction ",
+            "video_id": 1307
+          },
+          {
+            "lec_no": "L-47",
+            "title": "Basics of Matrix ",
+            "video_id": 1308,
+            "notes_id": 48
+          },
+          {
+            "lec_no": "L-49",
+            "title": "Lecture - 01 ",
+            "video_id": 1309,
+            "notes_id": 50
+          },
+          {
+            "lec_no": "L-52",
+            "title": "Lecture - 02 ",
+            "video_id": 1310,
+            "notes_id": 53
+          },
+          {
+            "lec_no": "L-55",
+            "title": "Lecture - 03 ",
+            "video_id": 1311,
+            "notes_id": 56
+          },
+          {
+            "lec_no": "L-58",
+            "title": "Lecture - 04 ",
+            "video_id": 1312,
+            "notes_id": 59
+          },
+          {
+            "lec_no": "L-61",
+            "title": "Lecture - 05 ",
+            "video_id": 1313,
+            "notes_id": 62
+          },
+          {
+            "lec_no": "L-64",
+            "title": "Lecture - 06 ",
+            "video_id": 1314,
+            "notes_id": 65
+          },
+          {
+            "lec_no": "L-67",
+            "title": "Lecture - 07 ",
+            "video_id": 1315,
+            "notes_id": 68
+          },
+          {
+            "lec_no": "L-69",
+            "title": "Lecture - 08 ",
+            "video_id": 1317,
+            "notes_id": 70
+          },
+          {
+            "lec_no": "L-71",
+            "title": "Lecture - 09 ",
+            "video_id": 1318,
+            "notes_id": 72
+          },
+          {
+            "lec_no": "L-73",
+            "title": "Lecture - 10 ",
+            "video_id": 1320,
+            "notes_id": 74
+          },
+          {
+            "lec_no": "L-75",
+            "title": "Lecture - 11 ",
+            "video_id": 1319,
+            "notes_id": 76
+          },
+          {
+            "lec_no": "L-77",
+            "title": "Lecture - 12 ",
+            "video_id": 1321,
+            "notes_id": 78
+          }
+        ],
+        "dpps": [
+          {
+            "lec_no": "L-51",
+            "title": "Lecture - 01 DPP Solution",
+            "notes_id": 51
+          },
+          {
+            "lec_no": "L-54",
+            "title": "Lecture - 02 DPP Solution",
+            "notes_id": 54
+          },
+          {
+            "lec_no": "L-57",
+            "title": "Lecture - 03 DPP Solution",
+            "notes_id": 57
+          },
+          {
+            "lec_no": "L-60",
+            "title": "Lecture - 04 DPP Solution",
+            "notes_id": 60
+          },
+          {
+            "lec_no": "L-63",
+            "title": "Lecture - 05 DPP Solution",
+            "notes_id": 63
+          },
+          {
+            "lec_no": "L-66",
+            "title": "Lecture - 06 DPP Solution",
+            "notes_id": 66
+          }
+        ],
+        "sheets": []
+      },
+      {
+        "chapter_name": "Engg Maths-I - M-I UNIT-2",
+        "lectures": [
+          {
+            "lec_no": "L-80",
+            "title": " BASIC FORMULAE OF DIFFERENTIATION ",
+            "video_id": 1322
+          },
+          {
+            "lec_no": "L-81",
+            "title": " BASIC FORMULAE OF TRIGONOMETRY ",
+            "video_id": 1323,
+            "notes_id": 83
+          },
+          {
+            "lec_no": "L-84",
+            "title": " Lecture - 01 ",
+            "video_id": 1325,
+            "notes_id": 85
+          },
+          {
+            "lec_no": "L-86",
+            "title": " Lecture - 02 ",
+            "video_id": 1324,
+            "notes_id": 87
+          },
+          {
+            "lec_no": "L-88",
+            "title": " Lecture - 03 ",
+            "video_id": 1326,
+            "notes_id": 89
+          },
+          {
+            "lec_no": "L-90",
+            "title": " Lecture - 04 ",
+            "video_id": 1327,
+            "notes_id": 91
+          },
+          {
+            "lec_no": "L-92",
+            "title": " Lecture - 05 ",
+            "video_id": 1329,
+            "notes_id": 93
+          },
+          {
+            "lec_no": "L-94",
+            "title": " Lecture - 06 ",
+            "video_id": 1328,
+            "notes_id": 95
+          },
+          {
+            "lec_no": "L-96",
+            "title": " Lecture - 07 ",
+            "video_id": 1333,
+            "notes_id": 97
+          },
+          {
+            "lec_no": "L-98",
+            "title": " Lecture - 08 ",
+            "video_id": 1330,
+            "notes_id": 99
+          },
+          {
+            "lec_no": "L-100",
+            "title": " Lecture - 09 ",
+            "video_id": 1331,
+            "notes_id": 101
+          },
+          {
+            "lec_no": "L-102",
+            "title": " Lecture - 010 ",
+            "video_id": 1332,
+            "notes_id": 103
+          },
+          {
+            "lec_no": "L-104",
+            "title": " Lecture - 011 ",
+            "video_id": 1337,
+            "notes_id": 105
+          },
+          {
+            "lec_no": "L-106",
+            "title": "Curve Tracing - M-1 U-2 Lecture - 12 Curve Tracing ",
+            "video_id": 1336,
+            "notes_id": 107
+          },
+          {
+            "lec_no": "L-108",
+            "title": "Curve Tracing - M-1 U-2 Lecture - 13 Curve Tracing ",
+            "video_id": 1335,
+            "notes_id": 109
+          },
+          {
+            "lec_no": "L-110",
+            "title": "Curve Tracing - M-1 U-2 Lecture - 14 Curve Tracing ",
+            "video_id": 1334,
+            "notes_id": 111
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-82",
+            "title": "10 Years Topic Unit wise PYQs with Ans",
+            "notes_id": 82
+          },
+          {
+            "lec_no": "L-79",
+            "title": "Combined Notes",
+            "notes_id": 79
+          }
+        ]
+      },
+      {
+        "chapter_name": "Engg Maths-I - M-I UNIT-3",
+        "lectures": [
+          {
+            "lec_no": "L-115",
+            "title": "Lecture - 01 ",
+            "video_id": 1338,
+            "notes_id": 116
+          },
+          {
+            "lec_no": "L-117",
+            "title": "Lecture - 02 ",
+            "video_id": 1344,
+            "notes_id": 118
+          },
+          {
+            "lec_no": "L-119",
+            "title": "Lecture - 03 ",
+            "video_id": 1340,
+            "notes_id": 120
+          },
+          {
+            "lec_no": "L-121",
+            "title": "Lecture - 04 ",
+            "video_id": 1339,
+            "notes_id": 122
+          },
+          {
+            "lec_no": "L-123",
+            "title": "Lecture - 05 ",
+            "video_id": 1341,
+            "notes_id": 124
+          },
+          {
+            "lec_no": "L-125",
+            "title": "Lecture - 06 ",
+            "video_id": 1342,
+            "notes_id": 126
+          },
+          {
+            "lec_no": "L-127",
+            "title": "Lecture - 07 ",
+            "video_id": 1343,
+            "notes_id": 128
+          },
+          {
+            "lec_no": "L-129",
+            "title": "Lecture - 08 ",
+            "video_id": 1345,
+            "notes_id": 130
+          },
+          {
+            "lec_no": "L-131",
+            "title": "Lecture - 09 ",
+            "video_id": 1347,
+            "notes_id": 132
+          },
+          {
+            "lec_no": "L-133",
+            "title": "Lecture - 010 ",
+            "video_id": 1346,
+            "notes_id": 134
+          },
+          {
+            "lec_no": "L-135",
+            "title": "Lecture - 011 ",
+            "video_id": 1352,
+            "notes_id": 136
+          }
+        ],
+        "dpps": [
+          {
+            "lec_no": "L-113",
+            "title": "Unit - 03 DPP Solution",
+            "notes_id": 113
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-112",
+            "title": "Combined Notes",
+            "notes_id": 112
+          },
+          {
+            "lec_no": "L-82",
+            "title": "10 Years PYQs Topic Unit wise PYQs with Ans",
+            "notes_id": 114
+          }
+        ]
+      },
+      {
+        "chapter_name": "Engg Maths-I - M-I UNIT-4",
+        "lectures": [
+          {
+            "lec_no": "L-138",
+            "title": "Basic formulae Of Integration ",
+            "video_id": 1348,
+            "notes_id": 140
+          },
+          {
+            "lec_no": "L-141",
+            "title": "Lecture - 01 ",
+            "video_id": 1349,
+            "notes_id": 142
+          },
+          {
+            "lec_no": "L-143",
+            "title": "Lecture - 02 ",
+            "video_id": 1350,
+            "notes_id": 144
+          },
+          {
+            "lec_no": "L-145",
+            "title": "Lecture - 03 ",
+            "video_id": 1351,
+            "notes_id": 146
+          },
+          {
+            "lec_no": "L-147",
+            "title": "Lecture - 04 ",
+            "video_id": 1354,
+            "notes_id": 148
+          },
+          {
+            "lec_no": "L-149",
+            "title": "Lecture - 05 ",
+            "video_id": 1355,
+            "notes_id": 150
+          },
+          {
+            "lec_no": "L-151",
+            "title": "Lecture - 06 ",
+            "video_id": 1353,
+            "notes_id": 152
+          },
+          {
+            "lec_no": "L-153",
+            "title": "Lecture - 07 ",
+            "video_id": 1356,
+            "notes_id": 154
+          },
+          {
+            "lec_no": "L-155",
+            "title": "Lecture - 08 ",
+            "video_id": 1357,
+            "notes_id": 156
+          },
+          {
+            "lec_no": "L-157",
+            "title": "Lecture - 09 ",
+            "video_id": 1358,
+            "notes_id": 158
+          },
+          {
+            "lec_no": "L-159",
+            "title": "Lecture - 10 ",
+            "video_id": 1359,
+            "notes_id": 160
+          },
+          {
+            "lec_no": "L-161",
+            "title": "Lecture - 11 ",
+            "video_id": 1360,
+            "notes_id": 162
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-112",
+            "title": "Combined Notes",
+            "notes_id": 137
+          },
+          {
+            "lec_no": "L-82",
+            "title": "10 Years PYQs Topic Unit wise PYQs with Ans",
+            "notes_id": 139
+          }
+        ]
+      },
+      {
+        "chapter_name": "Engg Maths-I - M-I UNIT-5",
+        "lectures": [
+          {
+            "lec_no": "L-166",
+            "title": "Basic formulae of vectors ",
+            "video_id": 1361,
+            "notes_id": 167
+          },
+          {
+            "lec_no": "L-168",
+            "title": "Lecture - 01 ",
+            "video_id": 1362,
+            "notes_id": 169
+          },
+          {
+            "lec_no": "L-170",
+            "title": "Lecture - 02 ",
+            "video_id": 1363,
+            "notes_id": 171
+          },
+          {
+            "lec_no": "L-172",
+            "title": "Lecture - 03 ",
+            "video_id": 1364,
+            "notes_id": 173
+          },
+          {
+            "lec_no": "L-174",
+            "title": "Lecture - 04 ",
+            "video_id": 1366,
+            "notes_id": 175
+          },
+          {
+            "lec_no": "L-176",
+            "title": "Lecture - 05 ",
+            "video_id": 1365,
+            "notes_id": 177
+          },
+          {
+            "lec_no": "L-178",
+            "title": "Lecture - 06 ",
+            "video_id": 1367,
+            "notes_id": 179
+          },
+          {
+            "lec_no": "L-180",
+            "title": "Lecture - 07 ",
+            "video_id": 1373,
+            "notes_id": 181
+          },
+          {
+            "lec_no": "L-182",
+            "title": "Lecture - 08 ",
+            "video_id": 1368,
+            "notes_id": 183
+          }
+        ],
+        "dpps": [
+          {
+            "lec_no": "L-165",
+            "title": "Unit - 05 DPP Solution",
+            "notes_id": 165
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-163",
+            "title": "Combined Notes",
+            "notes_id": 163
+          },
+          {
+            "lec_no": "L-164",
+            "title": "10 Years PYQs Topic Unit wise PYQs with Ans",
+            "notes_id": 164
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch_name": "ENGG MATHS II",
+    "parent_batch": "GATEWAY 1ST YEAR",
+    "channel_id": "-1003875077565",
+    "chapters": [
+      {
+        "chapter_name": "Engg Maths-II - UNIT-1",
+        "lectures": [
+          {
+            "lec_no": "L-184",
+            "title": "SYLLABUS INTRO",
+            "video_id": 1369
+          },
+          {
+            "lec_no": "L-185",
+            "title": "How to score good marks in M-2",
+            "video_id": 1370
+          },
+          {
+            "lec_no": "L-186",
+            "title": "Basic Formulae ",
+            "video_id": 1371,
+            "notes_id": 187
+          },
+          {
+            "lec_no": "L-190",
+            "title": "Lecture - 01 ",
+            "video_id": 1372,
+            "notes_id": 191
+          },
+          {
+            "lec_no": "L-194",
+            "title": "Lecture - 02 ",
+            "video_id": 1374,
+            "notes_id": 195
+          },
+          {
+            "lec_no": "L-198",
+            "title": "Lecture - 03 ",
+            "video_id": 1376,
+            "notes_id": 199
+          },
+          {
+            "lec_no": "L-202",
+            "title": "Lecture - 04 ",
+            "video_id": 1377,
+            "notes_id": 203
+          },
+          {
+            "lec_no": "L-206",
+            "title": "Lecture - 05 ",
+            "video_id": 1375,
+            "notes_id": 207
+          },
+          {
+            "lec_no": "L-210",
+            "title": "Lecture - 06 ",
+            "video_id": 1379,
+            "notes_id": 211
+          },
+          {
+            "lec_no": "L-214",
+            "title": "Lecture - 07 ",
+            "video_id": 1378,
+            "notes_id": 215
+          },
+          {
+            "lec_no": "L-218",
+            "title": " Lecture - 08 ",
+            "video_id": 1380,
+            "notes_id": 219
+          },
+          {
+            "lec_no": "L-222",
+            "title": " Lecture - 09 ",
+            "video_id": 1381,
+            "notes_id": 223
+          },
+          {
+            "lec_no": "L-226",
+            "title": "Lecture - 10 ",
+            "video_id": 1382,
+            "notes_id": 227
+          },
+          {
+            "lec_no": "L-230",
+            "title": "Lecture - 11 ",
+            "video_id": 1386,
+            "notes_id": 231
+          },
+          {
+            "lec_no": "L-234",
+            "title": "Lecture - 12 ",
+            "video_id": 1388,
+            "notes_id": 235
+          },
+          {
+            "lec_no": "L-238",
+            "title": "Lecture - 13 ",
+            "video_id": 1383,
+            "notes_id": 239
+          },
+          {
+            "lec_no": "L-242",
+            "title": "Lecture - 14 ",
+            "video_id": 1385,
+            "notes_id": 243
+          },
+          {
+            "lec_no": "L-423",
+            "title": "ONE SHOT REVISION",
+            "video_id": 1426,
+            "notes_id": 424
+          }
+        ],
+        "dpps": [
+          {
+            "lec_no": "L-192",
+            "title": "DPP 01",
+            "notes_id": 192
+          },
+          {
+            "lec_no": "L-193",
+            "title": "DPP 01 Solution",
+            "notes_id": 193
+          },
+          {
+            "lec_no": "L-196",
+            "title": "DPP 02",
+            "notes_id": 196
+          },
+          {
+            "lec_no": "L-197",
+            "title": "DPP 02 Solution",
+            "notes_id": 197
+          },
+          {
+            "lec_no": "L-200",
+            "title": "DPP 03",
+            "notes_id": 200
+          },
+          {
+            "lec_no": "L-201",
+            "title": "DPP 03 Solution",
+            "notes_id": 201
+          },
+          {
+            "lec_no": "L-204",
+            "title": " DPP-4",
+            "notes_id": 204
+          },
+          {
+            "lec_no": "L-205",
+            "title": " DPP-4 Solution",
+            "notes_id": 205
+          },
+          {
+            "lec_no": "L-208",
+            "title": " DPP-5",
+            "notes_id": 208
+          },
+          {
+            "lec_no": "L-209",
+            "title": " DPP-5 Solution",
+            "notes_id": 209
+          },
+          {
+            "lec_no": "L-212",
+            "title": " DPP-6",
+            "notes_id": 212
+          },
+          {
+            "lec_no": "L-213",
+            "title": " DPP-6 Solution",
+            "notes_id": 213
+          },
+          {
+            "lec_no": "L-216",
+            "title": " DPP-7",
+            "notes_id": 216
+          },
+          {
+            "lec_no": "L-217",
+            "title": " DPP-7 Solution",
+            "notes_id": 217
+          },
+          {
+            "lec_no": "L-220",
+            "title": " DPP-8",
+            "notes_id": 220
+          },
+          {
+            "lec_no": "L-221",
+            "title": " DPP-8 Solution",
+            "notes_id": 221
+          },
+          {
+            "lec_no": "L-224",
+            "title": " DPP-9",
+            "notes_id": 224
+          },
+          {
+            "lec_no": "L-225",
+            "title": " DPP-9 Solution",
+            "notes_id": 225
+          },
+          {
+            "lec_no": "L-228",
+            "title": " DPP-10",
+            "notes_id": 228
+          },
+          {
+            "lec_no": "L-229",
+            "title": " DPP-10 Solution",
+            "notes_id": 229
+          },
+          {
+            "lec_no": "L-232",
+            "title": " DPP-11",
+            "notes_id": 232
+          },
+          {
+            "lec_no": "L-233",
+            "title": " DPP-11 Solution",
+            "notes_id": 233
+          },
+          {
+            "lec_no": "L-236",
+            "title": " DPP-12",
+            "notes_id": 236
+          },
+          {
+            "lec_no": "L-237",
+            "title": " DPP-12 Solution",
+            "notes_id": 237
+          },
+          {
+            "lec_no": "L-240",
+            "title": " DPP-13",
+            "notes_id": 240
+          },
+          {
+            "lec_no": "L-241",
+            "title": " DPP-13 Solution",
+            "notes_id": 241
+          },
+          {
+            "lec_no": "L-244",
+            "title": " DPP-14",
+            "notes_id": 244
+          },
+          {
+            "lec_no": "L-245",
+            "title": " DPP-14 Solution",
+            "notes_id": 245
+          },
+          {
+            "lec_no": "L-418",
+            "title": "COMBINED DPP SOLUTION",
+            "notes_id": 418
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-188",
+            "title": "Combined Notes",
+            "notes_id": 188
+          },
+          {
+            "lec_no": "L-189",
+            "title": "Hand Written Notes",
+            "notes_id": 189
+          }
+        ]
+      },
+      {
+        "chapter_name": "Engg Maths-II - UNIT-2",
+        "lectures": [
+          {
+            "lec_no": "L-248",
+            "title": "Lecture - 01 ",
+            "video_id": 1384,
+            "notes_id": 249
+          },
+          {
+            "lec_no": "L-252",
+            "title": "Lecture - 02 ",
+            "video_id": 1387,
+            "notes_id": 253
+          },
+          {
+            "lec_no": "L-256",
+            "title": "Lecture - 03 ",
+            "video_id": 1389,
+            "notes_id": 257
+          },
+          {
+            "lec_no": "L-259",
+            "title": "Lecture - 04 ",
+            "video_id": 1394,
+            "notes_id": 260
+          },
+          {
+            "lec_no": "L-262",
+            "title": "Lecture - 05 ",
+            "video_id": 1390,
+            "notes_id": 263
+          },
+          {
+            "lec_no": "L-265",
+            "title": "Lecture - 06 ",
+            "video_id": 1391,
+            "notes_id": 266
+          },
+          {
+            "lec_no": "L-268",
+            "title": "Lecture - 07 ",
+            "video_id": 1392,
+            "notes_id": 269
+          },
+          {
+            "lec_no": "L-271",
+            "title": "Lecture - 08 ",
+            "video_id": 1393,
+            "notes_id": 272
+          },
+          {
+            "lec_no": "L-274",
+            "title": "Lecture - 09 ",
+            "video_id": 1395,
+            "notes_id": 275
+          },
+          {
+            "lec_no": "L-277",
+            "title": "Lecture - 10 ",
+            "video_id": 1396,
+            "notes_id": 278
+          },
+          {
+            "lec_no": "L-280",
+            "title": "Lecture - 11 ",
+            "video_id": 1397,
+            "notes_id": 281
+          },
+          {
+            "lec_no": "L-283",
+            "title": "Lecture - 12 ",
+            "video_id": 1398,
+            "notes_id": 284
+          },
+          {
+            "lec_no": "L-286",
+            "title": "Lecture - 13 ",
+            "video_id": 1399,
+            "notes_id": 287
+          },
+          {
+            "lec_no": "L-289",
+            "title": "Lecture - 14 ",
+            "video_id": 1400,
+            "notes_id": 290
+          },
+          {
+            "lec_no": "L-292",
+            "title": "Lecture - 15 ",
+            "video_id": 1403,
+            "notes_id": 293
+          },
+          {
+            "lec_no": "L-295",
+            "title": "Lecture - 16 ",
+            "video_id": 1401,
+            "notes_id": 296
+          },
+          {
+            "lec_no": "L-297",
+            "title": "Lecture - 17 ",
+            "video_id": 1402,
+            "notes_id": 298
+          },
+          {
+            "lec_no": "L-425",
+            "title": "ONE SHOT REVISION",
+            "video_id": 1423,
+            "notes_id": 426
+          }
+        ],
+        "dpps": [
+          {
+            "lec_no": "L-250",
+            "title": "DPP 01",
+            "notes_id": 250
+          },
+          {
+            "lec_no": "L-251",
+            "title": "DPP 01 Solution",
+            "notes_id": 251
+          },
+          {
+            "lec_no": "L-254",
+            "title": "DPP 02",
+            "notes_id": 254
+          },
+          {
+            "lec_no": "L-255",
+            "title": "DPP 02 Solution",
+            "notes_id": 255
+          },
+          {
+            "lec_no": "L-258",
+            "title": "DPP 03 Solution",
+            "notes_id": 258
+          },
+          {
+            "lec_no": "L-261",
+            "title": " DPP-4 Solution",
+            "notes_id": 261
+          },
+          {
+            "lec_no": "L-264",
+            "title": " DPP-5 Solution",
+            "notes_id": 264
+          },
+          {
+            "lec_no": "L-267",
+            "title": " DPP-6 Solution",
+            "notes_id": 267
+          },
+          {
+            "lec_no": "L-270",
+            "title": " DPP-7 Solution",
+            "notes_id": 270
+          },
+          {
+            "lec_no": "L-273",
+            "title": " DPP-8 Solution",
+            "notes_id": 273
+          },
+          {
+            "lec_no": "L-276",
+            "title": " DPP-9 Solution",
+            "notes_id": 276
+          },
+          {
+            "lec_no": "L-279",
+            "title": " DPP-10 Solution",
+            "notes_id": 279
+          },
+          {
+            "lec_no": "L-282",
+            "title": " DPP-11 Solution",
+            "notes_id": 282
+          },
+          {
+            "lec_no": "L-285",
+            "title": " DPP-12 Solution",
+            "notes_id": 285
+          },
+          {
+            "lec_no": "L-288",
+            "title": " DPP-13 Solution",
+            "notes_id": 288
+          },
+          {
+            "lec_no": "L-291",
+            "title": " DPP-14 Solution",
+            "notes_id": 291
+          },
+          {
+            "lec_no": "L-294",
+            "title": " DPP-15 Solution",
+            "notes_id": 294
+          },
+          {
+            "lec_no": "L-299",
+            "title": " DPP-17 Solution",
+            "notes_id": 299
+          },
+          {
+            "lec_no": "L-419",
+            "title": "COMBINED DPP SOLUTION",
+            "notes_id": 419
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-246",
+            "title": "Combined Notes",
+            "notes_id": 246
+          },
+          {
+            "lec_no": "L-247",
+            "title": "Hand Written Notes",
+            "notes_id": 247
+          },
+          {
+            "lec_no": "L-300",
+            "title": "2 Marks Question Bank",
+            "notes_id": 300
+          }
+        ]
+      },
+      {
+        "chapter_name": "Engg Maths-II - UNIT-3",
+        "lectures": [
+          null,
+          {
+            "lec_no": "L-303",
+            "title": "Lecture - 01 ",
+            "video_id": 1404,
+            "notes_id": 304
+          },
+          {
+            "lec_no": "L-307",
+            "title": "Lecture - 02 ",
+            "video_id": 1406,
+            "notes_id": 308
+          },
+          {
+            "lec_no": "L-308",
+            "title": "Lecture - 02 Notes",
+            "notes_id": 308
+          },
+          {
+            "lec_no": "L-311",
+            "title": "Lecture - 03 ",
+            "video_id": 1405,
+            "notes_id": 312
+          },
+          {
+            "lec_no": "L-315",
+            "title": "Lecture - 04 ",
+            "video_id": 1407,
+            "notes_id": 316
+          },
+          {
+            "lec_no": "L-319",
+            "title": "Lecture - 05 ",
+            "video_id": 1408,
+            "notes_id": 320
+          },
+          {
+            "lec_no": "L-323",
+            "title": "Lecture - 06 ",
+            "video_id": 1409,
+            "notes_id": 324
+          },
+          {
+            "lec_no": "L-327",
+            "title": "Lecture - 07 ",
+            "video_id": 1410,
+            "notes_id": 328
+          },
+          {
+            "lec_no": "L-329",
+            "title": "Lecture - 08",
+            "video_id": 1411,
+            "notes_id": 330
+          },
+          {
+            "lec_no": "L-333",
+            "title": "Lecture - 09 ",
+            "video_id": 1412,
+            "notes_id": 334
+          },
+          {
+            "lec_no": "L-337",
+            "title": "Lecture - 10 ",
+            "video_id": 1413,
+            "notes_id": 338
+          },
+          {
+            "lec_no": "L-341",
+            "title": "Lecture - 11 ",
+            "video_id": 1414,
+            "notes_id": 342
+          },
+          {
+            "lec_no": "L-345",
+            "title": "Lecture - 12 ",
+            "video_id": 1415,
+            "notes_id": 346
+          },
+          {
+            "lec_no": "L-349",
+            "title": "Lecture - 13 ",
+            "video_id": 1416,
+            "notes_id": 350
+          },
+          {
+            "lec_no": "L-427",
+            "title": "ONE SHOT REVISION (part 01)",
+            "video_id": 1424,
+            "notes_id": 428
+          },
+          {
+            "lec_no": "L-429",
+            "title": "ONE SHOT REVISION (part 02)",
+            "video_id": 1427,
+            "notes_id": 430
+          }
+        ],
+        "dpps": [
+          {
+            "lec_no": "L-305",
+            "title": "DPP 01",
+            "notes_id": 305
+          },
+          {
+            "lec_no": "L-306",
+            "title": "DPP 01 Solution",
+            "notes_id": 306
+          },
+          {
+            "lec_no": "L-309",
+            "title": "DPP 02",
+            "notes_id": 309
+          },
+          {
+            "lec_no": "L-310",
+            "title": "DPP 02 Solution",
+            "notes_id": 310
+          },
+          {
+            "lec_no": "L-313",
+            "title": "DPP 03",
+            "notes_id": 313
+          },
+          {
+            "lec_no": "L-314",
+            "title": " DPP-03 Solution",
+            "notes_id": 314
+          },
+          {
+            "lec_no": "L-317",
+            "title": " DPP-4",
+            "notes_id": 317
+          },
+          {
+            "lec_no": "L-318",
+            "title": " DPP-4 Solution",
+            "notes_id": 318
+          },
+          {
+            "lec_no": "L-321",
+            "title": " DPP-5",
+            "notes_id": 321
+          },
+          {
+            "lec_no": "L-322",
+            "title": " DPP-5 Solution",
+            "notes_id": 322
+          },
+          {
+            "lec_no": "L-325",
+            "title": " DPP-6",
+            "notes_id": 325
+          },
+          {
+            "lec_no": "L-326",
+            "title": " DPP-6 Solution",
+            "notes_id": 326
+          },
+          {
+            "lec_no": "L-331",
+            "title": " DPP-8",
+            "notes_id": 331
+          },
+          {
+            "lec_no": "L-332",
+            "title": " DPP-8 Solution",
+            "notes_id": 332
+          },
+          {
+            "lec_no": "L-335",
+            "title": " DPP-9",
+            "notes_id": 335
+          },
+          {
+            "lec_no": "L-336",
+            "title": " DPP-9 Solution",
+            "notes_id": 336
+          },
+          {
+            "lec_no": "L-339",
+            "title": " DPP-10",
+            "notes_id": 339
+          },
+          {
+            "lec_no": "L-340",
+            "title": " DPP-10 Solution",
+            "notes_id": 340
+          },
+          {
+            "lec_no": "L-343",
+            "title": " DPP-11",
+            "notes_id": 339
+          },
+          {
+            "lec_no": "L-344",
+            "title": " DPP-11 Solution",
+            "notes_id": 340
+          },
+          {
+            "lec_no": "L-347",
+            "title": " DPP-12",
+            "notes_id": 339
+          },
+          {
+            "lec_no": "L-348",
+            "title": " DPP-12 Solution",
+            "notes_id": 340
+          },
+          {
+            "lec_no": "L-351",
+            "title": " DPP-13",
+            "notes_id": 351
+          },
+          {
+            "lec_no": "L-352",
+            "title": " DPP-13 Solution",
+            "notes_id": 352
+          },
+          {
+            "lec_no": "L-420",
+            "title": "COMBINED DPP SOLUTION",
+            "notes_id": 420
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-301",
+            "title": "Combined Notes",
+            "notes_id": 301
+          },
+          {
+            "lec_no": "L-302",
+            "title": "Hand Written Notes",
+            "notes_id": 302
+          },
+          {
+            "lec_no": "L-353",
+            "title": "2 Marks Question Bank",
+            "notes_id": 353
+          }
+        ]
+      },
+      {
+        "chapter_name": "Engg Maths-II - UNIT-4",
+        "lectures": [
+          {
+            "lec_no": "L-355",
+            "title": "Lecture - 01 ",
+            "video_id": 1417,
+            "notes_id": 356
+          },
+          {
+            "lec_no": "L-359",
+            "title": "Lecture - 02 ",
+            "video_id": 1419,
+            "notes_id": 360
+          },
+          {
+            "lec_no": "L-362",
+            "title": "Lecture - 03 ",
+            "video_id": 1418,
+            "notes_id": 363
+          },
+          {
+            "lec_no": "L-365",
+            "title": "Lecture - 04 ",
+            "video_id": 1420,
+            "notes_id": 366
+          },
+          {
+            "lec_no": "L-368",
+            "title": "Lecture - 05 ",
+            "video_id": 1421,
+            "notes_id": 369
+          },
+          {
+            "lec_no": "L-371",
+            "title": "Lecture - 06 ",
+            "video_id": 1422,
+            "notes_id": 372
+          },
+          {
+            "lec_no": "L-374",
+            "title": "Lecture - 07 ",
+            "video_id": 1458,
+            "notes_id": 375
+          },
+          {
+            "lec_no": "L-377",
+            "title": "Lecture - 08 ",
+            "video_id": 1460,
+            "notes_id": 378
+          },
+          {
+            "lec_no": "L-380",
+            "title": "Lecture - 09 ",
+            "video_id": 1461,
+            "notes_id": 381
+          },
+          {
+            "lec_no": "L-431",
+            "title": "ONE SHOT REVISION",
+            "video_id": 1433,
+            "notes_id": 432
+          }
+        ],
+        "dpps": [
+          {
+            "lec_no": "L-357",
+            "title": "DPP-1",
+            "notes_id": 357
+          },
+          {
+            "lec_no": "358",
+            "title": "DPP-1 Solution",
+            "notes_id": 358
+          },
+          {
+            "lec_no": "L-360",
+            "title": "DPP-2",
+            "notes_id": 360
+          },
+          {
+            "lec_no": "L-361",
+            "title": "DPP-2 Solution",
+            "notes_id": 361
+          },
+          {
+            "lec_no": "L-364",
+            "title": "DPP-3 Solution",
+            "notes_id": 364
+          },
+          {
+            "lec_no": "L-367",
+            "title": "DPP-4 Solution",
+            "notes_id": 367
+          },
+          {
+            "lec_no": "L-370",
+            "title": "DPP-5 Solution",
+            "notes_id": 370
+          },
+          {
+            "lec_no": "L-373",
+            "title": "DPP-6 Solution",
+            "notes_id": 373
+          },
+          {
+            "lec_no": "L-376",
+            "title": "DPP-7 Solution",
+            "notes_id": 376
+          },
+          {
+            "lec_no": "L-379",
+            "title": "DPP-8 Solution",
+            "notes_id": 379
+          },
+          {
+            "lec_no": "L-370",
+            "title": "DPP-9 Solution",
+            "notes_id": 382
+          },
+          {
+            "lec_no": "L-421",
+            "title": "COMBINED DPP SOLUTION",
+            "notes_id": 421
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-301",
+            "title": "Combined Notes",
+            "notes_id": 354
+          },
+          {
+            "lec_no": "L-383",
+            "title": "2 Marks Question Bank",
+            "notes_id": 383
+          }
+        ]
+      },
+      {
+        "chapter_name": "Engg Maths-II - UNIT-5",
+        "lectures": [
+          {
+            "lec_no": "L-385",
+            "title": "Lecture - 01 ",
+            "video_id": 1467,
+            "notes_id": 386
+          },
+          {
+            "lec_no": "L-388",
+            "title": "Lecture - 02 ",
+            "video_id": 1462,
+            "notes_id": 389
+          },
+          {
+            "lec_no": "L-391",
+            "title": "Lecture - 03 ",
+            "video_id": 1463,
+            "notes_id": 392
+          },
+          {
+            "lec_no": "L-394",
+            "title": "Lecture - 04 ",
+            "video_id": 1464,
+            "notes_id": 395
+          },
+          {
+            "lec_no": "L-397",
+            "title": "Lecture - 05 ",
+            "video_id": 1465,
+            "notes_id": 398
+          },
+          {
+            "lec_no": "L-400",
+            "title": "Lecture - 06 ",
+            "video_id": 1469,
+            "notes_id": 401
+          },
+          {
+            "lec_no": "L-403",
+            "title": "Lecture - 07 ",
+            "video_id": 1466,
+            "notes_id": 404
+          },
+          {
+            "lec_no": "L-406",
+            "title": "Lecture - 08 ",
+            "video_id": 1429,
+            "notes_id": 407
+          },
+          {
+            "lec_no": "L-408",
+            "title": "Lecture - 09 ",
+            "video_id": 1468,
+            "notes_id": 409
+          },
+          {
+            "lec_no": "L-411",
+            "title": "Lecture - 10 ",
+            "video_id": 1425,
+            "notes_id": 412
+          },
+          {
+            "lec_no": "L-414",
+            "title": "Lecture - 11 ",
+            "video_id": 1459,
+            "notes_id": 415
+          },
+          {
+            "lec_no": "L-433",
+            "title": "ONE SHOT REVISION",
+            "video_id": 1428,
+            "notes_id": 434
+          }
+        ],
+        "dpps": [
+          {
+            "lec_no": "387",
+            "title": "DPP-1 Solution",
+            "notes_id": 387
+          },
+          {
+            "lec_no": "L-390",
+            "title": "DPP-2 Solution",
+            "notes_id": 390
+          },
+          {
+            "lec_no": "L-393",
+            "title": "DPP-3 Solution",
+            "notes_id": 393
+          },
+          {
+            "lec_no": "L-396",
+            "title": "DPP-4 Solution",
+            "notes_id": 396
+          },
+          {
+            "lec_no": "L-399",
+            "title": "DPP-5 Solution",
+            "notes_id": 399
+          },
+          {
+            "lec_no": "L-402",
+            "title": "DPP-6 Solution",
+            "notes_id": 402
+          },
+          {
+            "lec_no": "L-405",
+            "title": "DPP-7 Solution",
+            "notes_id": 405
+          },
+          {
+            "lec_no": "L-410",
+            "title": "DPP-9 Solution",
+            "notes_id": 410
+          },
+          {
+            "lec_no": "L-413",
+            "title": "DPP-10 Solution",
+            "notes_id": 413
+          },
+          {
+            "lec_no": "L-416",
+            "title": "DPP-11 Solution",
+            "notes_id": 416
+          },
+          {
+            "lec_no": "L-422",
+            "title": "COMBINED DPP SOLUTION",
+            "notes_id": 422
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-417",
+            "title": "2 Marks Question Bank",
+            "notes_id": 417
+          },
+          {
+            "lec_no": "L-384",
+            "title": "Combined Notes",
+            "notes_id": 384
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch_name": "ENGG PHYSICS II",
+    "parent_batch": "GATEWAY 1ST YEAR",
+    "channel_id": "-1003875077565",
+    "chapters": [
+      {
+        "chapter_name": "Engg Physics UNIT-1",
+        "lectures": [
+          {
+            "lec_no": "L-442",
+            "title": "Lecture - 01 ",
+            "video_id": 1430,
+            "notes_id": 443
+          },
+          {
+            "lec_no": "L-444",
+            "title": "Lecture - 02 ",
+            "video_id": 1432,
+            "notes_id": 445
+          },
+          {
+            "lec_no": "L-446",
+            "title": "Lecture - 03 ",
+            "video_id": 1431,
+            "notes_id": 447
+          },
+          {
+            "lec_no": "L-448",
+            "title": "Lecture - 04 ",
+            "video_id": 1434,
+            "notes_id": 449
+          },
+          {
+            "lec_no": "L-450",
+            "title": "Lecture - 05 ",
+            "video_id": 1435,
+            "notes_id": 451
+          },
+          {
+            "lec_no": "L-452",
+            "title": "Lecture - 06 ",
+            "video_id": 1436,
+            "notes_id": 453
+          },
+          {
+            "lec_no": "L-454",
+            "title": "Lecture - 07 ",
+            "video_id": 1439,
+            "notes_id": 455
+          },
+          {
+            "lec_no": "L-456",
+            "title": "Lecture - 08 ",
+            "video_id": 1437,
+            "notes_id": 457
+          },
+          {
+            "lec_no": "L-501",
+            "title": "ONE SHOT Revision",
+            "notes_id": 501
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-435",
+            "title": "Unit Wise 5 Year PYQs",
+            "notes_id": 435
+          },
+          {
+            "lec_no": "L-440",
+            "title": "Combined Notes",
+            "notes_id": 440
+          },
+          {
+            "lec_no": "L-441",
+            "title": "Hand Written Notes",
+            "notes_id": 441
+          }
+        ]
+      },
+      {
+        "chapter_name": "Engg Physics UNIT-2",
+        "lectures": [
+          {
+            "lec_no": "L-460",
+            "title": "Lecture - 01 ",
+            "video_id": 1438,
+            "notes_id": 461
+          },
+          {
+            "lec_no": "L-462",
+            "title": "Lecture - 02 ",
+            "video_id": 1441,
+            "notes_id": 463
+          },
+          {
+            "lec_no": "L-464",
+            "title": "Lecture - 03 ",
+            "video_id": 1440,
+            "notes_id": 465
+          },
+          {
+            "lec_no": "L-466",
+            "title": "Lecture - 04 ",
+            "video_id": 1442,
+            "notes_id": 467
+          },
+          {
+            "lec_no": "L-468",
+            "title": "Lecture - 05 ",
+            "video_id": 1445,
+            "notes_id": 469
+          },
+          {
+            "lec_no": "L-470",
+            "title": "Lecture - 06 ",
+            "video_id": 1443,
+            "notes_id": 471
+          },
+          {
+            "lec_no": "L-502",
+            "title": "ONE SHOT Revision",
+            "video_id": 1456,
+            "notes_id": 503
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-458",
+            "title": "Combined Notes",
+            "notes_id": 458
+          },
+          {
+            "lec_no": "L-436",
+            "title": "Unit Wise 5 Year PYQs - Physics",
+            "notes_id": 436
+          },
+          {
+            "lec_no": "L-473",
+            "title": "Hand Written Notes",
+            "notes_id": 459
+          }
+        ]
+      },
+      {
+        "chapter_name": "Engg Physics UNIT-3",
+        "lectures": [
+          {
+            "lec_no": "L-474",
+            "title": "Lecture - 01 ",
+            "video_id": 1444,
+            "notes_id": 475
+          },
+          {
+            "lec_no": "L-476",
+            "title": "Lecture - 02 ",
+            "video_id": 1448,
+            "notes_id": 477
+          },
+          {
+            "lec_no": "L-478",
+            "title": "Lecture - 03 ",
+            "video_id": 1446,
+            "notes_id": 479
+          },
+          {
+            "lec_no": "L-480",
+            "title": "Lecture - 04 ",
+            "video_id": 1450,
+            "notes_id": 482
+          },
+          {
+            "lec_no": "L-481",
+            "title": "Lecture - 04[Part-II] Numericals ",
+            "video_id": 1447
+          },
+          {
+            "lec_no": "L-483",
+            "title": "Lecture - 05 ",
+            "video_id": 1449,
+            "notes_id": 484
+          },
+          {
+            "lec_no": "L-485",
+            "title": "Lecture - 06 ",
+            "video_id": 1451,
+            "notes_id": 486
+          },
+          {
+            "lec_no": "L-487",
+            "title": "Lecture - 07 ",
+            "video_id": 1452,
+            "notes_id": 488
+          },
+          {
+            "lec_no": "L-489",
+            "title": "Lecture - 08 ",
+            "video_id": 1455,
+            "notes_id": 490
+          },
+          {
+            "lec_no": "L-504",
+            "title": "ONE SHOT Revision [ Part-I ] ",
+            "video_id": 1470,
+            "notes_id": 505
+          },
+          {
+            "lec_no": "L-506",
+            "title": "ONE SHOT Revision [ Part-II ] ",
+            "video_id": 1512,
+            "notes_id": 507
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-472",
+            "title": "Combined Notes",
+            "notes_id": 472
+          },
+          {
+            "lec_no": "L-436",
+            "title": "Unit Wise 5 Year PYQs",
+            "notes_id": 437
+          },
+          {
+            "lec_no": "L-473",
+            "title": "Hand Written Notes",
+            "notes_id": 473
+          }
+        ]
+      },
+      {
+        "chapter_name": "Engg Physics UNIT-4",
+        "lectures": [
+          {
+            "lec_no": "L-493",
+            "title": "Lecture - 01 ",
+            "video_id": 1453,
+            "notes_id": 494
+          },
+          {
+            "lec_no": "L-495",
+            "title": "Lecture - 02 ",
+            "video_id": 1845,
+            "notes_id": 496
+          },
+          {
+            "lec_no": "L-508",
+            "title": "ONE SHOT Revision [ Part-I FIBER OPTICS ] ",
+            "video_id": 1513,
+            "notes_id": 509
+          },
+          {
+            "lec_no": "L-510",
+            "title": "ONE SHOT Revision [ Part-II LASER ] ",
+            "video_id": 1519,
+            "notes_id": 511
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-491",
+            "title": "Combined Notes",
+            "notes_id": 491
+          },
+          {
+            "lec_no": "L-436",
+            "title": "Unit Wise 5 Year PYQs - Physics",
+            "notes_id": 438
+          },
+          {
+            "lec_no": "L-492",
+            "title": "Hand Written Notes",
+            "notes_id": 492
+          }
+        ]
+      },
+      {
+        "chapter_name": "Engg Physics UNIT-5",
+        "lectures": [
+          {
+            "lec_no": "L-497",
+            "title": "ONE SHOT Part-I Superconductors ",
+            "video_id": 1454,
+            "notes_id": 498
+          },
+          {
+            "lec_no": "L-499",
+            "title": "ONE SHOT PART-II NANO MATERIALS ",
+            "video_id": 1457,
+            "notes_id": 500
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-439",
+            "title": "Unit Wise 5 Year PYQs - Physics",
+            "notes_id": 439
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch_name": "Engg CHEMISTRY BY NIDHI MA'AM",
+    "parent_batch": "GATEWAY 1ST YEAR",
+    "channel_id": "-1003875077565",
+    "chapters": [
+      {
+        "chapter_name": "Engg Chemistry UNIT-1",
+        "lectures": [
+          {
+            "lec_no": "L-515",
+            "title": "Lecture - 01",
+            "video_id": 1517
+          },
+          {
+            "lec_no": "L-516",
+            "title": "Lecture - 02",
+            "video_id": 1846
+          },
+          {
+            "lec_no": "L-517",
+            "title": "Lecture - 02 Part-2 ",
+            "video_id": 1516
+          },
+          {
+            "lec_no": "L-518",
+            "title": "Lecture - 03",
+            "video_id": 1515
+          },
+          {
+            "lec_no": "L-519",
+            "title": "Lecture - 04",
+            "video_id": 1514
+          },
+          {
+            "lec_no": "L-520",
+            "title": "Lecture - 05",
+            "video_id": 1471
+          },
+          {
+            "lec_no": "L-521",
+            "title": "Lecture - 06",
+            "video_id": 1474
+          },
+          {
+            "lec_no": "L-588",
+            "title": "Crash Course [ONE SHOT]",
+            "video_id": 1502,
+            "notes_id": 589
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-514",
+            "title": "Combined Notes",
+            "notes_id": 514
+          },
+          {
+            "lec_no": "L-598",
+            "title": "HAND WRITTEN NOTES",
+            "notes_id": 598
+          }
+        ]
+      },
+      {
+        "chapter_name": "Engg Chemistry UNIT-2",
+        "lectures": [
+          {
+            "lec_no": "L-523",
+            "title": "Lecture - 01",
+            "video_id": 1477,
+            "notes_id": 524
+          },
+          {
+            "lec_no": "L-525",
+            "title": "Lecture - 02",
+            "video_id": 1472,
+            "notes_id": 526
+          },
+          {
+            "lec_no": "L-527",
+            "title": "Lecture - 03",
+            "video_id": 1473,
+            "notes_id": 528
+          },
+          {
+            "lec_no": "L-529",
+            "title": "Lecture - 04",
+            "video_id": 1476,
+            "notes_id": 530
+          },
+          {
+            "lec_no": "L-531",
+            "title": "Lecture - 05",
+            "video_id": 1475,
+            "notes_id": 532
+          },
+          {
+            "lec_no": "L-533",
+            "title": "Lecture - 06",
+            "video_id": 1483,
+            "notes_id": 534
+          },
+          {
+            "lec_no": "L-535",
+            "title": "Lecture - 07",
+            "video_id": 1478,
+            "notes_id": 536
+          },
+          {
+            "lec_no": "L-537",
+            "title": "Lecture - 08",
+            "video_id": 1479,
+            "notes_id": 538
+          },
+          {
+            "lec_no": "L-539",
+            "title": "Lecture - 09",
+            "video_id": 1481,
+            "notes_id": 540
+          },
+          {
+            "lec_no": "L-590",
+            "title": "Crash Course [ONE SHOT]",
+            "video_id": 1505,
+            "notes_id": 591
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-522",
+            "title": "Combined Notes",
+            "notes_id": 522
+          },
+          {
+            "lec_no": "L-599",
+            "title": "HAND WRITTEN NOTES",
+            "notes_id": 599
+          }
+        ]
+      },
+      {
+        "chapter_name": "Engg Chemistry UNIT-3",
+        "lectures": [
+          {
+            "lec_no": "L-542",
+            "title": "Lecture - 01",
+            "video_id": 1480,
+            "notes_id": 543
+          },
+          {
+            "lec_no": "L-544",
+            "title": "Lecture - 02",
+            "video_id": 1482,
+            "notes_id": 545
+          },
+          {
+            "lec_no": "L-546",
+            "title": "Lecture - 03",
+            "video_id": 1484,
+            "notes_id": 547
+          },
+          {
+            "lec_no": "L-548",
+            "title": "Lecture - 04",
+            "video_id": 1486,
+            "notes_id": 549
+          },
+          {
+            "lec_no": "L-550",
+            "title": "Lecture - 05",
+            "video_id": 1485,
+            "notes_id": 551
+          },
+          {
+            "lec_no": "L-592",
+            "title": "Crash Course [ONE SHOT]",
+            "video_id": 1506,
+            "notes_id": 593
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-541",
+            "title": "Combined Notes",
+            "notes_id": 541
+          },
+          {
+            "lec_no": "L-600",
+            "title": "HAND WRITTEN NOTES",
+            "notes_id": 600
+          }
+        ]
+      },
+      {
+        "chapter_name": "Engg Chemistry UNIT-4",
+        "lectures": [
+          {
+            "lec_no": "L-552",
+            "title": "Lecture - 01",
+            "video_id": 1496,
+            "notes_id": 553
+          },
+          {
+            "lec_no": "L-554",
+            "title": "Lecture - 02",
+            "video_id": 1497,
+            "notes_id": 555
+          },
+          {
+            "lec_no": "L-556",
+            "title": "Lecture - 03 (PART 01)",
+            "video_id": 1510,
+            "notes_id": 558
+          },
+          {
+            "lec_no": "L-557",
+            "title": "Lecture - 03 (PART 02)",
+            "video_id": 1498,
+            "notes_id": 558
+          },
+          {
+            "lec_no": "L-559",
+            "title": "Lecture - 04",
+            "video_id": 1500,
+            "notes_id": 560
+          },
+          {
+            "lec_no": "L-561",
+            "title": "Lecture - 05",
+            "video_id": 1499,
+            "notes_id": 562
+          },
+          {
+            "lec_no": "L-563",
+            "title": "Lecture - 06",
+            "video_id": 1501,
+            "notes_id": 564
+          },
+          {
+            "lec_no": "L-565",
+            "title": "Lecture - 07",
+            "video_id": 1507,
+            "notes_id": 566
+          },
+          {
+            "lec_no": "L-567",
+            "title": "Lecture - 08",
+            "video_id": 1503,
+            "notes_id": 568
+          },
+          {
+            "lec_no": "L-594",
+            "title": "Crash Course [ONE SHOT]",
+            "video_id": 1509,
+            "notes_id": 595
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-601",
+            "title": "HAND WRITTEN NOTES",
+            "notes_id": 601
+          }
+        ]
+      },
+      {
+        "chapter_name": "Engg Chemistry UNIT-5",
+        "lectures": [
+          {
+            "lec_no": "L-586",
+            "title": "ONE SHOT",
+            "video_id": 1504,
+            "notes_id": 587
+          },
+          {
+            "lec_no": "L-596",
+            "title": "One Shot Revision",
+            "video_id": 1511,
+            "notes_id": 597
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-602",
+            "title": "HAND WRITTEN NOTES",
+            "notes_id": 602
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch_name": "Engg CHEMISTRY BY NEERAJ MA'AM",
+    "parent_batch": "GATEWAY 1ST YEAR",
+    "channel_id": "-1003875077565",
+    "chapters": [
+      {
+        "chapter_name": "Engg Chemistry UNIT-1",
+        "lectures": [
+          {
+            "lec_no": "L-603",
+            "title": "Lecture - 01",
+            "video_id": 1508,
+            "notes_id": 605
+          },
+          {
+            "lec_no": "L-604",
+            "title": "Lecture - 02",
+            "video_id": 1520,
+            "notes_id": 605
+          },
+          {
+            "lec_no": "L-606",
+            "title": "Lecture - 03",
+            "video_id": 1522,
+            "notes_id": 607
+          },
+          {
+            "lec_no": "L-608",
+            "title": "Lecture - 04",
+            "video_id": 1526,
+            "notes_id": 609
+          },
+          {
+            "lec_no": "L-610",
+            "title": "Lecture - 05",
+            "notes_id": 610
+          },
+          {
+            "lec_no": "L-611",
+            "title": "Lecture - 06",
+            "video_id": 1525
+          },
+          {
+            "lec_no": "L-613",
+            "title": "ONE SHOT REVISION",
+            "video_id": 1521,
+            "notes_id": 614
+          }
+        ]
+      },
+      {
+        "chapter_name": "Engg Chemistry UNIT-2",
+        "lectures": [
+          {
+            "lec_no": "L-615",
+            "title": "Lecture - 01",
+            "video_id": 1523,
+            "notes_id": 616
+          },
+          {
+            "lec_no": "L-617",
+            "title": "Lecture - 02",
+            "video_id": 1524,
+            "notes_id": 618
+          },
+          {
+            "lec_no": "L-619",
+            "title": "Lecture - 03",
+            "video_id": 1528,
+            "notes_id": 620
+          },
+          {
+            "lec_no": "L-621",
+            "title": "Lecture - 04",
+            "video_id": 1527,
+            "notes_id": 622
+          },
+          {
+            "lec_no": "L-623",
+            "title": "ONE SHOT REVISION",
+            "video_id": 1529,
+            "notes_id": 624
+          }
+        ]
+      },
+      {
+        "chapter_name": "Engg Chemistry UNIT-3",
+        "lectures": [
+          {
+            "lec_no": "L-625",
+            "title": "Lecture - 01",
+            "video_id": 1530,
+            "notes_id": 626
+          },
+          {
+            "lec_no": "L-627",
+            "title": "Lecture - 02",
+            "video_id": 1532,
+            "notes_id": 628
+          },
+          {
+            "lec_no": "L-629",
+            "title": "Lecture - 03",
+            "video_id": 1531,
+            "notes_id": 630
+          },
+          {
+            "lec_no": "L-631",
+            "title": "Lecture - 04",
+            "video_id": 1533,
+            "notes_id": 632
+          },
+          {
+            "lec_no": "L-634",
+            "title": "ONE SHOT",
+            "video_id": 1534,
+            "notes_id": 635
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-633",
+            "title": "Notes (additional)",
+            "notes_id": 633
+          }
+        ]
+      },
+      {
+        "chapter_name": "Engg Chemistry UNIT-4",
+        "lectures": [
+          {
+            "lec_no": "L-636",
+            "title": "Lecture - 01",
+            "video_id": 1539,
+            "notes_id": 637
+          },
+          {
+            "lec_no": "L-638",
+            "title": "Lecture - 02",
+            "notes_id": 638
+          },
+          {
+            "lec_no": "L-639",
+            "title": "Lecture - 03",
+            "video_id": 1536,
+            "notes_id": 640
+          },
+          {
+            "lec_no": "L-641",
+            "title": "Lecture - 04",
+            "video_id": 1535
+          },
+          {
+            "lec_no": "L-642",
+            "title": "Lecture - 05",
+            "video_id": 1538,
+            "notes_id": 643
+          },
+          {
+            "lec_no": "L-644",
+            "title": "ONE SHOT Part-I ",
+            "video_id": 1537,
+            "notes_id": 646
+          },
+          {
+            "lec_no": "L-645",
+            "title": "ONE SHOT Part-II",
+            "video_id": 1541,
+            "notes_id": 646
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-647",
+            "title": "Additional Notes",
+            "notes_id": 647
+          }
+        ]
+      },
+      {
+        "chapter_name": "Engg Chemistry UNIT-5",
+        "lectures": [
+          {
+            "lec_no": "L-648",
+            "title": "Lecture - 01",
+            "video_id": 1540,
+            "notes_id": 649
+          },
+          {
+            "lec_no": "L-650",
+            "title": "Lecture - 02",
+            "video_id": 1542,
+            "notes_id": 651
+          },
+          {
+            "lec_no": "L-653",
+            "title": "ONE SHOT",
+            "video_id": 1543,
+            "notes_id": 654
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-652",
+            "title": "Additional Notes",
+            "notes_id": 652
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch_name": "Electrical 20 Engg",
+    "parent_batch": "GATEWAY 1ST YEAR",
+    "channel_id": "-1003875077565",
+    "chapters": [
+      {
+        "chapter_name": "Electrical Engg UNIT-1",
+        "lectures": [
+          {
+            "lec_no": "L-655",
+            "title": "ELECTRICAL SYLLABUS INTRODUCTION",
+            "video_id": 1544
+          },
+          {
+            "lec_no": "L-658",
+            "title": "Leacture 01 ",
+            "video_id": 1545,
+            "notes_id": 659
+          },
+          {
+            "lec_no": "L-660",
+            "title": "Leacture 02 ",
+            "video_id": 1547,
+            "notes_id": 661
+          },
+          {
+            "lec_no": "L-662",
+            "title": "Leacture 03 ",
+            "video_id": 1552,
+            "notes_id": 663
+          },
+          {
+            "lec_no": "L-664",
+            "title": "Leacture 04 ",
+            "video_id": 1548,
+            "notes_id": 665
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-656",
+            "title": "Combined Notes",
+            "notes_id": 656
+          },
+          {
+            "lec_no": "L-657",
+            "title": "Hand Written Notes",
+            "notes_id": 657
+          },
+          {
+            "lec_no": "L-658",
+            "title": "Combined Notes",
+            "notes_id": 666
+          }
+        ]
+      },
+      {
+        "chapter_name": "Electrical Engg UNIT-2",
+        "lectures": [
+          {
+            "lec_no": "L-667",
+            "title": "Leacture 01 ",
+            "video_id": 1546,
+            "notes_id": 668
+          },
+          {
+            "lec_no": "L-669",
+            "title": "Leacture 02 ",
+            "video_id": 1549,
+            "notes_id": 670
+          },
+          {
+            "lec_no": "L-671",
+            "title": "Leacture 03 ",
+            "video_id": 1550,
+            "notes_id": 672
+          },
+          {
+            "lec_no": "L-673",
+            "title": "Leacture 04 ",
+            "video_id": 1551,
+            "notes_id": 674
+          },
+          {
+            "lec_no": "L-675",
+            "title": "Leacture 05 ",
+            "video_id": 1555,
+            "notes_id": 676
+          },
+          {
+            "lec_no": "L-677",
+            "title": "Leacture 06 ",
+            "video_id": 1556,
+            "notes_id": 678
+          },
+          {
+            "lec_no": "L-679",
+            "title": "Leacture 07 ",
+            "video_id": 1553,
+            "notes_id": 680
+          },
+          {
+            "lec_no": "L-681",
+            "title": "Leacture 08 ",
+            "video_id": 1554,
+            "notes_id": 682
+          },
+          {
+            "lec_no": "L-683",
+            "title": "Leacture 09 ",
+            "video_id": 1560,
+            "notes_id": 684
+          },
+          {
+            "lec_no": "L-685",
+            "title": "Leacture 10 ",
+            "video_id": 1558,
+            "notes_id": 686
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-687",
+            "title": "Combined Notes",
+            "notes_id": 687
+          }
+        ]
+      },
+      {
+        "chapter_name": "Electrical Engg UNIT-3",
+        "lectures": [
+          {
+            "lec_no": "L-688",
+            "title": "Leacture 01 ",
+            "video_id": 1557,
+            "notes_id": 689
+          },
+          {
+            "lec_no": "L-690",
+            "title": "Leacture 02 ",
+            "video_id": 1559,
+            "notes_id": 691
+          },
+          {
+            "lec_no": "L-692",
+            "title": "Leacture 03 ",
+            "video_id": 1561,
+            "notes_id": 693
+          },
+          {
+            "lec_no": "L-694",
+            "title": "Leacture 04 ",
+            "video_id": 1562,
+            "notes_id": 695
+          },
+          {
+            "lec_no": "L-696",
+            "title": "Leacture 05 ",
+            "video_id": 1564,
+            "notes_id": 697
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-698",
+            "title": "Combined Notes",
+            "notes_id": 698
+          }
+        ]
+      },
+      {
+        "chapter_name": "Electrical Engg UNIT-4",
+        "lectures": [
+          {
+            "lec_no": "L-699",
+            "title": "Leacture 01 ",
+            "video_id": 1567,
+            "notes_id": 700
+          },
+          {
+            "lec_no": "L-701",
+            "title": "Leacture 02 ",
+            "video_id": 1563,
+            "notes_id": 702
+          },
+          {
+            "lec_no": "L-703",
+            "title": "Leacture 03 ",
+            "video_id": 1565,
+            "notes_id": 704
+          },
+          {
+            "lec_no": "L-705",
+            "title": "Leacture 04 ",
+            "video_id": 1568,
+            "notes_id": 707
+          },
+          {
+            "lec_no": "L-706",
+            "title": "Leacture 05 ",
+            "video_id": 1848,
+            "notes_id": 707
+          },
+          {
+            "lec_no": "L-708",
+            "title": "Leacture 06 ",
+            "video_id": 1569,
+            "notes_id": 709
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-710",
+            "title": "Combined Notes",
+            "notes_id": 710
+          }
+        ]
+      },
+      {
+        "chapter_name": "Electrical Engg UNIT-5",
+        "lectures": [
+          {
+            "lec_no": "L-711",
+            "title": "Lecture - 01",
+            "video_id": 1566,
+            "notes_id": 712
+          },
+          {
+            "lec_no": "L-713",
+            "title": "Lecture - 02",
+            "video_id": 1570,
+            "notes_id": 714
+          },
+          {
+            "lec_no": "L-715",
+            "title": "Lecture - 03",
+            "video_id": 1572,
+            "notes_id": 716
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-710",
+            "title": "Combined Notes",
+            "notes_id": 710
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch_name": "Electrical 10 Engg 2023-24 unit 1",
+    "parent_batch": "GATEWAY 1ST YEAR",
+    "channel_id": "-1003875077565",
+    "chapters": [
+      {
+        "chapter_name": " Electrical U-1",
+        "lectures": [
+          {
+            "lec_no": "L-723",
+            "title": "Leacture 01 ",
+            "video_id": 1573,
+            "notes_id": 724
+          },
+          {
+            "lec_no": "L-725",
+            "title": "Leacture 02 ",
+            "video_id": 1574,
+            "notes_id": 726
+          },
+          {
+            "lec_no": "L-727",
+            "title": "Leacture 03 ",
+            "video_id": 1575,
+            "notes_id": 728
+          },
+          {
+            "lec_no": "L-729",
+            "title": "Leacture 04 ",
+            "video_id": 1581,
+            "notes_id": 730
+          },
+          {
+            "lec_no": "L-794",
+            "title": "ONE SHOT REVISION ",
+            "video_id": 1605,
+            "notes_id": 795
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-717",
+            "title": "Electrical Sol 2022-23 ODD SEM",
+            "notes_id": 717
+          },
+          {
+            "lec_no": "L-720",
+            "title": "Electrical Model Papers[TWO]",
+            "notes_id": 720
+          },
+          {
+            "lec_no": "L-721",
+            "title": "2023-24 - BEE Electrical Engg  Combined Notes",
+            "notes_id": 721
+          },
+          {
+            "lec_no": "L-722",
+            "title": "2023-24 - BEE-201 UNIT-1 NOTES[Hand Written]",
+            "notes_id": 722
+          }
+        ]
+      },
+      {
+        "chapter_name": "Electrical 10 Engg 2023-24 unit 2",
+        "lectures": [
+          {
+            "lec_no": "L-732",
+            "title": "Leacture 01 ",
+            "video_id": 1580
+          },
+          {
+            "lec_no": "L-734",
+            "title": "Leacture 02 ",
+            "video_id": 1583
+          },
+          {
+            "lec_no": "L-735",
+            "title": "Leacture 03 ",
+            "video_id": 1582
+          },
+          {
+            "lec_no": "L-737",
+            "title": "Leacture 04 ",
+            "video_id": 1579,
+            "notes_id": 738
+          },
+          {
+            "lec_no": "L-739",
+            "title": "Leacture 05 ",
+            "video_id": 1592,
+            "notes_id": 740
+          },
+          {
+            "lec_no": "L-741",
+            "title": "Leacture 06 ",
+            "video_id": 1591,
+            "notes_id": 742
+          },
+          {
+            "lec_no": "L-679",
+            "title": "Leacture 07 ",
+            "video_id": 1584,
+            "notes_id": 744
+          },
+          {
+            "lec_no": "L-745",
+            "title": "Leacture 08 ",
+            "video_id": 1576,
+            "notes_id": 746
+          },
+          {
+            "lec_no": "L-747",
+            "title": "Leacture 09 ",
+            "video_id": 1577,
+            "notes_id": 748
+          },
+          {
+            "lec_no": "L-749",
+            "title": "Leacture 10 ",
+            "video_id": 1587,
+            "notes_id": 750
+          },
+          {
+            "lec_no": "L-751",
+            "title": "Leacture 11 ",
+            "video_id": 1586,
+            "notes_id": 752
+          },
+          {
+            "lec_no": "L-796",
+            "title": "ONE SHOT REVISION ",
+            "video_id": 1603,
+            "notes_id": 797
+          }
+        ],
+        "dpps": [
+          {
+            "lec_no": "733",
+            "title": "DPP-1",
+            "notes_id": 733
+          },
+          {
+            "lec_no": "L-735",
+            "title": "DPP-2 ",
+            "notes_id": 735
+          },
+          {
+            "lec_no": "L-753",
+            "title": "DPP-1,2,3",
+            "notes_id": 753
+          },
+          {
+            "lec_no": "L-754",
+            "title": "DPP-1 Solution",
+            "notes_id": 754
+          },
+          {
+            "lec_no": "L-755",
+            "title": "DPP-2 Solution",
+            "notes_id": 755
+          },
+          {
+            "lec_no": "L-756",
+            "title": "DPP-3 Solution",
+            "notes_id": 756
+          },
+          {
+            "lec_no": "L-757",
+            "title": "DPP-4",
+            "notes_id": 757
+          },
+          {
+            "lec_no": "L-758",
+            "title": "DPP-4 Solution",
+            "notes_id": 758
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-731",
+            "title": "Combined Notes",
+            "notes_id": 731
+          }
+        ]
+      },
+      {
+        "chapter_name": "Electrical 10 Engg 2023-24 unit 3",
+        "lectures": [
+          {
+            "lec_no": "L-760",
+            "title": "Leacture 01 ",
+            "video_id": 1578,
+            "notes_id": 761
+          },
+          {
+            "lec_no": "L-762",
+            "title": "Leacture 02 ",
+            "video_id": 1585,
+            "notes_id": 763
+          },
+          {
+            "lec_no": "L-764",
+            "title": "Leacture 03 ",
+            "video_id": 1599,
+            "notes_id": 765
+          },
+          {
+            "lec_no": "L-766",
+            "title": "Leacture 04 ",
+            "video_id": 1588,
+            "notes_id": 767
+          },
+          {
+            "lec_no": "L-768",
+            "title": "Leacture 05 ",
+            "video_id": 1590,
+            "notes_id": 769
+          },
+          {
+            "lec_no": "L-770",
+            "title": "Leacture 06 ",
+            "video_id": 1589,
+            "notes_id": 771
+          },
+          {
+            "lec_no": "L-798",
+            "title": "ONE SHOT REVISION ",
+            "video_id": 1612,
+            "notes_id": 799
+          }
+        ],
+        "dpps": [
+          {
+            "lec_no": "772",
+            "title": "DPP",
+            "notes_id": 772
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "759",
+            "title": "Combined Notes",
+            "notes_id": 759
+          }
+        ]
+      },
+      {
+        "chapter_name": "Electrical 10 Engg 2023-24 unit 4",
+        "lectures": [
+          {
+            "lec_no": "L-774",
+            "title": "Leacture 01 ",
+            "video_id": 1595,
+            "notes_id": 775
+          },
+          {
+            "lec_no": "L-776",
+            "title": "Leacture 02 ",
+            "video_id": 1594,
+            "notes_id": 777
+          },
+          {
+            "lec_no": "L-778",
+            "title": "Leacture 03 ",
+            "video_id": 1593,
+            "notes_id": 779
+          },
+          {
+            "lec_no": "L-780",
+            "title": "Leacture 04 ",
+            "video_id": 1597,
+            "notes_id": 781
+          },
+          {
+            "lec_no": "L-782",
+            "title": "Leacture 05 ",
+            "video_id": 1601,
+            "notes_id": 783
+          },
+          {
+            "lec_no": "L-784",
+            "title": "Leacture 06 ",
+            "video_id": 1596,
+            "notes_id": 785
+          },
+          {
+            "lec_no": "L-786",
+            "title": "Leacture 07 ",
+            "video_id": 1598,
+            "notes_id": 787
+          },
+          {
+            "lec_no": "L-800",
+            "title": "ONE SHOT REVISION ",
+            "video_id": 1607,
+            "notes_id": 801
+          }
+        ],
+        "dpps": [
+          {
+            "lec_no": "788",
+            "title": "DPP",
+            "notes_id": 788
+          },
+          {
+            "lec_no": "789",
+            "title": "DPP Solution",
+            "notes_id": 789
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "773",
+            "title": "Combined Notes",
+            "notes_id": 773
+          }
+        ]
+      },
+      {
+        "chapter_name": "Electrical 10 Engg 2023-24 unit 5",
+        "lectures": [
+          {
+            "lec_no": "L-791",
+            "title": "Lecture - 01",
+            "video_id": 1602
+          },
+          {
+            "lec_no": "L-792",
+            "title": "Lecture - 02",
+            "video_id": 1604
+          },
+          {
+            "lec_no": "L-793",
+            "title": "Lecture - 03",
+            "video_id": 1600
+          },
+          {
+            "lec_no": "L-802",
+            "title": "ONE SHOT REVISION ",
+            "video_id": 1610,
+            "notes_id": 803
+          },
+          {
+            "lec_no": "L-804",
+            "title": "ONE SHOT REVISION - BEE-IMP QUESTIONS",
+            "video_id": 1606,
+            "notes_id": 805
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-790",
+            "title": "Combined Notes",
+            "notes_id": 790
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch_name": "Electronics Engg by Gulshan Sir",
+    "parent_batch": "GATEWAY 1ST YEAR",
+    "channel_id": "-1003875077565",
+    "chapters": [
+      {
+        "chapter_name": "Electronics Engg UNIT-1",
+        "lectures": [
+          {
+            "lec_no": "L-808",
+            "title": "Leacture 01 ",
+            "video_id": 1608,
+            "notes_id": 809
+          },
+          {
+            "lec_no": "L-810",
+            "title": "Leacture 02 ",
+            "video_id": 1618,
+            "notes_id": 811
+          },
+          {
+            "lec_no": "L-812",
+            "title": "Leacture 03 ",
+            "video_id": 1609,
+            "notes_id": 813
+          },
+          {
+            "lec_no": "L-814",
+            "title": "Leacture 04 ",
+            "video_id": 1617,
+            "notes_id": 815
+          },
+          {
+            "lec_no": "L-816",
+            "title": "Leacture 05 ",
+            "video_id": 1614,
+            "notes_id": 817
+          },
+          {
+            "lec_no": "L-818",
+            "title": "Leacture 06 ",
+            "video_id": 1611,
+            "notes_id": 819
+          },
+          {
+            "lec_no": "L-820",
+            "title": "Leacture 07 ",
+            "video_id": 1624,
+            "notes_id": 821
+          },
+          {
+            "lec_no": "L-822",
+            "title": "Leacture 08 ",
+            "video_id": 1613,
+            "notes_id": 823
+          },
+          {
+            "lec_no": "L-824",
+            "title": "Leacture 09 ",
+            "video_id": 1620,
+            "notes_id": 825
+          },
+          {
+            "lec_no": "L-826",
+            "title": "Leacture 10 ",
+            "video_id": 1616,
+            "notes_id": 827
+          },
+          {
+            "lec_no": "L-828",
+            "title": "Leacture 11 ",
+            "video_id": 1615,
+            "notes_id": 829
+          },
+          {
+            "lec_no": "L-830",
+            "title": "Leacture 12 ",
+            "video_id": 1623,
+            "notes_id": 831
+          },
+          {
+            "lec_no": "L-832",
+            "title": "One Shot P-1 ",
+            "video_id": 1621,
+            "notes_id": 834
+          },
+          {
+            "lec_no": "L-833",
+            "title": "One Shot P-2 ",
+            "video_id": 1619,
+            "notes_id": 834
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-807",
+            "title": "Combined Notes",
+            "notes_id": 807
+          },
+          {
+            "lec_no": "L-806",
+            "title": "ELECTRONICS MOST IMP  QUESTIONS",
+            "notes_id": 806
+          }
+        ]
+      },
+      {
+        "chapter_name": "Electronics Engg UNIT-2",
+        "lectures": [
+          {
+            "lec_no": "L-836",
+            "title": "Leacture 01 ",
+            "video_id": 1622,
+            "notes_id": 837
+          },
+          {
+            "lec_no": "L-838",
+            "title": "Leacture 02 ",
+            "video_id": 1629,
+            "notes_id": 839
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-835",
+            "title": "Combined Notes",
+            "notes_id": 835
+          }
+        ]
+      },
+      {
+        "chapter_name": "Electronics Engg UNIT-3",
+        "lectures": [
+          {
+            "lec_no": "L-840",
+            "title": "ONE SHOT ",
+            "video_id": 1626,
+            "notes_id": 841
+          }
+        ]
+      },
+      {
+        "chapter_name": "Electrical Engg UNIT-4",
+        "lectures": [
+          {
+            "lec_no": "L-842",
+            "title": "ONE SHOT",
+            "video_id": 1628,
+            "notes_id": 843
+          }
+        ]
+      },
+      {
+        "chapter_name": "Electrical Engg UNIT-5",
+        "lectures": [
+          {
+            "lec_no": "L-844",
+            "title": "ONE SHOT (Part 01)",
+            "video_id": 1625,
+            "notes_id": 846
+          },
+          {
+            "lec_no": "L-845",
+            "title": "ONE SHOT (Part 02)",
+            "video_id": 1632,
+            "notes_id": 846
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch_name": "Programming for Problem Solving [PPS] BY NIDHI MA'AM",
+    "parent_batch": "GATEWAY 1ST YEAR",
+    "channel_id": "-1003875077565",
+    "chapters": [
+      {
+        "chapter_name": " PPS UNIT-1",
+        "lectures": [
+          {
+            "lec_no": "L-847",
+            "title": "Syll Intro",
+            "video_id": 1627
+          },
+          {
+            "lec_no": "L-848",
+            "title": "PPS Syll Intro",
+            "video_id": 1850,
+            "notes_id": 849
+          },
+          {
+            "lec_no": "L-852",
+            "title": "Leacture 01 ",
+            "video_id": 1631,
+            "notes_id": 853
+          },
+          {
+            "lec_no": "L-854",
+            "title": "Leacture 02 ",
+            "video_id": 1633,
+            "notes_id": 855
+          },
+          {
+            "lec_no": "L-856",
+            "title": "Leacture 03 ",
+            "video_id": 1634,
+            "notes_id": 857
+          },
+          {
+            "lec_no": "L-858",
+            "title": "Leacture 04 ",
+            "video_id": 1635,
+            "notes_id": 859
+          },
+          {
+            "lec_no": "L-860",
+            "title": "Leacture 05 (PART 01) ",
+            "video_id": 1636,
+            "notes_id": 862
+          },
+          {
+            "lec_no": "L-861",
+            "title": "Leacture 05 (Part 02) ",
+            "video_id": 1637,
+            "notes_id": 862
+          },
+          {
+            "lec_no": "L-863",
+            "title": "Leacture 06 (Part 01)",
+            "video_id": 1639,
+            "notes_id": 865
+          },
+          {
+            "lec_no": "L-864",
+            "title": "Leacture 06 (Part 02) ",
+            "video_id": 1638,
+            "notes_id": 865
+          },
+          {
+            "lec_no": "L-866",
+            "title": "Leacture 07 ",
+            "video_id": 1640,
+            "notes_id": 867
+          },
+          {
+            "lec_no": "L-868",
+            "title": "Leacture 08 ",
+            "video_id": 1641,
+            "notes_id": 869
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-850",
+            "title": "Hand Written Notes",
+            "notes_id": 850
+          },
+          {
+            "lec_no": "L-851",
+            "title": "Combined Notes",
+            "notes_id": 851
+          }
+        ]
+      },
+      {
+        "chapter_name": "PPS UNIT-2",
+        "lectures": [
+          {
+            "lec_no": "L-872",
+            "title": "Leacture 01 ",
+            "video_id": 1649,
+            "notes_id": 873
+          },
+          {
+            "lec_no": "L-874",
+            "title": "Leacture 02 ",
+            "video_id": 1642,
+            "notes_id": 875
+          },
+          {
+            "lec_no": "L-876",
+            "title": "Leacture 03 ",
+            "video_id": 1653,
+            "notes_id": 877
+          },
+          {
+            "lec_no": "L-878",
+            "title": "Leacture 04 ",
+            "video_id": 1644,
+            "notes_id": 879
+          },
+          {
+            "lec_no": "L-880",
+            "title": "Leacture 05 ",
+            "video_id": 1651,
+            "notes_id": 881
+          },
+          {
+            "lec_no": "L-882",
+            "title": "Leacture 06 ",
+            "video_id": 1650,
+            "notes_id": 883
+          },
+          {
+            "lec_no": "L-884",
+            "title": "Leacture 07 ",
+            "video_id": 1658,
+            "notes_id": 885
+          },
+          {
+            "lec_no": "L-886",
+            "title": "Leacture 08 ",
+            "video_id": 1643,
+            "notes_id": 887
+          },
+          {
+            "lec_no": "L-888",
+            "title": "Leacture 09 ",
+            "video_id": 1656,
+            "notes_id": 889
+          },
+          {
+            "lec_no": "L-890",
+            "title": "Leacture 10 ",
+            "video_id": 1648,
+            "notes_id": 891
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-870",
+            "title": "Combined Notes",
+            "notes_id": 870
+          },
+          {
+            "lec_no": "L-871",
+            "title": "Hand Written Notes",
+            "notes_id": 871
+          }
+        ]
+      },
+      {
+        "chapter_name": "PPS UNIT-3",
+        "lectures": [
+          {
+            "lec_no": "L-894",
+            "title": "Leacture 01  ",
+            "video_id": 1654,
+            "notes_id": 895
+          },
+          {
+            "lec_no": "L-896",
+            "title": "Leacture 02 ",
+            "video_id": 1652,
+            "notes_id": 897
+          },
+          {
+            "lec_no": "L-898",
+            "title": "Leacture 03 ",
+            "video_id": 1645,
+            "notes_id": 899
+          },
+          {
+            "lec_no": "L-900",
+            "title": "Leacture 04 ",
+            "video_id": 1647,
+            "notes_id": 901
+          },
+          {
+            "lec_no": "L-902",
+            "title": "Leacture 05 ",
+            "video_id": 1646,
+            "notes_id": 903
+          },
+          {
+            "lec_no": "L-904",
+            "title": "Leacture 06 ",
+            "video_id": 1655,
+            "notes_id": 905
+          },
+          {
+            "lec_no": "L-906",
+            "title": "Leacture 07 ",
+            "video_id": 1665,
+            "notes_id": 907
+          },
+          {
+            "lec_no": "L-908",
+            "title": "Leacture 08 ",
+            "video_id": 1657,
+            "notes_id": 909
+          },
+          {
+            "lec_no": "L-910",
+            "title": "Leacture 09 ",
+            "video_id": 1660,
+            "notes_id": 911
+          },
+          {
+            "lec_no": "L-912",
+            "title": "Leacture 10 ",
+            "video_id": 1663,
+            "notes_id": 913
+          },
+          {
+            "lec_no": "L-914",
+            "title": "Leacture 11 ",
+            "video_id": 1659,
+            "notes_id": 915
+          },
+          {
+            "lec_no": "L-916",
+            "title": "Leacture 12 (PART 01) ",
+            "video_id": 1664,
+            "notes_id": 918
+          },
+          {
+            "lec_no": "L-917",
+            "title": "Leacture 12 (Part 02) ",
+            "video_id": 1662,
+            "notes_id": 918
+          },
+          {
+            "lec_no": "L-919",
+            "title": "Leacture 13 ",
+            "video_id": 1675,
+            "notes_id": 920
+          },
+          {
+            "lec_no": "L-921",
+            "title": "Leacture 14 ",
+            "video_id": 1666,
+            "notes_id": 922
+          },
+          {
+            "lec_no": "L-923",
+            "title": "Leacture 15 ",
+            "video_id": 1667,
+            "notes_id": 924
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "893",
+            "title": "Combined Notes",
+            "notes_id": 893
+          },
+          {
+            "lec_no": "892",
+            "title": "Hand Written Notes",
+            "notes_id": 892
+          }
+        ]
+      },
+      {
+        "chapter_name": "PPS UNIT-4",
+        "lectures": [
+          {
+            "lec_no": "L-927",
+            "title": "Leacture 01 (PART-1) ",
+            "video_id": 1668,
+            "notes_id": 929
+          },
+          {
+            "lec_no": "L-928",
+            "title": "Leacture 01 (PART-2) ",
+            "video_id": 1669,
+            "notes_id": 929
+          },
+          {
+            "lec_no": "L-930",
+            "title": "Leacture 02 ",
+            "video_id": 1670,
+            "notes_id": 931
+          },
+          {
+            "lec_no": "L-932",
+            "title": "Leacture 03 ",
+            "video_id": 1672,
+            "notes_id": 933
+          },
+          {
+            "lec_no": "L-934",
+            "title": "Leacture 04 ",
+            "video_id": 1671,
+            "notes_id": 935
+          },
+          {
+            "lec_no": "L-936",
+            "title": "Leacture 05 ",
+            "video_id": 1677,
+            "notes_id": 937
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-926",
+            "title": "Combined Notes",
+            "notes_id": 926
+          },
+          {
+            "lec_no": "L-925",
+            "title": "Hand Written Notes",
+            "notes_id": 925
+          }
+        ]
+      },
+      {
+        "chapter_name": "PPS UNIT-5",
+        "lectures": [
+          {
+            "lec_no": "L-939",
+            "title": "Leacture 01 ",
+            "video_id": 1673,
+            "notes_id": 940
+          },
+          {
+            "lec_no": "L-941",
+            "title": "Leacture 02 (PART-1) ",
+            "video_id": 1674,
+            "notes_id": 943
+          },
+          {
+            "lec_no": "L-942",
+            "title": "Leacture 02 (PART-2) ",
+            "video_id": 1676,
+            "notes_id": 943
+          },
+          {
+            "lec_no": "L-944",
+            "title": "Leacture 03 ",
+            "video_id": 1678,
+            "notes_id": 945
+          },
+          {
+            "lec_no": "L-946",
+            "title": "Leacture 04 ",
+            "video_id": 1679,
+            "notes_id": 947
+          },
+          {
+            "lec_no": "L-948",
+            "title": "PPS UNIT-1, 2, 5 KEY POINTS ",
+            "video_id": 1680,
+            "notes_id": 949
+          },
+          {
+            "lec_no": "L-950",
+            "title": "PPS UNIT-4, 3,  KEY POINTS",
+            "video_id": 1681
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-938",
+            "title": "Combined Notes",
+            "notes_id": 938
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch_name": "Programming for Problem Solving [PPS] BY PRAGYA MA'AM",
+    "parent_batch": "GATEWAY 1ST YEAR",
+    "channel_id": "-1003875077565",
+    "chapters": [
+      {
+        "chapter_name": " PPS UNIT-1",
+        "lectures": [
+          {
+            "lec_no": "L-953",
+            "title": "Leacture 01 ",
+            "video_id": 1682,
+            "notes_id": 954
+          },
+          {
+            "lec_no": "L-955",
+            "title": "Leacture 02 ",
+            "video_id": 1690,
+            "notes_id": 956
+          },
+          {
+            "lec_no": "L-957",
+            "title": "Leacture 03 ",
+            "video_id": 1852,
+            "notes_id": 958
+          },
+          {
+            "lec_no": "L-959",
+            "title": "Leacture 04 ",
+            "video_id": 1685,
+            "notes_id": 960
+          },
+          {
+            "lec_no": "L-961",
+            "title": "Leacture 05 ",
+            "video_id": 1686,
+            "notes_id": 962
+          },
+          {
+            "lec_no": "L-963",
+            "title": "Leacture 06 ",
+            "video_id": 1687,
+            "notes_id": 964
+          },
+          {
+            "lec_no": "L-965",
+            "title": "Leacture 07 ",
+            "video_id": 1688,
+            "notes_id": 966
+          },
+          {
+            "lec_no": "L-967",
+            "title": "Leacture 08 ",
+            "video_id": 1689,
+            "notes_id": 968
+          },
+          {
+            "lec_no": "L-969",
+            "title": "Leacture 09 ",
+            "video_id": 1691,
+            "notes_id": 970
+          },
+          {
+            "lec_no": "L-971",
+            "title": "Leacture 10 ",
+            "video_id": 1696,
+            "notes_id": 972
+          },
+          {
+            "lec_no": "L-973",
+            "title": "Leacture 11 ",
+            "video_id": 1693,
+            "notes_id": 974
+          },
+          {
+            "lec_no": "L-975",
+            "title": "Leacture 12 ",
+            "video_id": 1692,
+            "notes_id": 976
+          },
+          {
+            "lec_no": "L-1026",
+            "title": "ONE SHOT REVISION",
+            "video_id": 1719,
+            "notes_id": 1027
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-951",
+            "title": "MOST IMP QUESTIONS",
+            "notes_id": 951
+          },
+          {
+            "lec_no": "L-952",
+            "title": "Combined Notes",
+            "notes_id": 952
+          }
+        ]
+      },
+      {
+        "chapter_name": "PPS UNIT-2",
+        "lectures": [
+          {
+            "lec_no": "L-978",
+            "title": "Leacture 01 ",
+            "video_id": 1694
+          },
+          {
+            "lec_no": "L-979",
+            "title": "Leacture 02 ",
+            "video_id": 1695
+          },
+          {
+            "lec_no": "L-980",
+            "title": "Leacture 03 ",
+            "video_id": 1697
+          },
+          {
+            "lec_no": "L-981",
+            "title": "Leacture 04 ",
+            "video_id": 1684
+          },
+          {
+            "lec_no": "L-982",
+            "title": "Leacture 05 ",
+            "video_id": 1702
+          },
+          {
+            "lec_no": "L-983",
+            "title": "Leacture 06 ",
+            "video_id": 1700
+          },
+          {
+            "lec_no": "L-984",
+            "title": "Leacture 07 ",
+            "video_id": 1699
+          },
+          {
+            "lec_no": "L-985",
+            "title": "Leacture 08 ",
+            "video_id": 1701
+          },
+          {
+            "lec_no": "L-986",
+            "title": "Leacture 09 ",
+            "video_id": 1705
+          },
+          {
+            "lec_no": "L-987",
+            "title": "Leacture 10 ",
+            "video_id": 1702
+          },
+          {
+            "lec_no": "L-1028",
+            "title": "ONE SHOT REVISION",
+            "video_id": 1722,
+            "notes_id": 1029
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-977",
+            "title": "Combined Notes",
+            "notes_id": 977
+          }
+        ]
+      },
+      {
+        "chapter_name": "PPS UNIT-3",
+        "lectures": [
+          {
+            "lec_no": "L-989",
+            "title": "Leacture 01 ",
+            "video_id": 1703,
+            "notes_id": 990
+          },
+          {
+            "lec_no": "L-991",
+            "title": "Leacture 02 ",
+            "video_id": 1704,
+            "notes_id": 992
+          },
+          {
+            "lec_no": "L-993",
+            "title": "Leacture 03 ",
+            "video_id": 1709,
+            "notes_id": 994
+          },
+          {
+            "lec_no": "L-995",
+            "title": "Leacture 04 ",
+            "video_id": 1707,
+            "notes_id": 996
+          },
+          {
+            "lec_no": "L-997",
+            "title": "Leacture 05 ",
+            "video_id": 1706,
+            "notes_id": 998
+          },
+          {
+            "lec_no": "L-999",
+            "title": "Leacture 06 ",
+            "video_id": 1708,
+            "notes_id": 1000
+          },
+          {
+            "lec_no": "L-1001",
+            "title": "Leacture 07 ",
+            "video_id": 1715,
+            "notes_id": 1002
+          },
+          {
+            "lec_no": "L-1003",
+            "title": "Leacture 08 ",
+            "video_id": 1710,
+            "notes_id": 1004
+          },
+          {
+            "lec_no": "L-1005",
+            "title": "Leacture 09 ",
+            "video_id": 1711,
+            "notes_id": 1006
+          },
+          {
+            "lec_no": "L-1030",
+            "title": "ONE SHOT REVISION (PART-1)",
+            "video_id": 1731,
+            "notes_id": 1032
+          },
+          {
+            "lec_no": "L-1031",
+            "title": "ONE SHOT REVISION(PART-2)",
+            "video_id": 1736,
+            "notes_id": 1032
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "988",
+            "title": "Combined Notes",
+            "notes_id": 988
+          }
+        ]
+      },
+      {
+        "chapter_name": "PPS UNIT-4",
+        "lectures": [
+          {
+            "lec_no": "L-1008",
+            "title": "Leacture 01 ",
+            "video_id": 1712,
+            "notes_id": 1010
+          },
+          {
+            "lec_no": "L-1009",
+            "title": "Leacture 02 ",
+            "video_id": 1855,
+            "notes_id": 1010
+          },
+          {
+            "lec_no": "L-1011",
+            "title": "Leacture 03 ",
+            "video_id": 1721,
+            "notes_id": 1012
+          },
+          {
+            "lec_no": "L-1013",
+            "title": "Leacture 04 ",
+            "video_id": 1713,
+            "notes_id": 1014
+          },
+          {
+            "lec_no": "L-1015",
+            "title": "Leacture 05 ",
+            "video_id": 1714,
+            "notes_id": 1016
+          },
+          {
+            "lec_no": "L-1033",
+            "title": "ONE SHOT REVISION",
+            "video_id": 1724,
+            "notes_id": 1034
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-1007",
+            "title": "Combined Notes",
+            "notes_id": 1007
+          }
+        ]
+      },
+      {
+        "chapter_name": "PPS UNIT-5",
+        "lectures": [
+          {
+            "lec_no": "L-1018",
+            "title": "Leacture 01 ",
+            "video_id": 1720,
+            "notes_id": 1019
+          },
+          {
+            "lec_no": "L-1020",
+            "title": "Leacture 02 ",
+            "video_id": 1716,
+            "notes_id": 1021
+          },
+          {
+            "lec_no": "L-1022",
+            "title": "Leacture 03",
+            "video_id": 1717,
+            "notes_id": 1023
+          },
+          {
+            "lec_no": "L-1024",
+            "title": "Leacture 04 ",
+            "video_id": 1718,
+            "notes_id": 1025
+          },
+          {
+            "lec_no": "L-1035",
+            "title": "ONE SHOT REVISION",
+            "video_id": 1723,
+            "notes_id": 1036
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-1017",
+            "title": "Combined Notes",
+            "notes_id": 1017
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch_name": "Fundamentals of Mech Engg [FME]",
+    "parent_batch": "GATEWAY 1ST YEAR",
+    "channel_id": "-1003875077565",
+    "chapters": [
+      {
+        "chapter_name": " FME UNIT-1",
+        "lectures": [
+          {
+            "lec_no": "L-1040",
+            "title": "Leacture 01 ",
+            "video_id": 1741,
+            "notes_id": 1041
+          },
+          {
+            "lec_no": "L-1042",
+            "title": "Leacture 02 ",
+            "video_id": 1733,
+            "notes_id": 1043
+          },
+          {
+            "lec_no": "L-1044",
+            "title": "Leacture 03 ",
+            "video_id": 1730,
+            "notes_id": 1045
+          },
+          {
+            "lec_no": "L-1046",
+            "title": "Leacture 04 ",
+            "video_id": 1725,
+            "notes_id": 1047
+          },
+          {
+            "lec_no": "L-1048",
+            "title": "Leacture 05 ",
+            "video_id": 1738,
+            "notes_id": 1049
+          },
+          {
+            "lec_no": "L-1050",
+            "title": "Leacture 06 ",
+            "video_id": 1737,
+            "notes_id": 1051
+          },
+          {
+            "lec_no": "L-1052",
+            "title": "Leacture 07 ",
+            "video_id": 1727,
+            "notes_id": 1053
+          },
+          {
+            "lec_no": "L-1054",
+            "title": "Leacture 08 ",
+            "video_id": 1728,
+            "notes_id": 1055
+          },
+          {
+            "lec_no": "L-1056",
+            "title": "Leacture 09 ",
+            "video_id": 1726,
+            "notes_id": 1057
+          },
+          {
+            "lec_no": "L-1058",
+            "title": "Leacture 10 ",
+            "video_id": 1734,
+            "notes_id": 1059
+          },
+          {
+            "lec_no": "L-1060",
+            "title": "Leacture 11 ",
+            "video_id": 1732,
+            "notes_id": 1061
+          },
+          {
+            "lec_no": "L-1105",
+            "title": "Crash Course",
+            "video_id": 1757,
+            "notes_id": 1106
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-1037",
+            "title": "IMP QUESTIONS",
+            "notes_id": 951
+          },
+          {
+            "lec_no": "L-1038",
+            "title": "Hand Written Notes",
+            "notes_id": 1038
+          },
+          {
+            "lec_no": "L-1039",
+            "title": "Combined Notes",
+            "notes_id": 1039
+          }
+        ]
+      },
+      {
+        "chapter_name": "FME UNIT-2",
+        "lectures": [
+          {
+            "lec_no": "L-1064",
+            "title": "Leacture 01 ",
+            "video_id": 1729,
+            "notes_id": 1065
+          },
+          {
+            "lec_no": "L-1066",
+            "title": "Leacture 02 ",
+            "video_id": 1735,
+            "notes_id": 1067
+          },
+          {
+            "lec_no": "L-1068",
+            "title": "Leacture 03 ",
+            "video_id": 1745,
+            "notes_id": 1069
+          },
+          {
+            "lec_no": "L-1070",
+            "title": "Leacture 04 ",
+            "video_id": 1739,
+            "notes_id": 1071
+          },
+          {
+            "lec_no": "L-1072",
+            "title": "Leacture 05 ",
+            "video_id": 1740,
+            "notes_id": 1073
+          },
+          {
+            "lec_no": "L-1107",
+            "title": "Crash Course",
+            "video_id": 1759,
+            "notes_id": 1108
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-1063",
+            "title": "Hand Written Notes",
+            "notes_id": 1063
+          },
+          {
+            "lec_no": "L-1109",
+            "title": "ONE SHOT REVISION Hand Written Notes",
+            "notes_id": 1109
+          },
+          {
+            "lec_no": "L-1062",
+            "title": "Combined Notes",
+            "notes_id": 1062
+          }
+        ]
+      },
+      {
+        "chapter_name": "FME UNIT-3",
+        "lectures": [
+          {
+            "lec_no": "L-1076",
+            "title": "Leacture 01 ",
+            "video_id": 1744,
+            "notes_id": 1076
+          },
+          {
+            "lec_no": "L-1077",
+            "title": "Leacture 01 Notes",
+            "notes_id": 1077
+          },
+          {
+            "lec_no": "L-1078",
+            "title": "Leacture 02 ",
+            "video_id": 1742,
+            "notes_id": 1079
+          },
+          {
+            "lec_no": "L-1080",
+            "title": "Leacture 03 ",
+            "video_id": 1743,
+            "notes_id": 1081
+          },
+          {
+            "lec_no": "L-1082",
+            "title": "Leacture 04 ",
+            "video_id": 1751,
+            "notes_id": 1083
+          },
+          {
+            "lec_no": "L-1110",
+            "title": "Crash Course",
+            "video_id": 1760,
+            "notes_id": 1111
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-1075",
+            "title": "Hand Written Notes",
+            "notes_id": 1075
+          },
+          {
+            "lec_no": "L-1074",
+            "title": "Combined Notes",
+            "notes_id": 1074
+          }
+        ]
+      },
+      {
+        "chapter_name": "FME UNIT-4",
+        "lectures": [
+          {
+            "lec_no": "L-1086",
+            "title": "Leacture 01 ",
+            "video_id": 1746,
+            "notes_id": 1087
+          },
+          {
+            "lec_no": "L-1088",
+            "title": "Leacture 02 ",
+            "video_id": 1752,
+            "notes_id": 1089
+          },
+          {
+            "lec_no": "L-1090",
+            "title": "Leacture 03 ",
+            "video_id": 1747,
+            "notes_id": 1091
+          },
+          {
+            "lec_no": "L-1092",
+            "title": "Leacture 04 ",
+            "video_id": 1748,
+            "notes_id": 1093
+          },
+          {
+            "lec_no": "L-1094",
+            "title": "Leacture 05 ",
+            "video_id": 1746,
+            "notes_id": 1095
+          },
+          {
+            "lec_no": "L-1096",
+            "title": "Leacture 06 ",
+            "video_id": 1749,
+            "notes_id": 1097
+          },
+          {
+            "lec_no": "L-1098",
+            "title": "Leacture 07 ",
+            "video_id": 1750,
+            "notes_id": 1099
+          },
+          {
+            "lec_no": "L-1112",
+            "title": "Crash Course",
+            "video_id": 1758,
+            "notes_id": 1113
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-1084",
+            "title": "Combined Notes",
+            "notes_id": 1084
+          },
+          {
+            "lec_no": "L-1085",
+            "title": "Hand Written Notes",
+            "notes_id": 1085
+          }
+        ]
+      },
+      {
+        "chapter_name": "FME UNIT-5",
+        "lectures": [
+          {
+            "lec_no": "L-1101",
+            "title": "ONE SHOT (PART-1) ",
+            "video_id": 1754,
+            "notes_id": 1102
+          },
+          {
+            "lec_no": "L-1103",
+            "title": "ONE SHOT (PART-2) ",
+            "video_id": 1753,
+            "notes_id": 1104
+          },
+          {
+            "lec_no": "L-1114",
+            "title": "Crash Course",
+            "video_id": 1756,
+            "notes_id": 1115
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-1100",
+            "title": "Hand Written Notes",
+            "notes_id": 1100
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch_name": "Environment and Ecology - EVs I-Year",
+    "parent_batch": "GATEWAY 1ST YEAR",
+    "channel_id": "-1003875077565",
+    "chapters": [
+      {
+        "chapter_name": " EVs UNIT-1",
+        "lectures": [
+          {
+            "lec_no": "L-1117",
+            "title": "Leacture 01 ",
+            "video_id": 1761,
+            "notes_id": 1118
+          },
+          {
+            "lec_no": "L-1119",
+            "title": "Leacture 02 ",
+            "video_id": 1762,
+            "notes_id": 1120
+          },
+          {
+            "lec_no": "L-1121",
+            "title": "Leacture 03 ",
+            "video_id": 1764,
+            "notes_id": 1122
+          },
+          {
+            "lec_no": "L-1123",
+            "title": "Leacture 04 ",
+            "video_id": 1763,
+            "notes_id": 1124
+          },
+          {
+            "lec_no": "L-1125",
+            "title": "Leacture 05 ",
+            "video_id": 1766,
+            "notes_id": 1126
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-1116",
+            "title": "Combined Notes",
+            "notes_id": 1116
+          }
+        ]
+      },
+      {
+        "chapter_name": "EVs UNIT-2",
+        "lectures": [
+          {
+            "lec_no": "L-1128",
+            "title": "Leacture 01 ",
+            "video_id": 1765,
+            "notes_id": 1129
+          },
+          {
+            "lec_no": "L-1130",
+            "title": "Leacture 02 ",
+            "video_id": 1786,
+            "notes_id": 1131
+          },
+          {
+            "lec_no": "L-1132",
+            "title": "Leacture 03 ",
+            "video_id": 1778,
+            "notes_id": 1133
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-1127",
+            "title": "Combined Notes",
+            "notes_id": 1127
+          }
+        ]
+      },
+      {
+        "chapter_name": "FME UNIT-3",
+        "lectures": [
+          {
+            "lec_no": "L-1136",
+            "title": "Leacture 01 ",
+            "video_id": 1768
+          },
+          {
+            "lec_no": "L-1137",
+            "title": "Leacture 02 ",
+            "video_id": 1770
+          },
+          {
+            "lec_no": "L-1138",
+            "title": "Leacture 03 ",
+            "video_id": 1767
+          },
+          {
+            "lec_no": "L-1139",
+            "title": "Leacture 04 ",
+            "video_id": 1787
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-1134",
+            "title": "Hand Written Notes",
+            "notes_id": 1134
+          },
+          {
+            "lec_no": "L-1135",
+            "title": "Combined Notes",
+            "notes_id": 1135
+          }
+        ]
+      },
+      {
+        "chapter_name": "FME UNIT-4",
+        "lectures": [
+          {
+            "lec_no": "L-1140",
+            "title": "ONE SHOT",
+            "video_id": 1771,
+            "notes_id": 1141
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-1142",
+            "title": "Hand Written Notes",
+            "notes_id": 1142
+          }
+        ]
+      },
+      {
+        "chapter_name": "FME UNIT-5",
+        "lectures": [
+          {
+            "lec_no": "L-1143",
+            "title": "ONE SHOT",
+            "video_id": 1776,
+            "notes_id": 1144
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-1145",
+            "title": "Hand Written Notes",
+            "notes_id": 1145
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch_name": "Soft Skills",
+    "parent_batch": "GATEWAY 1ST YEAR",
+    "channel_id": "-1003875077565",
+    "chapters": [
+      {
+        "chapter_name": " Soft Skill ONE SHOT",
+        "lectures": [
+          {
+            "lec_no": "L-1146",
+            "title": "UNIT 01 ",
+            "video_id": 1773,
+            "notes_id": 1147
+          },
+          {
+            "lec_no": "L-1148",
+            "title": "UNIT 02 ",
+            "video_id": 1774,
+            "notes_id": 1149
+          },
+          {
+            "lec_no": "L-1150",
+            "title": "UNIT 03 ",
+            "video_id": 1784,
+            "notes_id": 1151
+          },
+          {
+            "lec_no": "L-1152",
+            "title": "UNIT 04 ",
+            "video_id": 1775,
+            "notes_id": 1153
+          },
+          {
+            "lec_no": "L-1154",
+            "title": "UNIT 05 ",
+            "video_id": 1769,
+            "notes_id": 1155
+          },
+          {
+            "lec_no": "L-1156",
+            "title": "Imp Questions ",
+            "video_id": 1772,
+            "notes_id": 1157
+          }
+        ]
+      },
+      {
+        "chapter_name": "Soft Skills UNIT-1",
+        "lectures": [
+          {
+            "lec_no": "L-1185",
+            "title": "Leacture 01 ",
+            "video_id": 1797
+          },
+          {
+            "lec_no": "L-1186",
+            "title": "Leacture 02 ",
+            "video_id": 1791
+          },
+          {
+            "lec_no": "L-1187",
+            "title": "Leacture 03 ",
+            "video_id": 1793
+          },
+          {
+            "lec_no": "L-1188",
+            "title": "Leacture 04 ",
+            "video_id": 1805
+          },
+          {
+            "lec_no": "L-1189",
+            "title": "Leacture 05 ",
+            "video_id": 1809
+          },
+          {
+            "lec_no": "L-1190",
+            "title": "Leacture 06 ",
+            "video_id": 1798
+          },
+          {
+            "lec_no": "L-1191",
+            "title": "Leacture 07 ",
+            "video_id": 1796
+          },
+          {
+            "lec_no": "L-1192",
+            "title": "Leacture 08 ",
+            "video_id": 1806
+          },
+          {
+            "lec_no": "L-1193",
+            "title": "Leacture 09 ",
+            "video_id": 1808
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-1184",
+            "title": "Combined Notes",
+            "notes_id": 1184
+          }
+        ]
+      },
+      {
+        "chapter_name": "Soft Skills UNIT-2",
+        "lectures": [
+          {
+            "lec_no": "L-1160",
+            "title": "Leacture 01 ",
+            "video_id": 1781,
+            "notes_id": 1159
+          },
+          {
+            "lec_no": "L-1161",
+            "title": "Leacture 02 ",
+            "video_id": 1785,
+            "notes_id": 1159
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-1158",
+            "title": "Hand Written Notes",
+            "notes_id": 1158
+          }
+        ]
+      },
+      {
+        "chapter_name": "Soft Skills UNIT-3",
+        "lectures": [
+          {
+            "lec_no": "L-1163",
+            "title": "ONE SHOT ",
+            "video_id": 1777
+          },
+          {
+            "lec_no": "L-1164",
+            "title": "Leacture 01 ",
+            "video_id": 1790,
+            "notes_id": 1164
+          },
+          {
+            "lec_no": "L-1165",
+            "title": "Leacture 02 ",
+            "video_id": 1800,
+            "notes_id": 1165
+          },
+          {
+            "lec_no": "L-1166",
+            "title": "Leacture 03 ",
+            "video_id": 1795,
+            "notes_id": 1166
+          },
+          {
+            "lec_no": "L-1167",
+            "title": "Leacture 04 ",
+            "video_id": 1801,
+            "notes_id": 1167
+          },
+          {
+            "lec_no": "L-1168",
+            "title": "Leacture 05 ",
+            "video_id": 1782,
+            "notes_id": 1168
+          },
+          {
+            "lec_no": "L-1169",
+            "title": "Notice Samples ",
+            "video_id": 1856
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-1162",
+            "title": "Combined Notes",
+            "notes_id": 1162
+          }
+        ]
+      },
+      {
+        "chapter_name": "Soft Skills UNIT-4",
+        "lectures": [
+          {
+            "lec_no": "L-1170",
+            "title": "ONE SHOT",
+            "video_id": 1780,
+            "notes_id": 1171
+          },
+          {
+            "lec_no": "L-1173",
+            "title": "Leacture 01 ",
+            "video_id": 1794
+          },
+          {
+            "lec_no": "L-1174",
+            "title": "Leacture 02 ",
+            "video_id": 1779
+          },
+          {
+            "lec_no": "L-1175",
+            "title": "Leacture 03 ",
+            "video_id": 1857
+          },
+          {
+            "lec_no": "L-1176",
+            "title": "Leacture 04 ",
+            "video_id": 1789
+          },
+          {
+            "lec_no": "L-1177",
+            "title": "Leacture 05 ",
+            "video_id": 1799
+          },
+          {
+            "lec_no": "L-1178",
+            "title": "Leacture 06 ",
+            "video_id": 1792
+          },
+          {
+            "lec_no": "L-1179",
+            "title": "Leacture 07 ",
+            "video_id": 1807
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-1172",
+            "title": "Combined Notes",
+            "notes_id": 1172
+          }
+        ]
+      },
+      {
+        "chapter_name": "Soft Skills UNIT-5",
+        "lectures": [
+          {
+            "lec_no": "L-1182",
+            "title": "Leacture 01 ",
+            "video_id": 1788
+          },
+          {
+            "lec_no": "L-1183",
+            "title": "Leacture 02 ",
+            "video_id": 1804
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-1180",
+            "title": "Hand Written Notes",
+            "notes_id": 1180
+          },
+          {
+            "lec_no": "L-1181",
+            "title": "Combined Notes",
+            "notes_id": 1181
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch_name": "Crash Course Unit Wise",
+    "parent_batch": "GATEWAY 1ST YEAR",
+    "channel_id": "-1003875077565",
+    "chapters": [
+      {
+        "chapter_name": "PPS Crash Course [ONE SHOT]",
+        "lectures": [
+          {
+            "lec_no": "L-1194",
+            "title": "UNIT 01",
+            "video_id": 1802,
+            "notes_id": 1195
+          },
+          {
+            "lec_no": "L-1196",
+            "title": "UNIT 02 ",
+            "video_id": 1803,
+            "notes_id": 1197
+          },
+          {
+            "lec_no": "L-1198",
+            "title": "UNIT 03 (part-1)",
+            "video_id": 1810,
+            "notes_id": 1200
+          },
+          {
+            "lec_no": "L-1199",
+            "title": "UNIT 03 (part-2) ",
+            "video_id": 1811,
+            "notes_id": 1200
+          },
+          {
+            "lec_no": "L-1201",
+            "title": "UNIT 04 ",
+            "video_id": 1828,
+            "notes_id": 1202
+          },
+          {
+            "lec_no": "L-1203",
+            "title": "UNIT 05 ",
+            "video_id": 1813,
+            "notes_id": 1204
+          }
+        ]
+      },
+      {
+        "chapter_name": "Mechanical Engg  Crash Course",
+        "lectures": [
+          {
+            "lec_no": "L-1205",
+            "title": "UNIT 01",
+            "video_id": 1815,
+            "notes_id": 1206
+          },
+          {
+            "lec_no": "L-1207",
+            "title": "UNIT 02 ",
+            "video_id": 1829,
+            "notes_id": 1208
+          },
+          {
+            "lec_no": "L-1209",
+            "title": "FME Imp Questions",
+            "video_id": 1817
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-1209",
+            "title": "Hand Written Notes",
+            "notes_id": 1209
+          }
+        ]
+      },
+      {
+        "chapter_name": "Electrical Engg - BEE U-1 Crash Course [ONE SHOT]",
+        "lectures": [
+          {
+            "lec_no": "L-1211",
+            "title": "UNIT 01",
+            "video_id": 1812,
+            "notes_id": 1212
+          },
+          {
+            "lec_no": "L-1213",
+            "title": "UNIT 02 ",
+            "video_id": 1819
+          },
+          {
+            "lec_no": "L-1214",
+            "title": "UNIT 03",
+            "video_id": 1816
+          }
+        ]
+      },
+      {
+        "chapter_name": "Engg Chemistry Crash Course [ONE SHOT]",
+        "lectures": [
+          {
+            "lec_no": "L-1215",
+            "title": "UNIT 01",
+            "video_id": 1818,
+            "notes_id": 1216
+          },
+          {
+            "lec_no": "L-1217",
+            "title": "UNIT 02 ",
+            "video_id": 1831,
+            "notes_id": 1218
+          }
+        ]
+      },
+      {
+        "chapter_name": "Engg Physics Crash Course [ P-I ] [ONE SHOT]",
+        "lectures": [
+          {
+            "lec_no": "L-1219",
+            "title": "UNIT 01 (part-1)",
+            "video_id": 1830,
+            "notes_id": 1220
+          },
+          {
+            "lec_no": "L-1221",
+            "title": "UNIT 01 (part-2) ",
+            "video_id": 1814,
+            "notes_id": 1222
+          },
+          {
+            "lec_no": "L-1223",
+            "title": "UNIT 02",
+            "video_id": 1833,
+            "notes_id": 1224
+          },
+          {
+            "lec_no": "L-1225",
+            "title": "UNIT 03 (part-1)",
+            "video_id": 1832,
+            "notes_id": 1226
+          },
+          {
+            "lec_no": "L-1227",
+            "title": "UNIT 03 (part-3)",
+            "video_id": 1827,
+            "notes_id": 1228
+          },
+          {
+            "lec_no": "L-1229",
+            "title": "UNIT 04 (part-1)",
+            "video_id": 1824,
+            "notes_id": 1230
+          },
+          {
+            "lec_no": "L-1231",
+            "title": "UNIT 04 (part-2)",
+            "video_id": 1834,
+            "notes_id": 1232
+          },
+          {
+            "lec_no": "L-1233",
+            "title": "UNIT 05 (part-1)",
+            "video_id": 1825,
+            "notes_id": 1234
+          },
+          {
+            "lec_no": "L-1235",
+            "title": "UNIT 05 (part-2)",
+            "video_id": 1820,
+            "notes_id": 1236
+          },
+          {
+            "lec_no": "L-1237",
+            "title": "Numerical  One Shot Revision",
+            "video_id": 1836,
+            "notes_id": 1238
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-1239",
+            "title": "Physics [Unit-1] 5 Year PYQs",
+            "notes_id": 1239
+          },
+          {
+            "lec_no": "L-1240",
+            "title": "Physics [Unit-2] 5 Year PYQs",
+            "notes_id": 1240
+          },
+          {
+            "lec_no": "L-1241",
+            "title": "Physics [Unit-3] 5 Year PYQs",
+            "notes_id": 1241
+          },
+          {
+            "lec_no": "L-1242",
+            "title": "Physics [Unit-4] 5 Year PYQs",
+            "notes_id": 1242
+          },
+          {
+            "lec_no": "L-1243",
+            "title": "Physics [Unit-5] 5 Year PYQs",
+            "notes_id": 1243
+          }
+        ]
+      },
+      {
+        "chapter_name": "Environment and Ecology - EVS Crash Course [ ONE SHOT]",
+        "lectures": [
+          {
+            "lec_no": "L-1244",
+            "title": "UNIT 01",
+            "video_id": 1821,
+            "notes_id": 1245
+          },
+          {
+            "lec_no": "L-1246",
+            "title": "UNIT 02 ",
+            "video_id": 1837,
+            "notes_id": 1247
+          },
+          {
+            "lec_no": "L-1248",
+            "title": "UNIT 03",
+            "video_id": 1835,
+            "notes_id": 1249
+          },
+          {
+            "lec_no": "L-1250",
+            "title": "UNIT 04",
+            "video_id": 1842,
+            "notes_id": 1251
+          },
+          {
+            "lec_no": "L-1253",
+            "title": "UNIT 05 ",
+            "video_id": 1839,
+            "notes_id": 1254
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-1252",
+            "title": "unit-4 Hand Written Notes",
+            "notes_id": 1252
+          },
+          {
+            "lec_no": "L-1255",
+            "title": "unit-5 Hand Written Notes",
+            "notes_id": 1255
+          }
+        ]
+      },
+      {
+        "chapter_name": "Soft Skills Crash Course [ ONE SHOT]",
+        "lectures": [
+          {
+            "lec_no": "L-1256",
+            "title": "How To Good Score in Soft Skills",
+            "video_id": 1859
+          },
+          {
+            "lec_no": "L-1257",
+            "title": "UNIT 01",
+            "video_id": 1823,
+            "notes_id": 1258
+          },
+          {
+            "lec_no": "L-1259",
+            "title": "UNIT 02 ",
+            "video_id": 1838,
+            "notes_id": 1260
+          },
+          {
+            "lec_no": "L-1261",
+            "title": "UNIT 03",
+            "video_id": 1840,
+            "notes_id": 1262
+          },
+          {
+            "lec_no": "L-1263",
+            "title": "UNIT 04",
+            "video_id": 1826,
+            "notes_id": 1264
+          },
+          {
+            "lec_no": "L-1265",
+            "title": "UNIT 05 ",
+            "video_id": 1843,
+            "notes_id": 1266
+          },
+          {
+            "lec_no": "L-1267",
+            "title": "Soft Skill Imp Questions",
+            "video_id": 1841,
+            "notes_id": 1268
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1113 @@
+[
+  {
+    "batch_name": "C FOR BEGINNERS",
+    "channel_id": "-1003637459451",
+    "chapters": [
+      {
+        "chapter_name": "The Beginning",
+        "lectures": [
+          {
+            "lec_no": "L-01",
+            "title": "LECTURE 01",
+            "video_id": 25841,
+            "notes_id": 25842
+          },
+          {
+            "lec_no": "L-02",
+            "title": "LECTURE 02",
+            "video_id": 25844,
+            "notes_id": 25845
+          },
+          {
+            "lec_no": "L-03",
+            "title": "LECTURE 03",
+            "video_id": 25847,
+            "notes_id": 25848
+          },
+          {
+            "lec_no": "L-04",
+            "title": "LECTURE 04",
+            "video_id": 25850,
+            "notes_id": 25851
+          },
+          {
+            "lec_no": "L-05",
+            "title": "LECTURE 05",
+            "video_id": 25853,
+            "notes_id": 25854
+          },
+          {
+            "lec_no": "L-06",
+            "title": "LECTURE 06",
+            "video_id": 25857,
+            "notes_id": 25858
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-01",
+            "title": "LECTURE 01",
+            "notes_id": 25843
+          },
+          {
+            "lec_no": "L-02",
+            "title": "LECTURE 02",
+            "notes_id": 25846
+          },
+          {
+            "lec_no": "L-03",
+            "title": "LECTURE 03",
+            "notes_id": 25849
+          },
+          {
+            "lec_no": "L-04",
+            "title": "LECTURE 04",
+            "notes_id": 25852
+          },
+          {
+            "lec_no": "L-05",
+            "title": "LECTURE 05",
+            "notes_id": 25855
+          },
+          {
+            "lec_no": "L-05",
+            "title": "LECTURE 05 PART2",
+            "notes_id": 25856
+          },
+          {
+            "lec_no": "L-06",
+            "title": "LECTURE 06",
+            "notes_id": 25859
+          }
+        ]
+      },
+      {
+        "chapter_name": "Basic Concepts",
+        "lectures": [
+          {
+            "lec_no": "L-07",
+            "title": "LECTURE 01",
+            "video_id": 25861,
+            "notes_id": 25862
+          },
+          {
+            "lec_no": "L-08",
+            "title": "LECTURE 02",
+            "video_id": 25864,
+            "notes_id": 25865
+          },
+          {
+            "lec_no": "L-09",
+            "title": "LECTURE 03",
+            "video_id": 25867,
+            "notes_id": 25868
+          },
+          {
+            "lec_no": "L-10",
+            "title": "LECTURE 04",
+            "video_id": 25870,
+            "notes_id": 25871
+          },
+          {
+            "lec_no": "L-11",
+            "title": "LECTURE 05",
+            "video_id": 25873,
+            "notes_id": 25874
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-07",
+            "title": "LECTURE 01",
+            "notes_id": 25863
+          },
+          {
+            "lec_no": "L-08",
+            "title": "LECTURE 02",
+            "notes_id": 25866
+          },
+          {
+            "lec_no": "L-09",
+            "title": "LECTURE 03",
+            "notes_id": 25869
+          },
+          {
+            "lec_no": "L-10",
+            "title": "LECTURE 04",
+            "notes_id": 25872
+          },
+          {
+            "lec_no": "L-11",
+            "title": "LECTURE 05",
+            "notes_id": 25875
+          }
+        ]
+      },
+      {
+        "chapter_name": "Variables And Data Types",
+        "lectures": [
+          {
+            "lec_no": "L-12",
+            "title": "LECTURE 01",
+            "video_id": 25877,
+            "notes_id": 25878
+          },
+          {
+            "lec_no": "L-13",
+            "title": "LECTURE 02",
+            "video_id": 25880,
+            "notes_id": 25881
+          },
+          {
+            "lec_no": "L-14",
+            "title": "LECTURE 03",
+            "video_id": 25883,
+            "notes_id": 25884
+          },
+          {
+            "lec_no": "L-15",
+            "title": "LECTURE 04",
+            "video_id": 25886,
+            "notes_id": 25887
+          },
+          {
+            "lec_no": "L-16",
+            "title": "LECTURE 05",
+            "video_id": 25889,
+            "notes_id": 25890
+          },
+          {
+            "lec_no": "L-17",
+            "title": "LECTURE 06",
+            "video_id": 25892,
+            "notes_id": 25893
+          },
+          {
+            "lec_no": "L-18",
+            "title": "LECTURE 07",
+            "video_id": 25895,
+            "notes_id": 25896
+          },
+          {
+            "lec_no": "L-19",
+            "title": "LECTURE 08",
+            "video_id": 25899,
+            "notes_id": 25900
+          },
+          {
+            "lec_no": "L-20",
+            "title": "LECTURE 09",
+            "video_id": 25902,
+            "notes_id": 25903
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-12",
+            "title": "LECTURE 01",
+            "notes_id": 25879
+          },
+          {
+            "lec_no": "L-13",
+            "title": "LECTURE 02",
+            "notes_id": 25882
+          },
+          {
+            "lec_no": "L-14",
+            "title": "LECTURE 03",
+            "notes_id": 25885
+          },
+          {
+            "lec_no": "L-15",
+            "title": "LECTURE 04",
+            "notes_id": 25888
+          },
+          {
+            "lec_no": "L-16",
+            "title": "LECTURE 05",
+            "notes_id": 25891
+          },
+          {
+            "lec_no": "L-17",
+            "title": "LECTURE 06",
+            "notes_id": 25894
+          },
+          {
+            "lec_no": "L-18",
+            "title": "LECTURE 07",
+            "notes_id": 25897
+          },
+          {
+            "lec_no": "L-18",
+            "title": "LECTURE 07 PART2",
+            "notes_id": 25898
+          },
+          {
+            "lec_no": "L-19",
+            "title": "LECTURE 08",
+            "notes_id": 25901
+          },
+          {
+            "lec_no": "L-20",
+            "title": "LECTURE 09",
+            "notes_id": 25904
+          },
+          {
+            "lec_no": "L-20",
+            "title": "LECTURE 09 PART2",
+            "notes_id": 25905
+          }
+        ]
+      },
+      {
+        "chapter_name": "Operators",
+        "lectures": [
+          {
+            "lec_no": "L-21",
+            "title": "LECTURE 01",
+            "video_id": 25907,
+            "notes_id": 25908
+          },
+          {
+            "lec_no": "L-22",
+            "title": "LECTURE 02",
+            "video_id": 25910,
+            "notes_id": 25911
+          },
+          {
+            "lec_no": "L-23",
+            "title": "LECTURE 03",
+            "video_id": 25913,
+            "notes_id": 25914
+          },
+          {
+            "lec_no": "L-24",
+            "title": "LECTURE 04",
+            "video_id": 25916,
+            "notes_id": 25917
+          },
+          {
+            "lec_no": "L-25",
+            "title": "LECTURE 05",
+            "video_id": 25919,
+            "notes_id": 25920
+          },
+          {
+            "lec_no": "L-26",
+            "title": "LECTURE 06",
+            "video_id": 25922,
+            "notes_id": 25923
+          },
+          {
+            "lec_no": "L-27",
+            "title": "LECTURE 07",
+            "video_id": 25925,
+            "notes_id": 25926
+          },
+          {
+            "lec_no": "L-28",
+            "title": "LECTURE 08",
+            "video_id": 25929,
+            "notes_id": 25930
+          },
+          {
+            "lec_no": "L-29",
+            "title": "LECTURE 09",
+            "video_id": 25932,
+            "notes_id": 25933
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-21",
+            "title": "LECTURE 01",
+            "notes_id": 25909
+          },
+          {
+            "lec_no": "L-22",
+            "title": "LECTURE 02",
+            "notes_id": 25912
+          },
+          {
+            "lec_no": "L-23",
+            "title": "LECTURE 03",
+            "notes_id": 25915
+          },
+          {
+            "lec_no": "L-24",
+            "title": "LECTURE 04",
+            "notes_id": 25918
+          },
+          {
+            "lec_no": "L-25",
+            "title": "LECTURE 05",
+            "notes_id": 25921
+          },
+          {
+            "lec_no": "L-26",
+            "title": "LECTURE 06",
+            "notes_id": 25924
+          },
+          {
+            "lec_no": "L-27",
+            "title": "LECTURE 07",
+            "notes_id": 25927
+          },
+          {
+            "lec_no": "L-27",
+            "title": "LECTURE 07 PART2",
+            "notes_id": 25928
+          },
+          {
+            "lec_no": "L-28",
+            "title": "LECTURE 08",
+            "notes_id": 25931
+          },
+          {
+            "lec_no": "L-29",
+            "title": "LECTURE 09",
+            "notes_id": 25934
+          },
+          {
+            "lec_no": "L-29",
+            "title": "LECTURE 09 PART2",
+            "notes_id": 25935
+          }
+        ]
+      },
+      {
+        "chapter_name": "Control Flow",
+        "lectures": [
+          {
+            "lec_no": "L-30",
+            "title": "LECTURE 01",
+            "video_id": 25937,
+            "notes_id": 25938
+          },
+          {
+            "lec_no": "L-31",
+            "title": "LECTURE 02",
+            "video_id": 25940,
+            "notes_id": 25941
+          },
+          {
+            "lec_no": "L-32",
+            "title": "LECTURE 03",
+            "video_id": 25943,
+            "notes_id": 25944
+          },
+          {
+            "lec_no": "L-33",
+            "title": "LECTURE 04",
+            "video_id": 25946,
+            "notes_id": 25947
+          },
+          {
+            "lec_no": "L-34",
+            "title": "LECTURE 05",
+            "video_id": 25949,
+            "notes_id": 25950
+          },
+          {
+            "lec_no": "L-35",
+            "title": "LECTURE 06",
+            "video_id": 25953,
+            "notes_id": 25954
+          },
+          {
+            "lec_no": "L-36",
+            "title": "LECTURE 07",
+            "video_id": 25956,
+            "notes_id": 25957
+          },
+          {
+            "lec_no": "L-37",
+            "title": "LECTURE 08",
+            "video_id": 25959,
+            "notes_id": 25960
+          },
+          {
+            "lec_no": "L-38",
+            "title": "LECTURE 09",
+            "video_id": 25962,
+            "notes_id": 25963
+          },
+          {
+            "lec_no": "L-39",
+            "title": "LECTURE 10",
+            "video_id": 25965,
+            "notes_id": 25966
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-30",
+            "title": "LECTURE 01",
+            "notes_id": 25939
+          },
+          {
+            "lec_no": "L-31",
+            "title": "LECTURE 02",
+            "notes_id": 25942
+          },
+          {
+            "lec_no": "L-32",
+            "title": "LECTURE 03",
+            "notes_id": 25945
+          },
+          {
+            "lec_no": "L-33",
+            "title": "LECTURE 04",
+            "notes_id": 25948
+          },
+          {
+            "lec_no": "L-34",
+            "title": "LECTURE 05",
+            "notes_id": 25951
+          },
+          {
+            "lec_no": "L-34",
+            "title": "LECTURE 05 PART2",
+            "notes_id": 25952
+          },
+          {
+            "lec_no": "L-35",
+            "title": "LECTURE 06",
+            "notes_id": 25955
+          },
+          {
+            "lec_no": "L-36",
+            "title": "LECTURE 07",
+            "notes_id": 25958
+          },
+          {
+            "lec_no": "L-37",
+            "title": "LECTURE 08",
+            "notes_id": 25961
+          },
+          {
+            "lec_no": "L-38",
+            "title": "LECTURE 09",
+            "notes_id": 25964
+          },
+          {
+            "lec_no": "L-39",
+            "title": "LECTURE 10",
+            "notes_id": 25967
+          },
+          {
+            "lec_no": "L-39",
+            "title": "LECTURE 10 PART2",
+            "notes_id": 25968
+          }
+        ]
+      },
+      {
+        "chapter_name": "Arrays",
+        "lectures": [
+          {
+            "lec_no": "L-40",
+            "title": "LECTURE 01",
+            "video_id": 25970,
+            "notes_id": 25971
+          },
+          {
+            "lec_no": "L-41",
+            "title": "LECTURE 02",
+            "video_id": 25973,
+            "notes_id": 25974
+          },
+          {
+            "lec_no": "L-42",
+            "title": "LECTURE 03",
+            "video_id": 25976,
+            "notes_id": 25977
+          },
+          {
+            "lec_no": "L-43",
+            "title": "LECTURE 04",
+            "video_id": 25979,
+            "notes_id": 25980
+          },
+          {
+            "lec_no": "L-44",
+            "title": "LECTURE 05",
+            "video_id": 25982,
+            "notes_id": 25983
+          },
+          {
+            "lec_no": "L-45",
+            "title": "LECTURE 06",
+            "video_id": 25985,
+            "notes_id": 25986
+          },
+          {
+            "lec_no": "L-46",
+            "title": "LECTURE 07",
+            "video_id": 25989,
+            "notes_id": 25990
+          },
+          {
+            "lec_no": "L-47",
+            "title": "LECTURE 08",
+            "video_id": 25992,
+            "notes_id": 25993
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-40",
+            "title": "LECTURE 01",
+            "notes_id": 25972
+          },
+          {
+            "lec_no": "L-41",
+            "title": "LECTURE 02",
+            "notes_id": 25975
+          },
+          {
+            "lec_no": "L-42",
+            "title": "LECTURE 03",
+            "notes_id": 25978
+          },
+          {
+            "lec_no": "L-43",
+            "title": "LECTURE 04",
+            "notes_id": 25981
+          },
+          {
+            "lec_no": "L-44",
+            "title": "LECTURE 05",
+            "notes_id": 25984
+          },
+          {
+            "lec_no": "L-45",
+            "title": "LECTURE 06",
+            "notes_id": 25987
+          },
+          {
+            "lec_no": "L-45",
+            "title": "LECTURE 06 PART2",
+            "notes_id": 25988
+          },
+          {
+            "lec_no": "L-46",
+            "title": "LECTURE 07",
+            "notes_id": 25991
+          },
+          {
+            "lec_no": "L-47",
+            "title": "LECTURE 08",
+            "notes_id": 25994
+          },
+          {
+            "lec_no": "L-47",
+            "title": "LECTURE 08 PART2",
+            "notes_id": 25995
+          }
+        ]
+      },
+      {
+        "chapter_name": "Functions",
+        "lectures": [
+          {
+            "lec_no": "L-48",
+            "title": "LECTURE 01",
+            "video_id": 25998,
+            "notes_id": 25999
+          },
+          {
+            "lec_no": "L-49",
+            "title": "LECTURE 02",
+            "video_id": 26001,
+            "notes_id": 26002
+          },
+          {
+            "lec_no": "L-50",
+            "title": "LECTURE 03",
+            "video_id": 26004,
+            "notes_id": 26005
+          },
+          {
+            "lec_no": "L-51",
+            "title": "LECTURE 04",
+            "video_id": 26007,
+            "notes_id": 26008
+          },
+          {
+            "lec_no": "L-52",
+            "title": "LECTURE 05",
+            "video_id": 26010,
+            "notes_id": 26011
+          },
+          {
+            "lec_no": "L-53",
+            "title": "LECTURE 06",
+            "video_id": 26013,
+            "notes_id": 26014
+          },
+          {
+            "lec_no": "L-54",
+            "title": "LECTURE 07",
+            "video_id": 26016,
+            "notes_id": 26017
+          },
+          {
+            "lec_no": "L-55",
+            "title": "LECTURE 08",
+            "video_id": 26020,
+            "notes_id": 26021
+          },
+          {
+            "lec_no": "L-56",
+            "title": "LECTURE 09",
+            "video_id": 26023,
+            "notes_id": 26024
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-48",
+            "title": "LECTURE 01",
+            "notes_id": 26000
+          },
+          {
+            "lec_no": "L-49",
+            "title": "LECTURE 02",
+            "notes_id": 26003
+          },
+          {
+            "lec_no": "L-50",
+            "title": "LECTURE 03",
+            "notes_id": 26006
+          },
+          {
+            "lec_no": "L-51",
+            "title": "LECTURE 04",
+            "notes_id": 26009
+          },
+          {
+            "lec_no": "L-52",
+            "title": "LECTURE 05",
+            "notes_id": 26012
+          },
+          {
+            "lec_no": "L-53",
+            "title": "LECTURE 06",
+            "notes_id": 26015
+          },
+          {
+            "lec_no": "L-54",
+            "title": "LECTURE 07",
+            "notes_id": 26018
+          },
+          {
+            "lec_no": "L-54",
+            "title": "LECTURE 07 PART2",
+            "notes_id": 26019
+          },
+          {
+            "lec_no": "L-55",
+            "title": "LECTURE 08",
+            "notes_id": 26022
+          },
+          {
+            "lec_no": "L-56",
+            "title": "LECTURE 09",
+            "notes_id": 26025
+          },
+          {
+            "lec_no": "L-56",
+            "title": "LECTURE 09 PART2",
+            "notes_id": 26026
+          }
+        ]
+      },
+      {
+        "chapter_name": "Strings",
+        "lectures": [
+          {
+            "lec_no": "L-57",
+            "title": "LECTURE 01",
+            "video_id": 26029,
+            "notes_id": 26030
+          },
+          {
+            "lec_no": "L-58",
+            "title": "LECTURE 02",
+            "video_id": 26032,
+            "notes_id": 26033
+          },
+          {
+            "lec_no": "L-59",
+            "title": "LECTURE 03",
+            "video_id": 26035,
+            "notes_id": 26036
+          },
+          {
+            "lec_no": "L-60",
+            "title": "LECTURE 04",
+            "video_id": 26038,
+            "notes_id": 26039
+          },
+          {
+            "lec_no": "L-61",
+            "title": "LECTURE 05",
+            "video_id": 26041,
+            "notes_id": 26042
+          },
+          {
+            "lec_no": "L-62",
+            "title": "LECTURE 06",
+            "video_id": 26044,
+            "notes_id": 26045
+          },
+          {
+            "lec_no": "L-63",
+            "title": "LECTURE 07",
+            "video_id": 26047,
+            "notes_id": 26048
+          },
+          {
+            "lec_no": "L-64",
+            "title": "LECTURE 08",
+            "video_id": 26050,
+            "notes_id": 26051
+          },
+          {
+            "lec_no": "L-65",
+            "title": "LECTURE 09",
+            "video_id": 26054,
+            "notes_id": 26055
+          },
+          {
+            "lec_no": "L-66",
+            "title": "LECTURE 10",
+            "video_id": 26057,
+            "notes_id": 26058
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-57",
+            "title": "LECTURE 01",
+            "notes_id": 26031
+          },
+          {
+            "lec_no": "L-58",
+            "title": "LECTURE 02",
+            "notes_id": 26034
+          },
+          {
+            "lec_no": "L-59",
+            "title": "LECTURE 03",
+            "notes_id": 26037
+          },
+          {
+            "lec_no": "L-60",
+            "title": "LECTURE 04",
+            "notes_id": 26040
+          },
+          {
+            "lec_no": "L-61",
+            "title": "LECTURE 05",
+            "notes_id": 26043
+          },
+          {
+            "lec_no": "L-62",
+            "title": "LECTURE 06",
+            "notes_id": 26046
+          },
+          {
+            "lec_no": "L-63",
+            "title": "LECTURE 07",
+            "notes_id": 26049
+          },
+          {
+            "lec_no": "L-64",
+            "title": "LECTURE 08",
+            "notes_id": 26052
+          },
+          {
+            "lec_no": "L-64",
+            "title": "LECTURE 08 PART2",
+            "notes_id": 26053
+          },
+          {
+            "lec_no": "L-65",
+            "title": "LECTURE 09",
+            "notes_id": 26056
+          },
+          {
+            "lec_no": "L-66",
+            "title": "LECTURE 10",
+            "notes_id": 26059
+          },
+          {
+            "lec_no": "L-66",
+            "title": "LECTURE 10 PART2",
+            "notes_id": 26060
+          }
+        ]
+      },
+      {
+        "chapter_name": "Pointers",
+        "lectures": [
+          {
+            "lec_no": "L-67",
+            "title": "LECTURE 01",
+            "video_id": 26062,
+            "notes_id": 26063
+          },
+          {
+            "lec_no": "L-68",
+            "title": "LECTURE 02",
+            "video_id": 26065,
+            "notes_id": 26066
+          },
+          {
+            "lec_no": "L-69",
+            "title": "LECTURE 03",
+            "video_id": 26068,
+            "notes_id": 26069
+          },
+          {
+            "lec_no": "L-70",
+            "title": "LECTURE 04",
+            "video_id": 26071,
+            "notes_id": 26072
+          },
+          {
+            "lec_no": "L-71",
+            "title": "LECTURE 05",
+            "video_id": 26074,
+            "notes_id": 26075
+          },
+          {
+            "lec_no": "L-72",
+            "title": "LECTURE 06",
+            "video_id": 26077,
+            "notes_id": 26078
+          },
+          {
+            "lec_no": "L-73",
+            "title": "LECTURE 07",
+            "video_id": 26080,
+            "notes_id": 26081
+          },
+          {
+            "lec_no": "L-74",
+            "title": "LECTURE 08",
+            "video_id": 26083,
+            "notes_id": 26084
+          },
+          {
+            "lec_no": "L-75",
+            "title": "LECTURE 09",
+            "video_id": 26086,
+            "notes_id": 26087
+          },
+          {
+            "lec_no": "L-76",
+            "title": "LECTURE 10",
+            "video_id": 26089,
+            "notes_id": 26090
+          },
+          {
+            "lec_no": "L-77",
+            "title": "LECTURE 11",
+            "video_id": 26092,
+            "notes_id": 26093
+          },
+          {
+            "lec_no": "L-78",
+            "title": "LECTURE 12",
+            "video_id": 26095,
+            "notes_id": 26096
+          },
+          {
+            "lec_no": "L-79",
+            "title": "LECTURE 13",
+            "video_id": 26098,
+            "notes_id": 26099
+          },
+          {
+            "lec_no": "L-80",
+            "title": "LECTURE 14",
+            "video_id": 26101,
+            "notes_id": 26102
+          },
+          {
+            "lec_no": "L-81",
+            "title": "LECTURE 15",
+            "video_id": 26104,
+            "notes_id": 26105
+          },
+          {
+            "lec_no": "L-82",
+            "title": "LECTURE 16",
+            "video_id": 26108,
+            "notes_id": 26109
+          },
+          {
+            "lec_no": "L-83",
+            "title": "LECTURE 17",
+            "video_id": 26111,
+            "notes_id": 26112
+          },
+          {
+            "lec_no": "L-84",
+            "title": "LECTURE 18",
+            "video_id": 26115,
+            "notes_id": 26116
+          },
+          {
+            "lec_no": "L-85",
+            "title": "LECTURE 19",
+            "video_id": 26118,
+            "notes_id": 26119
+          },
+          {
+            "lec_no": "L-86",
+            "title": "LECTURE 20",
+            "video_id": 26122,
+            "notes_id": 26123
+          },
+          {
+            "lec_no": "L-87",
+            "title": "LECTURE 21",
+            "video_id": 26125,
+            "notes_id": 26126
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-67",
+            "title": "LECTURE 01",
+            "notes_id": 26064
+          },
+          {
+            "lec_no": "L-68",
+            "title": "LECTURE 02",
+            "notes_id": 26067
+          },
+          {
+            "lec_no": "L-69",
+            "title": "LECTURE 03",
+            "notes_id": 26070
+          },
+          {
+            "lec_no": "L-70",
+            "title": "LECTURE 04",
+            "notes_id": 26073
+          },
+          {
+            "lec_no": "L-71",
+            "title": "LECTURE 05",
+            "notes_id": 26076
+          },
+          {
+            "lec_no": "L-72",
+            "title": "LECTURE 06",
+            "notes_id": 26079
+          },
+          {
+            "lec_no": "L-73",
+            "title": "LECTURE 07",
+            "notes_id": 26082
+          },
+          {
+            "lec_no": "L-74",
+            "title": "LECTURE 08",
+            "notes_id": 26085
+          },
+          {
+            "lec_no": "L-75",
+            "title": "LECTURE 09",
+            "notes_id": 26088
+          },
+          {
+            "lec_no": "L-76",
+            "title": "LECTURE 10",
+            "notes_id": 26091
+          },
+          {
+            "lec_no": "L-77",
+            "title": "LECTURE 11",
+            "notes_id": 26094
+          },
+          {
+            "lec_no": "L-78",
+            "title": "LECTURE 12",
+            "notes_id": 26097
+          },
+          {
+            "lec_no": "L-79",
+            "title": "LECTURE 13",
+            "notes_id": 26100
+          },
+          {
+            "lec_no": "L-80",
+            "title": "LECTURE 14",
+            "notes_id": 26103
+          },
+          {
+            "lec_no": "L-81",
+            "title": "LECTURE 15",
+            "notes_id": 26106
+          },
+          {
+            "lec_no": "L-81",
+            "title": "LECTURE 15 PART2",
+            "notes_id": 26107
+          },
+          {
+            "lec_no": "L-82",
+            "title": "LECTURE 16",
+            "notes_id": 26110
+          },
+          {
+            "lec_no": "L-83",
+            "title": "LECTURE 17",
+            "notes_id": 26113
+          },
+          {
+            "lec_no": "L-83",
+            "title": "LECTURE 17 PART2",
+            "notes_id": 26114
+          },
+          {
+            "lec_no": "L-84",
+            "title": "LECTURE 18",
+            "notes_id": 26117
+          },
+          {
+            "lec_no": "L-85",
+            "title": "LECTURE 19",
+            "notes_id": 26120
+          },
+          {
+            "lec_no": "L-85",
+            "title": "LECTURE 19 PART2",
+            "notes_id": 26121
+          },
+          {
+            "lec_no": "L-86",
+            "title": "LECTURE 20",
+            "notes_id": 26124
+          },
+          {
+            "lec_no": "L-87",
+            "title": "LECTURE 21",
+            "notes_id": 26127
+          },
+          {
+            "lec_no": "L-87",
+            "title": "LECTURE 21 PART2",
+            "notes_id": 26128
+          }
+        ]
+      }
+    ]
+  }
+]

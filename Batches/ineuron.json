@@ -1,0 +1,948 @@
+[
+  {
+    "batch_name": "INEURON DATA ANALYTICS",
+    "channel_id": "-1003637459451",
+    "chapters": [
+      {
+        "chapter_name": "Data Analytics",
+        "lectures": [
+          {
+            "lec_no": "L-01",
+            "title": "Lesson 01",
+            "video_id": 2402,
+            "notes_id": 2403
+          },
+          {
+            "lec_no": "L-02",
+            "title": "Lesson 02",
+            "video_id": 2404,
+            "notes_id": 2405
+          },
+          {
+            "lec_no": "L-03",
+            "title": "Lesson 03",
+            "video_id": 2406,
+            "notes_id": 2407
+          },
+          {
+            "lec_no": "L-04",
+            "title": "Lesson 04",
+            "video_id": 2408,
+            "notes_id": 2409
+          },
+          {
+            "lec_no": "L-05",
+            "title": "Lesson 05",
+            "video_id": 2410,
+            "notes_id": 2411
+          },
+          {
+            "lec_no": "L-06",
+            "title": "Lesson 06",
+            "video_id": 2412,
+            "notes_id": 2413
+          },
+          {
+            "lec_no": "L-07",
+            "title": "Lesson 07",
+            "video_id": 2414,
+            "notes_id": 2415
+          },
+          {
+            "lec_no": "L-08",
+            "title": "Lesson 08",
+            "video_id": 2416,
+            "notes_id": 2417
+          },
+          {
+            "lec_no": "L-09",
+            "title": "Lesson 09",
+            "video_id": 2418,
+            "notes_id": 2419
+          },
+          {
+            "lec_no": "L-10",
+            "title": "Lesson 10",
+            "video_id": 2420,
+            "notes_id": 2421
+          },
+          {
+            "lec_no": "L-11",
+            "title": "Lesson 11",
+            "video_id": 2422,
+            "notes_id": 2423
+          },
+          {
+            "lec_no": "L-12",
+            "title": "Lesson 12",
+            "video_id": 2424,
+            "notes_id": 2425
+          },
+          {
+            "lec_no": "L-13",
+            "title": "Lesson 13",
+            "video_id": 2426,
+            "notes_id": 2427
+          },
+          {
+            "lec_no": "L-14",
+            "title": "Lesson 14",
+            "video_id": 2428
+          },
+          {
+            "lec_no": "L-15",
+            "title": "Lesson 15",
+            "video_id": 2429
+          },
+          {
+            "lec_no": "L-16",
+            "title": "Lesson 16",
+            "video_id": 2430
+          },
+          {
+            "lec_no": "L-17",
+            "title": "Lesson 17",
+            "video_id": 2431
+          },
+          {
+            "lec_no": "L-18",
+            "title": "Lesson 18",
+            "video_id": 2432
+          },
+          {
+            "lec_no": "L-19",
+            "title": "Lesson 19",
+            "video_id": 2433
+          },
+          {
+            "lec_no": "L-20",
+            "title": "Lesson 20",
+            "video_id": 2434
+          },
+          {
+            "lec_no": "L-21",
+            "title": "Lesson 21",
+            "video_id": 2435
+          },
+          {
+            "lec_no": "L-22",
+            "title": "Lesson 22",
+            "video_id": 2436
+          },
+          {
+            "lec_no": "L-23",
+            "title": "Lesson 23",
+            "video_id": 2437
+          },
+          {
+            "lec_no": "L-24",
+            "title": "Lesson 24",
+            "video_id": 2438
+          },
+          {
+            "lec_no": "L-25",
+            "title": "Lesson 25",
+            "video_id": 2439
+          },
+          {
+            "lec_no": "L-26",
+            "title": "Lesson 26",
+            "video_id": 2440
+          },
+          {
+            "lec_no": "L-27",
+            "title": "Lesson 27",
+            "video_id": 2441
+          },
+          {
+            "lec_no": "L-28",
+            "title": "Lesson 28",
+            "video_id": 2442
+          },
+          {
+            "lec_no": "L-29",
+            "title": "Lesson 29",
+            "video_id": 2443
+          },
+          {
+            "lec_no": "L-30",
+            "title": "Lesson 30",
+            "video_id": 2444
+          },
+          {
+            "lec_no": "L-31",
+            "title": "Lesson 31",
+            "video_id": 2445
+          },
+          {
+            "lec_no": "L-32",
+            "title": "Lesson 32",
+            "video_id": 2446
+          },
+          {
+            "lec_no": "L-33",
+            "title": "Lesson 33",
+            "video_id": 2447
+          },
+          {
+            "lec_no": "L-34",
+            "title": "Lesson 34",
+            "video_id": 2448
+          },
+          {
+            "lec_no": "L-35",
+            "title": "Lesson 35",
+            "video_id": 2449
+          },
+          {
+            "lec_no": "L-36",
+            "title": "Lesson 36",
+            "video_id": 2450
+          },
+          {
+            "lec_no": "L-37",
+            "title": "Lesson 37",
+            "video_id": 2451
+          },
+          {
+            "lec_no": "L-38",
+            "title": "Lesson 38",
+            "video_id": 2452
+          },
+          {
+            "lec_no": "L-39",
+            "title": "Lesson 39",
+            "video_id": 2453
+          },
+          {
+            "lec_no": "L-40",
+            "title": "Lesson 40",
+            "video_id": 2454
+          },
+          {
+            "lec_no": "L-41",
+            "title": "Lesson 41",
+            "video_id": 2455
+          },
+          {
+            "lec_no": "L-42",
+            "title": "Lesson 42",
+            "video_id": 2456
+          },
+          {
+            "lec_no": "L-43",
+            "title": "Lesson 43",
+            "video_id": 2457
+          },
+          {
+            "lec_no": "L-44",
+            "title": "Lesson 44",
+            "video_id": 2458
+          },
+          {
+            "lec_no": "L-45",
+            "title": "Lesson 45",
+            "video_id": 2459
+          },
+          {
+            "lec_no": "L-46",
+            "title": "Lesson 46",
+            "video_id": 2460
+          },
+          {
+            "lec_no": "L-47",
+            "title": "Lesson 47",
+            "video_id": 2461
+          },
+          {
+            "lec_no": "L-48",
+            "title": "Lesson 48",
+            "video_id": 2462
+          },
+          {
+            "lec_no": "L-49",
+            "title": "Lesson 49",
+            "video_id": 2463
+          },
+          {
+            "lec_no": "L-50",
+            "title": "Lesson 50",
+            "video_id": 2464
+          },
+          {
+            "lec_no": "L-51",
+            "title": "Lesson 51",
+            "video_id": 2465
+          },
+          {
+            "lec_no": "L-52",
+            "title": "Lesson 52",
+            "video_id": 2466
+          },
+          {
+            "lec_no": "L-53",
+            "title": "Lesson 53",
+            "video_id": 2467
+          },
+          {
+            "lec_no": "L-54",
+            "title": "Lesson 54",
+            "video_id": 2468
+          },
+          {
+            "lec_no": "L-55",
+            "title": "Lesson 55",
+            "video_id": 2469
+          },
+          {
+            "lec_no": "L-56",
+            "title": "Lesson 56",
+            "video_id": 2470
+          },
+          {
+            "lec_no": "L-57",
+            "title": "Lesson 57",
+            "video_id": 2471
+          },
+          {
+            "lec_no": "L-58",
+            "title": "Lesson 58",
+            "video_id": 2472
+          },
+          {
+            "lec_no": "L-59",
+            "title": "Lesson 59",
+            "video_id": 2473
+          },
+          {
+            "lec_no": "L-60",
+            "title": "Lesson 60",
+            "video_id": 2474
+          },
+          {
+            "lec_no": "L-61",
+            "title": "Lesson 61",
+            "video_id": 2475
+          },
+          {
+            "lec_no": "L-62",
+            "title": "Lesson 62",
+            "video_id": 2476
+          },
+          {
+            "lec_no": "L-63",
+            "title": "Lesson 63",
+            "video_id": 2477
+          },
+          {
+            "lec_no": "L-64",
+            "title": "Lesson 64",
+            "video_id": 2478
+          },
+          {
+            "lec_no": "L-65",
+            "title": "Lesson 65",
+            "video_id": 2479
+          },
+          {
+            "lec_no": "L-66",
+            "title": "Lesson 66",
+            "video_id": 2480
+          },
+          {
+            "lec_no": "L-67",
+            "title": "Lesson 67",
+            "video_id": 2481
+          },
+          {
+            "lec_no": "L-68",
+            "title": "Lesson 68",
+            "video_id": 2482
+          },
+          {
+            "lec_no": "L-69",
+            "title": "Lesson 69",
+            "video_id": 2483
+          },
+          {
+            "lec_no": "L-70",
+            "title": "Lesson 70",
+            "video_id": 2484
+          },
+          {
+            "lec_no": "L-71",
+            "title": "Lesson 71",
+            "video_id": 2485
+          },
+          {
+            "lec_no": "L-72",
+            "title": "Lesson 72",
+            "video_id": 2486
+          },
+          {
+            "lec_no": "L-73",
+            "title": "Lesson 73",
+            "video_id": 2487
+          },
+          {
+            "lec_no": "L-74",
+            "title": "Lesson 74",
+            "video_id": 2488
+          },
+          {
+            "lec_no": "L-75",
+            "title": "Lesson 75",
+            "video_id": 2489
+          },
+          {
+            "lec_no": "L-76",
+            "title": "Lesson 76",
+            "video_id": 2490
+          },
+          {
+            "lec_no": "L-77",
+            "title": "Lesson 77",
+            "video_id": 2491
+          },
+          {
+            "lec_no": "L-78",
+            "title": "Lesson 78",
+            "video_id": 2492
+          },
+          {
+            "lec_no": "L-79",
+            "title": "Lesson 79",
+            "video_id": 2493
+          },
+          {
+            "lec_no": "L-80",
+            "title": "Lesson 80",
+            "video_id": 2494
+          },
+          {
+            "lec_no": "L-81",
+            "title": "Lesson 81",
+            "video_id": 2495
+          },
+          {
+            "lec_no": "L-82",
+            "title": "Lesson 82",
+            "video_id": 2496
+          },
+          {
+            "lec_no": "L-83",
+            "title": "Lesson 83",
+            "video_id": 2497
+          },
+          {
+            "lec_no": "L-84",
+            "title": "Lesson 84",
+            "video_id": 2498
+          },
+          {
+            "lec_no": "L-85",
+            "title": "Lesson 85",
+            "video_id": 2499
+          },
+          {
+            "lec_no": "L-86",
+            "title": "Lesson 86",
+            "video_id": 2500
+          },
+          {
+            "lec_no": "L-87",
+            "title": "Lesson 87",
+            "video_id": 2501
+          },
+          {
+            "lec_no": "L-88",
+            "title": "Lesson 88",
+            "video_id": 2503
+          },
+          {
+            "lec_no": "L-89",
+            "title": "Lesson 89",
+            "video_id": 2504
+          },
+          {
+            "lec_no": "L-90",
+            "title": "Lesson 90",
+            "video_id": 2505
+          },
+          {
+            "lec_no": "L-91",
+            "title": "Lesson 91",
+            "video_id": 2506
+          },
+          {
+            "lec_no": "L-92",
+            "title": "Lesson 92",
+            "video_id": 2507
+          },
+          {
+            "lec_no": "L-93",
+            "title": "Lesson 93",
+            "video_id": 2508
+          },
+          {
+            "lec_no": "L-94",
+            "title": "Lesson 94",
+            "video_id": 2509
+          },
+          {
+            "lec_no": "L-95",
+            "title": "Lesson 95",
+            "video_id": 2510
+          },
+          {
+            "lec_no": "L-96",
+            "title": "Lesson 96",
+            "video_id": 2511
+          },
+          {
+            "lec_no": "L-97",
+            "title": "Lesson 97",
+            "video_id": 2512
+          },
+          {
+            "lec_no": "L-98",
+            "title": "Lesson 98",
+            "video_id": 2513
+          },
+          {
+            "lec_no": "L-99",
+            "title": "Lesson 99",
+            "video_id": 2514
+          },
+          {
+            "lec_no": "L-100",
+            "title": "Lesson 100",
+            "video_id": 2515
+          },
+          {
+            "lec_no": "L-101",
+            "title": "Lesson 101",
+            "video_id": 2516
+          },
+          {
+            "lec_no": "L-102",
+            "title": "Lesson 102",
+            "video_id": 2517
+          },
+          {
+            "lec_no": "L-103",
+            "title": "Lesson 103",
+            "video_id": 2518
+          },
+          {
+            "lec_no": "L-104",
+            "title": "Lesson 104",
+            "video_id": 2519
+          },
+          {
+            "lec_no": "L-105",
+            "title": "Lesson 105",
+            "video_id": 2520
+          },
+          {
+            "lec_no": "L-106",
+            "title": "Lesson 106",
+            "video_id": 2521
+          },
+          {
+            "lec_no": "L-107",
+            "title": "Lesson 107",
+            "video_id": 2522
+          },
+          {
+            "lec_no": "L-108",
+            "title": "Lesson 108",
+            "video_id": 2523
+          },
+          {
+            "lec_no": "L-109",
+            "title": "Lesson 109",
+            "video_id": 2524
+          },
+          {
+            "lec_no": "L-110",
+            "title": "Lesson 110",
+            "video_id": 2525
+          },
+          {
+            "lec_no": "L-111",
+            "title": "Lesson 111",
+            "video_id": 2526
+          },
+          {
+            "lec_no": "L-112",
+            "title": "Lesson 112",
+            "video_id": 2527
+          },
+          {
+            "lec_no": "L-113",
+            "title": "Lesson 113",
+            "video_id": 2528
+          },
+          {
+            "lec_no": "L-114",
+            "title": "Lesson 114",
+            "video_id": 2529
+          },
+          {
+            "lec_no": "L-115",
+            "title": "Lesson 115",
+            "video_id": 2530
+          },
+          {
+            "lec_no": "L-116",
+            "title": "Lesson 116",
+            "video_id": 2531
+          },
+          {
+            "lec_no": "L-117",
+            "title": "Lesson 117",
+            "video_id": 2532
+          },
+          {
+            "lec_no": "L-118",
+            "title": "Lesson 118",
+            "video_id": 2533
+          },
+          {
+            "lec_no": "L-119",
+            "title": "Lesson 119",
+            "video_id": 2534
+          },
+          {
+            "lec_no": "L-120",
+            "title": "Lesson 120",
+            "video_id": 2535
+          },
+          {
+            "lec_no": "L-121",
+            "title": "Lesson 121",
+            "video_id": 2536
+          },
+          {
+            "lec_no": "L-122",
+            "title": "Lesson 122",
+            "video_id": 2537
+          },
+          {
+            "lec_no": "L-123",
+            "title": "Lesson 123",
+            "video_id": 2538
+          },
+          {
+            "lec_no": "L-124",
+            "title": "Lesson 124",
+            "video_id": 2539
+          },
+          {
+            "lec_no": "L-125",
+            "title": "Lesson 125",
+            "video_id": 2540
+          },
+          {
+            "lec_no": "L-126",
+            "title": "Lesson 126",
+            "video_id": 2541
+          },
+          {
+            "lec_no": "L-127",
+            "title": "Lesson 127",
+            "video_id": 2542
+          },
+          {
+            "lec_no": "L-128",
+            "title": "Lesson 128",
+            "video_id": 2543
+          },
+          {
+            "lec_no": "L-129",
+            "title": "Lesson 129",
+            "video_id": 2544
+          },
+          {
+            "lec_no": "L-130",
+            "title": "Lesson 130",
+            "video_id": 2545
+          },
+          {
+            "lec_no": "L-131",
+            "title": "Lesson 131",
+            "video_id": 2546
+          },
+          {
+            "lec_no": "L-132",
+            "title": "Lesson 132",
+            "video_id": 2547
+          },
+          {
+            "lec_no": "L-133",
+            "title": "Lesson 133",
+            "video_id": 2548
+          },
+          {
+            "lec_no": "L-134",
+            "title": "Lesson 134",
+            "video_id": 2549
+          },
+          {
+            "lec_no": "L-135",
+            "title": "Lesson 135",
+            "video_id": 2550
+          },
+          {
+            "lec_no": "L-136",
+            "title": "Lesson 136",
+            "video_id": 2551
+          },
+          {
+            "lec_no": "L-137",
+            "title": "Lesson 137",
+            "video_id": 2552
+          },
+          {
+            "lec_no": "L-138",
+            "title": "Lesson 138",
+            "video_id": 2553
+          },
+          {
+            "lec_no": "L-139",
+            "title": "Lesson 139",
+            "video_id": 2554
+          },
+          {
+            "lec_no": "L-140",
+            "title": "Lesson 140",
+            "video_id": 2555
+          },
+          {
+            "lec_no": "L-141",
+            "title": "Lesson 141",
+            "video_id": 2556
+          },
+          {
+            "lec_no": "L-142",
+            "title": "Lesson 142",
+            "video_id": 2557
+          },
+          {
+            "lec_no": "L-143",
+            "title": "Lesson 143",
+            "video_id": 2558
+          },
+          {
+            "lec_no": "L-144",
+            "title": "Lesson 144",
+            "video_id": 2559
+          },
+          {
+            "lec_no": "L-145",
+            "title": "Lesson 145",
+            "video_id": 2560
+          },
+          {
+            "lec_no": "L-146",
+            "title": "Lesson 146",
+            "video_id": 2561
+          },
+          {
+            "lec_no": "L-147",
+            "title": "Lesson 147",
+            "video_id": 2562
+          },
+          {
+            "lec_no": "L-148",
+            "title": "Lesson 148",
+            "video_id": 2563
+          },
+          {
+            "lec_no": "L-149",
+            "title": "Lesson 149",
+            "video_id": 2564
+          },
+          {
+            "lec_no": "L-150",
+            "title": "Lesson 150",
+            "video_id": 2565
+          },
+          {
+            "lec_no": "L-151",
+            "title": "Lesson 151",
+            "video_id": 2566
+          },
+          {
+            "lec_no": "L-152",
+            "title": "Lesson 152",
+            "video_id": 2567
+          },
+          {
+            "lec_no": "L-153",
+            "title": "Lesson 153",
+            "video_id": 2568
+          },
+          {
+            "lec_no": "L-154",
+            "title": "Lesson 154",
+            "video_id": 2569
+          },
+          {
+            "lec_no": "L-155",
+            "title": "Lesson 155",
+            "video_id": 2570
+          },
+          {
+            "lec_no": "L-156",
+            "title": "Lesson 156",
+            "video_id": 2571
+          },
+          {
+            "lec_no": "L-157",
+            "title": "Lesson 157",
+            "video_id": 2572
+          },
+          {
+            "lec_no": "L-158",
+            "title": "Lesson 158",
+            "video_id": 2573
+          },
+          {
+            "lec_no": "L-159",
+            "title": "Lesson 159",
+            "video_id": 2574
+          },
+          {
+            "lec_no": "L-160",
+            "title": "Lesson 160",
+            "video_id": 2575
+          },
+          {
+            "lec_no": "L-161",
+            "title": "Lesson 161",
+            "video_id": 2576
+          },
+          {
+            "lec_no": "L-162",
+            "title": "Lesson 162",
+            "video_id": 2577
+          },
+          {
+            "lec_no": "L-163",
+            "title": "Lesson 163",
+            "video_id": 2578
+          },
+          {
+            "lec_no": "L-164",
+            "title": "Lesson 164",
+            "video_id": 2579
+          },
+          {
+            "lec_no": "L-165",
+            "title": "Lesson 165",
+            "video_id": 2580
+          },
+          {
+            "lec_no": "L-166",
+            "title": "Lesson 166",
+            "video_id": 2581
+          },
+          {
+            "lec_no": "L-167",
+            "title": "Lesson 167",
+            "video_id": 2582
+          },
+          {
+            "lec_no": "L-168",
+            "title": "Lesson 168",
+            "video_id": 2583
+          },
+          {
+            "lec_no": "L-169",
+            "title": "Lesson 169",
+            "video_id": 2584
+          },
+          {
+            "lec_no": "L-170",
+            "title": "Lesson 170",
+            "video_id": 2585
+          },
+          {
+            "lec_no": "L-171",
+            "title": "Lesson 171",
+            "video_id": 2586
+          },
+          {
+            "lec_no": "L-172",
+            "title": "Lesson 172",
+            "video_id": 2587
+          },
+          {
+            "lec_no": "L-173",
+            "title": "Lesson 173",
+            "video_id": 2588
+          },
+          {
+            "lec_no": "L-174",
+            "title": "Lesson 174",
+            "video_id": 2589
+          },
+          {
+            "lec_no": "L-175",
+            "title": "Lesson 175",
+            "video_id": 2590
+          },
+          {
+            "lec_no": "L-176",
+            "title": "Lesson 176",
+            "video_id": 2591
+          },
+          {
+            "lec_no": "L-177",
+            "title": "Lesson 177",
+            "video_id": 2592
+          },
+          {
+            "lec_no": "L-178",
+            "title": "Lesson 178",
+            "video_id": 2593
+          },
+          {
+            "lec_no": "L-179",
+            "title": "Lesson 179",
+            "video_id": 2594
+          },
+          {
+            "lec_no": "L-180",
+            "title": "Lesson 180",
+            "video_id": 2595
+          },
+          {
+            "lec_no": "L-181",
+            "title": "Lesson 181",
+            "video_id": 2596
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-181",
+            "title": "Sheet 01",
+            "notes_id": 2456
+          },
+          {
+            "lec_no": "L-181",
+            "title": "Sheet 02",
+            "notes_id": 2457
+          },
+          {
+            "lec_no": "L-181",
+            "title": "Sheet 03",
+            "notes_id": 2458
+          }
+        ]
+      }
+    ]
+  }
+]

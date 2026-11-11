@@ -1,0 +1,123 @@
+[
+  {
+    "batch_name": "AWS & NodeJS Masterclass",
+    "channel_id": "-1003637459451",
+    "chapters": [
+      {
+        "chapter_name": "Cloud & Backend Fundamentals",
+        "lectures": [
+          {
+            "lec_no": "1",
+            "title": "Intro to AWS - Regions, AZs, VPCs, Subnets,EC2",
+            "video_id": 1760
+          },
+          {
+            "lec_no": "2",
+            "title": "Intro to NodeJS, Express, Load Balancers, Docker",
+            "video_id": 1761
+          },
+          {
+            "lec_no": "3",
+            "title": "Docker, Kubernetes, ECS, S3",
+            "video_id": 1762
+          },
+          {
+            "lec_no": "4",
+            "title": "Chat App Project Basic Functionality using Websockets",
+            "video_id": 1763
+          },
+          {
+            "lec_no": "5",
+            "title": "MongoDB, Auth, JWT",
+            "video_id": 1764
+          },
+          {
+            "lec_no": "6",
+            "title": "Login, Routing and more",
+            "video_id": 1765
+          },
+          {
+            "lec_no": "7",
+            "title": "Zustand, Socket Map, Msgs in MongoDB",
+            "video_id": 1766
+          },
+          {
+            "lec_no": "8",
+            "title": "API Gateway, 1-1 msging, Containerization, Redis",
+            "video_id": 1767
+          },
+          {
+            "lec_no": "9",
+            "title": "DockerHub, PubSub, ECS",
+            "video_id": 1768
+          },
+          {
+            "lec_no": "10",
+            "title": "ECS, CICD, GitHub Actions, NextJS CSR, SSR",
+            "video_id": 1769
+          },
+          {
+            "lec_no": "11",
+            "title": "YouTube Project Basic Flow, Intro to ABS, OAuth",
+            "video_id": 1770
+          },
+          {
+            "lec_no": "12",
+            "title": "NextAuth, SSO, Kafka",
+            "video_id": 1771
+          },
+          {
+            "lec_no": "13",
+            "title": "Chunking, Multipart upload",
+            "video_id": 1772
+          },
+          {
+            "lec_no": "14",
+            "title": "DB Discussion, VideoMetaData in Postgres, Prisma",
+            "video_id": 1773
+          },
+          {
+            "lec_no": "15",
+            "title": "Transcoding, CDN, Project HLD Dicussion",
+            "video_id": 1774
+          },
+          {
+            "lec_no": "16",
+            "title": "ELK Stack, OpenSearch & Lambda in YouTube Project",
+            "video_id": 1775
+          },
+          {
+            "lec_no": "17",
+            "title": "Search in YouTube FE, Intro to Stock Broker, gRPC",
+            "video_id": 1776
+          },
+          {
+            "lec_no": "18",
+            "title": "GraphQL, Upstox API, WebHooks",
+            "video_id": 1777
+          },
+          {
+            "lec_no": "19",
+            "title": "Watchlists Flow, Search Stocks - OpenSearch &. Lambda",
+            "video_id": 1778
+          },
+          {
+            "lec_no": "20",
+            "title": "Upstox API, gRPC",
+            "video_id": 1779
+          },
+          {
+            "lec_no": "21",
+            "title": "Stock Broker Project Completion, HLD Discussion",
+            "video_id": 1780
+          },
+          {
+            "lec_no": "22",
+            "title": "CAP Theorem, Capacity Estimation, Interview Prep Tips",
+            "video_id": 1781
+          }
+        ]
+      }
+    ]
+  }
+]

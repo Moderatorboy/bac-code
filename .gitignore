@@ -1,0 +1,6 @@
+@"
+.env
+.venv-recovered/
+__pycache__/
+*.pyc
+"@ | Out-File -Encoding utf8 .gitignore

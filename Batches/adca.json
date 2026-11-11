@@ -1,0 +1,3913 @@
+[
+  {
+    "batch_name": "ADVANCE DIPLOMA IN COMPUTER APPLICATION",
+    "channel_id": "-1003637459451",
+    "chapters": [
+      {
+        "chapter_name": "ADCA",
+        "lectures": [
+          {
+            "type": "chapter",
+            "chapter_name": "What will you learn in Computer fundamental"
+          },
+          {
+            "title": "01 - Introduction",
+            "video_id": 6841
+          },
+          {
+            "title": "02 – Cpu Hardware Parts-1",
+            "video_id": 6842
+          },
+          {
+            "title": "03 – Desktop Icon Settings-1",
+            "video_id": 6843
+          },
+          {
+            "title": "04 – Keyboard And Mouse Information-1",
+            "video_id": 6844
+          },
+          {
+            "title": "05 – Software Installation-1",
+            "video_id": 6845
+          },
+          {
+            "title": "06 – Change Computer Password-1",
+            "video_id": 6846
+          },
+          {
+            "title": "07 – Google Search Engine",
+            "video_id": 6847
+          },
+          {
+            "title": "08 – Creating Email ID",
+            "video_id": 6848
+          },
+          {
+            "title": "09 – Sending Email",
+            "video_id": 6849
+          },
+          {
+            "title": "10 – Use Google Drive",
+            "video_id": 6850
+          },
+          {
+            "title": "11 – Network Information & Settings",
+            "video_id": 6851
+          },
+          {
+            "title": "12 – Govt Websites",
+            "video_id": 6852
+          },
+          {
+            "title": "13 – Internet Security & Settings",
+            "video_id": 6853
+          },
+          {
+            "title": "14 – Hindi Typing In Chrome",
+            "video_id": 6854
+          },
+          {
+            "title": "15 – Hindi Typing In Chrome -2",
+            "video_id": 6855
+          },
+          {
+            "type": "chapter",
+            "chapter_name": "What will you learn in Microsoft Word Full Course"
+          },
+          {
+            "title": "01 - Introduction",
+            "video_id": 6858
+          },
+          {
+            "title": "02 - Home Tab Font Group-1",
+            "video_id": 6859
+          },
+          {
+            "title": "03 - Home Tab - Advance Font, Clipboard Group-1",
+            "video_id": 6860
+          },
+          {
+            "title": "04 - Word Paragraph Group-1",
+            "video_id": 6861
+          },
+          {
+            "title": "05 - Create Page Cover-1",
+            "video_id": 6862
+          },
+          {
+            "title": "06 - Create And Design Table-1",
+            "video_id": 6863
+          },
+          {
+            "title": "07 - Insert And Format Picture-1",
+            "video_id": 6864
+          },
+          {
+            "title": "08 - Draw Shape, Insert Chart & Smartart-1",
+            "video_id": 6865
+          },
+          {
+            "title": "09 - Header And Footer In Word-1",
+            "video_id": 6866
+          },
+          {
+            "title": "10 - Insert Symbol And Object-1",
+            "video_id": 6867
+          },
+          {
+            "title": "11 - Design Tab In Word-1",
+            "video_id": 6868
+          },
+          {
+            "title": "12 - Pagelayout Tab In Word-1",
+            "video_id": 6869
+          },
+          {
+            "title": "13 - References Tab In Word-1",
+            "video_id": 6870
+          },
+          {
+            "title": "14 - Mailings Tab In Word-1",
+            "video_id": 6871
+          },
+          {
+            "title": "15 - Review Tab In Word-1",
+            "video_id": 6872
+          },
+          {
+            "title": "16 - View Tab And File Menu In Word-1",
+            "video_id": 6873
+          },
+          {
+            "title": "17 - Option Settings In Word-1",
+            "video_id": 6874
+          },
+          {
+            "title": "18 - Option Settings In Word - 2-1",
+            "video_id": 6875
+          },
+          {
+            "title": "19 - File Option Settings 3-1",
+            "video_id": 6876
+          },
+          {
+            "title": "20 - Customize Ribbon In Word-1",
+            "video_id": 6877
+          },
+          {
+            "title": "21 - Mail merge with Excel Data in Word",
+            "video_id": 6878
+          },
+          {
+            "title": "22 - Create Professional Resume In Word-1-1",
+            "video_id": 6879
+          },
+          {
+            "title": "23 - Create Letter In Word Typing Exam_-1",
+            "video_id": 6880
+          },
+          {
+            "title": "24 - Word - Create Pro Visting Card-1",
+            "video_id": 6881
+          },
+          {
+            "title": "25 - Word - Create Pro Id Card -1",
+            "video_id": 6882
+          },
+          {
+            "title": "26 - Word - Create Professional Certificate -1-1",
+            "video_id": 6883
+          },
+          {
+            "type": "chapter",
+            "chapter_name": "What will you learn in Excel Beginners to ADVANCE Course"
+          },
+          {
+            "title": "Introduction",
+            "video_id": 6885
+          },
+          {
+            "title": "02 - Basic Formulas-1",
+            "video_id": 6886
+          },
+          {
+            "title": "03 - If Formula-1",
+            "video_id": 6887
+          },
+          {
+            "title": "04 - If And If Or Formula-1",
+            "video_id": 6888
+          },
+          {
+            "title": "05 - Nested If-1",
+            "video_id": 6889
+          },
+          {
+            "title": "06 - Nested If Calculate Discount-1",
+            "video_id": 6890
+          },
+          {
+            "title": "07 - Salary Sheet Basic Formula-1",
+            "video_id": 6891
+          },
+          {
+            "title": "08 - Salary Sheet Nested If-1",
+            "video_id": 6892
+          },
+          {
+            "title": "09- Attendance Sheet-1",
+            "video_id": 6893
+          },
+          {
+            "title": "10 - Attendacne Sheet Countif Formula-1",
+            "video_id": 6894
+          },
+          {
+            "title": "11 - Sort, Custom Sort & Filter-1",
+            "video_id": 6895
+          },
+          {
+            "title": "12 - Conditional Formatting Basic-1",
+            "video_id": 6896
+          },
+          {
+            "title": "13 Conditional Formatting Advance-1",
+            "video_id": 6897
+          },
+          {
+            "title": "14- CF Higlight Alt Rows-1",
+            "video_id": 6898
+          },
+          {
+            "title": "15 - Advance Filter-1",
+            "video_id": 6899
+          },
+          {
+            "title": "16 - Advance Filter Macro-1",
+            "video_id": 6900
+          },
+          {
+            "title": "17 - Auto Sort Macro-1",
+            "video_id": 6901
+          },
+          {
+            "title": "18 - Text To Columns-1",
+            "video_id": 6902
+          },
+          {
+            "title": "19- Flash Fill-1",
+            "video_id": 6903
+          },
+          {
+            "title": "20 - Remove Duplicate And Cosolidate-1",
+            "video_id": 6904
+          },
+          {
+            "title": "21 - 3D Formula-1",
+            "video_id": 6905
+          },
+          {
+            "title": "22 - Data Validation-1",
+            "video_id": 6906
+          },
+          {
+            "title": "23 - Scenario Managerl-1",
+            "video_id": 6907
+          },
+          {
+            "title": "24 - Goal Seek-1",
+            "video_id": 6908
+          },
+          {
+            "title": "25 - Data Table-1",
+            "video_id": 6909
+          },
+          {
+            "title": "26 -Home Tab - 1-1",
+            "video_id": 6910
+          },
+          {
+            "title": "27 - Home Tab 2-1",
+            "video_id": 6911
+          },
+          {
+            "title": "28 - Home Tab 3-1",
+            "video_id": 6912
+          },
+          {
+            "title": "29 - Home Tab 4",
+            "video_id": 6913
+          },
+          {
+            "title": "30 -Find And Replace-1",
+            "video_id": 6914
+          },
+          {
+            "title": "31 - Goto Special-1",
+            "video_id": 6915
+          },
+          {
+            "title": "32 - Paste Special-1",
+            "video_id": 6916
+          },
+          {
+            "title": "33- Pivot Table - Introduction-1",
+            "video_id": 6917
+          },
+          {
+            "title": "34 - Pivot Table - Filter User",
+            "video_id": 6918
+          },
+          {
+            "title": "35-Pivot Table -Options-1",
+            "video_id": 6919
+          },
+          {
+            "title": "36 -Slicer And Timeline-1",
+            "video_id": 6920
+          },
+          {
+            "title": "37 - Pivot Chart in Excel",
+            "video_id": 6921
+          },
+          {
+            "title": "38 - Auto Refresh Pivot Table",
+            "video_id": 6922
+          },
+          {
+            "title": "39 -Table In Excel-1",
+            "video_id": 6923
+          },
+          {
+            "title": "40 - Insert Tab1",
+            "video_id": 6924
+          },
+          {
+            "title": "41- Insert Tab2",
+            "video_id": 6925
+          },
+          {
+            "title": "42 - Excel Chart",
+            "video_id": 6926
+          },
+          {
+            "title": "43 - Excel Chart and Formatting",
+            "video_id": 6927
+          },
+          {
+            "title": "44 - Excel Sparkline Chart",
+            "video_id": 6928
+          },
+          {
+            "title": "45 - Hyperlink in Excel",
+            "video_id": 6929
+          },
+          {
+            "title": "46 - Insert Tab 3",
+            "video_id": 6930
+          },
+          {
+            "title": "47 - Watermark in Excel",
+            "video_id": 6931
+          },
+          {
+            "title": "48 - Pagelayout Tab - Themes And Margins-1",
+            "video_id": 6932
+          },
+          {
+            "title": "49 - Pagelayout Tab - Print Settings-1",
+            "video_id": 6933
+          },
+          {
+            "title": "50- Pagelayout Tab 2",
+            "video_id": 6934
+          },
+          {
+            "title": "51 - Pagelayout Tab3-1",
+            "video_id": 6935
+          },
+          {
+            "title": "52- Formula Tab - Name Manager-1",
+            "video_id": 6936
+          },
+          {
+            "title": "53 - Formula Tab - Formula Auditing-1",
+            "video_id": 6937
+          },
+          {
+            "title": "54 - Data Tab - Get External Data",
+            "video_id": 6938
+          },
+          {
+            "title": "55-Data Tab - SubTotal",
+            "video_id": 6939
+          },
+          {
+            "title": "56 - Data Tab - Solver add-ins",
+            "video_id": 6940
+          },
+          {
+            "title": "57 - Reveiw Tab",
+            "video_id": 6941
+          },
+          {
+            "title": "58 - View Tab-1",
+            "video_id": 6942
+          },
+          {
+            "title": "59 - Macro Recording-1",
+            "video_id": 6943
+          },
+          {
+            "title": "60- Create your own Tab",
+            "video_id": 6944
+          },
+          {
+            "title": "61- Vlookup- 1 - Intro-1",
+            "video_id": 6945
+          },
+          {
+            "title": "62 - Vlookup 2 - Use Of Range Lookup-1",
+            "video_id": 6946
+          },
+          {
+            "title": "63 - Vlookup 3 - Double Vlookupl",
+            "video_id": 6947
+          },
+          {
+            "title": "64 - Vlookup 4 - Nested Vlookup",
+            "video_id": 6948
+          },
+          {
+            "title": "65 - Vlookup 5 - Vlookup Project",
+            "video_id": 6949
+          },
+          {
+            "title": "66 - Vlookup 6 - Unique Example of Vlookup",
+            "video_id": 6950
+          },
+          {
+            "title": "67- CountA and Count Blank Formula",
+            "video_id": 6951
+          },
+          {
+            "title": "68 - Countif Formula",
+            "video_id": 6952
+          },
+          {
+            "title": "69 - Countifs Formula",
+            "video_id": 6953
+          },
+          {
+            "title": "70- Sumif and Sumifs",
+            "video_id": 6954
+          },
+          {
+            "title": "71 - Averageif and Averageifs",
+            "video_id": 6955
+          },
+          {
+            "title": "72 - Frequency Formula",
+            "video_id": 6956
+          },
+          {
+            "title": "74 - Lookup Formula",
+            "video_id": 6958
+          },
+          {
+            "title": "75- SumProduct , Left and Find formula",
+            "video_id": 6959
+          },
+          {
+            "title": "76 - Right and Find",
+            "video_id": 6960
+          },
+          {
+            "title": "77 - Mid and Find Formula",
+            "video_id": 6961
+          },
+          {
+            "title": "78 - Repeat and Substitute Formula",
+            "video_id": 6962
+          },
+          {
+            "title": "79- PMT, PV, FV Formula",
+            "video_id": 6963
+          },
+          {
+            "title": "80 - IPMT AND PPMT",
+            "video_id": 6964
+          },
+          {
+            "title": "81-V lookup with Match",
+            "video_id": 6965
+          },
+          {
+            "title": "82 -Text Formulas-1",
+            "video_id": 6966
+          },
+          {
+            "title": "83- Date in Quarter",
+            "video_id": 6967
+          },
+          {
+            "title": "84 - Datedif Formula",
+            "video_id": 6968
+          },
+          {
+            "title": "85 - Date Formula",
+            "video_id": 6969
+          },
+          {
+            "title": "86 - Switch Date-1",
+            "video_id": 6970
+          },
+          {
+            "title": "87 - More Date Formulas-1",
+            "video_id": 6971
+          },
+          {
+            "title": "88-Ranking Formula",
+            "video_id": 6972
+          },
+          {
+            "title": "89 - Concatenate and Vlookup",
+            "video_id": 6973
+          },
+          {
+            "title": "90 Sheet Tips-1",
+            "video_id": 6974
+          },
+          {
+            "title": "91 - Excel To Powerpoint",
+            "video_id": 6975
+          },
+          {
+            "title": "92 - Change Excel Icon",
+            "video_id": 6976
+          },
+          {
+            "title": "93 - Number to Word",
+            "video_id": 6977
+          },
+          {
+            "title": "94 - Custom Cells Tips-1",
+            "video_id": 6978
+          },
+          {
+            "title": "95 - Picture Lookup",
+            "video_id": 6979
+          },
+          {
+            "title": "96 - Picture Game",
+            "video_id": 6980
+          },
+          {
+            "title": "97 - Data Entry form",
+            "video_id": 6981
+          },
+          {
+            "title": "98 - File Menu",
+            "video_id": 6982
+          },
+          {
+            "title": "99- Excel Settings-1",
+            "video_id": 6983
+          },
+          {
+            "title": "100 - Short Formulas-1",
+            "video_id": 6984
+          },
+          {
+            "title": "101 - Excel - Database Function Dget Formula Of Excel-1",
+            "video_id": 6985
+          },
+          {
+            "title": "102 - Excel - Dsum Formula In Excel-1",
+            "video_id": 6986
+          },
+          {
+            "title": "103 - Excel - Daverage Formula-1",
+            "video_id": 6987
+          },
+          {
+            "title": "104 - Excel - Dcount, Dcounta Formula-1",
+            "video_id": 6988
+          },
+          {
+            "title": "105 - Excel -Dmax Formula, Dmin Formula, Dproduct Formula-1",
+            "video_id": 6989
+          },
+          {
+            "title": "106 - Excel - Vlookup On Multiple Tables-1",
+            "video_id": 6990
+          },
+          {
+            "title": "107 - Excel - Offset Formula Introduction-1",
+            "video_id": 6991
+          },
+          {
+            "title": "108 - Excel - Offset Formula Calculate Sum Of Last 6 Days-1",
+            "video_id": 6992
+          },
+          {
+            "title": "109 - Excel - Offset Formula Real Job Use-1",
+            "video_id": 6993
+          },
+          {
+            "title": "110 - Excel - Sumifs, Index, Match Real Job Use-1",
+            "video_id": 6994
+          },
+          {
+            "title": "111 - Excel - Practical Use Of Isblank And Istext Formula-1",
+            "video_id": 6995
+          },
+          {
+            "title": "112 - Excel - Counting Words In Excel Interview Question-1",
+            "video_id": 6996
+          },
+          {
+            "title": "113 - Excel - Build Login In Excel Formula-1",
+            "video_id": 6997
+          },
+          {
+            "title": "114 - Excel - Create Dynamic List Using Index, Match Formula-1",
+            "video_id": 6998
+          },
+          {
+            "title": "115 - Excel - Conditional Formatting With Text And Or Formula-1",
+            "video_id": 6999
+          },
+          {
+            "title": "116 - Excel - Unique Example Of Conditional Formatting-1",
+            "video_id": 7000
+          },
+          {
+            "title": "117 - Excel - Auto Sort Data Using Countif, Match And Index Formula-1",
+            "video_id": 7001
+          },
+          {
+            "title": "118 - Excel - Condition Inside Rank Using Countifs Formula-1",
+            "video_id": 7002
+          },
+          {
+            "title": "119 - Excel - Camera, Autofilter, Form - 3 Hidden Features-1",
+            "video_id": 7003
+          },
+          {
+            "title": "120 - Excel - Max If And Min If Formula Using Array-1",
+            "video_id": 7004
+          },
+          {
+            "title": "121 - Excel - Choose Formula In Excel-1",
+            "video_id": 7005
+          },
+          {
+            "title": "122 - Excel - Swap Range In Excel-1",
+            "video_id": 7006
+          },
+          {
+            "title": "123 -Excel- Reverse Lookup Using Choose Formula-1",
+            "video_id": 7007
+          },
+          {
+            "title": "124 - Excel - Reverse Lookup Using Match And Index-1",
+            "video_id": 7008
+          },
+          {
+            "title": "125 - Excel - Find & Vlookup Real Job Query-1",
+            "video_id": 7009
+          },
+          {
+            "title": "126 - Excel - Vlookup Duplicate Names Issue-1",
+            "video_id": 7010
+          },
+          {
+            "title": "127 - Excel - Vlookup With Chooze Formula And Array-1",
+            "video_id": 7011
+          },
+          {
+            "title": "128 - Excel - Text Join Formula In Excel 2019-1",
+            "video_id": 7012
+          },
+          {
+            "title": "129 - Excel - Ifs Formula In Excel 2019-1",
+            "video_id": 7013
+          },
+          {
+            "title": "130 - Excel - Maxifs And Minifs In Excel 2019-1",
+            "video_id": 7014
+          },
+          {
+            "title": "131 - Excel - Filter Formula of Office 365",
+            "video_id": 7015
+          },
+          {
+            "title": "132 - Excel - Sort Formula of Office 365",
+            "video_id": 7016
+          },
+          {
+            "title": "133 - Excel - Real Job use of Aggregate Formula in Excel",
+            "video_id": 7017
+          },
+          {
+            "title": "134 - Excel - Xlookup in Office 365 1",
+            "video_id": 7018
+          },
+          {
+            "title": "135 - Excel - Xlooup in Office 365 2",
+            "video_id": 7019
+          },
+          {
+            "title": "136 - Excel - Xlooup Work Reverse 3",
+            "video_id": 7020
+          },
+          {
+            "title": "137 - Excel - Xlooup in Office 365 4",
+            "video_id": 7021
+          },
+          {
+            "title": "138 - Excel - Xlooup in Office 365 5",
+            "video_id": 7022
+          },
+          {
+            "title": "139 - Excel - Xlookup in Office 365 - 6",
+            "video_id": 7023
+          },
+          {
+            "title": "140 - Excel - Xlookup in Office 365 7",
+            "video_id": 7024
+          },
+          {
+            "title": "141 - Excel - Xlookup In Office 365 - 8 -1",
+            "video_id": 7025
+          },
+          {
+            "title": "142 - Excel - Xlookup In Office 365 - 9 -1",
+            "video_id": 7026
+          },
+          {
+            "title": "143 - Excel - Xlookup In Office 365 - 10 -1",
+            "video_id": 7027
+          },
+          {
+            "title": "144 - Excel - Xmatch Formula Office 365-1",
+            "video_id": 7028
+          },
+          {
+            "title": "145 - Excel - Create Searchable Drop Down List In Office 365-1",
+            "video_id": 7029
+          },
+          {
+            "title": "146 - Excel - Analyze Data And Get Ideas Office 365-1",
+            "video_id": 7030
+          },
+          {
+            "title": "147 - Excel - Map Chart In Office 365-1",
+            "video_id": 7031
+          },
+          {
+            "title": "148 - Excel - Dynamic Conditional Formatting-1",
+            "video_id": 7032
+          },
+          {
+            "title": "149 - Excel - Unique Formula In Office 365-1",
+            "video_id": 7033
+          },
+          {
+            "title": "150 - Excel - Sequence And Random Array Formula In Office 365-1",
+            "video_id": 7034
+          },
+          {
+            "title": "151 - Excel - Assignment 1 With Answer 365-1",
+            "video_id": 7035
+          },
+          {
+            "title": "152 - EXCEL - Assignment 2 With Answer 365",
+            "video_id": 7036
+          },
+          {
+            "title": "153 - EXCEL - Assignment 3 With Answer 365",
+            "video_id": 7037
+          },
+          {
+            "title": "154 - EXCEL - Assignment 4 With Answer 365",
+            "video_id": 7038
+          },
+          {
+            "title": "155 - Excel Interview Question 1-1",
+            "video_id": 7039
+          },
+          {
+            "title": "156 - Excel Interview Questions 2",
+            "video_id": 7040
+          },
+          {
+            "title": "157 - Use your Brain - Interview Question",
+            "video_id": 7041
+          },
+          {
+            "title": "158 - Interview Question - Mode Function",
+            "video_id": 7042
+          },
+          {
+            "title": "159 - Interview Question - Goto and Conditional Formatting",
+            "video_id": 7043
+          },
+          {
+            "title": "160 - Vstack Formula in Office 365",
+            "video_id": 7044
+          },
+          {
+            "title": "161 - Take Function in Excel",
+            "video_id": 7045
+          },
+          {
+            "title": "162 - Assignment - Seprate decimal number and text",
+            "video_id": 7046
+          },
+          {
+            "type": "chapter",
+            "chapter_name": "What will you learn in Excel MIS Full Course"
+          },
+          {
+            "title": "Introduction",
+            "video_id": 7048
+          },
+          {
+            "title": "02 – Pivot Table and Pivot Chart",
+            "video_id": 7049
+          },
+          {
+            "title": "03 – Design Tab of Pivot Chart",
+            "video_id": 7050
+          },
+          {
+            "title": "04- Slicer in Pivot Table & Slicer Settings",
+            "video_id": 7051
+          },
+          {
+            "title": "05 -Time Line in Pivot Table",
+            "video_id": 7052
+          },
+          {
+            "title": "06 – Get Pivot Data in Excel",
+            "video_id": 7053
+          },
+          {
+            "title": "07 – Pareto Chart in Excel",
+            "video_id": 7054
+          },
+          {
+            "title": "08 – INFOGRAPHIC CHART IN EXCEL",
+            "video_id": 7055
+          },
+          {
+            "title": "09 – Trend Chart using SumIFS Formula",
+            "video_id": 7056
+          },
+          {
+            "title": "10 – Map Chart using XY Scatter Chart",
+            "video_id": 7057
+          },
+          {
+            "title": "11- Key Performance Indicator in Excel",
+            "video_id": 7058
+          },
+          {
+            "title": "12 – Chart with Hyperlink",
+            "video_id": 7059
+          },
+          {
+            "title": "13 - Chart With Conditonal Formatting-1-1",
+            "video_id": 7060
+          },
+          {
+            "title": "14 - Create Bar Charts With Picture-1-1",
+            "video_id": 7061
+          },
+          {
+            "title": "15 - Spedo Meter Chart In Excel-1-1",
+            "video_id": 7062
+          },
+          {
+            "title": "16 - See Saw Comparison Chart-1-1",
+            "video_id": 7063
+          },
+          {
+            "title": "17 -Mis - Hyperlink With Column And Pei Chart -1",
+            "video_id": 7064
+          },
+          {
+            "title": "18 - Mis- Male, Female Comparison Chart-1",
+            "video_id": 7065
+          },
+          {
+            "title": "19 - Create Dynamic Month Dashboard Using Offset Formula-1-",
+            "video_id": 7066
+          },
+          {
+            "title": "20 - Mis - Create Dashboard On Days Wise Report-1",
+            "video_id": 7067
+          },
+          {
+            "title": "21 - Excel Mis - Sales Ranking Dashboard-1-1",
+            "video_id": 7068
+          },
+          {
+            "title": "22 - Excel Mis - Create Weekly Sales Dashboard Using Listbox-1-1",
+            "video_id": 7069
+          },
+          {
+            "title": "23- Mis In Excel - Daily Task Reminder Dashboard-1-1",
+            "video_id": 7070
+          },
+          {
+            "title": "24 - Mis In Excel - Create Year Wise Report Using Vlookup, Match, Index-1-1",
+            "video_id": 7071
+          },
+          {
+            "title": "25 MIS IN EXCEL Create Dasboard Using VLOOKUP, INDEX, COUNTIF",
+            "video_id": 7072
+          },
+          {
+            "title": "26 – Mis – Amazing Dashboard-1",
+            "video_id": 7073
+          },
+          {
+            "title": "27 – Mis – Time Dashboard Project-1",
+            "video_id": 7074
+          },
+          {
+            "title": "28 – Mis – Gantt Chart With Conditional Formatting-1",
+            "video_id": 7075
+          },
+          {
+            "type": "chapter",
+            "chapter_name": "What will you learn in Excel power query Full Course"
+          },
+          {
+            "title": "Introduction",
+            "video_id": 7080
+          },
+          {
+            "title": "03 - Power Query - Create Connections with Text file and Access Database",
+            "video_id": 7081
+          },
+          {
+            "title": "04 - Power Query - Reconnect Data in Power Query",
+            "video_id": 7082
+          },
+          {
+            "title": "05 - Power Query - Create Pivot table on Text file data",
+            "video_id": 7083
+          },
+          {
+            "title": "06 - Power Query - Merge Multiple Sheets Using M- Language-1",
+            "video_id": 7084
+          },
+          {
+            "title": "07 - Power Query - Create Pivot table on Multiple Sheets",
+            "video_id": 7085
+          },
+          {
+            "title": "08 - Power Query - Close and Load to Explain - Home tab - Query Group",
+            "video_id": 7086
+          },
+          {
+            "title": "09 - Power Query - Home Tab - Manage Column And Rows Group -1",
+            "video_id": 7087
+          },
+          {
+            "title": "10 - Power Query - Home Tab - Split Column into rows and columns",
+            "video_id": 7088
+          },
+          {
+            "title": "11 - Power Query - Home Tab - Group by using Basic and Advance Option",
+            "video_id": 7089
+          },
+          {
+            "title": "12 - Power Query - Home Tab - Data type - Replace Values",
+            "video_id": 7090
+          },
+          {
+            "title": "13 - Power Query - Transform data Vertically",
+            "video_id": 7091
+          },
+          {
+            "title": "14 - Power Query - Combine 1000Tables with 1 Function",
+            "video_id": 7092
+          },
+          {
+            "title": "15 - Power Query - Alter options of Vlookup inside Powerquery",
+            "video_id": 7093
+          },
+          {
+            "title": "16 - Power Query - Multiple Columns Lookup-1",
+            "video_id": 7094
+          },
+          {
+            "title": "17 - Power Query - Remove Weekends and Holidays",
+            "video_id": 7095
+          },
+          {
+            "title": "18 - Power Query - Calculate Age with simple Method",
+            "video_id": 7096
+          },
+          {
+            "title": "19 - Power Query - Calculate Task Timings",
+            "video_id": 7097
+          },
+          {
+            "title": "20 - Power Query -Add Column Date Options in Detail",
+            "video_id": 7098
+          },
+          {
+            "title": "21 - Power Query - Time and Duration Options in Details",
+            "video_id": 7099
+          },
+          {
+            "title": "22 - Power Query - Transform Raw Data - Real Job Query",
+            "video_id": 7100
+          },
+          {
+            "title": "23 - Power Query - Few Clicks To Get Trim, Propercase And Merge Data-1",
+            "video_id": 7101
+          },
+          {
+            "title": "24 - Power Query - Merge Workbooks And Create Pivot-1",
+            "video_id": 7102
+          },
+          {
+            "title": "25 - Powerquery - Merge Workbooks With File Name As Column-1",
+            "video_id": 7103
+          },
+          {
+            "title": "26 - PowerQuery - Raw Data to Pivot 1_",
+            "video_id": 7104
+          },
+          {
+            "title": "27 - Power Query - Merge Vs Append 1_",
+            "video_id": 7105
+          },
+          {
+            "title": "28 - Custom Calendar",
+            "video_id": 7106
+          },
+          {
+            "title": "29 - Power Query - Merge Data Dynamically",
+            "video_id": 7109
+          },
+          {
+            "title": "30 - Pivot and Unpivot",
+            "video_id": 7110
+          },
+          {
+            "title": "31 - Pivot Magic Excel Power Query Pivot Tables on Multiple Sheets",
+            "video_id": 7111
+          },
+          {
+            "type": "chapter",
+            "chapter_name": "What will you learn in PowerPoint Full Course"
+          },
+          {
+            "title": "Introduction",
+            "video_id": 7114
+          },
+          {
+            "title": "02 - Creating Slides In Powerpoint-1",
+            "video_id": 7115
+          },
+          {
+            "title": "03 -Design Tab In Excel-",
+            "video_id": 7116
+          },
+          {
+            "title": "04 - Transitions Tab In Powerpoint",
+            "video_id": 7117
+          },
+          {
+            "title": "05 - Loop Slide In Powerpoint",
+            "video_id": 7118
+          },
+          {
+            "title": "06 -Animation Tab",
+            "video_id": 7119
+          },
+          {
+            "title": "7 - Record Screen and Export Video",
+            "video_id": 7120
+          },
+          {
+            "title": "8 - AI Designer in PowerPoint",
+            "video_id": 7121
+          },
+          {
+            "title": "9 - Transitions in PowerPoint",
+            "video_id": 7122
+          },
+          {
+            "title": "10 - Animation Tab - 1",
+            "video_id": 7123
+          },
+          {
+            "title": "11 - Animation Tab - 2",
+            "video_id": 7124
+          },
+          {
+            "title": "12 - Animation Project in PowerPoint",
+            "video_id": 7125
+          },
+          {
+            "title": "13- Animation Effect",
+            "video_id": 7126
+          },
+          {
+            "title": "14 - Advance Animation Project",
+            "video_id": 7127
+          },
+          {
+            "title": "15 - Slide Show Tab",
+            "video_id": 7128
+          },
+          {
+            "type": "chapter",
+            "chapter_name": "What will you learn in MS - access Full Course"
+          },
+          {
+            "title": "Introduction",
+            "video_id": 7130
+          },
+          {
+            "title": "02- Creating Table In Ms- Access-1",
+            "video_id": 7131
+          },
+          {
+            "title": "03- Ms-access Delete & Add Columns-1",
+            "video_id": 7132
+          },
+          {
+            "title": "04- Create Lookup Wizard From List-1",
+            "video_id": 7133
+          },
+          {
+            "title": "05- Break Lookup Relationship-1",
+            "video_id": 7134
+          },
+          {
+            "title": "06 - Calculation In Access-1",
+            "video_id": 7135
+          },
+          {
+            "title": "07 - If Formula In Access-1",
+            "video_id": 7136
+          },
+          {
+            "title": "08 - If And, If Or In Access-1",
+            "video_id": 7137
+          },
+          {
+            "title": "09 - Import Tables From Excel, Notepad In Access-1",
+            "video_id": 7138
+          },
+          {
+            "title": "10 - Filter ans Sort in Access",
+            "video_id": 7139
+          },
+          {
+            "title": "11 - Advance Filter in Access",
+            "video_id": 7140
+          },
+          {
+            "title": "12 - Records Group In Access-1",
+            "video_id": 7141
+          },
+          {
+            "title": "13 - Find and Replace in Access",
+            "video_id": 7142
+          },
+          {
+            "title": "14 - Access -Create Query using Query Wizard",
+            "video_id": 7143
+          },
+          {
+            "title": "15 - Access -Design Query on Existing Query",
+            "video_id": 7144
+          },
+          {
+            "title": "16 - Access - Create Parameter Query",
+            "video_id": 7145
+          },
+          {
+            "title": "17 -Access- Query with Relationship",
+            "video_id": 7146
+          },
+          {
+            "title": "18 - Access - Query with Calculated Field",
+            "video_id": 7147
+          },
+          {
+            "title": "19 - Access - Pivot Tabl in Access - Cross Tab Query",
+            "video_id": 7148
+          },
+          {
+            "title": "20 - Access - Find Duplicate Query",
+            "video_id": 7149
+          },
+          {
+            "title": "21 - Access - UnMartched Query",
+            "video_id": 7150
+          },
+          {
+            "title": "22 - Access - Export Access data",
+            "video_id": 7151
+          },
+          {
+            "title": "23 - Acess - Hide Table And Query From Navigation-1",
+            "video_id": 7152
+          },
+          {
+            "title": "24 - Access - Add Totals in Query",
+            "video_id": 7153
+          },
+          {
+            "title": "25 -Access - SQL View Learn Code",
+            "video_id": 7154
+          },
+          {
+            "title": "26 - Access - Create form using Form Wizard",
+            "video_id": 7155
+          },
+          {
+            "title": "27 - Access - Form Design - 1-1",
+            "video_id": 7157
+          },
+          {
+            "title": "28 - Access - Conditional Formatting In Form-1",
+            "video_id": 7158
+          },
+          {
+            "title": "29 - Access - Customize Button In Forms-1",
+            "video_id": 7159
+          },
+          {
+            "title": "30 - Access - Insert Chart In Form-1",
+            "video_id": 7160
+          },
+          {
+            "title": "31 - Accres - Create Reports From Report Wizard-1",
+            "video_id": 7161
+          },
+          {
+            "title": "32 - Access - Design and Format Report",
+            "video_id": 7162
+          },
+          {
+            "title": "33 - Access - Design And Condtional Formatting In Report-1",
+            "video_id": 7163
+          },
+          {
+            "title": "34 - Access - Parameter Reports",
+            "video_id": 7164
+          },
+          {
+            "title": "35 - Access - Create Print Privew Button of Report",
+            "video_id": 7165
+          },
+          {
+            "type": "chapter",
+            "chapter_name": "What will you learn in Outlook Full Course"
+          },
+          {
+            "title": "Introduction",
+            "video_id": 7167
+          },
+          {
+            "title": "02 - Outlook Email 1-1",
+            "video_id": 7168
+          },
+          {
+            "title": "03 - Outlook Email 2-1",
+            "video_id": 7169
+          },
+          {
+            "title": "04 - Outlook Create Appoinment-1",
+            "video_id": 7170
+          },
+          {
+            "title": "05 - Outlook Set Meeting-1",
+            "video_id": 7171
+          },
+          {
+            "title": "06 -Outlook Create Contact-1",
+            "video_id": 7172
+          },
+          {
+            "title": "07 - Outlook Set Task In Outlook-1",
+            "video_id": 7173
+          },
+          {
+            "title": "08 - Outlook Create Contact Group-1",
+            "video_id": 7174
+          },
+          {
+            "title": "09 - Outlook Mail Merge Outlook contacts",
+            "video_id": 7175
+          },
+          {
+            "title": "10 - Outlook Create Folder And View Settings-1",
+            "video_id": 7176
+          },
+          {
+            "type": "chapter",
+            "chapter_name": "What will you learn in Publisher Full Course"
+          },
+          {
+            "title": "Introduction",
+            "video_id": 7178
+          },
+          {
+            "title": "02 - Publisher - Insert Text Box-1",
+            "video_id": 7179
+          },
+          {
+            "title": "03 - Publisher - Insert Picture-1",
+            "video_id": 7180
+          },
+          {
+            "title": "04 - Publisher - Insert Catalog Pages And Table-1",
+            "video_id": 7181
+          },
+          {
+            "title": "05 - Publisher - Insert Calender And Page Parts-1",
+            "video_id": 7182
+          },
+          {
+            "title": "06 - Publisher - Create Advertisements-1",
+            "video_id": 7183
+          },
+          {
+            "title": "07 - Publisher - Insert File From Word-1",
+            "video_id": 7184
+          },
+          {
+            "title": "08 - Publisher - Header And Footer-1",
+            "video_id": 7185
+          },
+          {
+            "title": "09 - Publisher - Page Design Tab-1",
+            "video_id": 7186
+          },
+          {
+            "title": "10 - Publisher - Mail Merge-1",
+            "video_id": 7187
+          },
+          {
+            "type": "chapter",
+            "chapter_name": "What will you learn in Tally Prime Full Course"
+          },
+          {
+            "title": "Introduction",
+            "video_id": 7189
+          },
+          {
+            "title": "02 - Tally Prime -Create Company In Tally-1",
+            "video_id": 7190
+          },
+          {
+            "title": "03 - Tally Prime - Alter Company Data-1",
+            "video_id": 7191
+          },
+          {
+            "title": "04 - Tally Prime - Tally Vault Password-1",
+            "video_id": 7192
+          },
+          {
+            "title": "05 - Tally Prime - Tally Company Configuration-1",
+            "video_id": 7193
+          },
+          {
+            "title": "06 - Tally Prime - Tally Create Users & Security-1",
+            "video_id": 7194
+          },
+          {
+            "title": "07 - Tally Prime - We Tally Reports-1",
+            "video_id": 7195
+          },
+          {
+            "title": "08 - Tally Prime - What Is Accounting-1",
+            "video_id": 7196
+          },
+          {
+            "title": "09 - Tally Prime - What Is Financial Year-1",
+            "video_id": 7197
+          },
+          {
+            "title": "10 - Tally Prime - Create And Alter And Delete Group-1",
+            "video_id": 7198
+          },
+          {
+            "title": "11 - Tally Prime - Create Ledgers In Tally Prime",
+            "video_id": 7199
+          },
+          {
+            "title": "12 - Tally Prime - Create Multiple Ledgers In Tally Prime-1",
+            "video_id": 7200
+          },
+          {
+            "title": "13 - Tally Prime - Different Ledgers And Their Meanings In Tally-1",
+            "video_id": 7201
+          },
+          {
+            "title": "14 - Tally Prime - Business First Voucher Entry In Tally -1",
+            "video_id": 7202
+          },
+          {
+            "title": "15 - Tally Prime - Receipt Voucher - Goods Sold On Cash -1",
+            "video_id": 7203
+          },
+          {
+            "title": "16 - Tally Prime - Receipt Voucher - Amount Received In Cash -1",
+            "video_id": 7204
+          },
+          {
+            "title": "17 - Tally Prime - Receipt Voucher - Amount Received In Cheque Mp4-1",
+            "video_id": 7205
+          },
+          {
+            "title": "18 - Tally Prime - Contra Voucher - 1 -1",
+            "video_id": 7206
+          },
+          {
+            "title": "19 - Tally Prime - Contra Voucher - 2 -1",
+            "video_id": 7207
+          },
+          {
+            "title": "20 - Tally Prime - Payment Voucher - 1 -1",
+            "video_id": 7208
+          },
+          {
+            "title": "21 - Tally Prime - Payment Voucher- 2 -1",
+            "video_id": 7209
+          },
+          {
+            "title": "22 - Tally Prime - Purchase Voucher-1",
+            "video_id": 7210
+          },
+          {
+            "title": "23 - Tally Prime - Sales Voucher -1",
+            "video_id": 7211
+          },
+          {
+            "title": "24 - Tally Prime - After Puchase Sales -1",
+            "video_id": 7212
+          },
+          {
+            "title": "25 - Tally Prime - After Sales -1",
+            "video_id": 7213
+          },
+          {
+            "title": "26 - Tally Prime - Adjustment Entries -1 -1",
+            "video_id": 7214
+          },
+          {
+            "title": "27 - Tally Prime - Adjustment Entries - 2-1",
+            "video_id": 7215
+          },
+          {
+            "title": "28 - Tally Prime - Purchase Return And Sales Return -1",
+            "video_id": 7216
+          },
+          {
+            "title": "29 - Tally Prime - Assignment On Vouhcer Entries - 1 -1",
+            "video_id": 7217
+          },
+          {
+            "title": "30 - Tally Prime - Assignment On Vouhcer Entries - 2 -1",
+            "video_id": 7218
+          },
+          {
+            "title": "31 - Tally Prime - Assignment On Vouhcer Entries - 3 -1",
+            "video_id": 7219
+          },
+          {
+            "title": "32 - Tally Prime - What Is Accounting Cycle-1-1",
+            "video_id": 7220
+          },
+          {
+            "title": "33 - Tally Prime - What Is Balance Sheet-1-1",
+            "video_id": 7221
+          },
+          {
+            "title": "34 - Tally Prime - Stock Entries - 1-1",
+            "video_id": 7222
+          },
+          {
+            "title": "35 - Tally Prime - Stock Entries - 2-1",
+            "video_id": 7223
+          },
+          {
+            "title": "36 - Tally Prime - Stock Entries - 3-1",
+            "video_id": 7224
+          },
+          {
+            "title": "37 - Tally Prime - Stock Entries - 4",
+            "video_id": 7225
+          },
+          {
+            "title": "38 - Tally Prime - Cost Centers Introduction - 1 -1",
+            "video_id": 7226
+          },
+          {
+            "title": "39 - Tally Prime - Cost Centers Hide Details -1",
+            "video_id": 7227
+          },
+          {
+            "title": "40 - Tally Prime - Cost Centers Example - 1 -1",
+            "video_id": 7228
+          },
+          {
+            "title": "41 - Tally Prime - Cost Centers Example - 2 -1",
+            "video_id": 7229
+          },
+          {
+            "title": "42 - Tally Prime - Keyboard Shortcuts -1",
+            "video_id": 7230
+          },
+          {
+            "title": "43 - Tally Prime - Multiple Stock Item Entries-1",
+            "video_id": 7231
+          },
+          {
+            "title": "44 - Tally Prime - Stock Transfer - Stock Journal Vouchers-1",
+            "video_id": 7232
+          },
+          {
+            "title": "45 - Tally Prime - Physical Stock Voucher-1",
+            "video_id": 7233
+          },
+          {
+            "title": "46 - Tally Prime - Organization Types-1",
+            "video_id": 7234
+          },
+          {
+            "title": "47 - Tally Prime - Trading Organization Accounting-1",
+            "video_id": 7235
+          },
+          {
+            "title": "48 - Tally Prime - Purchase Order-1",
+            "video_id": 7236
+          },
+          {
+            "title": "49 - Tally Prime - Receipt Note Voucher-1",
+            "video_id": 7237
+          },
+          {
+            "title": "50 - Tally Prime - Rejection Out Voucher-1",
+            "video_id": 7238
+          },
+          {
+            "title": "51 - Tally Prime - Purchase Invoice-1",
+            "video_id": 7239
+          },
+          {
+            "title": "52 - Tally Prime - Debit Note - Purchase Return-1",
+            "video_id": 7240
+          },
+          {
+            "title": "53 - Tally Prime - Sales Order-1",
+            "video_id": 7241
+          },
+          {
+            "title": "54 - Tally Prime - Delivery Note-1",
+            "video_id": 7242
+          },
+          {
+            "title": "55 - Tally Prime - Rejection In-1",
+            "video_id": 7243
+          },
+          {
+            "title": "56 - Tally Prime - Create Sales Bill-1",
+            "video_id": 7244
+          },
+          {
+            "title": "57 - Tally Prime - Credit Note - Sales Return-1",
+            "video_id": 7245
+          },
+          {
+            "title": "58 - Tally Prime - Tds Introduction-1",
+            "video_id": 7246
+          },
+          {
+            "title": "59 - Tally Prime - Tds Introduction-1",
+            "video_id": 7247
+          },
+          {
+            "title": "60 - Tally Prime - On Interest-1",
+            "video_id": 7248
+          },
+          {
+            "title": "61 - Tally Prime - Tds Faq-1",
+            "video_id": 7249
+          },
+          {
+            "title": "62 - Tally Prime - Tds Entry In Tally-1",
+            "video_id": 7250
+          },
+          {
+            "title": "63 - Tally Prime - Tds Adjustment Entries-1",
+            "video_id": 7251
+          },
+          {
+            "title": "64 - Tally Prime - Tds Certificate-1",
+            "video_id": 7252
+          },
+          {
+            "title": "65 - Tally Prime - Tds Related Questions -1",
+            "video_id": 7253
+          },
+          {
+            "title": "66 - Tally Prime - Tds Entry As A Deductor 1-1",
+            "video_id": 7254
+          },
+          {
+            "title": "67 - Tally Prime - Tds Entry As A Deductor 2-1",
+            "video_id": 7255
+          },
+          {
+            "title": "68 - Tally Prime - Tds Entry As A Deductor 3-1",
+            "video_id": 7256
+          },
+          {
+            "title": "69 - Tally Prime - Tds Entry As A Deductor 4 -1",
+            "video_id": 7257
+          },
+          {
+            "title": "70 - Tally Prime - Tds Payment-1",
+            "video_id": 7258
+          },
+          {
+            "title": "71 - Tally Prime - Gst Introduction-1",
+            "video_id": 7259
+          },
+          {
+            "title": "72 - Tally Prime - Sgst, Cgst And Igst Terms-1",
+            "video_id": 7260
+          },
+          {
+            "title": "73 - Tally Prime - Gst - What Is Hsn And Sac-1",
+            "video_id": 7261
+          },
+          {
+            "title": "74 - Tally Prime - What Is Regular Dealer And Composition-1",
+            "video_id": 7262
+          },
+          {
+            "title": "75 - Tally Prime - Create Purchase Invoice Intrastate Gst-1",
+            "video_id": 7263
+          },
+          {
+            "title": "76 - Tally Prime - Create Purchase Invoice Interstate Gst-1",
+            "video_id": 7264
+          },
+          {
+            "title": "77 - Tally Prime - Check Stock And Purchase Register-1",
+            "video_id": 7265
+          },
+          {
+            "title": "78 - Tally Prime - Create Sales Invoice Intrastate Gst-1",
+            "video_id": 7266
+          },
+          {
+            "title": "79 - Tally Prime - Create Sales Invoice Interstate Gst-1",
+            "video_id": 7267
+          },
+          {
+            "title": "80 - Tally Prime - Check Sales Register And Stock Summery-1",
+            "video_id": 7268
+          },
+          {
+            "title": "81 - Tally Prime - Gstr1, Gstr2, Gstr3b-1",
+            "video_id": 7269
+          },
+          {
+            "title": "82 - Tally Prime -What Is E-Way Bill-1",
+            "video_id": 7270
+          },
+          {
+            "title": "83 - Tally Prime -Genterate Json Of E-Way Bill-1",
+            "video_id": 7271
+          },
+          {
+            "title": "84 - Tally Prime - Purchase Raw Material-1",
+            "video_id": 7272
+          },
+          {
+            "title": "85 - Tally Prime - Create Bom Bill Of Material_-1",
+            "video_id": 7273
+          },
+          {
+            "title": "86 - Tally Prime - Create Manufacturing Journal-1",
+            "video_id": 7274
+          },
+          {
+            "title": "87 - Tally Prime - Sold Finish Goods-1",
+            "video_id": 7275
+          },
+          {
+            "title": "88 - Tally Prime - Introduction Of Service Organization-1",
+            "video_id": 7276
+          },
+          {
+            "title": "89 - Tally Prime - Introduce Capital In Service Sector-1",
+            "video_id": 7277
+          },
+          {
+            "title": "90 - Tally Prime - Purchased Fixed Assets With Gst Invoice-1",
+            "video_id": 7278
+          },
+          {
+            "title": "91 - Tally Prime - Purchased Stationery With Gst Invoice-1",
+            "video_id": 7279
+          },
+          {
+            "title": "92 - Tally Prime - Puchased Computers Gst Invoice-1",
+            "video_id": 7280
+          },
+          {
+            "title": "93 - Tally Prime - Taken Advertisement Service-1",
+            "video_id": 7281
+          },
+          {
+            "title": "94 - Tally Prime - Provide Service And Received Payment-1-1",
+            "video_id": 7282
+          },
+          {
+            "title": "95 - Tally Prime - Provide Service And Received Payment-2-1",
+            "video_id": 7283
+          },
+          {
+            "title": "96 - Tally Prime - Sales Services And Received Payment-3-1",
+            "video_id": 7284
+          },
+          {
+            "title": "97 - Tally Prime - View Reports Of Service Sectors-1",
+            "video_id": 7285
+          },
+          {
+            "title": "98 - Tally Prime - Customize Sales Invoice Number-1",
+            "video_id": 7286
+          },
+          {
+            "title": "99 - Tally Prime - Compound Unit And Alternate Unit-1",
+            "video_id": 7287
+          },
+          {
+            "title": "100 - Tally Prime - Backup And Restore Data-1",
+            "video_id": 7288
+          },
+          {
+            "title": "101 - Tally Prime - Import And Export-1",
+            "video_id": 7289
+          },
+          {
+            "title": "102 - Tally Prime - Export Data In Excel-1",
+            "video_id": 7290
+          },
+          {
+            "title": "103 - Tally Prime - Payroll Introduction-1",
+            "video_id": 7291
+          },
+          {
+            "title": "104 - Tally Prime - Create Employee Record-1",
+            "video_id": 7292
+          },
+          {
+            "title": "105 - Tally Prime - Create Work Unit-1",
+            "video_id": 7293
+          },
+          {
+            "title": "106 - Tally Prime - Create Earning Payhead-1",
+            "video_id": 7294
+          },
+          {
+            "title": "107 - Tally Prime - Create Earning Payhead-2-1",
+            "video_id": 7295
+          },
+          {
+            "title": "108 - Tally Prime - Create Deduction Payhead-1",
+            "video_id": 7296
+          },
+          {
+            "title": "109 - Tally Prime - Define Salary Structure-1",
+            "video_id": 7297
+          },
+          {
+            "title": "110 - Tally Prime - Create Payroll Voucher-1",
+            "video_id": 7298
+          },
+          {
+            "title": "1- Gst Filing - Gst Regisration Process-1",
+            "video_id": 7299
+          },
+          {
+            "title": "2 - Gst Filing - Export Data In Csv From Tally-1",
+            "video_id": 7300
+          },
+          {
+            "title": "3 - Gst Filing - Create Json File With Gst Offline Tool-1",
+            "video_id": 7301
+          },
+          {
+            "title": "4 - Gst Filing - Filing Gstr1 Sales_ On Gst Portal-1",
+            "video_id": 7302
+          },
+          {
+            "title": "5 - GST Filing - Making Payment on GST Portal Filining GSTR3B",
+            "video_id": 7303
+          },
+          {
+            "title": "1 - Tcs - What Is Tcs-1",
+            "video_id": 7304
+          },
+          {
+            "title": "2 - Tcs - Practical Entry In Tally Prime-1",
+            "video_id": 7305
+          },
+          {
+            "title": "3 - TCS - Payment Enteries",
+            "video_id": 7306
+          },
+          {
+            "title": "Part 1 - Tally Prime 30 Install Process",
+            "video_id": 7307
+          },
+          {
+            "title": "Part 2 - Tally Prime 30 Company Creation",
+            "video_id": 7308
+          },
+          {
+            "title": "Part 3 - Enabling Multiple Address Feature in Tally Prime 30",
+            "video_id": 7309
+          },
+          {
+            "title": "Part 4 - Multiple GST Reg in Tally Prime 30",
+            "video_id": 7310
+          },
+          {
+            "title": "Part 5 - Creating Ledgers in Tally Prime 30",
+            "video_id": 7311
+          },
+          {
+            "title": "Part 6 - Stock Item Creation in Tally Prime 30",
+            "video_id": 7312
+          },
+          {
+            "title": "Part 7 - Multiple Numbering Series for Purchase Vouchers Part 1",
+            "video_id": 7313
+          },
+          {
+            "title": "Part 8 - Multiple Numbering Series for Sales Vouchers Part 2",
+            "video_id": 7314
+          },
+          {
+            "title": "Part 9 - Purchase Voucher in Tally Prime 30",
+            "video_id": 7315
+          },
+          {
+            "title": "Part 10 - Sales Voucher in Tally Prime 30",
+            "video_id": 7316
+          },
+          {
+            "title": "1_ Tally Prime 40 Download and Install in Hindi",
+            "video_id": 7317
+          },
+          {
+            "title": "2 _ Tally Prime 40 Dashboard Feature Part 2",
+            "video_id": 7318
+          },
+          {
+            "title": "3 _ Tally Prime 40 Excel to Tally Data Import Part 3",
+            "video_id": 7319
+          },
+          {
+            "title": "4 _ Tally Prime 40 Show Previous Balance Part 4",
+            "video_id": 7320
+          },
+          {
+            "title": "5 _ Tally Prime 40 QR Code and UPI ID Payment Link Part 5",
+            "video_id": 7321
+          },
+          {
+            "title": "01 - BRS In Tally Complete Video",
+            "video_id": 7322
+          },
+          {
+            "title": "02 - Practice Assignment of Tally Prime",
+            "video_id": 7323
+          },
+          {
+            "title": "03 - Instruction - Before Practice on TDS Important Instruction",
+            "video_id": 7324
+          },
+          {
+            "title": "04 - Price Level List",
+            "video_id": 7325
+          },
+          {
+            "type": "chapter",
+            "chapter_name": "What will you learn in Google Sheet Full Course"
+          },
+          {
+            "title": "Introduction",
+            "video_id": 7327
+          },
+          {
+            "title": "02 - Google Sheets - Use Of Functions-1",
+            "video_id": 7328
+          },
+          {
+            "title": "03 - Google Sheets - Inserting And Deleting Sheets, Navigating Sheets-1",
+            "video_id": 7329
+          },
+          {
+            "title": "04 - Google Sheets - Paint Format, Currency Format, %Age Formula-1-1",
+            "video_id": 7331
+          },
+          {
+            "title": "05 - Google Sheets - Enable Keyboard Shortcuts, Format Sheet-1",
+            "video_id": 7332
+          },
+          {
+            "title": "06 - Google Sheets - Hyperling And Insert Comment -1-1",
+            "video_id": 7333
+          },
+          {
+            "title": "07 - Goolge Sheeets - Share Sheets With Multiple People And Word Together-1",
+            "video_id": 7334
+          },
+          {
+            "title": "08 - Google Sheets - Insert Chart & Format Chart - 1",
+            "video_id": 7335
+          },
+          {
+            "title": "09 - Google Sheets - Insert Chart & Format Chart - 2",
+            "video_id": 7336
+          },
+          {
+            "title": "10 - Google Sheets - Sort and Filter Options",
+            "video_id": 7337
+          },
+          {
+            "title": "11 - Google Sheets - Save Filter, Create Filter",
+            "video_id": 7338
+          },
+          {
+            "title": "12 - Google Sheets - Filter Formula-1",
+            "video_id": 7339
+          },
+          {
+            "title": "13 - Google Sheets - File Menu - Save Version History, Open Excel File-1",
+            "video_id": 7340
+          },
+          {
+            "title": "14 - Google Sheets - File Menu - Publish file to web",
+            "video_id": 7341
+          },
+          {
+            "title": "15 - Google Sheets - Printing Tips",
+            "video_id": 7342
+          },
+          {
+            "title": "16 - Google Sheets - Edit Menu - Paste Special",
+            "video_id": 7343
+          },
+          {
+            "title": "17 - Google Sheets - Edit Menu - Find and Replace",
+            "video_id": 7344
+          },
+          {
+            "title": "18 - Google Sheets - View Menu - Freeze Panes",
+            "video_id": 7345
+          },
+          {
+            "title": "19 - Google Sheets - Insert Menu - 1 - Image, Rows, Columns-1",
+            "video_id": 7346
+          },
+          {
+            "title": "20 - Google Sheets - Insert Menu - 2 - Google Forms Link To Google Sheets-1",
+            "video_id": 7347
+          },
+          {
+            "title": "21- Google Sheets - Insert Menu - 3 - Check Boxes - Create To do List",
+            "video_id": 7348
+          },
+          {
+            "title": "22 - Google Sheets - Format Tab - Conditional formatting, Number formatting",
+            "video_id": 7349
+          },
+          {
+            "title": "23 - Google Sheets - Data Menu - use of Slicers",
+            "video_id": 7350
+          },
+          {
+            "title": "24 - Google Sheets - Data Menu - Data Validation-1",
+            "video_id": 7351
+          },
+          {
+            "title": "25 - Google Sheets - Pivot Table - Create summerize reports",
+            "video_id": 7352
+          },
+          {
+            "title": "26 - Goolge Sheets - Add Named Ranges and apply formula",
+            "video_id": 7353
+          },
+          {
+            "title": "27 - Google Protect Worksheet And Range-1",
+            "video_id": 7354
+          },
+          {
+            "title": "28 - Google Sheets - Spilt Text to Columns, Remove Duplicates",
+            "video_id": 7355
+          },
+          {
+            "title": "29 - Google Sheets - Macro Recordings",
+            "video_id": 7356
+          },
+          {
+            "title": "30 - Google Sheets - Accessibility Options",
+            "video_id": 7357
+          },
+          {
+            "title": "31 - Google Sheets - Mail Merge - Send Bluk Emails",
+            "video_id": 7358
+          },
+          {
+            "title": "32 - Google Sheets - IFS formula use",
+            "video_id": 7359
+          },
+          {
+            "title": "33 - Google Sheets - Text Join and Concatenate formula",
+            "video_id": 7360
+          },
+          {
+            "title": "34 - Google Sheets - Google Translate formula",
+            "video_id": 7361
+          },
+          {
+            "title": "35 - Google Sheets - Vlookup And Hlookup In Google Sheet-1",
+            "video_id": 7362
+          },
+          {
+            "title": "36 - Google Sheets - Countif, Countifs, Sumif, Sumifs",
+            "video_id": 7363
+          },
+          {
+            "title": "37 - Google Sheets - Sumif, Sumifs Formula in Google sheet",
+            "video_id": 7364
+          },
+          {
+            "title": "38 - Google Sheets - CountUniqueIFS new formula",
+            "video_id": 7365
+          },
+          {
+            "title": "39 - Google Sheets - Sparklines Formula BarColumnline Chart_",
+            "video_id": 7366
+          },
+          {
+            "title": "40 - Google Sheets - All IsFormula - Isemail, IsNumber, Istext_",
+            "video_id": 7367
+          },
+          {
+            "title": "41 - Google Sheets - Create QR Code using Formula",
+            "video_id": 7368
+          },
+          {
+            "title": "42 - Google Sheets - All useful Text Formulas",
+            "video_id": 7369
+          },
+          {
+            "title": "43 - Google Sheets - All useful Number Formulas",
+            "video_id": 7370
+          },
+          {
+            "title": "44 - Google Sheets - Get Uniue Record",
+            "video_id": 7371
+          },
+          {
+            "title": "45 - Google Sheets - Use of Query Formula - Remove Blanks",
+            "video_id": 7372
+          },
+          {
+            "title": "46 - Google Sheets - Import Data from Web",
+            "video_id": 7373
+          },
+          {
+            "title": "47 - Google Sheets - Merge Sheets Data",
+            "video_id": 7374
+          },
+          {
+            "title": "48 - Google Sheets - Merge Workbooks-1",
+            "video_id": 7375
+          },
+          {
+            "title": "49 - Google Sheets - Remove Blank rows tricks",
+            "video_id": 7376
+          },
+          {
+            "title": "50 - Google Sheets - Offset Formula Introduction",
+            "video_id": 7377
+          },
+          {
+            "title": "51 - Google Sheets - Real Use Of Offset Formula-1",
+            "video_id": 7378
+          },
+          {
+            "title": "52 - Google Sheets - Created Monthly Report Dashoard-1",
+            "video_id": 7379
+          },
+          {
+            "title": "53 - Google Sheets - Sequesnce And Rand Formulas-1",
+            "video_id": 7380
+          },
+          {
+            "title": "54 - Google Sheets - Unique Rank Formula-1",
+            "video_id": 7381
+          },
+          {
+            "title": "55 - Google Sheets - Send Auto Email - Add-Ons-1",
+            "video_id": 7383
+          },
+          {
+            "title": "56 - Google Sheets - Copy Down Formula Add-Ons-1",
+            "video_id": 7384
+          },
+          {
+            "title": "57 - Google Sheets - Query Formula -1-1-1",
+            "video_id": 7385
+          },
+          {
+            "title": "58 - Google Sheets - Query Formula - 2-1-1",
+            "video_id": 7386
+          },
+          {
+            "title": "59 - Google Sheets - Query Formula - 3-1-1",
+            "video_id": 7387
+          },
+          {
+            "title": "60 - Google Sheets - Project On Query Formula-1-1",
+            "video_id": 7388
+          },
+          {
+            "title": "61 - Form Automation with Google Sheet",
+            "video_id": 7389
+          },
+          {
+            "title": "62 - Google Sheet Vlookup and Importrange",
+            "video_id": 7390
+          },
+          {
+            "title": "01 - Video Editing - Install Software & Record Pc Screen",
+            "video_id": 7391
+          },
+          {
+            "title": "02 - Video Editing - Trim Or Split Video-1",
+            "video_id": 7392
+          },
+          {
+            "title": "03 - Video Editing - Audio Settings - 1-1",
+            "video_id": 7393
+          },
+          {
+            "title": "04 - Video Editing - Audio Settings - 2-1",
+            "video_id": 7394
+          },
+          {
+            "title": "05 - Video Editing - Video Settings - 1-1",
+            "video_id": 7395
+          },
+          {
+            "title": "06 - Video Editing - Video Settings - 2-1",
+            "video_id": 7396
+          },
+          {
+            "title": "07 - Video Editing - Add And Animate Text-1",
+            "video_id": 7397
+          },
+          {
+            "title": "08 - Video Editing - Learn To Add Transitions-1",
+            "video_id": 7398
+          },
+          {
+            "title": "09 - Video Editing - Adding Effects-1",
+            "video_id": 7399
+          },
+          {
+            "title": "10 - Video Editing - Add Elements-1",
+            "video_id": 7400
+          },
+          {
+            "title": "11 - Video Editing - Split Screen Effect-1",
+            "video_id": 7401
+          },
+          {
+            "title": "12 - Video Editing - Adding Logo In Video-1",
+            "video_id": 7402
+          },
+          {
+            "title": "13 - Video Editing - Keyframe Animation-1",
+            "video_id": 7403
+          },
+          {
+            "title": "14 - Video Editing - Pan And Zoom-1",
+            "video_id": 7404
+          },
+          {
+            "title": "15 - Video Editing - Create Your Green Screen-1",
+            "video_id": 7405
+          },
+          {
+            "title": "16 - Video Editing - Highlight Points-1",
+            "video_id": 7406
+          },
+          {
+            "title": "17 - Video Editing - Advance Options-1",
+            "video_id": 7407
+          },
+          {
+            "title": "18 - Video Editing - Voice Over-1",
+            "video_id": 7408
+          },
+          {
+            "title": "19 - Video Editing - Filmora Essential Settings-1",
+            "video_id": 7409
+          },
+          {
+            "title": "20 - Video Editing - Export Video-1",
+            "video_id": 7410
+          },
+          {
+            "title": "1 - Download And Install Free Software Open Shot-1",
+            "video_id": 7411
+          },
+          {
+            "title": "2 - Trim Video And Snc Audio-1",
+            "video_id": 7412
+          },
+          {
+            "title": "3 - Add Audio In Background-1",
+            "video_id": 7413
+          },
+          {
+            "title": "4 - Add And Animate Image In Video-1",
+            "video_id": 7414
+          },
+          {
+            "title": "5 - Add Lowerthird Text In Video-1",
+            "video_id": 7415
+          },
+          {
+            "title": "6 - Add Animated Title In Video-1",
+            "video_id": 7416
+          },
+          {
+            "title": "7 - Add Green Screen Video-1",
+            "video_id": 7417
+          },
+          {
+            "title": "8 - Crop And Zoom And Export Video-1",
+            "video_id": 7418
+          },
+          {
+            "type": "chapter",
+            "chapter_name": "What will you learn in YouTube Guide Full Course"
+          },
+          {
+            "title": "Introduction",
+            "video_id": 7420
+          },
+          {
+            "title": "2 - Youtube Guide - Create Logo-1-1",
+            "video_id": 7421
+          },
+          {
+            "title": "3 - Youtube Guide - Create Channel Banner-1-1",
+            "video_id": 7422
+          },
+          {
+            "title": "4 - Youtube Guide - Create Video Thumbnail-1-1",
+            "video_id": 7423
+          },
+          {
+            "title": "5 -Ytg-How To Record Computer Screen With Free Software-1-1",
+            "video_id": 7424
+          },
+          {
+            "title": "6 - Highlight Mouse Pointer On Screen-1-1",
+            "video_id": 7425
+          },
+          {
+            "title": "1 - Ytg - Mobile And Camera Stands For Video Shootings -1-1",
+            "video_id": 7426
+          },
+          {
+            "title": "2 - Ytg - Mic For Recording Audio-1-1",
+            "video_id": 7427
+          },
+          {
+            "title": "3 - Ytg - Lighting Setup Idea-1-1",
+            "video_id": 7428
+          },
+          {
+            "title": "4 - Ytg - How To Shoot Video-1-1",
+            "video_id": 7429
+          },
+          {
+            "title": "1 - Ytg- Upload Videos On Youtube With Seo Friendly Title-1-1",
+            "video_id": 7430
+          },
+          {
+            "title": "2 - Ytg- Get Seo Friendly Tags For Videos-1-1",
+            "video_id": 7431
+          },
+          {
+            "title": "3 - Ytg- Complete Setting Related To Video Uploading-1-1",
+            "video_id": 7432
+          },
+          {
+            "title": "4 - Ytg- Other Yt Studio Settings-1-1",
+            "video_id": 7433
+          },
+          {
+            "title": "5 - Ytg- Yt Studio Settings-1-1",
+            "video_id": 7434
+          },
+          {
+            "title": "6 - How to create shorts Video",
+            "video_id": 7435
+          },
+          {
+            "title": "07 - How to edit shorts _ How to create Two channels on single E- mail",
+            "video_id": 7436
+          },
+          {
+            "title": "1 - Ytg - Mobile - Create Youtube Channel On Mobile-1-1",
+            "video_id": 7437
+          },
+          {
+            "title": "2 - Ytg - Mobile - Create Logo For Youtube Channel-1-1",
+            "video_id": 7438
+          },
+          {
+            "title": "3 - Ytg Mobile Channel Arts-1-1",
+            "video_id": 7439
+          },
+          {
+            "title": "4 - Ytg - Create Youtube Thumbnail On Mobile-1-1",
+            "video_id": 7440
+          },
+          {
+            "title": "5- Ytg - Mobile - How To Upload Video On Youtube-1-1",
+            "video_id": 7441
+          },
+          {
+            "title": "6 - Ytg - Mobile - Use Of Yt Studio Application-1-1",
+            "video_id": 7442
+          },
+          {
+            "title": "7 - Ytg - Mobile - How To Record Mobile Screen-1",
+            "video_id": 7443
+          },
+          {
+            "title": "8 - Ytg - Download Free Content For Youtube-1-1",
+            "video_id": 7444
+          },
+          {
+            "title": "1 - Ytg - Kinemaster - Introduction-1-1",
+            "video_id": 7445
+          },
+          {
+            "title": "2 -Ytg - Kinemaster - Standard Settings-1-1",
+            "video_id": 7446
+          },
+          {
+            "title": "3 - Ytg - Clip Graphics, Speecontrols And More-1-1",
+            "video_id": 7447
+          },
+          {
+            "title": "4 - Ytg - Kinemaster - Add Background Music, Record Voice Over-1-1",
+            "video_id": 7448
+          },
+          {
+            "title": "5 - Ytg - Kinemaster - Add Layers And Text Animation-1-1",
+            "video_id": 7449
+          },
+          {
+            "title": "6 - Ytg - Kinemaster- Apply Effect And Anitiona On Image-1-1",
+            "video_id": 7450
+          },
+          {
+            "title": "7- Ytg - Kinemaster - Use Green Screen - Create Your Green Screen-1-1",
+            "video_id": 7451
+          },
+          {
+            "title": "8- Ytg - Kinemaster - Blending Modes And Export Video-1-1",
+            "video_id": 7452
+          },
+          {
+            "title": "1- Ytg - Details About Copyright Strike And Copyright Claim 1080P_-1",
+            "video_id": 7453
+          },
+          {
+            "title": "2 - Ytg - What Is Rpm And Cpm-1",
+            "video_id": 7454
+          },
+          {
+            "title": "3 - How to Appeal Community Guideline Strike",
+            "video_id": 7455
+          },
+          {
+            "title": "4 YTG - How to remove counter strike",
+            "video_id": 7456
+          },
+          {
+            "type": "chapter",
+            "chapter_name": "What will you learn in Photoshop Full Course"
+          },
+          {
+            "title": "Introduction",
+            "video_id": 7458
+          },
+          {
+            "title": "02 - Photoshop - Eyes Effect - Ellipltical Marquee Tool-1",
+            "video_id": 7459
+          },
+          {
+            "title": "03 - Photoshop - Change Lips Color Using Polygonal Lasso Tool-1",
+            "video_id": 7460
+          },
+          {
+            "title": "04 - Photoshop - Mirror Effect - Transform Tool -1",
+            "video_id": 7461
+          },
+          {
+            "title": "05 - Photoshop - Selection and Feather Effects",
+            "video_id": 7462
+          },
+          {
+            "title": "06 - Photoshop - Lasso Tools",
+            "video_id": 7463
+          },
+          {
+            "title": "07 - Photoshop - Fit Image into Object using Transform",
+            "video_id": 7464
+          },
+          {
+            "title": "08 - Photoshop - Create Passport Size Photos",
+            "video_id": 7465
+          },
+          {
+            "title": "09 - Photoshop - Quick Selection and Magic Wand tool",
+            "video_id": 7466
+          },
+          {
+            "title": "10 - Photoshop - Use of Pen Selection - Blur Image Background",
+            "video_id": 7467
+          },
+          {
+            "title": "11 - Phtoshop - Change Image Background",
+            "video_id": 7468
+          },
+          {
+            "title": "12 - Photoshop - Use Of Shapes-1",
+            "video_id": 7469
+          },
+          {
+            "title": "13 - Photoshop - Shape Effects",
+            "video_id": 7470
+          },
+          {
+            "title": "14 - Photoshop - Text Fire Effects",
+            "video_id": 7471
+          },
+          {
+            "title": "15 - Photoshop - Text Tools and Options",
+            "video_id": 7472
+          },
+          {
+            "title": "16 - Photoshop - Download Design Fonts & Hindi Typing",
+            "video_id": 7473
+          },
+          {
+            "title": "17 - Photoshop - Text Effects",
+            "video_id": 7474
+          },
+          {
+            "title": "19 - Photoshop - Create Pattern",
+            "video_id": 7476
+          },
+          {
+            "title": "20 - Clone Stamp Tool-1",
+            "video_id": 7477
+          },
+          {
+            "title": "21 - Photoshop - Remove Black spot from Face",
+            "video_id": 7478
+          },
+          {
+            "title": "22 - Photoshop - Create GIF Image",
+            "video_id": 7479
+          },
+          {
+            "title": "23 - Photoshop - Animated Advertise",
+            "video_id": 7480
+          },
+          {
+            "title": "24 - Photoshp - Layers Panel-1",
+            "video_id": 7481
+          },
+          {
+            "title": "25 - Photoshop - Advance Crop-1",
+            "video_id": 7482
+          },
+          {
+            "title": "26 - Photoshop - Create Advertising Template-1",
+            "video_id": 7483
+          },
+          {
+            "title": "27 - Photoshop - Healing Brush Tool - Content Aware Tool-1",
+            "video_id": 7484
+          },
+          {
+            "title": "28 - Photoshop - Brush Tools",
+            "video_id": 7485
+          },
+          {
+            "title": "29 - Photoshop - Pattern Stamp Tool",
+            "video_id": 7486
+          },
+          {
+            "title": "30 - Photoshop - Art History Brush tool",
+            "video_id": 7487
+          },
+          {
+            "title": "31 - Photoshop - Erasers Tools-1",
+            "video_id": 7488
+          },
+          {
+            "title": "32 - Photoshop - Gradient Tool-1",
+            "video_id": 7489
+          },
+          {
+            "title": "33 - Photoshop - Blur Tool, Smudge Tool",
+            "video_id": 7490
+          },
+          {
+            "title": "34 - Photoshop - Dodge, Burn, Sponge Tool",
+            "video_id": 7491
+          },
+          {
+            "title": "35 - Photoshop - Pen Tools In Details-1",
+            "video_id": 7492
+          },
+          {
+            "title": "36 - Photoshop Create Your Custome Shape",
+            "video_id": 7493
+          },
+          {
+            "title": "37 - Photoshop - Create Layer Mask",
+            "video_id": 7494
+          },
+          {
+            "title": "38 - Photoshop - Double Exposure Effect",
+            "video_id": 7495
+          },
+          {
+            "title": "39 - Photoshop - Actions - Reduce 1000 Image size with one click",
+            "video_id": 7496
+          },
+          {
+            "title": "40 - Photoshop - Create Poster-1",
+            "video_id": 7497
+          },
+          {
+            "title": "41 - Photoshop - Remove Fences",
+            "video_id": 7498
+          },
+          {
+            "title": "42 - Photoshop - Image Menu - Color Tones, Replace Color-1",
+            "video_id": 7499
+          },
+          {
+            "title": "43 - Photoshop - Convert to Smart Object",
+            "video_id": 7500
+          },
+          {
+            "title": "44 - Photoshop - Cliping Mask - Add Image into Mobile cover and Text",
+            "video_id": 7501
+          },
+          {
+            "title": "45 - Photoshop - 3D POP Out Effect in Photoshop",
+            "video_id": 7502
+          },
+          {
+            "title": "46 - Photoshop - Select Menu In Detail-1",
+            "video_id": 7503
+          },
+          {
+            "title": "47 - Photoshop - 50 Shortcut keys to Boost working Speed",
+            "video_id": 7504
+          },
+          {
+            "title": "48 - Face Retouching Effect in Photoshop",
+            "video_id": 7505
+          },
+          {
+            "title": "49 - Edit Menu-IMP Option",
+            "video_id": 7506
+          },
+          {
+            "title": "50 - File Menu-IMP Option",
+            "video_id": 7507
+          },
+          {
+            "title": "51 - Image Menu-IMP Option",
+            "video_id": 7508
+          },
+          {
+            "type": "chapter",
+            "chapter_name": "What will you learn in Ai - illustrator"
+          },
+          {
+            "title": "Introduction",
+            "video_id": 7510
+          },
+          {
+            "title": "02 -Ai- Use Of Direction Selection Tool-1",
+            "video_id": 7511
+          },
+          {
+            "title": "03 - Ai - Group Selection, Magic Wand, Align And Group-1",
+            "video_id": 7512
+          },
+          {
+            "title": "04 - Ai - Use Of Pen Tool-1",
+            "video_id": 7513
+          },
+          {
+            "title": "05 - Ai - Trace Object Using Pen Tool-1",
+            "video_id": 7514
+          },
+          {
+            "title": "06 - Ai - Use Of Transofrm Option-1",
+            "video_id": 7515
+          },
+          {
+            "title": "07 - Ai - Text Tools-1",
+            "video_id": 7516
+          },
+          {
+            "title": "08 - Ai- Line, Arc, Sipral Tools-1",
+            "video_id": 7517
+          },
+          {
+            "title": "09 - Ai - Create Flower Pot-1",
+            "video_id": 7518
+          },
+          {
+            "title": "10 - Ai - Stroke Panel-1",
+            "video_id": 7519
+          },
+          {
+            "title": "11 - Ai - Shaper Tool, Smooth Tool-1",
+            "video_id": 7520
+          },
+          {
+            "title": "12 - Ai - Eraser, Knife Tool-1",
+            "video_id": 7521
+          },
+          {
+            "title": "13 - Ai - Create Object Using Tools-1",
+            "video_id": 7522
+          },
+          {
+            "title": "14- Ai - Draw Shapes-1",
+            "video_id": 7523
+          },
+          {
+            "title": "15 - Ai - Create Clock Using Rotate Tool-1",
+            "video_id": 7524
+          },
+          {
+            "title": "16 - Ai - Scale, Shear, Reshape-1",
+            "video_id": 7525
+          },
+          {
+            "title": "17 - Ai - Width Tool-1",
+            "video_id": 7526
+          },
+          {
+            "title": "18- Ai- Warp Tool-1",
+            "video_id": 7527
+          },
+          {
+            "title": "19 - Ai - Twril Tool-1",
+            "video_id": 7528
+          },
+          {
+            "title": "20 - Ai- Puppet Warp Tool-1",
+            "video_id": 7529
+          },
+          {
+            "title": "21 - Ai - Shape Builder Tool-1",
+            "video_id": 7530
+          },
+          {
+            "title": "22 - Ai - Live Paint Bucket Tool-1",
+            "video_id": 7531
+          },
+          {
+            "title": "23 - Ai - Image Tracing-1",
+            "video_id": 7532
+          },
+          {
+            "title": "24 - Ai - Perspective Effect-1",
+            "video_id": 7533
+          },
+          {
+            "title": "25 - Ai - Perspective Effect On Text-1",
+            "video_id": 7534
+          },
+          {
+            "title": "26 - Ai - Mesh Fill Tool-1",
+            "video_id": 7535
+          },
+          {
+            "title": "27 -Ai - Create Live Mirror Drawing-1",
+            "video_id": 7536
+          },
+          {
+            "title": "28 - Ai - Blend Tool-1",
+            "video_id": 7537
+          },
+          {
+            "title": "29 - Ai - Symbol Tool-1",
+            "video_id": 7538
+          },
+          {
+            "title": "30 - Ai- Custom Symbol-1",
+            "video_id": 7539
+          },
+          {
+            "title": "31 - Ai- Graph Tool-1",
+            "video_id": 7540
+          },
+          {
+            "title": "32 - Ai - Artboard Tools-1",
+            "video_id": 7541
+          },
+          {
+            "title": "33 - Ai - Slice Tool-1",
+            "video_id": 7542
+          },
+          {
+            "title": "34 - Ai - Create Custom Brushes-1",
+            "video_id": 7543
+          },
+          {
+            "title": "35 - Ai - Expand Option-1",
+            "video_id": 7544
+          },
+          {
+            "title": "36 - Ai - Path Finder-1",
+            "video_id": 7545
+          },
+          {
+            "title": "37 - Ai - Creating Icons In Illustrator-1",
+            "video_id": 7546
+          },
+          {
+            "title": "38 - Ai - Creating Icons In Illustrator-1",
+            "video_id": 7547
+          },
+          {
+            "title": "39- Ai - Repeat - Time Saving Option-1",
+            "video_id": 7548
+          },
+          {
+            "title": "40- Ai - Design Certificate-1",
+            "video_id": 7549
+          },
+          {
+            "title": "41 - KeyBoard shortcuts",
+            "video_id": 7550
+          },
+          {
+            "type": "chapter",
+            "chapter_name": "What will you learn in Corel DRAW Full Course"
+          },
+          {
+            "title": "Introduction",
+            "video_id": 7552
+          },
+          {
+            "title": "02 - Coreldraw - Practical Use Of Knife Tool-1",
+            "video_id": 7553
+          },
+          {
+            "title": "03 - Coreldraw - Practical Use Of Shape Tool-1",
+            "video_id": 7554
+          },
+          {
+            "title": "04 - Coreldraw - Practical Use Of Powerclip-1",
+            "video_id": 7555
+          },
+          {
+            "title": "05 - Coreldraw - Practical Use Of Envelope Tool And More-1",
+            "video_id": 7556
+          },
+          {
+            "title": "06 - CorelDraw - Practical use of Eraser Tool",
+            "video_id": 7557
+          },
+          {
+            "title": "07 - CorelDraw - Practical use of Star Shape",
+            "video_id": 7558
+          },
+          {
+            "title": "08 - CorelDRAW - Practical use of Weld option",
+            "video_id": 7559
+          },
+          {
+            "title": "09 - CorelDRAW - Practical use of Round corners option",
+            "video_id": 7560
+          },
+          {
+            "title": "10 - CorelDRAW - Use of Blend tool in Logo",
+            "video_id": 7561
+          },
+          {
+            "title": "11 - CorelDRAW - Import Image in Corel and Create Flim Strip",
+            "video_id": 7562
+          },
+          {
+            "title": "12 - CorelDRAW - Add Perspective Effect on Text",
+            "video_id": 7563
+          },
+          {
+            "title": "13 - Coreldraw - Rotate Object And Create Design-1",
+            "video_id": 7564
+          },
+          {
+            "title": "14 - Coreldraw - Use Of - All Pick Tools And Shape Tools-1",
+            "video_id": 7565
+          },
+          {
+            "title": "15 - CorelDRAW - Use of - Eraser, Knife, Crop Tools",
+            "video_id": 7566
+          },
+          {
+            "title": "16 - CorelDRAW - Use of - Pen Tool and Ohter Line Tools",
+            "video_id": 7567
+          },
+          {
+            "title": "17 - CorelDRAW - Use of - Artistic Media Brush Tools",
+            "video_id": 7568
+          },
+          {
+            "title": "18 - CorelDRAW - Use of - Rectangle and Ellipse tools with Weld Options",
+            "video_id": 7569
+          },
+          {
+            "title": "19 - Coreldraw - Use Of - Polygon, Star, Spiral, Graph Tools-1",
+            "video_id": 7570
+          },
+          {
+            "title": "20 - CorelDRAW - Use of Text tool and Hindi typing, Free Font Installation",
+            "video_id": 7571
+          },
+          {
+            "title": "21 - CorelDRAW - Draw Table, Use of Dimensions Tool",
+            "video_id": 7572
+          },
+          {
+            "title": "22 - Coreldraw - Drop Shadow And Contour Tool-1",
+            "video_id": 7573
+          },
+          {
+            "title": "23 - Coreldraw - Use Of Blend, Envelope, Extrude Tool-1",
+            "video_id": 7574
+          },
+          {
+            "title": "24- CorelDRAW - Use of Transperancy, Interactive Fill, Smart fill tool",
+            "video_id": 7575
+          },
+          {
+            "title": "25 - CorelDRAW - Create Alphabet Logo",
+            "video_id": 7576
+          },
+          {
+            "title": "26 - Coreldraw-Create Professional Businees Card-1",
+            "video_id": 7577
+          },
+          {
+            "title": "27 - CorelDRAW-Modern Business card",
+            "video_id": 7578
+          },
+          {
+            "title": "28 - Corelddraw - Design Certificate In Coreldraw-1",
+            "video_id": 7579
+          },
+          {
+            "title": "29 - CorelDRAW - Create Professional Employee ID Card",
+            "video_id": 7580
+          },
+          {
+            "title": "30 - Coreldraw - Design Poster In Coreldraw-1",
+            "video_id": 7581
+          },
+          {
+            "title": "31 - CorelDRAW - Design T-Shirt",
+            "video_id": 7582
+          },
+          {
+            "title": "32 - Coreldraw - Design Banner Using Corel Tools-1",
+            "video_id": 7583
+          },
+          {
+            "title": "33 - CorelDRAW - Double Exposure Effect in Corel",
+            "video_id": 7584
+          },
+          {
+            "title": "34 - Coreldraw - Design Stamp In Corel-1",
+            "video_id": 7585
+          },
+          {
+            "title": "35 - Coreldraw - 40 Keyboard Shortcuts-1",
+            "video_id": 7586
+          },
+          {
+            "title": "36 - Coreldraw - Symbol Manager-1",
+            "video_id": 7587
+          },
+          {
+            "title": "37 - Coreldraw Create Logo Using Tools-1",
+            "video_id": 7588
+          },
+          {
+            "title": "38 - Coreldraw - Design Menu Card-1",
+            "video_id": 7589
+          },
+          {
+            "title": "1 - GDS - What is Google Data Studio and Understanding of Data",
+            "video_id": 7590
+          },
+          {
+            "title": "02 - Gds- Import Data In Goolge Data Studio-1",
+            "video_id": 7591
+          },
+          {
+            "title": "03 - Gds - Google Data Studio Overview-1",
+            "video_id": 7592
+          },
+          {
+            "title": "04 - Gds - Insert Table, Learning About Dimensions And Metrics-1",
+            "video_id": 7593
+          },
+          {
+            "title": "05 - Gds - Sorting Table Data-1",
+            "video_id": 7594
+          },
+          {
+            "title": "06 - Gds - Date Range And Date Period Comparison-1",
+            "video_id": 7595
+          },
+          {
+            "title": "07 - Gds - Drill Down And Drill Up In Table-1",
+            "video_id": 7596
+          },
+          {
+            "title": "08 - Gds - Optional Metric And Metric Slider-1",
+            "video_id": 7597
+          },
+          {
+            "title": "09 - Conditional Formatting In Table-1",
+            "video_id": 7598
+          },
+          {
+            "title": "10- Gds - All About Table Style-1",
+            "video_id": 7599
+          },
+          {
+            "title": "11 - Gds - Add Filter In Table-1",
+            "video_id": 7600
+          },
+          {
+            "title": "12 - Gds - All About Aggregation-1",
+            "video_id": 7601
+          },
+          {
+            "title": "13 - Gds - Comparison Calculation-1",
+            "video_id": 7602
+          },
+          {
+            "title": "14 - Gds - Running Calculation-1",
+            "video_id": 7603
+          },
+          {
+            "title": "15 - Gds - Adding And Setup Of Pivot Table-1",
+            "video_id": 7604
+          },
+          {
+            "title": "16 - Gds - Style Option Pivot Table-1",
+            "video_id": 7605
+          },
+          {
+            "title": "17 - Gds - Add, Setup And Style Of Scorecard-1",
+            "video_id": 7606
+          },
+          {
+            "title": "18 - Gds - Drop Down And Fixed Size Controls-1",
+            "video_id": 7607
+          },
+          {
+            "title": "19 - Gds - Input Box, Advance Filter And Slider-1",
+            "video_id": 7608
+          },
+          {
+            "title": "20 - Gds - Date Range Controls-1",
+            "video_id": 7609
+          },
+          {
+            "title": "21 - Gds - Create Total Sales Field-1",
+            "video_id": 7610
+          },
+          {
+            "title": "22 - Gds - Create Profit Margin Field-1",
+            "video_id": 7611
+          },
+          {
+            "title": "23 - Gds - Add Custom Date Field-1",
+            "video_id": 7612
+          },
+          {
+            "title": "25 - Gds - Regex Match Formula-1",
+            "video_id": 7614
+          },
+          {
+            "title": "26 - Gds - Case Formula-1",
+            "video_id": 7615
+          },
+          {
+            "title": "27 - Gds - Creating Time Series Chart-1",
+            "video_id": 7616
+          },
+          {
+            "title": "28 - Gds - Style Options Of Time Series Chart-1",
+            "video_id": 7617
+          },
+          {
+            "title": "29 - Gds - Bar Chart Or Column Chart-1",
+            "video_id": 7618
+          },
+          {
+            "title": "30 - Gds - Pie Chart And Donut Chart-1",
+            "video_id": 7619
+          },
+          {
+            "title": "31 - Gds - Combo Area Scatter Bullet Treemap Charts-1",
+            "video_id": 7620
+          },
+          {
+            "title": "32 - GDS - Dashboard Creation Part - 1",
+            "video_id": 7621
+          },
+          {
+            "title": "34 - GDS - Dashboard Creation Part - 3",
+            "video_id": 7623
+          },
+          {
+            "title": "35 - GDS - Blending Data",
+            "video_id": 7624
+          },
+          {
+            "title": "36 - GDS - Sharing DATA",
+            "video_id": 7625
+          },
+          {
+            "type": "chapter",
+            "chapter_name": "What will you learn in Hardware Full Course"
+          },
+          {
+            "title": "Introduction",
+            "video_id": 7627
+          },
+          {
+            "title": "02-Hardware-Input Devices-1-1",
+            "video_id": 7628
+          },
+          {
+            "title": "03-Hardware 3 Connection With Cpu-1-1",
+            "video_id": 7629
+          },
+          {
+            "title": "04-Hardware-Open Cabinet-1-1",
+            "video_id": 7630
+          },
+          {
+            "title": "05-Hardware-Remove Connection In Cabinet-Audio Problem_-1-1",
+            "video_id": 7631
+          },
+          {
+            "title": "06-Hardware-Open Motherboard-1-1",
+            "video_id": 7632
+          },
+          {
+            "title": "07-Hardware- Remove Cpu FanWith Audio Problem 13 Sec_-1-1",
+            "video_id": 7633
+          },
+          {
+            "title": "08-Hardware-Remove Cpu-1-1",
+            "video_id": 7634
+          },
+          {
+            "title": "09- Hardware-Remove Ram-Audio Problem-1-1",
+            "video_id": 7635
+          },
+          {
+            "title": "10-Hardware-Remove Pcu Fan-1-1",
+            "video_id": 7636
+          },
+          {
+            "title": "11-Hardware-Front Panel-1-1",
+            "video_id": 7637
+          },
+          {
+            "title": "12 - Hardware-Assemble-Power Connector-1",
+            "video_id": 7638
+          },
+          {
+            "title": "13-Hardware-1-1",
+            "video_id": 7639
+          },
+          {
+            "title": "14-Hardware-Hardisk Setup-1-1",
+            "video_id": 7640
+          },
+          {
+            "title": "15 Hardware Assemble Complete Cpu-1",
+            "video_id": 7641
+          },
+          {
+            "title": "16 Hardware Open Harddisk Drive-1",
+            "video_id": 7642
+          },
+          {
+            "title": "17 Hardware Troubleshoot Smps-1",
+            "video_id": 7643
+          },
+          {
+            "title": "18 - Check Smps Power With Multimeter-1",
+            "video_id": 7644
+          },
+          {
+            "title": "19 - Smps Internal Structure-1",
+            "video_id": 7645
+          },
+          {
+            "title": "20 - Insert And Remove Graphic Card-1",
+            "video_id": 7646
+          },
+          {
+            "title": "22 - North Bridge And South Bridge-1",
+            "video_id": 7648
+          },
+          {
+            "title": "23 - Dvd Writer Attach And Dettach-1",
+            "video_id": 7649
+          },
+          {
+            "title": "24 - Hardware - Make Bootable Pendrive-1",
+            "video_id": 7650
+          },
+          {
+            "title": "25 - Install Windows 7-1",
+            "video_id": 7651
+          },
+          {
+            "title": "26 - Driver Installation-1",
+            "video_id": 7652
+          },
+          {
+            "title": "27 - Installing Windows 10-1",
+            "video_id": 7653
+          },
+          {
+            "title": "28 - Software Installation-1",
+            "video_id": 7654
+          },
+          {
+            "title": "29 Create Multiple User Account-1",
+            "video_id": 7655
+          },
+          {
+            "title": "30 - Hardware - Create Partition-1",
+            "video_id": 7656
+          },
+          {
+            "title": "31 - Hardware- Hide Drive In Computer-1",
+            "video_id": 7657
+          },
+          {
+            "title": "32 - Hardware - Hide Folder And File-1",
+            "video_id": 7658
+          },
+          {
+            "title": "33 - Hardware - Recover Deleted Files-1",
+            "video_id": 7659
+          },
+          {
+            "title": "34 - Hardware - Dos Commands-1",
+            "video_id": 7660
+          },
+          {
+            "title": "35 - Hardware - Troubleshooting-1",
+            "video_id": 7661
+          },
+          {
+            "title": "36 - Hardware - Download Iso File & Create Windows 10 Bootable Pendrive-1",
+            "video_id": 7662
+          },
+          {
+            "title": "37 - Hardware - Reset Windows 7 Password-1",
+            "video_id": 7663
+          },
+          {
+            "title": "38 - Hardware - Reset Windows 10 Password-1",
+            "video_id": 7664
+          },
+          {
+            "title": "39 - Hardware - Bios Password Settings-1",
+            "video_id": 7665
+          },
+          {
+            "title": "40 - Hardware - Bios Basic Settings-1",
+            "video_id": 7666
+          },
+          {
+            "title": "41 - Hardware - Windows 11 In Vm Box-1",
+            "video_id": 7667
+          },
+          {
+            "title": "42 - Hardware - How to setup New Laptop",
+            "video_id": 7668
+          },
+          {
+            "type": "chapter",
+            "chapter_name": "What will you learn in HTML Full Course"
+          },
+          {
+            "title": "Introduction",
+            "video_id": 7671
+          },
+          {
+            "title": "02 - Html - Write First Program In Html-1",
+            "video_id": 7672
+          },
+          {
+            "title": "03 -Html - Heading Tag In Html-1",
+            "video_id": 7673
+          },
+          {
+            "title": "04 -Html - Indent And Comment-1",
+            "video_id": 7674
+          },
+          {
+            "title": "05 -Html - Element And Attribute-1",
+            "video_id": 7675
+          },
+          {
+            "title": "06 -Html - Formatting Tag-1",
+            "video_id": 7676
+          },
+          {
+            "title": "07 -Html - Paragraph And Premarmatted Tag-1",
+            "video_id": 7677
+          },
+          {
+            "title": "08 -Html - Font Tag-1",
+            "video_id": 7678
+          },
+          {
+            "title": "09 -Html - Quatotation And Citation-1",
+            "video_id": 7679
+          },
+          {
+            "title": "10 -Html - External Hyperlink-1",
+            "video_id": 7680
+          },
+          {
+            "title": "11 -Html - Internal Hyperlink-1",
+            "video_id": 7681
+          },
+          {
+            "title": "12 -Html - Image Tag-1",
+            "video_id": 7682
+          },
+          {
+            "title": "13 -Html - Hyperlink On Images-1",
+            "video_id": 7683
+          },
+          {
+            "title": "14 -Html - List Tag In Html-1",
+            "video_id": 7684
+          },
+          {
+            "title": "15 -Html - Nested List Tag-1",
+            "video_id": 7685
+          },
+          {
+            "title": "16 -Html - Marquee Tag-1",
+            "video_id": 7686
+          },
+          {
+            "title": "17 -Html - Marquee On Image-1",
+            "video_id": 7687
+          },
+          {
+            "title": "18 - Html - Colour Code-1",
+            "video_id": 7688
+          },
+          {
+            "title": "19 - Html - Table Tag 1-1",
+            "video_id": 7689
+          },
+          {
+            "title": "20 - Html - Table Tag 2-1",
+            "video_id": 7690
+          },
+          {
+            "title": "21 - Html - Video And Audio Tag-1",
+            "video_id": 7691
+          },
+          {
+            "title": "22- Html - Google Map, Youtube Video Tag-1",
+            "video_id": 7692
+          },
+          {
+            "title": "23- Html - Iframe Tag-1",
+            "video_id": 7693
+          },
+          {
+            "title": "24- Html - Add Pdf Code-1",
+            "video_id": 7694
+          },
+          {
+            "title": "25 - Html - Div And Span Tag-1",
+            "video_id": 7695
+          },
+          {
+            "title": "26 - Html - Use Of Code Editor-1",
+            "video_id": 7696
+          },
+          {
+            "title": "27 - Html - Entities, Symbol And Emojis-1",
+            "video_id": 7697
+          },
+          {
+            "title": "28 - Html - Semantic And Non-Semantic-1",
+            "video_id": 7698
+          },
+          {
+            "title": "29 - Html - Responsive-1",
+            "video_id": 7699
+          },
+          {
+            "title": "30 - Html - Learn Image Map In Html-1",
+            "video_id": 7700
+          },
+          {
+            "title": "31 - Html- Form In Html-1",
+            "video_id": 7701
+          },
+          {
+            "title": "32 - Html - Forms - 2-1",
+            "video_id": 7702
+          },
+          {
+            "title": "33 - Html - Radio Button - Checkbox-1",
+            "video_id": 7703
+          },
+          {
+            "title": "34 - Html - Create Data List In Forms-1",
+            "video_id": 7704
+          },
+          {
+            "title": "35 - Html - Output Elements In Forms-1",
+            "video_id": 7705
+          },
+          {
+            "title": "36 - Html - Fieldset And Legend-1",
+            "video_id": 7706
+          },
+          {
+            "title": "37 - Html - Extra Elements-1-1",
+            "video_id": 7707
+          },
+          {
+            "title": "38 - Html - Seo Elements-1-1",
+            "video_id": 7708
+          },
+          {
+            "title": "39 - Html - Add Favicon-1-1",
+            "video_id": 7709
+          },
+          {
+            "type": "chapter",
+            "chapter_name": "What will you learn in Excel VBA Programming Full Course"
+          },
+          {
+            "title": "Introduction",
+            "video_id": 7712
+          },
+          {
+            "title": "02 - Vba- What Is Variable And Data Type-1-1",
+            "video_id": 7713
+          },
+          {
+            "title": "03 - Vba- Sheets And Cell Selection-1-1",
+            "video_id": 7714
+          },
+          {
+            "title": "04 - Vba - Dynamic Copy Code Of Vba-1-1",
+            "video_id": 7715
+          },
+          {
+            "title": "05 - Vba- Offset Command-1-1",
+            "video_id": 7716
+          },
+          {
+            "title": "07 - Vba- Inputbox And Messagebox-1-1",
+            "video_id": 7718
+          },
+          {
+            "title": "08 - Vba - Variable Types-1-1",
+            "video_id": 7721
+          },
+          {
+            "title": "09 - Vba - Option Explicit-1-1",
+            "video_id": 7722
+          },
+          {
+            "title": "10 - Vba - If Condition-1-1",
+            "video_id": 7723
+          },
+          {
+            "title": "11 - Vba- If Condition With And-1-1",
+            "video_id": 7724
+          },
+          {
+            "title": "12 - Vba- If Condition With Or-1-1",
+            "video_id": 7725
+          },
+          {
+            "title": "13 - Vba- Nestedif Condition-1-1",
+            "video_id": 7726
+          },
+          {
+            "title": "14 - Vba - Project On If-1-1",
+            "video_id": 7727
+          },
+          {
+            "title": "15 - Vba- For Next Loop-1-1",
+            "video_id": 7728
+          },
+          {
+            "title": "16 - For Loop Decrement Method-1-1",
+            "video_id": 7729
+          },
+          {
+            "title": "17 - Do While Loop-1-1",
+            "video_id": 7730
+          },
+          {
+            "title": "18 - Do Until Loop-1-1",
+            "video_id": 7731
+          },
+          {
+            "title": "19 - Vba - Forloop Project Remove Blank Rows-1-1",
+            "video_id": 7732
+          },
+          {
+            "title": "20 - Vba - For Loop Project - Add Alternate Blank Rows-1-1",
+            "video_id": 7733
+          },
+          {
+            "title": "21 - Vba - For Loop Project - Insert Number Of Rows And Columns-1-1",
+            "video_id": 7734
+          },
+          {
+            "title": "22 - Vba - Error Handler-1-1",
+            "video_id": 7735
+          },
+          {
+            "title": "23 - Vba - Do While Loop With Nested If Project-1-1",
+            "video_id": 7736
+          },
+          {
+            "title": "24 - Vba - For Loop With Nested If Project-1-1",
+            "video_id": 7737
+          },
+          {
+            "title": "25 - Vba - Merge Sheets Using For Loop-1-1",
+            "video_id": 7738
+          },
+          {
+            "title": "26 - Vba - Create Index Using For Loop-1-1",
+            "video_id": 7739
+          },
+          {
+            "title": "27 - Vba - Type Of Msgbox-1-1",
+            "video_id": 7740
+          },
+          {
+            "title": "28 - Vba - Use Of Yes, No Type Msgbox-1-1",
+            "video_id": 7741
+          },
+          {
+            "title": "29 - Vba - Select Range Using Input Box-1-1",
+            "video_id": 7743
+          },
+          {
+            "title": "30 - Vba - For Each Loop-1-1",
+            "video_id": 7744
+          },
+          {
+            "title": "31 - Vba - Method Of Adding Worksheets-1-1",
+            "video_id": 7745
+          },
+          {
+            "title": "32 - Vba - Insert N Number Of Sheets-1-1",
+            "video_id": 7746
+          },
+          {
+            "title": "33 - Vba - Method Of Deleting Sheets-1-1",
+            "video_id": 7747
+          },
+          {
+            "title": "34 - Vba - Using For Loop Delete Multiple Sheets-1-1",
+            "video_id": 7748
+          },
+          {
+            "title": "35 - Vba- What Is Object And Class-1-1",
+            "video_id": 7749
+          },
+          {
+            "title": "36 - Vba - Collection Of Loop-1-1",
+            "video_id": 7750
+          },
+          {
+            "title": "37 - Vba - Delete Blank Sheets For Each Loop-1-1",
+            "video_id": 7751
+          },
+          {
+            "title": "38 - Vba - Collection Loop - For Each Cell-1-1",
+            "video_id": 7752
+          },
+          {
+            "title": "39 - Vba - Collection Loop - Interview Question-1-1",
+            "video_id": 7753
+          },
+          {
+            "title": "40 - Vba - Workbook Commands-1-1",
+            "video_id": 7754
+          },
+          {
+            "title": "41 - Vba - Workbook Protection Command-1-1",
+            "video_id": 7755
+          },
+          {
+            "title": "42 - Vba - List Of Worksheets From Workbook-1-1",
+            "video_id": 7756
+          },
+          {
+            "title": "43 - Vba - Open All Workbook From Specific Folder-1-1",
+            "video_id": 7757
+          },
+          {
+            "title": "44 - Vba - Find Workbook-1-1",
+            "video_id": 7758
+          },
+          {
+            "title": "45 - Vba - Deleting Unwanted Workbook-1-1",
+            "video_id": 7759
+          },
+          {
+            "title": "46 - Vba - Protect All Sheets Using Loop-1-1",
+            "video_id": 7760
+          },
+          {
+            "title": "47 - Vba - Protect Unprotect Set Custom Password-1-1",
+            "video_id": 7761
+          },
+          {
+            "title": "48 - Vba - Collection Loop For Workbook-1-1",
+            "video_id": 7762
+          },
+          {
+            "title": "49 - Vba - Nested Loop-1-1",
+            "video_id": 7763
+          },
+          {
+            "title": "50 - Vba - Nested Loop Assignment-1-1",
+            "video_id": 7764
+          },
+          {
+            "title": "51 - Vba - Array Introduction-1-1",
+            "video_id": 7765
+          },
+          {
+            "title": "52 - Vba - Array In Loop-1-1",
+            "video_id": 7766
+          },
+          {
+            "title": "53 - Vba - List Of Arrays-1",
+            "video_id": 7767
+          },
+          {
+            "title": "54 - Vba - List Of Arrays-1",
+            "video_id": 7768
+          },
+          {
+            "title": "55 - Vba - Compairing 3 List Using Arrays -1",
+            "video_id": 7769
+          },
+          {
+            "title": "56 - Vba -Start Point Of Arrays -1",
+            "video_id": 7770
+          },
+          {
+            "title": "57 - Vba -Dynamic Array -1",
+            "video_id": 7771
+          },
+          {
+            "title": "58 - Vba - Array Project Rename Sheets-1",
+            "video_id": 7772
+          },
+          {
+            "title": "59 - Vba - Project Find And Delete Using Array-1",
+            "video_id": 7773
+          },
+          {
+            "title": "60 - Vba - Lbound And Ubound In Array-1",
+            "video_id": 7774
+          },
+          {
+            "title": "61 - Vba - Array From Range-1",
+            "video_id": 7775
+          },
+          {
+            "title": "62 - Vba - Two Dimensional Array-1",
+            "video_id": 7776
+          },
+          {
+            "title": "63 - Vba - Dynamic Two Dimensional Array-1",
+            "video_id": 7777
+          },
+          {
+            "title": "64 - Vba - Project On Array With Vlookup Function-1",
+            "video_id": 7778
+          },
+          {
+            "title": "65 - Vba - Text Functions In Vba-1",
+            "video_id": 7779
+          },
+          {
+            "title": "66 - Vba- Find And Left Practical Use-1",
+            "video_id": 7780
+          },
+          {
+            "title": "67 - Vba- Find With Right And Mid Practical Use-1",
+            "video_id": 7781
+          },
+          {
+            "title": "69 - Vba - String Comparison-1",
+            "video_id": 7783
+          },
+          {
+            "title": "70 - Vba - Change Case Functions-1",
+            "video_id": 7784
+          },
+          {
+            "title": "71 - Vba - Isnumeric Function Practical Use-1",
+            "video_id": 7785
+          },
+          {
+            "title": "72 - Vba - Sumif Function-1",
+            "video_id": 7786
+          },
+          {
+            "title": "73 - Vba - Sumifs Function-1",
+            "video_id": 7787
+          },
+          {
+            "title": "74 - Vba - Countif And Countifs Function-1",
+            "video_id": 7788
+          },
+          {
+            "title": "75 - Vba - Vlookup Function-1",
+            "video_id": 7789
+          },
+          {
+            "title": "76 - Vba - Match Function-1",
+            "video_id": 7790
+          },
+          {
+            "title": "77 - Vba - Autorun Vlookup Event -1",
+            "video_id": 7791
+          },
+          {
+            "title": "78 - Vba - Date Functions-1",
+            "video_id": 7792
+          },
+          {
+            "title": "79 - Vba - Datediff And Datepart Function-1",
+            "video_id": 7793
+          },
+          {
+            "title": "80 - Vba - Project On Datediff Function-1",
+            "video_id": 7794
+          },
+          {
+            "title": "81 - Vba - All Date And Time Functions-1",
+            "video_id": 7795
+          },
+          {
+            "title": "82 - Vba - Case Function-1",
+            "video_id": 7796
+          },
+          {
+            "title": "1- Vba - Introducton Of Udf-1",
+            "video_id": 7797
+          },
+          {
+            "title": "2- Vba - Create Gettext Function-1",
+            "video_id": 7798
+          },
+          {
+            "title": "3- Vba - Create Getnumbers Function-1",
+            "video_id": 7799
+          },
+          {
+            "title": "4 - Vba- Project On Seprate Names-1",
+            "video_id": 7800
+          },
+          {
+            "title": "5 - Vba - M Vlookup For Multiple Values-1",
+            "video_id": 7801
+          },
+          {
+            "title": "6 - Vba - Combine Function Extract Text And Numbers-1",
+            "video_id": 7802
+          },
+          {
+            "title": "7 - Vba - Reverse Lookup-1",
+            "video_id": 7803
+          },
+          {
+            "title": "8 - Vba - Reverse Lookup Using Index Code-1",
+            "video_id": 7804
+          },
+          {
+            "title": "01 - Vba- Userform Introduction-1",
+            "video_id": 7805
+          },
+          {
+            "title": "02 - Vba - Userform Lable And Text Box Properties-1",
+            "video_id": 7806
+          },
+          {
+            "title": "03 - Vba - Userform Use Of Command Button-1",
+            "video_id": 7807
+          },
+          {
+            "title": "04 - Vba -Submit Data To Excel Using Userform-1",
+            "video_id": 7808
+          },
+          {
+            "title": "05 - Vba - Userform Events And Text Box Events-1",
+            "video_id": 7809
+          },
+          {
+            "title": "06 - Vba - Userform Use Of Combobox-1",
+            "video_id": 7810
+          },
+          {
+            "title": "07 - Vba - Userform Listbox-1",
+            "video_id": 7811
+          },
+          {
+            "title": "08 - Vba - Userform Checkbox-1",
+            "video_id": 7812
+          },
+          {
+            "title": "09 - Vba - Userform Use Of Option Button-1",
+            "video_id": 7813
+          },
+          {
+            "title": "10 - Vba - Adding Image In Userform - 1 -1",
+            "video_id": 7814
+          },
+          {
+            "title": "11 - Vba - Adding Image In Userform - 2-1",
+            "video_id": 7815
+          },
+          {
+            "title": "1 - Vba Outlook - Configure With Gmail-1",
+            "video_id": 7817
+          },
+          {
+            "title": "2 - Vba Outlook- Sending Email Through Outlook-1",
+            "video_id": 7818
+          },
+          {
+            "title": "3 - Vba - Outlook - Email With Attachment-1",
+            "video_id": 7819
+          },
+          {
+            "title": "4 - Vba Outlook- Send Bulk Email-1",
+            "video_id": 7820
+          },
+          {
+            "title": "5 - Vba Outlook- Send Bulk Email With Attachments-1",
+            "video_id": 7821
+          },
+          {
+            "title": "1 - Vba - Web Scraping Introduction-1",
+            "video_id": 7822
+          },
+          {
+            "title": "2 - Vba - Web Scraping - Loop Until Ready State-1",
+            "video_id": 7823
+          },
+          {
+            "title": "3 - Vba - Web Scraping Get Data From Website-1",
+            "video_id": 7824
+          },
+          {
+            "title": "4 - Vba - Web Scraping Get Data From Website - 2-1",
+            "video_id": 7825
+          },
+          {
+            "title": "5 - Vba - Web Scraping - Get All Links-1",
+            "video_id": 7826
+          },
+          {
+            "title": "6 - Vba - Webscraping Get Exact Data From Website-1",
+            "video_id": 7827
+          },
+          {
+            "title": "1-Vba - Change Events -1",
+            "video_id": 7828
+          },
+          {
+            "title": "2 - Vba - Events - Autofilter Using Macro-1",
+            "video_id": 7829
+          },
+          {
+            "title": "3 - Vba - Basic Events -1",
+            "video_id": 7830
+          },
+          {
+            "title": "1 Create Addins Add Picture In Comment Box 1080P 1_-1",
+            "video_id": 7831
+          },
+          {
+            "title": "2 - Vba Projects - Get Grace Marks Amazing Project-1",
+            "video_id": 7832
+          },
+          {
+            "title": "3 - Vba Projects - Get Links Of All Excel Files From Any Folder-1",
+            "video_id": 7833
+          },
+          {
+            "title": "4 - VBA Project - to Count Cells of Conditional Formatting",
+            "video_id": 7834
+          },
+          {
+            "title": "2 -Vba - Omr Sheets Assignment-1",
+            "video_id": 7836
+          },
+          {
+            "title": "3 - VBA - Interview Question - UDF of Reverse Text",
+            "video_id": 7837
+          },
+          {
+            "title": "4 - Vba Projcet - Lock Data Once You Type-1",
+            "video_id": 7838
+          }
+        ]
+      }
+    ]
+  }
+]

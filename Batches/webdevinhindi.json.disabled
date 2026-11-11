@@ -1,0 +1,113 @@
+[
+  {
+    "batch_name": "JRF ADDA",
+    "channel_id": "-1002934518635",
+    "chapters": [
+      {
+        "chapter_name": "Chapter 1",
+        "lectures": [
+          {
+            "title": "How Websites Work Web Development Using Flask and Python #1",
+            "video_id": 553
+          },
+          {
+            "title": "Creating Our First Flask App Web Development Using Flask and",
+            "video_id": 543
+          },
+          {
+            "title": "Static and Templates folder Web Development Using Flask and",
+            "video_id": 560
+          },
+          {
+            "title": "Simple Bootstrap Site Web Development Using Flask and Python",
+            "video_id": 559
+          },
+          {
+            "title": "Jinja Templating Basics Web Development Using Flask and Python",
+            "video_id": 554
+          },
+          {
+            "title": "Creating A Tech Blog Web Development Using Flask and Python",
+            "video_id": 541
+          },
+          {
+            "title": "Template Inheritance In Jinja2 Web Development Using Flask",
+            "video_id": 561
+          },
+          {
+            "title": "Connecting to the Database Web Development Using Flask and",
+            "video_id": 540
+          },
+          {
+            "title": "Flask SQLAlchemy Tutorial In Web Development Using Flask",
+            "video_id": 550
+          },
+          {
+            "title": "Making Parameters Configurable Web Development Using Flask",
+            "video_id": 555
+          },
+          {
+            "title": "Sending Emails Using Flask Web Development Using Flask and",
+            "video_id": 558
+          },
+          {
+            "title": "Creating Our First Flask Post In Web Development Using",
+            "video_id": 544
+          },
+          {
+            "title": "Designing The Blog's Homepage Web Development Using Flask",
+            "video_id": 547
+          },
+          {
+            "title": "Creating Admin Dashboard Web Development Using Flask and Python",
+            "video_id": 542
+          },
+          {
+            "title": "Edit, Delete and File Upload Web Development Using Flask and",
+            "video_id": 548
+          },
+          {
+            "title": "Adding New Posts To Flask Blog Web Development Using Flask",
+            "video_id": 539
+          },
+          {
+            "title": "Uploading Files In Flask Web Development Using Flask and Python",
+            "video_id": 562
+          },
+          {
+            "title": "Deleting BlogPosts In Flask Web Development Using Flask and",
+            "video_id": 546
+          },
+          {
+            "title": "Creating Pagination In Flask Web Development Using Flask and",
+            "video_id": 545
+          },
+          {
+            "title": "Uploading Flask Blog To GitHub Web Development Using Flask",
+            "video_id": 563
+          },
+          {
+            "title": "Purchasing A Domain Name From Godaddy Web Development Using",
+            "video_id": 557
+          },
+          {
+            "title": "Hosting The Blog On A Server Web Development Using Flask and",
+            "video_id": 552
+          },
+          {
+            "title": "Fixing The Add Post Bug Web Development Using Flask and Python",
+            "video_id": 549
+          },
+          {
+            "title": "Hosting Flask App On Ubuntu Production Server WSGI Web Development",
+            "video_id": 551
+          },
+          {
+            "title": "Message Flashing And Other Python Flask Resources Web Development",
+            "video_id": 556
+          }
+        ]
+      }
+    ]
+  }
+]

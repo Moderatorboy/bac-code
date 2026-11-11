@@ -1,0 +1,2303 @@
+[
+  {
+    "batch_name": "WEB DEV COHORT",
+    "channel_id": "-1003637459451",
+    "chapters": [
+      {
+        "chapter_name": "Course Content",
+        "lectures": [
+          {
+            "title": "Understanding the Platform - Solve Doubts (7-00)",
+            "video_id": 10260
+          },
+          {
+            "title": "How to Get Help When You're Stuck (6-00)",
+            "video_id": 10261
+          },
+          {
+            "title": "Getting_Started_with_Basics_Installations_Guide_17_16",
+            "video_id": 10262
+          },
+          {
+            "title": "Introduction to HTML (1-13)",
+            "video_id": 10263
+          },
+          {
+            "title": "HTML - Level 1 - Covers Half of the Journey (30-14)",
+            "video_id": 10264
+          },
+          {
+            "title": "HTML - Level 2 - Completion of HTML (43-19)",
+            "video_id": 10265
+          },
+          {
+            "title": "HTML5 - Semantic Elements - What It Is and How to Use It Correctly (27-19)",
+            "video_id": 10266
+          },
+          {
+            "title": "Introduction to CSS (1-31)",
+            "video_id": 10267
+          },
+          {
+            "title": "CSS - Setup, Basic and Beyond (18-37)",
+            "video_id": 10268
+          },
+          {
+            "title": "CSS - Mastering Units - px, %, vh, vw, em, rem and Beyond (19-54)",
+            "video_id": 10269
+          },
+          {
+            "title": "CSS - Level-Up with Core Knowledge and Beyond (21-39)",
+            "video_id": 10270
+          },
+          {
+            "title": "CSS - Understanding Display Properties and Beyond (26-53)",
+            "video_id": 10271
+          },
+          {
+            "title": "CSS - Mastering Flexbox for Seamless Layouts and Beyond (23-00)",
+            "video_id": 10272
+          },
+          {
+            "title": "CSS - Understanding Colors Science (12-50)",
+            "video_id": 10273
+          },
+          {
+            "title": "CSS Grid - A Complete Guide to CSS Grid (22-44)",
+            "video_id": 10274
+          },
+          {
+            "title": "CSS Grid - Making Project Using CSS Grid (49-48)",
+            "video_id": 10275
+          },
+          {
+            "title": "Introduction to CSS Projects (0-18)",
+            "video_id": 10276
+          },
+          {
+            "title": "CSS Projects - Project 1 - Shop Jacket (30-50)",
+            "video_id": 10277
+          },
+          {
+            "title": "Responsive - Project 1 - Shop Jacket (20-06)",
+            "video_id": 10278
+          },
+          {
+            "title": "CSS Projects - Project 2 - A Cotten Weave (38-50)",
+            "video_id": 10279
+          },
+          {
+            "title": "Responsive - Project 2 - A Cotten Weave (24-43)",
+            "video_id": 10280
+          },
+          {
+            "title": "CSS Projects - Project 3 - Trendline (30-47)",
+            "video_id": 10281
+          },
+          {
+            "title": "Responsive - Project 3 - Trendline (20-09)",
+            "video_id": 10282
+          },
+          {
+            "title": "CSS Projects - The End (0-41)",
+            "video_id": 10283
+          },
+          {
+            "title": "Introduction to Responsive Web Development (0-34)",
+            "video_id": 10284
+          },
+          {
+            "title": "Learning and Crafting Responsive Design (17-14)",
+            "video_id": 10285
+          },
+          {
+            "title": "Flexbox for Responsiveness (4-20)",
+            "video_id": 10286
+          },
+          {
+            "title": "Mastering Height and Width for Responsive Designs (4-31)",
+            "video_id": 10287
+          },
+          {
+            "title": "The Power of Media Queries (5-21)",
+            "video_id": 10288
+          },
+          {
+            "title": "Introduction to CSS Animations (0-45)",
+            "video_id": 10289
+          },
+          {
+            "title": "CSS Animations - Bringing Websites to Life (5-45)",
+            "video_id": 10290
+          },
+          {
+            "title": "CSS Animations - Learning Advanced Animations (12-50)",
+            "video_id": 10291
+          },
+          {
+            "title": "CSS Animations - Enhancing Design with before and after (6-03)",
+            "video_id": 10292
+          },
+          {
+            "title": "CSS Animations - Real-Life Examples of before and after (7-06)",
+            "video_id": 10293
+          },
+          {
+            "title": "Introduction to CSS Responsive Project (0-49)",
+            "video_id": 10294
+          },
+          {
+            "title": "CSS Responsive Project Overview and Beyond (38-47)",
+            "video_id": 10295
+          },
+          {
+            "title": "CSS Responsive Project - Images Marquee Animation (28-41)",
+            "video_id": 10296
+          },
+          {
+            "title": "CSS Responsive Project - Extra Additions (28-04)",
+            "video_id": 10297
+          },
+          {
+            "title": "CSS Responsive Project - Making it Responsive (16-07)",
+            "video_id": 10298
+          },
+          {
+            "title": "Introduction to CSS Bonus Project (0-52)",
+            "video_id": 10299
+          },
+          {
+            "title": "CSS Bonus Project Overview and Completing Half of it - Dribbble (33-54)",
+            "video_id": 10300
+          },
+          {
+            "title": "CSS Bonus Project - Second Part of Landing Page (27-04)",
+            "video_id": 10301
+          },
+          {
+            "title": "CSS Bonus Project - Making Explore Page (27-06)",
+            "video_id": 10302
+          },
+          {
+            "title": "Introduction to JavaScript (1-18)",
+            "video_id": 10303
+          },
+          {
+            "title": "JavaScript - Level 1 - from Nothing to Something (30-58)",
+            "video_id": 10304
+          },
+          {
+            "title": "JavaScript - Level 2 - Getting to Know JavaScript (40-11)",
+            "video_id": 10305
+          },
+          {
+            "title": "JavaScript Level 3 - Data Types & Beyond (57-52)",
+            "video_id": 10306
+          },
+          {
+            "title": "JavaScript Level 4 - Getting Intermediate Stuff. (43-08)",
+            "video_id": 10307
+          },
+          {
+            "title": "JavaScript Level 5 - Moving To More Important Topics. (43-08)",
+            "video_id": 10308
+          },
+          {
+            "title": "Learn all Advance JavaScript Concepts in One Video! (1-14-16)",
+            "video_id": 10309
+          },
+          {
+            "title": "Introduction to JavaScript Animations (0-51)",
+            "video_id": 10310
+          },
+          {
+            "title": "JavaScript Animations - Understanding the DOM (35-21)",
+            "video_id": 10311
+          },
+          {
+            "title": "JavaScript Animations - Manipulating Styles and Classes (28-10)",
+            "video_id": 10312
+          },
+          {
+            "title": "Introduction to JS Practice Like Hell Series (1-12)",
+            "video_id": 10313
+          },
+          {
+            "title": "JS Practice Like Hell - Task 1 (4-03)",
+            "video_id": 10314
+          },
+          {
+            "title": "JS Practice Like Hell - Task 2 (5-11)",
+            "video_id": 10315
+          },
+          {
+            "title": "JS Practice Like Hell - Task 3 (21-59)",
+            "video_id": 10316
+          },
+          {
+            "title": "JS Practice Like Hell - Task 4 (8-56)",
+            "video_id": 10317
+          },
+          {
+            "title": "JS Practice Like Hell - Task 5 (6-47)",
+            "video_id": 10318
+          },
+          {
+            "title": "JS Practice Like Hell - Task 6 (16-57)",
+            "video_id": 10319
+          },
+          {
+            "title": "JS Practice Like Hell - Task 7 (8-28)",
+            "video_id": 10320
+          },
+          {
+            "title": "JS Practice Like Hell - Task 8 (23-48)",
+            "video_id": 10321
+          },
+          {
+            "title": "JS Practice Like Hell - Task 9 (5-43)",
+            "video_id": 10322
+          },
+          {
+            "title": "JS Interview Prep - Hindi (36-00)",
+            "video_id": 10323
+          },
+          {
+            "title": "JS Interview Prep - English (42-27)",
+            "video_id": 10324
+          },
+          {
+            "title": "Introduction to GSAP, ScrollTrigger, Locomotive and Other Fun Stuff (0-33)",
+            "video_id": 10325
+          },
+          {
+            "title": "GSAP - Getting Started With Basics (38-14)",
+            "video_id": 10326
+          },
+          {
+            "title": "GSAP - Learning ScrollTrigger (18-31)",
+            "video_id": 10327
+          },
+          {
+            "title": "GSAP - Understanding Pin Property in ScrollTrigger (23-24)",
+            "video_id": 10328
+          },
+          {
+            "title": "Locomotive - All in One Video! (31-11)",
+            "video_id": 10329
+          },
+          {
+            "title": "GSAP - Bonus Project!! (34-28)",
+            "video_id": 10330
+          },
+          {
+            "title": "Introduction to The Final Project (0-42)",
+            "video_id": 10331
+          },
+          {
+            "title": "Final Project - Overview (2-37-55)",
+            "video_id": 10332
+          },
+          {
+            "title": "Final Project - Let's bring Shery.js Into the Scene (1-36-58)",
+            "video_id": 10333
+          },
+          {
+            "title": "Final Project - Making it Responsive (43-36)",
+            "video_id": 10334
+          },
+          {
+            "title": "Final Project - Hosting our Final Project! (10-33)",
+            "video_id": 10335
+          },
+          {
+            "title": "THE END. (2-43)",
+            "video_id": 10336
+          },
+          {
+            "title": "Learn Tailwind CSS in One Video!",
+            "video_id": 10337
+          },
+          {
+            "title": "Learn Tailwind CSS in One Video!",
+            "video_id": 10338
+          },
+          {
+            "title": "Introduction to React JS",
+            "video_id": 10339
+          },
+          {
+            "title": "React JS Essentials - Everything you need to learn",
+            "video_id": 10340
+          },
+          {
+            "title": "React JS Theory and History",
+            "video_id": 10341
+          },
+          {
+            "title": "Section 1 System Setup and Basics",
+            "video_id": 10342
+          },
+          {
+            "title": "Section 2 Building Components",
+            "video_id": 10343
+          },
+          {
+            "title": "Section 3 Components Reusability",
+            "video_id": 10344
+          },
+          {
+            "title": "Section 4 Conditional Rendering",
+            "video_id": 10345
+          },
+          {
+            "title": "Section 5 Managing State and Understanding the State Hook",
+            "video_id": 10346
+          },
+          {
+            "title": "Section 6 Mastering the useState()",
+            "video_id": 10347
+          },
+          {
+            "title": "Section 7 useState() Hooks",
+            "video_id": 10348
+          },
+          {
+            "title": "Section 8 Passing Data via Props",
+            "video_id": 10349
+          },
+          {
+            "title": "Section 9 Props and State Exercise",
+            "video_id": 10350
+          },
+          {
+            "title": "Section 10 Form Handling",
+            "video_id": 10351
+          },
+          {
+            "title": "Section 11 Form Handling Exercise",
+            "video_id": 10352
+          },
+          {
+            "title": "Section 12 React JS Routing and Beyond",
+            "video_id": 10353
+          },
+          {
+            "title": "Section 14 How to integrate API in React JS",
+            "video_id": 10354
+          },
+          {
+            "title": "Section 15 useEffect() on State Change",
+            "video_id": 10355
+          },
+          {
+            "title": "Section 16 React Context API",
+            "video_id": 10356
+          },
+          {
+            "title": "Section 13 React JS Dynamic Routing",
+            "video_id": 10357
+          },
+          {
+            "title": "ReactJS Project 2 - Refokus Clone",
+            "video_id": 10358
+          },
+          {
+            "title": "- [Part-2] ReactJS Project - Refokus Clone",
+            "video_id": 10359
+          },
+          {
+            "title": "ReactJS Project 1",
+            "video_id": 10360
+          },
+          {
+            "title": "Asynchronous Javascript",
+            "video_id": 10361
+          },
+          {
+            "title": "Developer Problems Problem 1",
+            "video_id": 10362
+          },
+          {
+            "title": "Developer Problems Problem 2",
+            "video_id": 10363
+          },
+          {
+            "title": "Developer Problems Problem 3",
+            "video_id": 10364
+          },
+          {
+            "title": "Developer Problems Problem 4",
+            "video_id": 10365
+          },
+          {
+            "title": "Developer Problems Problem 5",
+            "video_id": 10366
+          },
+          {
+            "title": "Everything you Need to Know About Redux",
+            "video_id": 10367
+          },
+          {
+            "title": "[Part-2] React JS Major Project - SCSDB",
+            "video_id": 10368
+          },
+          {
+            "title": "[Part-1] React JS Major Project - SCSDB",
+            "video_id": 10369
+          },
+          {
+            "title": "[Part-3] React JS Major Project - SCSDB",
+            "video_id": 10370
+          },
+          {
+            "title": "[Part-4] React JS Major Project - SCSDB",
+            "video_id": 10371
+          },
+          {
+            "title": "sticker.webp",
+            "video_id": 10372
+          },
+          {
+            "title": "Create Efficient Back-End.",
+            "video_id": 10373
+          },
+          {
+            "title": "How to Get Help or Resolve Your Doubts?",
+            "video_id": 10374
+          },
+          {
+            "title": "Learning Tips for Success",
+            "video_id": 10375
+          },
+          {
+            "title": "Important Information About This Course",
+            "video_id": 10376
+          },
+          {
+            "title": "More Important Information",
+            "video_id": 10377
+          },
+          {
+            "title": "A Quick Look at What You'll Learn",
+            "video_id": 10378
+          },
+          {
+            "title": "How to Follow this Course",
+            "video_id": 10379
+          },
+          {
+            "title": "Introduction to JavaScript",
+            "video_id": 10380
+          },
+          {
+            "title": "Mastering JavaScript Essentials",
+            "video_id": 10381
+          },
+          {
+            "title": "Understanding Variables in JavaScript",
+            "video_id": 10382
+          },
+          {
+            "title": "Exploring Different Types of Data in JavaScript",
+            "video_id": 10383
+          },
+          {
+            "title": "Playing with Operators",
+            "video_id": 10384
+          },
+          {
+            "title": "Making Smart Decisions in JavaScript",
+            "video_id": 10385
+          },
+          {
+            "title": "Repeating Tasks with Ease.",
+            "video_id": 10386
+          },
+          {
+            "title": "Making Choices with Conditional Statements in JavaScript",
+            "video_id": 10387
+          },
+          {
+            "title": "Your Code's Superpowers in JavaScript",
+            "video_id": 10388
+          },
+          {
+            "title": "Getting Started with Asynchronous JavaScript",
+            "video_id": 10389
+          },
+          {
+            "title": "Understanding Asynchronous JavaScript",
+            "video_id": 10390
+          },
+          {
+            "title": "Don't Worry - More to Come!",
+            "video_id": 10391
+          },
+          {
+            "title": "Understanding Callbacks, Promises, and Async-Await in JavaScript",
+            "video_id": 10392
+          },
+          {
+            "title": "Promises in JavaScript",
+            "video_id": 10393
+          },
+          {
+            "title": "Introduction to Import/Export in JavaScript",
+            "video_id": 10394
+          },
+          {
+            "title": "Understanding CommonJS (CJS) Method for Import/Export in JavaScript",
+            "video_id": 10395
+          },
+          {
+            "title": "How the Internet Works",
+            "video_id": 10396
+          },
+          {
+            "title": "How It Works",
+            "video_id": 10397
+          },
+          {
+            "title": "Your Device's Internet ID",
+            "video_id": 10398
+          },
+          {
+            "title": "Cracking the Code of MAC Addresses",
+            "video_id": 10399
+          },
+          {
+            "title": "Your Gateway to Privacy",
+            "video_id": 10400
+          },
+          {
+            "title": "Your Shield in the Digital World",
+            "video_id": 10401
+          },
+          {
+            "title": "The Heart of the Internet",
+            "video_id": 10402
+          },
+          {
+            "title": "Your Invisible Guardian Online",
+            "video_id": 10403
+          },
+          {
+            "title": "Understanding of Internet Protocols",
+            "video_id": 10404
+          },
+          {
+            "title": "Your Gateway to the Internet",
+            "video_id": 10405
+          },
+          {
+            "title": "Your Guide to Internet Communication",
+            "video_id": 10406
+          },
+          {
+            "title": "Your Quick Guide to Internet Speed",
+            "video_id": 10407
+          },
+          {
+            "title": "Your Roadmap to Web Communication",
+            "video_id": 10408
+          },
+          {
+            "title": "Your Complete Guide",
+            "video_id": 10409
+          },
+          {
+            "title": "Exploring Its Event-Driven Magic",
+            "video_id": 10410
+          },
+          {
+            "title": "How Asynchronous Behavior Powers Your Apps",
+            "video_id": 10411
+          },
+          {
+            "title": "How It Keeps Things Simple",
+            "video_id": 10412
+          },
+          {
+            "title": "Step-by-Step Guide",
+            "video_id": 10413
+          },
+          {
+            "title": "Checking If It's Ready to Go",
+            "video_id": 10414
+          },
+          {
+            "title": "Your Complete Guide",
+            "video_id": 10415
+          },
+          {
+            "title": "Easy Ways to Manage Packages",
+            "video_id": 10416
+          },
+          {
+            "title": "Your Guide to JavaScript Package Management",
+            "video_id": 10417
+          },
+          {
+            "title": "Exploring Packages and Scripts in NPM",
+            "video_id": 10418
+          },
+          {
+            "title": "Introduction to File System Operations in Node.js",
+            "video_id": 10419
+          },
+          {
+            "title": "An Overview of File System in Node.js",
+            "video_id": 10420
+          },
+          {
+            "title": "A Beginner's Guide",
+            "video_id": 10421
+          },
+          {
+            "title": "Adding Data to Existing Files",
+            "video_id": 10422
+          },
+          {
+            "title": "Changing File Names Easily",
+            "video_id": 10423
+          },
+          {
+            "title": "Removing Unwanted Files]",
+            "video_id": 10424
+          },
+          {
+            "title": "Organizing Your Files",
+            "video_id": 10425
+          },
+          {
+            "title": "Exploring Directory Contents",
+            "video_id": 10426
+          },
+          {
+            "title": "Removing Unwanted Directories",
+            "video_id": 10427
+          },
+          {
+            "title": "Blocking vs. Non-blocking Code",
+            "video_id": 10428
+          },
+          {
+            "title": "Introduction to the HTTP Module in Node.js",
+            "video_id": 10429
+          },
+          {
+            "title": "Understanding the Foundation of Web Communication",
+            "video_id": 10430
+          },
+          {
+            "title": "Understanding Nodemon as a Development Dependency in Node.js",
+            "video_id": 10431
+          },
+          {
+            "title": "Introduction to HTTP Routing in Node.js",
+            "video_id": 10432
+          },
+          {
+            "title": "Directing Requests to Handlers",
+            "video_id": 10433
+          },
+          {
+            "title": "How Clients Interact with Servers",
+            "video_id": 10434
+          },
+          {
+            "title": "How Clients Communicate with Servers",
+            "video_id": 10435
+          },
+          {
+            "title": "Informational Responses",
+            "video_id": 10436
+          },
+          {
+            "title": "The Signal of Success",
+            "video_id": 10437
+          },
+          {
+            "title": "The Signal of Creation Success",
+            "video_id": 10438
+          },
+          {
+            "title": "Embracing the Promise of Accepted Requests",
+            "video_id": 10439
+          },
+          {
+            "title": "Unveiling the Non-Authoritative Information",
+            "video_id": 10440
+          },
+          {
+            "title": "Understanding Permanent Redirects",
+            "video_id": 10441
+          },
+          {
+            "title": "Understanding Temporary Redirects",
+            "video_id": 10442
+          },
+          {
+            "title": "Permanently Redirecting Requests with Retention",
+            "video_id": 10443
+          },
+          {
+            "title": "Understanding Client-Side Errors",
+            "video_id": 10444
+          },
+          {
+            "title": "Understanding Server-Side Errors",
+            "video_id": 10445
+          },
+          {
+            "title": "Building Web Applications with Ease",
+            "video_id": 10446
+          },
+          {
+            "title": "Getting Started with API Development",
+            "video_id": 10447
+          },
+          {
+            "title": "Unexpected Requests",
+            "video_id": 10448
+          },
+          {
+            "title": "More on Express.js",
+            "video_id": 10449
+          },
+          {
+            "title": "Enhancing Request Processin",
+            "video_id": 10450
+          },
+          {
+            "title": "Exploring Express Sessions Middleware",
+            "video_id": 10451
+          },
+          {
+            "title": "Flash Messages in Express.js",
+            "video_id": 10452
+          },
+          {
+            "title": "Cross-Origin Resource Sharing Made Simple",
+            "video_id": 10453
+          },
+          {
+            "title": "Handling Cookies with Ease",
+            "video_id": 10454
+          },
+          {
+            "title": "Logging Simplified",
+            "video_id": 10455
+          },
+          {
+            "title": "Introduction to Request and Response in Express.js",
+            "video_id": 10456
+          },
+          {
+            "title": "Handling Variable Paths with Ease",
+            "video_id": 10457
+          },
+          {
+            "title": "Introduction to Server-Side Rendering with EJS in Express.js",
+            "video_id": 10458
+          },
+          {
+            "title": "Introduction to Server-Side Rendering with EJS in Express.js",
+            "video_id": 10459
+          },
+          {
+            "title": "Creating Interactive Web Forms",
+            "video_id": 10460
+          },
+          {
+            "title": "Handling Form Submissions with POST Method in Express.js",
+            "video_id": 10461
+          },
+          {
+            "title": "More on Form Handling with POST Method in Express.js",
+            "video_id": 10462
+          },
+          {
+            "title": "Introduction to Building and Consuming APIs",
+            "video_id": 10463
+          },
+          {
+            "title": "Streamlining API Development and Testing",
+            "video_id": 10464
+          },
+          {
+            "title": "Exploring Essential Features",
+            "video_id": 10465
+          },
+          {
+            "title": "Leveraging RESTful Principles",
+            "video_id": 10466
+          },
+          {
+            "title": "Resource Operation",
+            "video_id": 10467
+          },
+          {
+            "title": "Introduction to Error Handling in API Development",
+            "video_id": 10468
+          },
+          {
+            "title": "Building Resilient APIs",
+            "video_id": 10469
+          },
+          {
+            "title": "Simplifying API Development and Testing",
+            "video_id": 10470
+          },
+          {
+            "title": "Collaborative API Development Made Easy",
+            "video_id": 10471
+          },
+          {
+            "title": "Getting Started with Routes in Postman",
+            "video_id": 10472
+          },
+          {
+            "title": "Organizing and Executing API Requests",
+            "video_id": 10473
+          },
+          {
+            "title": "Customizing and Streamlining API Testing",
+            "video_id": 10474
+          },
+          {
+            "title": "Getting Started with File System-Based Projects",
+            "video_id": 10475
+          },
+          {
+            "title": "Understanding the KhaataBook Project",
+            "video_id": 10476
+          },
+          {
+            "title": "Khaatabook",
+            "video_id": 10477
+          },
+          {
+            "title": "Khaatabook",
+            "video_id": 10478
+          },
+          {
+            "title": "Khaatabook",
+            "video_id": 10479
+          },
+          {
+            "title": "Khaatabook",
+            "video_id": 10480
+          },
+          {
+            "title": "Khaatabook",
+            "video_id": 10481
+          },
+          {
+            "title": "Setup",
+            "video_id": 10483
+          },
+          {
+            "title": "Starting to Code",
+            "video_id": 10484
+          },
+          {
+            "title": "Creating New Hisab",
+            "video_id": 10485
+          },
+          {
+            "title": "Editing a File",
+            "video_id": 10486
+          },
+          {
+            "title": "Showing a File",
+            "video_id": 10487
+          },
+          {
+            "title": "Deleting a File",
+            "video_id": 10488
+          },
+          {
+            "title": "Building Data-Driven Applications",
+            "video_id": 10489
+          },
+          {
+            "title": "A Comparative Overview",
+            "video_id": 10490
+          },
+          {
+            "title": "Essential Theoretical Concepts in MongoDB and Mongoose",
+            "video_id": 10491
+          },
+          {
+            "title": "Installing MongoDB",
+            "video_id": 10492
+          },
+          {
+            "title": "Installing MongoDB on MacOS",
+            "video_id": 10493
+          },
+          {
+            "title": "Integrating Mongoose with Express.js",
+            "video_id": 10494
+          },
+          {
+            "title": "Connecting Node.js with MongoDB using Mongoose",
+            "video_id": 10495
+          },
+          {
+            "title": "Using MongoDB Atlas with Mongoose",
+            "video_id": 10496
+          },
+          {
+            "title": "Structuring Data for MongoDB",
+            "video_id": 10497
+          },
+          {
+            "title": "Adding Users to Your MongoDB Database",
+            "video_id": 10498
+          },
+          {
+            "title": "Retrieving User Information from MongoDB",
+            "video_id": 10499
+          },
+          {
+            "title": "Modifying User Information in MongoDB",
+            "video_id": 10500
+          },
+          {
+            "title": "Removing User Information from MongoDB",
+            "video_id": 10501
+          },
+          {
+            "title": "Using Postman for Testing",
+            "video_id": 10502
+          },
+          {
+            "title": "Enchance your database skills",
+            "video_id": 10503
+          },
+          {
+            "title": "Query operations in mongoDB powerful tool for data retrieval",
+            "video_id": 10504
+          },
+          {
+            "title": "Effcient batch data insertion",
+            "video_id": 10505
+          },
+          {
+            "title": "Filtering Data by exact matches",
+            "video_id": 10506
+          },
+          {
+            "title": "Filtering data by excluding values",
+            "video_id": 10507
+          },
+          {
+            "title": "Filtering Data by numeric comparison",
+            "video_id": 10508
+          },
+          {
+            "title": "Filtering Data by numeric comparison",
+            "video_id": 10509
+          },
+          {
+            "title": "Filtering Data by numeric comparison",
+            "video_id": 10510
+          },
+          {
+            "title": "numeric comparison with Inclusivity",
+            "video_id": 10511
+          },
+          {
+            "title": "Filtering Data by Multiple Values",
+            "video_id": 10512
+          },
+          {
+            "title": "Filtering Data by Excluding multiple values",
+            "video_id": 10513
+          },
+          {
+            "title": "filtering data by field Existence",
+            "video_id": 10514
+          },
+          {
+            "title": "Combining conditions for advanced queries",
+            "video_id": 10515
+          },
+          {
+            "title": "Flexible pattern Matching for data rerieval",
+            "video_id": 10516
+          },
+          {
+            "title": "khaatabook with Database Integration _ introduction",
+            "video_id": 10517
+          },
+          {
+            "title": "khaatabook with Database Project Overview",
+            "video_id": 10518
+          },
+          {
+            "title": "khaatabook with Database - Project explanation",
+            "video_id": 10519
+          },
+          {
+            "title": "Introduction to Joi validation",
+            "video_id": 10520
+          },
+          {
+            "title": "Settings Up Mongoose for Joi Validation",
+            "video_id": 10521
+          },
+          {
+            "title": "Setting up Joi",
+            "video_id": 10522
+          },
+          {
+            "title": "Setting up Joi with the help of Ai",
+            "video_id": 10523
+          },
+          {
+            "title": "Creating Custom Error messages  with Joi",
+            "video_id": 10524
+          },
+          {
+            "title": "getting started with data Embedding - Relationship mongoDB",
+            "video_id": 10525
+          },
+          {
+            "title": "Understanding Referencing Relationship in MongoDB",
+            "video_id": 10526
+          },
+          {
+            "title": "relationships in mongoDB",
+            "video_id": 10527
+          },
+          {
+            "title": "Choosing between Embedding and referencing in mongoDB",
+            "video_id": 10528
+          },
+          {
+            "title": "sticker.webp",
+            "video_id": 10529
+          },
+          {
+            "title": "🪷 Radhe Radhe 🦚🦚",
+            "video_id": 10530
+          },
+          {
+            "title": "Sheryians Coding School - Aptitude Placement Course",
+            "video_id": 10531
+          },
+          {
+            "title": "Introduction to Aptitude & Reasoning Course",
+            "video_id": 10532
+          },
+          {
+            "title": "Easy Percentage Tips & Tricks",
+            "video_id": 10533
+          },
+          {
+            "title": "Basic Questions on Percentage",
+            "video_id": 10534
+          },
+          {
+            "title": "Medium-Level Percentage Questions",
+            "video_id": 10535
+          },
+          {
+            "title": "Questions on Successive Increase and Decrease",
+            "video_id": 10536
+          },
+          {
+            "title": "Profit and Loss Concepts & Tricks",
+            "video_id": 10537
+          },
+          {
+            "title": "Practice Questions on Profit and Loss",
+            "video_id": 10538
+          },
+          {
+            "title": "Practice Questions on Discount and MRP",
+            "video_id": 10539
+          },
+          {
+            "title": "Simple Interest Concepts & Easy Tricks",
+            "video_id": 10540
+          },
+          {
+            "title": "Practice Questions on Simple Interest",
+            "video_id": 10541
+          },
+          {
+            "title": "Advanced Questions on Simple Interest",
+            "video_id": 10542
+          },
+          {
+            "title": "Compound Interest Concepts & Tricks",
+            "video_id": 10543
+          },
+          {
+            "title": "Practice Questions on Compound Interest",
+            "video_id": 10544
+          },
+          {
+            "title": "More Practice Questions on Compound Interest",
+            "video_id": 10545
+          },
+          {
+            "title": "Introduction to Ratio and Proportion Explained",
+            "video_id": 10546
+          },
+          {
+            "title": "Practice Questions on Ratio and Proportion",
+            "video_id": 10547
+          },
+          {
+            "title": "More Practice Questions on Ratio and Proportion",
+            "video_id": 10548
+          },
+          {
+            "title": "Understanding Allegation & Mixtures",
+            "video_id": 10549
+          },
+          {
+            "title": "Problem Solving on Allegation & Mixtures",
+            "video_id": 10550
+          },
+          {
+            "title": "Introduction to the Number System",
+            "video_id": 10551
+          },
+          {
+            "title": "Practice Questions on Number System",
+            "video_id": 10552
+          },
+          {
+            "title": "Introduction to HCF and LCM",
+            "video_id": 10553
+          },
+          {
+            "title": "Practice Questions on HCF",
+            "video_id": 10554
+          },
+          {
+            "title": "Practice Questions on LCM",
+            "video_id": 10555
+          },
+          {
+            "title": "Ratio Logic for HCF and LCM",
+            "video_id": 10556
+          },
+          {
+            "title": "Introduction to Averages",
+            "video_id": 10557
+          },
+          {
+            "title": "Practice Questions on Averages",
+            "video_id": 10558
+          },
+          {
+            "title": "More Practice Questions on Averages",
+            "video_id": 10559
+          },
+          {
+            "title": "🪷 Radhe Radhe 🦚🦚",
+            "video_id": 10560
+          },
+          {
+            "title": "Sheryians Coding School - BackEnd Domination",
+            "video_id": 10561
+          },
+          {
+            "title": "Create Efficient Back-End.",
+            "video_id": 10562
+          },
+          {
+            "title": "Create Efficient Back-End.",
+            "video_id": 10563
+          },
+          {
+            "title": "How to Get Help or Resolve Your Doubts?",
+            "video_id": 10564
+          },
+          {
+            "title": "Learning Tips for Success",
+            "video_id": 10565
+          },
+          {
+            "title": "Important Information About This Course",
+            "video_id": 10566
+          },
+          {
+            "title": "More Important Information",
+            "video_id": 10567
+          },
+          {
+            "title": "A Quick Look at What You'll Learn",
+            "video_id": 10568
+          },
+          {
+            "title": "How to Follow this Course",
+            "video_id": 10569
+          },
+          {
+            "title": "Introduction to JavaScript",
+            "video_id": 10570
+          },
+          {
+            "title": "Mastering JavaScript Essentials",
+            "video_id": 10571
+          },
+          {
+            "title": "Understanding Variables in JavaScript",
+            "video_id": 10572
+          },
+          {
+            "title": "Exploring Different Types of Data in JavaScript",
+            "video_id": 10573
+          },
+          {
+            "title": "Playing with Operators",
+            "video_id": 10574
+          },
+          {
+            "title": "Making Smart Decisions in JavaScript",
+            "video_id": 10575
+          },
+          {
+            "title": "Repeating Tasks with Ease.",
+            "video_id": 10576
+          },
+          {
+            "title": "Making Choices with Conditional Statements in JavaScript",
+            "video_id": 10577
+          },
+          {
+            "title": "Your Code's Superpowers in JavaScript",
+            "video_id": 10578
+          },
+          {
+            "title": "Getting Started with Asynchronous JavaScript",
+            "video_id": 10579
+          },
+          {
+            "title": "Understanding Asynchronous JavaScript",
+            "video_id": 10580
+          },
+          {
+            "title": "Don't Worry - More to Come!",
+            "video_id": 10581
+          },
+          {
+            "title": "Understanding Callbacks, Promises, and Async-Await in JavaScript",
+            "video_id": 10582
+          },
+          {
+            "title": "Promises in JavaScript",
+            "video_id": 10583
+          },
+          {
+            "title": "Introduction to Import/Export in JavaScript",
+            "video_id": 10584
+          },
+          {
+            "title": "Understanding CommonJS (CJS) Method for Import/Export in JavaScript",
+            "video_id": 10585
+          },
+          {
+            "title": "How the Internet Works",
+            "video_id": 10586
+          },
+          {
+            "title": "How It Works",
+            "video_id": 10587
+          },
+          {
+            "title": "Your Device's Internet ID",
+            "video_id": 10588
+          },
+          {
+            "title": "Cracking the Code of MAC Addresses",
+            "video_id": 10589
+          },
+          {
+            "title": "Your Gateway to Privacy",
+            "video_id": 10590
+          },
+          {
+            "title": "Your Shield in the Digital World",
+            "video_id": 10591
+          },
+          {
+            "title": "The Heart of the Internet",
+            "video_id": 10592
+          },
+          {
+            "title": "Your Invisible Guardian Online",
+            "video_id": 10593
+          },
+          {
+            "title": "Understanding of Internet Protocols",
+            "video_id": 10594
+          },
+          {
+            "title": "Your Gateway to the Internet",
+            "video_id": 10595
+          },
+          {
+            "title": "Your Guide to Internet Communication",
+            "video_id": 10596
+          },
+          {
+            "title": "Your Quick Guide to Internet Speed",
+            "video_id": 10597
+          },
+          {
+            "title": "Your Complete Guide",
+            "video_id": 10598
+          },
+          {
+            "title": "Exploring Its Event-Driven Magic",
+            "video_id": 10599
+          },
+          {
+            "title": "How Asynchronous Behavior Powers Your Apps",
+            "video_id": 10600
+          },
+          {
+            "title": "How It Keeps Things Simple",
+            "video_id": 10601
+          },
+          {
+            "title": "Step-by-Step Guide",
+            "video_id": 10602
+          },
+          {
+            "title": "Checking If It's Ready to Go",
+            "video_id": 10603
+          },
+          {
+            "title": "Your Complete Guide",
+            "video_id": 10604
+          },
+          {
+            "title": "Easy Ways to Manage Packages",
+            "video_id": 10605
+          },
+          {
+            "title": "Your Guide to JavaScript Package Management",
+            "video_id": 10606
+          },
+          {
+            "title": "Exploring Packages and Scripts in NPM",
+            "video_id": 10607
+          },
+          {
+            "title": "Introduction to File System Operations in Node.js",
+            "video_id": 10608
+          },
+          {
+            "title": "An Overview of File System in Node.js",
+            "video_id": 10609
+          },
+          {
+            "title": "A Beginner's Guide",
+            "video_id": 10610
+          },
+          {
+            "title": "Adding Data to Existing Files",
+            "video_id": 10611
+          },
+          {
+            "title": "Changing File Names Easily",
+            "video_id": 10612
+          },
+          {
+            "title": "Removing Unwanted Files]",
+            "video_id": 10613
+          },
+          {
+            "title": "Organizing Your Files",
+            "video_id": 10614
+          },
+          {
+            "title": "Exploring Directory Contents",
+            "video_id": 10615
+          },
+          {
+            "title": "Removing Unwanted Directories",
+            "video_id": 10616
+          },
+          {
+            "title": "Blocking vs. Non-blocking Code",
+            "video_id": 10617
+          },
+          {
+            "title": "Introduction to the HTTP Module in Node.js",
+            "video_id": 10618
+          },
+          {
+            "title": "Understanding the Foundation of Web Communication",
+            "video_id": 10619
+          },
+          {
+            "title": "Understanding Nodemon as a Development Dependency in Node.js",
+            "video_id": 10620
+          },
+          {
+            "title": "Introduction to HTTP Routing in Node.js",
+            "video_id": 10621
+          },
+          {
+            "title": "Directing Requests to Handlers",
+            "video_id": 10622
+          },
+          {
+            "title": "How Clients Interact with Servers",
+            "video_id": 10623
+          },
+          {
+            "title": "How Clients Communicate with Servers",
+            "video_id": 10624
+          },
+          {
+            "title": "Informational Responses",
+            "video_id": 10625
+          },
+          {
+            "title": "The Signal of Success",
+            "video_id": 10626
+          },
+          {
+            "title": "The Signal of Creation Success",
+            "video_id": 10627
+          },
+          {
+            "title": "Embracing the Promise of Accepted Requests",
+            "video_id": 10628
+          },
+          {
+            "title": "Unveiling the Non-Authoritative Information",
+            "video_id": 10629
+          },
+          {
+            "title": "Understanding Permanent Redirects",
+            "video_id": 10630
+          },
+          {
+            "title": "Understanding Temporary Redirects",
+            "video_id": 10631
+          },
+          {
+            "title": "Permanently Redirecting Requests with Retention",
+            "video_id": 10632
+          },
+          {
+            "title": "Understanding Client-Side Errors",
+            "video_id": 10633
+          },
+          {
+            "title": "Understanding Server-Side Errors",
+            "video_id": 10634
+          },
+          {
+            "title": "Building Web Applications with Ease",
+            "video_id": 10635
+          },
+          {
+            "title": "Getting Started with API Development",
+            "video_id": 10636
+          },
+          {
+            "title": "Unexpected Requests",
+            "video_id": 10637
+          },
+          {
+            "title": "More on Express.js",
+            "video_id": 10638
+          },
+          {
+            "title": "Enhancing Request Processin",
+            "video_id": 10639
+          },
+          {
+            "title": "Exploring Express Sessions Middleware",
+            "video_id": 10640
+          },
+          {
+            "title": "Flash Messages in Express.js",
+            "video_id": 10641
+          },
+          {
+            "title": "Cross-Origin Resource Sharing Made Simple",
+            "video_id": 10642
+          },
+          {
+            "title": "Handling Cookies with Ease",
+            "video_id": 10643
+          },
+          {
+            "title": "Logging Simplified",
+            "video_id": 10644
+          },
+          {
+            "title": "Introduction to Request and Response in Express.js",
+            "video_id": 10645
+          },
+          {
+            "title": "Handling Variable Paths with Ease",
+            "video_id": 10646
+          },
+          {
+            "title": "Introduction to Server-Side Rendering with EJS in Express.js",
+            "video_id": 10647
+          },
+          {
+            "title": "Creating Interactive Web Forms",
+            "video_id": 10648
+          },
+          {
+            "title": "Handling Form Submissions with POST Method in Express.js",
+            "video_id": 10649
+          },
+          {
+            "title": "More on Form Handling with POST Method in Express.js",
+            "video_id": 10650
+          },
+          {
+            "title": "Introduction to Building and Consuming APIs",
+            "video_id": 10651
+          },
+          {
+            "title": "Streamlining API Development and Testing",
+            "video_id": 10652
+          },
+          {
+            "title": "Exploring Essential Features",
+            "video_id": 10653
+          },
+          {
+            "title": "Leveraging RESTful Principles",
+            "video_id": 10654
+          },
+          {
+            "title": "Resource Operation",
+            "video_id": 10655
+          },
+          {
+            "title": "Introduction to Error Handling in API Development",
+            "video_id": 10656
+          },
+          {
+            "title": "Building Resilient APIs",
+            "video_id": 10657
+          },
+          {
+            "title": "Simplifying API Development and Testing",
+            "video_id": 10658
+          },
+          {
+            "title": "Collaborative API Development Made Easy",
+            "video_id": 10659
+          },
+          {
+            "title": "Getting Started with Routes in Postman",
+            "video_id": 10660
+          },
+          {
+            "title": "Organizing and Executing API Requests",
+            "video_id": 10661
+          },
+          {
+            "title": "Customizing and Streamlining API Testing",
+            "video_id": 10662
+          },
+          {
+            "title": "Getting Started with File System-Based Projects",
+            "video_id": 10663
+          },
+          {
+            "title": "Understanding the KhaataBook Project",
+            "video_id": 10664
+          },
+          {
+            "title": "Khaatabook",
+            "video_id": 10665
+          },
+          {
+            "title": "Khaatabook",
+            "video_id": 10666
+          },
+          {
+            "title": "Khaatabook",
+            "video_id": 10667
+          },
+          {
+            "title": "Khaatabook",
+            "video_id": 10668
+          },
+          {
+            "title": "Khaatabook",
+            "video_id": 10669
+          },
+          {
+            "title": "Setup",
+            "video_id": 10671
+          },
+          {
+            "title": "Starting to Code",
+            "video_id": 10672
+          },
+          {
+            "title": "Creating New Hisab",
+            "video_id": 10673
+          },
+          {
+            "title": "Editing a File",
+            "video_id": 10674
+          },
+          {
+            "title": "Showing a File",
+            "video_id": 10675
+          },
+          {
+            "title": "Deleting a File",
+            "video_id": 10676
+          },
+          {
+            "title": "_Building_Data_Driven_Applications",
+            "video_id": 10677
+          },
+          {
+            "title": "A Comparative Overview",
+            "video_id": 10678
+          },
+          {
+            "title": "Essential Theoretical Concepts in MongoDB and Mongoose",
+            "video_id": 10679
+          },
+          {
+            "title": "Essential Theoretical Concepts in MongoDB and Mongoose",
+            "video_id": 10680
+          },
+          {
+            "title": "Installing MongoDB",
+            "video_id": 10681
+          },
+          {
+            "title": "Installing MongoDB on MacOS",
+            "video_id": 10682
+          },
+          {
+            "title": "Integrating Mongoose with Express.js",
+            "video_id": 10683
+          },
+          {
+            "title": "Connecting Node.js with MongoDB using Mongoose",
+            "video_id": 10684
+          },
+          {
+            "title": "Using MongoDB Atlas with Mongoose",
+            "video_id": 10685
+          },
+          {
+            "title": "Structuring Data for MongoDB",
+            "video_id": 10686
+          },
+          {
+            "title": "Adding Users to Your MongoDB Database",
+            "video_id": 10687
+          },
+          {
+            "title": "Retrieving User Information from MongoDB",
+            "video_id": 10688
+          },
+          {
+            "title": "Modifying User Information in MongoDB",
+            "video_id": 10689
+          },
+          {
+            "title": "Removing User Information from MongoDB",
+            "video_id": 10690
+          },
+          {
+            "title": "Using Postman for Testing",
+            "video_id": 10691
+          },
+          {
+            "title": "Enchance your database skills",
+            "video_id": 10692
+          },
+          {
+            "title": "Query operations in mongoDB powerful tool for data retrieval",
+            "video_id": 10693
+          },
+          {
+            "title": "Effcient batch data insertion",
+            "video_id": 10694
+          },
+          {
+            "title": "Filtering Data by exact matches",
+            "video_id": 10695
+          },
+          {
+            "title": "Filtering data by excluding values",
+            "video_id": 10696
+          },
+          {
+            "title": "Filtering Data by numeric comparison",
+            "video_id": 10697
+          },
+          {
+            "title": "Filtering Data by numeric comparison",
+            "video_id": 10698
+          },
+          {
+            "title": "Filtering Data by numeric comparison",
+            "video_id": 10699
+          },
+          {
+            "title": "numeric comparison with Inclusivity",
+            "video_id": 10700
+          },
+          {
+            "title": "Filtering Data by Multiple Values",
+            "video_id": 10701
+          },
+          {
+            "title": "Filtering Data by Excluding multiple values",
+            "video_id": 10702
+          },
+          {
+            "title": "filtering data by field Existence",
+            "video_id": 10703
+          },
+          {
+            "title": "Combining conditions for advanced queries",
+            "video_id": 10704
+          },
+          {
+            "title": "Flexible pattern Matching for data rerieval",
+            "video_id": 10705
+          },
+          {
+            "title": "khaatabook with Database Integration _ introduction",
+            "video_id": 10706
+          },
+          {
+            "title": "khaatabook with Database Project Overview",
+            "video_id": 10707
+          },
+          {
+            "title": "khaatabook with Database - Project explanation",
+            "video_id": 10708
+          },
+          {
+            "title": "Introduction to Joi validation",
+            "video_id": 10709
+          },
+          {
+            "title": "Settings Up Mongoose for Joi Validation",
+            "video_id": 10710
+          },
+          {
+            "title": "Setting up Joi",
+            "video_id": 10711
+          },
+          {
+            "title": "Setting up Joi with the help of Ai",
+            "video_id": 10712
+          },
+          {
+            "title": "Creating Custom Error messages  with Joi",
+            "video_id": 10713
+          },
+          {
+            "title": "getting started with data Embedding - Relationship mongoDB",
+            "video_id": 10714
+          },
+          {
+            "title": "Understanding Referencing Relationship in MongoDB",
+            "video_id": 10715
+          },
+          {
+            "title": "relationships in mongoDB",
+            "video_id": 10716
+          },
+          {
+            "title": "Choosing between Embedding and referencing in mongoDB",
+            "video_id": 10717
+          },
+          {
+            "title": "project",
+            "video_id": 10718
+          },
+          {
+            "title": "Done ✅",
+            "video_id": 10719
+          },
+          {
+            "title": "🪷 Radhe Radhe 🦚🦚",
+            "video_id": 10720
+          },
+          {
+            "title": "Sheryians Coding School - Front-End Domination",
+            "video_id": 10721
+          },
+          {
+            "title": "Frontend Domination - GETTING STARTED",
+            "video_id": 10722
+          },
+          {
+            "title": "FRONTEND DOMINATION-  INTRO  TO HTML\n\n🎀",
+            "video_id": 10723
+          },
+          {
+            "title": "FRONTEND DOMINATION- LEVEL 1 HTML\n\n🎀",
+            "video_id": 10724
+          },
+          {
+            "title": "FRONTEND DOMINATION- LEVEL 2 HTML\n\n🎀",
+            "video_id": 10725
+          },
+          {
+            "title": "FRONTEND DOMINATION- HTML SEMANTIC ELEMENTS\n\n🎀",
+            "video_id": 10726
+          },
+          {
+            "title": "FRONTEND DOMINATION - INTRO TO CSS\n\n🎀",
+            "video_id": 10727
+          },
+          {
+            "title": "FRONTEND DOMINATION- SET UP  BASICS AND BEYONDS (CSS SHEET)\n\n🎀",
+            "video_id": 10728
+          },
+          {
+            "title": "FRONTEND DOMINATION- CSS MASTERING UNITS\n\n🎀",
+            "video_id": 10729
+          },
+          {
+            "title": "FRONTEND DOMINATION- LEVEL UP CSS WITH CORE KNOWLEDGE\n\n🎀",
+            "video_id": 10730
+          },
+          {
+            "title": "FRONTEND DOMINATION- UNDERSTANDING DISPLAY PROPERTIES\n\n🎀",
+            "video_id": 10731
+          },
+          {
+            "title": "FRONTEND DOMINATION- FLEXBOX\n\n🎀",
+            "video_id": 10732
+          },
+          {
+            "title": "FED_12_07_Color_Science",
+            "video_id": 10733
+          },
+          {
+            "title": "FED_13_08_CSS_Grid_Complete_guide",
+            "video_id": 10734
+          },
+          {
+            "title": "FED_14_Making_Project_Using_CSS_Grid",
+            "video_id": 10735
+          },
+          {
+            "title": "FED_15_Project_01_Shop_Jacket",
+            "video_id": 10736
+          },
+          {
+            "title": "FED_16_Project_02_A_Cotton_Weave",
+            "video_id": 10737
+          },
+          {
+            "title": "FED_17_Project_03_Trendline",
+            "video_id": 10738
+          },
+          {
+            "title": "FED_18_Intro",
+            "video_id": 10739
+          },
+          {
+            "title": "FED_19_End",
+            "video_id": 10740
+          },
+          {
+            "title": "FED_20_Learning_and_Crafting_Responsive_Design",
+            "video_id": 10741
+          },
+          {
+            "title": "FED_21_Flexbox_for_Responsive",
+            "video_id": 10742
+          },
+          {
+            "title": "FED_22_Mastering_Height_&_Width_for_Responsive_Design",
+            "video_id": 10743
+          },
+          {
+            "title": "FED_23_The_Power_of_Responsive",
+            "video_id": 10744
+          },
+          {
+            "title": "FED_24_Intro",
+            "video_id": 10745
+          },
+          {
+            "title": "FED_25_Css_Animations_Bringing_Website_to_Life",
+            "video_id": 10746
+          },
+          {
+            "title": "FED_26_CSS_Animations_Learning_Advanced_Animation",
+            "video_id": 10747
+          },
+          {
+            "title": "FED_27_CSS_Animations_Enhancing_Design_with_After_&_Before",
+            "video_id": 10748
+          },
+          {
+            "title": "FED_28_CSS_Animations_Real_Life_Examples",
+            "video_id": 10749
+          },
+          {
+            "title": "FED_29_Intro",
+            "video_id": 10750
+          },
+          {
+            "title": "FED_30_Intro",
+            "video_id": 10751
+          },
+          {
+            "title": "FED_31_CSS_RP_Overview",
+            "video_id": 10752
+          },
+          {
+            "title": "FED_32_CSS_RP_Images_Marquee_Animation",
+            "video_id": 10753
+          },
+          {
+            "title": "FED_33_CSS_Extra_Additions",
+            "video_id": 10754
+          },
+          {
+            "title": "FED_34_CSS_RP_Making_it_Responsive",
+            "video_id": 10755
+          },
+          {
+            "title": "FED_35_Intro",
+            "video_id": 10756
+          },
+          {
+            "title": "FED_36_CSS_Project_Overview",
+            "video_id": 10757
+          },
+          {
+            "title": "FED_37_CSS_Bonus_Project_Second_Part",
+            "video_id": 10758
+          },
+          {
+            "title": "FED_38_CSS_Bonus_Project_Making_Explore_Page",
+            "video_id": 10759
+          },
+          {
+            "title": "FED_39_Intro",
+            "video_id": 10760
+          },
+          {
+            "title": "FED_40_JS_Level_01_Nothing_to_Something",
+            "video_id": 10761
+          },
+          {
+            "title": "FED_41_Level_02_Getting_to_Know_JS",
+            "video_id": 10762
+          },
+          {
+            "title": "FED_42_Level_03_Data_Types_&_Beyond",
+            "video_id": 10763
+          },
+          {
+            "title": "FED_43_Level_04_Intermediate_Stuff",
+            "video_id": 10764
+          },
+          {
+            "title": "FED_44_Level_05_Important_topics",
+            "video_id": 10765
+          },
+          {
+            "title": "FED_45_Learn_All_Advanced_JS_Concept",
+            "video_id": 10766
+          },
+          {
+            "title": "FED_46_Intro",
+            "video_id": 10767
+          },
+          {
+            "title": "FED_47_JS_Understanding_the_DOM",
+            "video_id": 10768
+          },
+          {
+            "title": "FED_48_JS_Manipulating_Styles_and_Classes",
+            "video_id": 10769
+          },
+          {
+            "title": "FED_49_Into_to_GSAP",
+            "video_id": 10770
+          },
+          {
+            "title": "FED_50_GSAP_Getting_Started_With_Basics",
+            "video_id": 10771
+          },
+          {
+            "title": "FED_51_GSAP_Learning_Scrolltrigger",
+            "video_id": 10772
+          },
+          {
+            "title": "FED_52_GSAP_Understanding_Pin_Property_In_Scrolltrigger",
+            "video_id": 10773
+          },
+          {
+            "title": "FED_53_Locomotive_All_In_Video",
+            "video_id": 10774
+          },
+          {
+            "title": "FED_54_Final_Project",
+            "video_id": 10775
+          },
+          {
+            "title": "JS Tasks - Mastering practical development challenges👇",
+            "video_id": 10776
+          },
+          {
+            "title": "Introduction to JS Practice Like Hell Series",
+            "video_id": 10777
+          },
+          {
+            "title": "JS Practice Like Hell - Task 1",
+            "video_id": 10778
+          },
+          {
+            "title": "JS Practice Like Hell - Task 2",
+            "video_id": 10779
+          },
+          {
+            "title": "JS Practice Like Hell - Task 3",
+            "video_id": 10780
+          },
+          {
+            "title": "JS Practice Like Hell - Task 4",
+            "video_id": 10781
+          },
+          {
+            "title": "JS Practice Like Hell - Task 5",
+            "video_id": 10782
+          },
+          {
+            "title": "JS Practice Like Hell - Task 6",
+            "video_id": 10783
+          },
+          {
+            "title": "JS Practice Like Hell - Task 7",
+            "video_id": 10784
+          },
+          {
+            "title": "JS Practice Like Hell - Task 8",
+            "video_id": 10785
+          },
+          {
+            "title": "JS Practice Like Hell - Task 9",
+            "video_id": 10786
+          },
+          {
+            "title": "Interview preparation👇",
+            "video_id": 10787
+          },
+          {
+            "title": "JS Interview Prep - Hindi",
+            "video_id": 10788
+          },
+          {
+            "title": "JS Interview Prep - English",
+            "video_id": 10789
+          },
+          {
+            "title": "Final project👇",
+            "video_id": 10790
+          },
+          {
+            "title": "Introduction to The Final Project",
+            "video_id": 10791
+          },
+          {
+            "title": "Final Project - Overview",
+            "video_id": 10792
+          },
+          {
+            "title": "Final Project Lets bring Shery js Into the Scene",
+            "video_id": 10793
+          },
+          {
+            "title": "Final Project- Making it responsive",
+            "video_id": 10794
+          },
+          {
+            "title": "Final Project - Hosting our Final Project",
+            "video_id": 10795
+          },
+          {
+            "title": "THE END",
+            "video_id": 10796
+          },
+          {
+            "title": "GSAP ki last video 👇",
+            "video_id": 10797
+          },
+          {
+            "title": "Gsap- bonus project",
+            "video_id": 10798
+          },
+          {
+            "title": "Tailwind CSS👇",
+            "video_id": 10799
+          },
+          {
+            "title": "tailwind",
+            "video_id": 10800
+          },
+          {
+            "title": "Asynchronous javascript 👇",
+            "video_id": 10801
+          },
+          {
+            "title": "Asynchronous Javascript",
+            "video_id": 10802
+          },
+          {
+            "title": "Real Life developer problems 👇",
+            "video_id": 10803
+          },
+          {
+            "title": "Developer Problems Problem 1",
+            "video_id": 10804
+          },
+          {
+            "title": "Developer Problems Problem 2",
+            "video_id": 10805
+          },
+          {
+            "title": "Developer Problems Problem 3",
+            "video_id": 10806
+          },
+          {
+            "title": "Developer Problems Problem 4",
+            "video_id": 10807
+          },
+          {
+            "title": "Developer Problems Problem 5",
+            "video_id": 10808
+          },
+          {
+            "title": "React 👇",
+            "video_id": 10809
+          },
+          {
+            "title": "Introduction to ReactJs",
+            "video_id": 10810
+          },
+          {
+            "title": "React JS Essentials - Everything you need to learn",
+            "video_id": 10811
+          },
+          {
+            "title": "React JS Theory and History",
+            "video_id": 10812
+          },
+          {
+            "title": "Section 1 System Setup and Basics",
+            "video_id": 10813
+          },
+          {
+            "title": "Section 3 Components Reusability",
+            "video_id": 10814
+          },
+          {
+            "title": "Section 4 Conditional Rendering",
+            "video_id": 10815
+          },
+          {
+            "title": "Section 5 Managing State and Understanding the State Hook",
+            "video_id": 10816
+          },
+          {
+            "title": "Section 6 Mastering the useState()",
+            "video_id": 10817
+          },
+          {
+            "title": "Section 7 useState() Hooks",
+            "video_id": 10818
+          },
+          {
+            "title": "Section 8 Passing Data via Props",
+            "video_id": 10819
+          },
+          {
+            "title": "Section 9 Props and State Exercise",
+            "video_id": 10820
+          },
+          {
+            "title": "Section 10 Form Handling",
+            "video_id": 10821
+          },
+          {
+            "title": "Section 11 Form Handling Exercise",
+            "video_id": 10822
+          },
+          {
+            "title": "Section 12 React JS Dynamic Routing",
+            "video_id": 10823
+          },
+          {
+            "title": "Section 13 React JS Dynamic Routing",
+            "video_id": 10824
+          },
+          {
+            "title": "Section 14 How to integrate API in React JS",
+            "video_id": 10825
+          },
+          {
+            "title": "Section 15 useEffect() on State Change",
+            "video_id": 10826
+          },
+          {
+            "title": "Section 16 React Context API",
+            "video_id": 10827
+          },
+          {
+            "title": "Redux 👇",
+            "video_id": 10828
+          },
+          {
+            "title": "Everything you Need to Know About Redux",
+            "video_id": 10829
+          },
+          {
+            "title": "✅ done",
+            "video_id": 10830
+          },
+          {
+            "title": "Campus",
+            "video_id": 10831
+          }
+        ],
+        "sheets": [
+          {
+            "name": "assignment1_Xsudu5cIqg",
+            "id": 10482
+          },
+          {
+            "name": "assignment1_Xsudu5cIqg",
+            "id": 10670
+          }
+        ]
+      }
+    ]
+  }
+]

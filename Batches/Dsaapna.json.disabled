@@ -1,0 +1,4404 @@
+[
+  {
+    "batch_name": "SIGMA 8.0",
+    "channel_id": "-1003570657515",
+    "chapters": [
+      {
+        "chapter_name": "HTML (LEVEL 01) - PART A",
+        "lectures": [
+          {
+            "lec_no": "L-04",
+            "title": "SIGMA 8.0 Curriculum",
+            "video_id": 6524,
+            "notes_id": 4
+          },
+          {
+            "lec_no": "L-06",
+            "title": "01. Introduction to HTML",
+            "video_id": 6525,
+            "notes_id": 6
+          },
+          {
+            "lec_no": "L-07",
+            "title": "02. HTML Elements & Tags",
+            "video_id": 6526,
+            "notes_id": 7
+          },
+          {
+            "lec_no": "L-08",
+            "title": "03. Hello World",
+            "video_id": 6527,
+            "notes_id": 8
+          },
+          {
+            "lec_no": "L-09",
+            "title": "04. Paragraph Element",
+            "video_id": 6528,
+            "notes_id": 9
+          },
+          {
+            "lec_no": "L-10",
+            "title": "05. Heading Elements",
+            "video_id": 6529,
+            "notes_id": 10
+          },
+          {
+            "lec_no": "L-11",
+            "title": "06. Practice Qs",
+            "video_id": 6530,
+            "notes_id": 11
+          },
+          {
+            "lec_no": "L-12",
+            "title": "07. Boilerplate Code",
+            "video_id": 6531,
+            "notes_id": 12
+          }
+        ]
+      },
+      {
+        "chapter_name": "HTML (LEVEL 01) - PART B",
+        "lectures": [
+          {
+            "lec_no": "L-13",
+            "title": "0. Topic List.jpg DAY 2 ",
+            "video_id": null,
+            "notes_id": null
+          },
+          {
+            "lec_no": "L-14",
+            "title": "01. Lists in HTML",
+            "video_id": 6532,
+            "notes_id": 14
+          },
+          {
+            "lec_no": "L-15",
+            "title": "02. Attributes in HTML",
+            "video_id": 6532,
+            "notes_id": 15
+          },
+          {
+            "lec_no": "L-16",
+            "title": "03. Anchor Element",
+            "video_id": 6533,
+            "notes_id": 16
+          },
+          {
+            "lec_no": "L-17",
+            "title": "04. Image Element",
+            "video_id": 6534,
+            "notes_id": 17
+          },
+          {
+            "lec_no": "L-18",
+            "title": "05. Practice Qs",
+            "video_id": 6535,
+            "notes_id": 18
+          },
+          {
+            "lec_no": "L-19",
+            "title": "06. More HTML Tags",
+            "video_id": 6536,
+            "notes_id": 19
+          },
+          {
+            "lec_no": "L-20",
+            "title": "07. Comments in HTML",
+            "video_id": 6537,
+            "notes_id": 20
+          },
+          {
+            "lec_no": "L-21",
+            "title": "08. Is HTML Case Sensitive",
+            "video_id": 6538,
+            "notes_id": 21
+          },
+          {
+            "lec_no": "L-22",
+            "title": "09. Practice Qs",
+            "video_id": 6539,
+            "notes_id": 22
+          },
+          {
+            "lec_no": "L-23",
+            "title": "10.Assignment Questions.pdf",
+            "video_id": null,
+            "notes_id": 23
+          },
+          {
+            "lec_no": "L-24",
+            "title": "11.Assignment Solutions.pdf",
+            "video_id": null,
+            "notes_id": 24
+          }
+        ]
+      },
+      {
+        "chapter_name": "HTML (LEVEL 02)",
+        "lectures": [
+          {
+            "lec_no": "L-26",
+            "title": "01. Inline vs Block",
+            "video_id": 6540,
+            "notes_id": 26
+          },
+          {
+            "lec_no": "L-27",
+            "title": "02. Div Element",
+            "video_id": 6541,
+            "notes_id": 27
+          },
+          {
+            "lec_no": "L-28",
+            "title": "03. Span Element",
+            "video_id": 6542,
+            "notes_id": 28
+          },
+          {
+            "lec_no": "L-29",
+            "title": "04. Hr Tag",
+            "video_id": 6543,
+            "notes_id": 29
+          },
+          {
+            "lec_no": "L-30",
+            "title": "05. Sup & Sub Tags",
+            "video_id": 6544,
+            "notes_id": 30
+          },
+          {
+            "lec_no": "L-31",
+            "title": "06. Practice Qs",
+            "video_id": 6545,
+            "notes_id": 31
+          },
+          {
+            "lec_no": "L-32",
+            "title": "07. Semantic Markup",
+            "video_id": 6546,
+            "notes_id": 32
+          },
+          {
+            "lec_no": "L-33",
+            "title": "08. Semantic Tags",
+            "video_id": 6547,
+            "notes_id": 33
+          },
+          {
+            "lec_no": "L-34",
+            "title": "09. Practice Qs",
+            "video_id": 6548,
+            "notes_id": 34
+          },
+          {
+            "lec_no": "L-35",
+            "title": "10. HTML Entities",
+            "video_id": 6549,
+            "notes_id": 35
+          },
+          {
+            "lec_no": "L-36",
+            "title": "11. Practice Qs",
+            "video_id": 6550,
+            "notes_id": 36
+          },
+          {
+            "lec_no": "L-37",
+            "title": "12. Emmets",
+            "video_id": 6551,
+            "notes_id": 37
+          },
+          {
+            "lec_no": "L-38",
+            "title": "13. Further Understanding HTML",
+            "video_id": 6552,
+            "notes_id": 38
+          },
+          {
+            "lec_no": "L-39",
+            "title": "14.HTML Level 2 (Qs).pdf",
+            "video_id": null,
+            "notes_id": 39
+          },
+          {
+            "lec_no": "L-40",
+            "title": "15.HTML Level 2 (Ans).pdf",
+            "video_id": null,
+            "notes_id": 40
+          }
+        ]
+      },
+      {
+        "chapter_name": "HTML (LEVEL 03)",
+        "lectures": [
+          {
+            "lec_no": "L-42",
+            "title": "01. Tables in HTML",
+            "video_id": 6553,
+            "notes_id": 42
+          },
+          {
+            "lec_no": "L-43",
+            "title": "02. Semantics in Tables",
+            "video_id": 6554,
+            "notes_id": 43
+          },
+          {
+            "lec_no": "L-44",
+            "title": "03. Colspan & Rowspan Attributes",
+            "video_id": 6555,
+            "notes_id": 44
+          },
+          {
+            "lec_no": "L-45",
+            "title": "04. Practice Qs",
+            "video_id": 6556,
+            "notes_id": 45
+          },
+          {
+            "lec_no": "L-46",
+            "title": "05. Forms in HTML",
+            "video_id": 6557,
+            "notes_id": 46
+          },
+          {
+            "lec_no": "L-47",
+            "title": "06. Input - Form Element",
+            "video_id": 6558,
+            "notes_id": 47
+          },
+          {
+            "lec_no": "L-48",
+            "title": "07. Placeholders & Labels",
+            "video_id": 6559,
+            "notes_id": 48
+          },
+          {
+            "lec_no": "L-49",
+            "title": "08. Button Element",
+            "video_id": 6560,
+            "notes_id": 49
+          },
+          {
+            "lec_no": "L-50",
+            "title": "09. Name Attribute",
+            "video_id": 6561,
+            "notes_id": 50
+          },
+          {
+            "lec_no": "L-51",
+            "title": "10. Practice Qs",
+            "video_id": 6562,
+            "notes_id": 51
+          },
+          {
+            "lec_no": "L-52",
+            "title": "11. Checkbox - Input Element",
+            "video_id": 6563,
+            "notes_id": 52
+          },
+          {
+            "lec_no": "L-53",
+            "title": "12. Radio - Input Element",
+            "video_id": 6564,
+            "notes_id": 53
+          },
+          {
+            "lec_no": "L-54",
+            "title": "13. Select - Input Element",
+            "video_id": 6565,
+            "notes_id": 54
+          },
+          {
+            "lec_no": "L-55",
+            "title": "14. Range - Input Element",
+            "video_id": 6566,
+            "notes_id": 55
+          },
+          {
+            "lec_no": "L-56",
+            "title": "15. Text Area",
+            "video_id": 6567,
+            "notes_id": 56
+          },
+          {
+            "lec_no": "L-57",
+            "title": "16. Practice Qs",
+            "video_id": 6568,
+            "notes_id": 57
+          },
+          {
+            "lec_no": "L-58",
+            "title": "17. HTML Level 3 (Qs).pdf",
+            "video_id": null,
+            "notes_id": 58
+          },
+          {
+            "lec_no": "L-59",
+            "title": "18. HTML Level 3 (Ans).pdf",
+            "video_id": null,
+            "notes_id": 59
+          }
+        ]
+      },
+      {
+        "chapter_name": "CSS (GETTING STARTED)",
+        "lectures": [
+          {
+            "lec_no": "L-104",
+            "title": "01. What is CSS",
+            "video_id": 6569,
+            "notes_id": 104
+          },
+          {
+            "lec_no": "L-105",
+            "title": "02. Basic CSS Format",
+            "video_id": 6570,
+            "notes_id": 105
+          },
+          {
+            "lec_no": "L-106",
+            "title": "03. Including CSS",
+            "video_id": 6571,
+            "notes_id": 106
+          },
+          {
+            "lec_no": "L-107",
+            "title": "04. Color Property",
+            "video_id": 6572,
+            "notes_id": 107
+          },
+          {
+            "lec_no": "L-108",
+            "title": "05. Background Color Property",
+            "video_id": 6573,
+            "notes_id": 108
+          },
+          {
+            "lec_no": "L-109",
+            "title": "06. Practice Qs",
+            "video_id": 6574,
+            "notes_id": 109
+          },
+          {
+            "lec_no": "L-110",
+            "title": "07. Color Systems (Name & RGB)",
+            "video_id": 6575,
+            "notes_id": 110
+          },
+          {
+            "lec_no": "L-111",
+            "title": "08. Hex Codes",
+            "video_id": 6576,
+            "notes_id": 111
+          },
+          {
+            "lec_no": "L-112",
+            "title": "09. Practice Qs",
+            "video_id": 6577,
+            "notes_id": 112
+          },
+          {
+            "lec_no": "L-113",
+            "title": "10. Text Align Property",
+            "video_id": 6578,
+            "notes_id": 113
+          },
+          {
+            "lec_no": "L-114",
+            "title": "11. Font Weight & Text Decoration",
+            "video_id": 6579,
+            "notes_id": 114
+          },
+          {
+            "lec_no": "L-115",
+            "title": "12. Line Height & Letter Spacing",
+            "video_id": 6580,
+            "notes_id": 115
+          },
+          {
+            "lec_no": "L-116",
+            "title": "13. Units in CSS (Pixel)",
+            "video_id": 6581,
+            "notes_id": 116
+          },
+          {
+            "lec_no": "L-117",
+            "title": "14. Font Family",
+            "video_id": 6582,
+            "notes_id": 117
+          },
+          {
+            "lec_no": "L-118",
+            "title": "15. Practice Qs",
+            "video_id": 6583,
+            "notes_id": 118
+          },
+          {
+            "lec_no": "L-119",
+            "title": "16. CSS Part1 (Qs).pdf",
+            "video_id": null,
+            "notes_id": 119
+          },
+          {
+            "lec_no": "L-120",
+            "title": "17. CSS Part 1 (Ans).pdf",
+            "video_id": null,
+            "notes_id": 120
+          }
+        ]
+      },
+      {
+        "chapter_name": "CSS (PART 02)",
+        "lectures": [
+          {
+            "lec_no": "L-74",
+            "title": "01. Download Starter HTML.pdf",
+            "video_id": null,
+            "notes_id": 74
+          },
+          {
+            "lec_no": "L-75",
+            "title": "02. How to download-",
+            "video_id": 6584,
+            "notes_id": 75
+          },
+          {
+            "lec_no": "L-76",
+            "title": "03. Universal Selector",
+            "video_id": 6585,
+            "notes_id": 76
+          },
+          {
+            "lec_no": "L-77",
+            "title": "04. Element Selector",
+            "video_id": 6586,
+            "notes_id": 77
+          },
+          {
+            "lec_no": "L-78",
+            "title": "05. Id Selector",
+            "video_id": 6587,
+            "notes_id": 78
+          },
+          {
+            "lec_no": "L-79",
+            "title": "06. Class Selector",
+            "video_id": 6588,
+            "notes_id": 79
+          },
+          {
+            "lec_no": "L-80",
+            "title": "07. Practice Qs",
+            "video_id": 6589,
+            "notes_id": 80
+          },
+          {
+            "lec_no": "L-81",
+            "title": "08. Descendant Selector",
+            "video_id": 6590,
+            "notes_id": 81
+          },
+          {
+            "lec_no": "L-82",
+            "title": "09. Sibling Combinator",
+            "video_id": 6591,
+            "notes_id": 82
+          },
+          {
+            "lec_no": "L-83",
+            "title": "10. Child Combinator",
+            "video_id": 6592,
+            "notes_id": 83
+          },
+          {
+            "lec_no": "L-84",
+            "title": "11. Attribute Selector",
+            "video_id": 6593,
+            "notes_id": 84
+          },
+          {
+            "lec_no": "L-85",
+            "title": "12. Practice Qs_2",
+            "video_id": 6594,
+            "notes_id": 85
+          },
+          {
+            "lec_no": "L-86",
+            "title": "13. Pseudo Class",
+            "video_id": 6595,
+            "notes_id": 86
+          },
+          {
+            "lec_no": "L-87",
+            "title": "14. Pseudo Element",
+            "video_id": 6596,
+            "notes_id": 87
+          },
+          {
+            "lec_no": "L-88",
+            "title": "15. Cascading & Specificity",
+            "video_id": 6597,
+            "notes_id": 88
+          },
+          {
+            "lec_no": "L-89",
+            "title": "16. Practice Qs_3",
+            "video_id": 6598,
+            "notes_id": 89
+          },
+          {
+            "lec_no": "L-90",
+            "title": "17. !important in CSS",
+            "video_id": 6599,
+            "notes_id": 90
+          },
+          {
+            "lec_no": "L-91",
+            "title": "18. Inheritance",
+            "video_id": 6600,
+            "notes_id": 91
+          },
+          {
+            "lec_no": "L-92",
+            "title": "19. CSS Part2 (Qs).pdf",
+            "video_id": null,
+            "notes_id": 92
+          },
+          {
+            "lec_no": "L-93",
+            "title": "20. CSS Part 2 (Ans).pdf",
+            "video_id": null,
+            "notes_id": 93
+          }
+        ]
+      },
+      {
+        "chapter_name": "CSS (PART 03)",
+        "lectures": [
+          {
+            "lec_no": "L-95",
+            "title": "01. Download Starter HTML.pdf",
+            "video_id": null,
+            "notes_id": 95
+          },
+          {
+            "lec_no": "L-96",
+            "title": "02. Box Model.ts",
+            "video_id": 6601,
+            "notes_id": 96
+          },
+          {
+            "lec_no": "L-97",
+            "title": "03. Height & Width.ts",
+            "video_id": 6602,
+            "notes_id": 97
+          },
+          {
+            "lec_no": "L-98",
+            "title": "05. Border Radius.ts",
+            "video_id": 6603,
+            "notes_id": 98
+          },
+          {
+            "lec_no": "L-99",
+            "title": "06. Padding Property.ts",
+            "video_id": 6604,
+            "notes_id": 99
+          },
+          {
+            "lec_no": "L-100",
+            "title": "07. Margin Property.ts",
+            "video_id": 6605,
+            "notes_id": 100
+          },
+          {
+            "lec_no": "L-101",
+            "title": "08. Practice Qs.ts",
+            "video_id": 6606,
+            "notes_id": 101
+          },
+          {
+            "lec_no": "L-102",
+            "title": "09. Display Property.ts",
+            "video_id": 6607,
+            "notes_id": 102
+          },
+          {
+            "lec_no": "L-152",
+            "title": "10 Conclusion (Inline & Block).pdf",
+            "video_id": null,
+            "notes_id": 152
+          },
+          {
+            "lec_no": "L-153",
+            "title": "11 Inline-Block.ts",
+            "video_id": 6608,
+            "notes_id": 153
+          },
+          {
+            "lec_no": "L-154",
+            "title": "12 Relative Units (Percentage).ts",
+            "video_id": 6609,
+            "notes_id": 154
+          },
+          {
+            "lec_no": "L-155",
+            "title": "13 Em & Rem in Units.ts",
+            "video_id": 6610,
+            "notes_id": 155
+          },
+          {
+            "lec_no": "L-156",
+            "title": "14. CSS Part3 (Qs).pdf",
+            "video_id": null,
+            "notes_id": 156
+          },
+          {
+            "lec_no": "L-157",
+            "title": "15. CSS Part 3 (Ans).pdf",
+            "video_id": null,
+            "notes_id": 157
+          }
+        ]
+      },
+      {
+        "chapter_name": "CSS (PART 04)",
+        "lectures": [
+          {
+            "lec_no": "L-159",
+            "title": "01. Alpha & Opacity",
+            "video_id": 6611,
+            "notes_id": 159
+          },
+          {
+            "lec_no": "L-160",
+            "title": "02. Transitions in CSS",
+            "video_id": 6612,
+            "notes_id": 160
+          },
+          {
+            "lec_no": "L-161",
+            "title": "03. Transform - Rotate",
+            "video_id": 6613,
+            "notes_id": 161
+          },
+          {
+            "lec_no": "L-162",
+            "title": "04. Tranform - Scale",
+            "video_id": 6614,
+            "notes_id": 162
+          },
+          {
+            "lec_no": "L-163",
+            "title": "05. Transform - Translate",
+            "video_id": 6615,
+            "notes_id": 163
+          },
+          {
+            "lec_no": "L-164",
+            "title": "06. Transform - Skew",
+            "video_id": 6616,
+            "notes_id": 164
+          },
+          {
+            "lec_no": "L-165",
+            "title": "07. Box Shadow",
+            "video_id": 6617,
+            "notes_id": 165
+          },
+          {
+            "lec_no": "L-166",
+            "title": "08. Background Image",
+            "video_id": 6618,
+            "notes_id": 166
+          },
+          {
+            "lec_no": "L-167",
+            "title": "09. Card Hover Effect",
+            "video_id": 6619,
+            "notes_id": 167
+          },
+          {
+            "lec_no": "L-168",
+            "title": "10. Position Property",
+            "video_id": 6620,
+            "notes_id": 168
+          },
+          {
+            "lec_no": "L-169",
+            "title": "11. Simple Smiley Face",
+            "video_id": 6621,
+            "notes_id": 169
+          },
+          {
+            "lec_no": "L-170",
+            "title": "12. CSS Part4 (Qs).pdf",
+            "video_id": null,
+            "notes_id": 170
+          },
+          {
+            "lec_no": "L-171",
+            "title": "13. CSS Part 4 (Ans).pdf",
+            "video_id": null,
+            "notes_id": 171
+          }
+        ]
+      },
+      {
+        "chapter_name": "CSS (PART 05)",
+        "lectures": [
+          {
+            "lec_no": "L-173",
+            "title": "01. What is Flexbox",
+            "video_id": 6622,
+            "notes_id": 173
+          },
+          {
+            "lec_no": "L-174",
+            "title": "02. Display Flex",
+            "video_id": 6623,
+            "notes_id": 174
+          },
+          {
+            "lec_no": "L-175",
+            "title": "03. Flex Direction",
+            "video_id": 6624,
+            "notes_id": 175
+          },
+          {
+            "lec_no": "L-176",
+            "title": "04. Justify Content",
+            "video_id": 6625,
+            "notes_id": 176
+          },
+          {
+            "lec_no": "L-177",
+            "title": "05. Flex Wrap",
+            "video_id": 6626,
+            "notes_id": 177
+          },
+          {
+            "lec_no": "L-178",
+            "title": "06. Align Items",
+            "video_id": 6627,
+            "notes_id": 178
+          },
+          {
+            "lec_no": "L-179",
+            "title": "07. Align Content",
+            "video_id": 6628,
+            "notes_id": 179
+          },
+          {
+            "lec_no": "L-180",
+            "title": "08. Align Self",
+            "video_id": 6629,
+            "notes_id": 180
+          },
+          {
+            "lec_no": "L-181",
+            "title": "09. Flex Sizing",
+            "video_id": 6630,
+            "notes_id": 181
+          },
+          {
+            "lec_no": "L-182",
+            "title": "10. Flex Shorthand",
+            "video_id": 6631,
+            "notes_id": 182
+          },
+          {
+            "lec_no": "L-183",
+            "title": "11. CSS Part5(Qs).pdf",
+            "video_id": null,
+            "notes_id": 183
+          },
+          {
+            "lec_no": "L-184",
+            "title": "12. CSS Part 5 (Ans).pdf",
+            "video_id": null,
+            "notes_id": 184
+          }
+        ]
+      },
+      {
+        "chapter_name": "CSS (PART 06)",
+        "lectures": [
+          {
+            "lec_no": "L-186",
+            "title": "01. What is Grid-",
+            "video_id": 6632,
+            "notes_id": 186
+          },
+          {
+            "lec_no": "L-187",
+            "title": "02. Grid Model",
+            "video_id": 6633,
+            "notes_id": 187
+          },
+          {
+            "lec_no": "L-188",
+            "title": "03. Grid Template",
+            "video_id": 6634,
+            "notes_id": 188
+          },
+          {
+            "lec_no": "L-189",
+            "title": "04. Grid Template (repeat)",
+            "video_id": 6635,
+            "notes_id": 189
+          },
+          {
+            "lec_no": "L-190",
+            "title": "05. Grid Gaps",
+            "video_id": 6636,
+            "notes_id": 190
+          },
+          {
+            "lec_no": "L-191",
+            "title": "06. Grid Columns",
+            "video_id": 6637,
+            "notes_id": 191
+          },
+          {
+            "lec_no": "L-192",
+            "title": "07. Grid Rows",
+            "video_id": 6638,
+            "notes_id": 192
+          },
+          {
+            "lec_no": "L-193",
+            "title": "08. Grid Properties",
+            "video_id": 6639,
+            "notes_id": 193
+          },
+          {
+            "lec_no": "L-194",
+            "title": "09. Animation in CSS",
+            "video_id": 6640,
+            "notes_id": 194
+          },
+          {
+            "lec_no": "L-195",
+            "title": "10. Animation Shorthand",
+            "video_id": 6641,
+            "notes_id": 195
+          },
+          {
+            "lec_no": "L-196",
+            "title": "11. % in Animation",
+            "video_id": 6642,
+            "notes_id": 196
+          },
+          {
+            "lec_no": "L-197",
+            "title": "12. Media Queries",
+            "video_id": 6643,
+            "notes_id": 197
+          },
+          {
+            "lec_no": "L-198",
+            "title": "13. Media Queries (Orientation)",
+            "video_id": 6644,
+            "notes_id": 198
+          },
+          {
+            "lec_no": "L-199",
+            "title": "14. Pet Adoption Page",
+            "video_id": 6645,
+            "notes_id": 199
+          },
+          {
+            "lec_no": "L-200",
+            "title": "15. Download Starter HTML.pdf",
+            "video_id": null,
+            "notes_id": 200
+          },
+          {
+            "lec_no": "L-201",
+            "title": "16. z-index",
+            "video_id": 6646,
+            "notes_id": 201
+          },
+          {
+            "lec_no": "L-202",
+            "title": "17. CSS Part 6 (Qs).pdf",
+            "video_id": null,
+            "notes_id": 202
+          },
+          {
+            "lec_no": "L-203",
+            "title": "18. CSS Part 6 (Ans).pdf",
+            "video_id": null,
+            "notes_id": 203
+          }
+        ]
+      },
+      {
+        "chapter_name": "CSS (MINI PROJECT)",
+        "lectures": [
+          {
+            "lec_no": "L-205",
+            "title": "01. Color Theory",
+            "video_id": 6647,
+            "notes_id": 205
+          },
+          {
+            "lec_no": "L-206",
+            "title": "02. Typography",
+            "video_id": 6648,
+            "notes_id": 206
+          },
+          {
+            "lec_no": "L-207",
+            "title": "03. Google Fonts",
+            "video_id": 6649,
+            "notes_id": 207
+          },
+          {
+            "lec_no": "L-208",
+            "title": "04. Icons",
+            "video_id": 6650,
+            "notes_id": 208
+          },
+          {
+            "lec_no": "L-209",
+            "title": "05. Download Starter HTML.pdf",
+            "video_id": null,
+            "notes_id": 209
+          },
+          {
+            "lec_no": "L-210",
+            "title": "06. Introduction",
+            "video_id": 6651,
+            "notes_id": 210
+          },
+          {
+            "lec_no": "L-211",
+            "title": "07. Setting Style",
+            "video_id": 6652,
+            "notes_id": 211
+          },
+          {
+            "lec_no": "L-212",
+            "title": "08. Sidebar Menu",
+            "video_id": 6653,
+            "notes_id": 212
+          },
+          {
+            "lec_no": "L-213",
+            "title": "09. Hover Changes",
+            "video_id": 6654,
+            "notes_id": 213
+          },
+          {
+            "lec_no": "L-214",
+            "title": "10. Configuring Checkbox",
+            "video_id": 6655,
+            "notes_id": 214
+          }
+        ]
+      },
+      {
+        "chapter_name": "BOOTSTRAP",
+        "lectures": [
+          {
+            "lec_no": "L-216",
+            "title": "01. What is Bootstrap-",
+            "video_id": 6656,
+            "notes_id": 216
+          },
+          {
+            "lec_no": "L-217",
+            "title": "02. Using Bootstrap",
+            "video_id": 6657,
+            "notes_id": 217
+          },
+          {
+            "lec_no": "L-218",
+            "title": "03. Container (Layout)",
+            "video_id": 6658,
+            "notes_id": 218
+          },
+          {
+            "lec_no": "L-219",
+            "title": "04. Button (Component)",
+            "video_id": 6659,
+            "notes_id": 219
+          },
+          {
+            "lec_no": "L-220",
+            "title": "05. Badge (Component)",
+            "video_id": 6660,
+            "notes_id": 220
+          },
+          {
+            "lec_no": "L-221",
+            "title": "06. Alert (Component)",
+            "video_id": 6661,
+            "notes_id": 221
+          },
+          {
+            "lec_no": "L-222",
+            "title": "07. Button Group (Component)",
+            "video_id": 6662,
+            "notes_id": 222
+          },
+          {
+            "lec_no": "L-223",
+            "title": "08. Navbar (Component)",
+            "video_id": 6663,
+            "notes_id": 223
+          },
+          {
+            "lec_no": "L-224",
+            "title": "09. Card (Component)",
+            "video_id": 6664,
+            "notes_id": 224
+          },
+          {
+            "lec_no": "L-225",
+            "title": "10. Grid (Layout)",
+            "video_id": 6665,
+            "notes_id": 225
+          },
+          {
+            "lec_no": "L-226",
+            "title": "11. Grid (Vertical Alignment)",
+            "video_id": 6666,
+            "notes_id": 226
+          },
+          {
+            "lec_no": "L-227",
+            "title": "12. Form Controls in Bootstrap",
+            "video_id": 6667,
+            "notes_id": 227
+          },
+          {
+            "lec_no": "L-228",
+            "title": "13. Select in Form",
+            "video_id": 6668,
+            "notes_id": 228
+          },
+          {
+            "lec_no": "L-229",
+            "title": "14. Checkbox & Radio in Form",
+            "video_id": 6669,
+            "notes_id": 229
+          },
+          {
+            "lec_no": "L-230",
+            "title": "15. Form Layout",
+            "video_id": 6670,
+            "notes_id": 230
+          },
+          {
+            "lec_no": "L-231",
+            "title": "16. Bootstrap (Qs).pdf",
+            "video_id": null,
+            "notes_id": 231
+          },
+          {
+            "lec_no": "L-232",
+            "title": "17. Bootstrap (Ans).pdf",
+            "video_id": null,
+            "notes_id": 232
+          }
+        ]
+      },
+      {
+        "chapter_name": "CSS (PROJECT)",
+        "lectures": [
+          {
+            "lec_no": "L-234",
+            "title": "01. Download Starter HTML.pdf",
+            "video_id": null,
+            "notes_id": 234
+          },
+          {
+            "lec_no": "L-235",
+            "title": "02. Setting up",
+            "video_id": 6671,
+            "notes_id": 235
+          },
+          {
+            "lec_no": "L-236",
+            "title": "03. Basics",
+            "video_id": 6672,
+            "notes_id": 236
+          },
+          {
+            "lec_no": "L-237",
+            "title": "04. Layout",
+            "video_id": 6673,
+            "notes_id": 237
+          },
+          {
+            "lec_no": "L-238",
+            "title": "05. Sidebar (Nav)",
+            "video_id": 6674,
+            "notes_id": 238
+          },
+          {
+            "lec_no": "L-239",
+            "title": "06. Sidebar (Library)",
+            "video_id": 6675,
+            "notes_id": 239
+          },
+          {
+            "lec_no": "L-240",
+            "title": "07. Library Boxes",
+            "video_id": 6676,
+            "notes_id": 240
+          },
+          {
+            "lec_no": "L-241",
+            "title": "08. Sticky Nav",
+            "video_id": 6677,
+            "notes_id": 241
+          },
+          {
+            "lec_no": "L-242",
+            "title": "09. Cards",
+            "video_id": 6678,
+            "notes_id": 242
+          },
+          {
+            "lec_no": "L-243",
+            "title": "10. Footer Line",
+            "video_id": 6679,
+            "notes_id": 243
+          },
+          {
+            "lec_no": "L-244",
+            "title": "11. Setting up Player",
+            "video_id": 6680,
+            "notes_id": 244
+          },
+          {
+            "lec_no": "L-245",
+            "title": "12. Player Controls",
+            "video_id": 6681,
+            "notes_id": 245
+          },
+          {
+            "lec_no": "L-246",
+            "title": "13. Playback Bar",
+            "video_id": 6682,
+            "notes_id": 246
+          }
+        ]
+      },
+      {
+        "chapter_name": "JAVASCRIPT (PART 01)",
+        "lectures": [
+          {
+            "lec_no": "L-248",
+            "title": "01. Introduction",
+            "video_id": 6683,
+            "notes_id": 248
+          },
+          {
+            "lec_no": "L-249",
+            "title": "02. Using the Console",
+            "video_id": 6684,
+            "notes_id": 249
+          },
+          {
+            "lec_no": "L-250",
+            "title": "03. What is a Variable_",
+            "video_id": 6685,
+            "notes_id": 250
+          },
+          {
+            "lec_no": "L-251",
+            "title": "04. Data Types in JS",
+            "video_id": 6686,
+            "notes_id": 251
+          },
+          {
+            "lec_no": "L-252",
+            "title": "05. Numbers in JS",
+            "video_id": 6687,
+            "notes_id": 252
+          },
+          {
+            "lec_no": "L-253",
+            "title": "06. Operations in JS",
+            "video_id": 6688,
+            "notes_id": 253
+          },
+          {
+            "lec_no": "L-254",
+            "title": "07. NaN in JS",
+            "video_id": 6689,
+            "notes_id": 254
+          },
+          {
+            "lec_no": "L-255",
+            "title": "08. Operator Precedence",
+            "video_id": 6690,
+            "notes_id": 255
+          },
+          {
+            "lec_no": "L-256",
+            "title": "09. Practice Qs",
+            "video_id": 6691,
+            "notes_id": 256
+          },
+          {
+            "lec_no": "L-257",
+            "title": "10. Assignment Operators",
+            "video_id": 6692,
+            "notes_id": 257
+          },
+          {
+            "lec_no": "L-258",
+            "title": "11. Unary Operators",
+            "video_id": 6693,
+            "notes_id": 258
+          },
+          {
+            "lec_no": "L-259",
+            "title": "12. Practice Qs",
+            "video_id": 6694,
+            "notes_id": 259
+          },
+          {
+            "lec_no": "L-260",
+            "title": "13. Identifier Rules",
+            "video_id": 6695,
+            "notes_id": 260
+          },
+          {
+            "lec_no": "L-261",
+            "title": "14. Boolean in JS",
+            "video_id": 6696,
+            "notes_id": 261
+          },
+          {
+            "lec_no": "L-262",
+            "title": "15. What is TypeScript_",
+            "video_id": 6697,
+            "notes_id": 262
+          },
+          {
+            "lec_no": "L-263",
+            "title": "16. Practice Qs",
+            "video_id": 6698,
+            "notes_id": 263
+          },
+          {
+            "lec_no": "L-264",
+            "title": "17. String in JS",
+            "video_id": 6699,
+            "notes_id": 264
+          },
+          {
+            "lec_no": "L-265",
+            "title": "18. String Indices",
+            "video_id": 6700,
+            "notes_id": 265
+          },
+          {
+            "lec_no": "L-266",
+            "title": "19. null & undefined in JS",
+            "video_id": 6701,
+            "notes_id": 266
+          },
+          {
+            "lec_no": "L-267",
+            "title": "20. Practice Qs",
+            "video_id": 6702,
+            "notes_id": 267
+          }
+        ]
+      },
+      {
+        "chapter_name": "JAVASCRIPT (PART 02)",
+        "lectures": [
+          {
+            "lec_no": "L-269",
+            "title": "01. console.log( )",
+            "video_id": 6703,
+            "notes_id": 269
+          },
+          {
+            "lec_no": "L-270",
+            "title": "02. Linking JS File",
+            "video_id": 6704,
+            "notes_id": 270
+          },
+          {
+            "lec_no": "L-271",
+            "title": "03. Template Literals",
+            "video_id": 6705,
+            "notes_id": 271
+          },
+          {
+            "lec_no": "L-272",
+            "title": "04. Operators in JS",
+            "video_id": 6706,
+            "notes_id": 272
+          },
+          {
+            "lec_no": "L-273",
+            "title": "05. Comparison Operators",
+            "video_id": 6707,
+            "notes_id": 273
+          },
+          {
+            "lec_no": "L-274",
+            "title": "06. Comparison for Non-numbers",
+            "video_id": 6708,
+            "notes_id": 274
+          },
+          {
+            "lec_no": "L-275",
+            "title": "07. Conditional Statements",
+            "video_id": 6709,
+            "notes_id": 275
+          },
+          {
+            "lec_no": "L-277",
+            "title": "09. Practice Qs",
+            "video_id": 6710,
+            "notes_id": 277
+          },
+          {
+            "lec_no": "L-279",
+            "title": "11. else Statement",
+            "video_id": 6711,
+            "notes_id": 279
+          },
+          {
+            "lec_no": "L-280",
+            "title": "12. Practice Qs",
+            "video_id": 6712,
+            "notes_id": 280
+          },
+          {
+            "lec_no": "L-281",
+            "title": "13. Nested if-else",
+            "video_id": 6713,
+            "notes_id": 281
+          },
+          {
+            "lec_no": "L-282",
+            "title": "14. Logical Operators",
+            "video_id": 6714,
+            "notes_id": 282
+          },
+          {
+            "lec_no": "L-283",
+            "title": "15. Practice Qs",
+            "video_id": 6715,
+            "notes_id": 283
+          },
+          {
+            "lec_no": "L-284",
+            "title": "16. truthy & falsy",
+            "video_id": 6716,
+            "notes_id": 284
+          },
+          {
+            "lec_no": "L-285",
+            "title": "17. Switch Statement",
+            "video_id": 6717,
+            "notes_id": 285
+          },
+          {
+            "lec_no": "L-286",
+            "title": "18. Practice Qs",
+            "video_id": 6718,
+            "notes_id": 286
+          },
+          {
+            "lec_no": "L-287",
+            "title": "19. Alerts & Prompts",
+            "video_id": 6719,
+            "notes_id": 287
+          },
+          {
+            "lec_no": "L-288",
+            "title": "JS Part2 (Qs)",
+            "video_id": null,
+            "notes_id": 288
+          },
+          {
+            "lec_no": "L-289",
+            "title": "JS Part 2 (Ans)",
+            "video_id": null,
+            "notes_id": 289
+          }
+        ]
+      },
+      {
+        "chapter_name": "JAVASCRIPT (PART 03)",
+        "lectures": [
+          {
+            "lec_no": "L-291",
+            "title": "String Methods",
+            "video_id": 6720,
+            "notes_id": 291
+          },
+          {
+            "lec_no": "L-292",
+            "title": "Trim Method",
+            "video_id": 6721,
+            "notes_id": 292
+          },
+          {
+            "lec_no": "L-293",
+            "title": "Strings are Immutable in JS",
+            "video_id": 6722,
+            "notes_id": 293
+          },
+          {
+            "lec_no": "L-294",
+            "title": "ToUpperCase and ToLowerCase",
+            "video_id": 6723,
+            "notes_id": 294
+          },
+          {
+            "lec_no": "L-295",
+            "title": "Methods with Arguments - indexOf",
+            "video_id": 6724,
+            "notes_id": 295
+          },
+          {
+            "lec_no": "L-296",
+            "title": "06. Method Chaining",
+            "video_id": 6725,
+            "notes_id": 296
+          },
+          {
+            "lec_no": "L-297",
+            "title": "07. Slice Method",
+            "video_id": 6726,
+            "notes_id": 297
+          },
+          {
+            "lec_no": "L-298",
+            "title": "08. Replace & Repeat Method",
+            "video_id": 6727,
+            "notes_id": 298
+          },
+          {
+            "lec_no": "L-299",
+            "title": "09. Practice Qs",
+            "video_id": 6728,
+            "notes_id": 299
+          },
+          {
+            "lec_no": "L-300",
+            "title": "10. Array (Data Structure)",
+            "video_id": 6729,
+            "notes_id": 300
+          },
+          {
+            "lec_no": "L-301",
+            "title": "11. Visualizing Arrays",
+            "video_id": 6730,
+            "notes_id": 301
+          },
+          {
+            "lec_no": "L-302",
+            "title": "12. Creating Arrays",
+            "video_id": 6731,
+            "notes_id": 302
+          },
+          {
+            "lec_no": "L-303",
+            "title": "13. Arrays are Mutable",
+            "video_id": 6732,
+            "notes_id": 303
+          },
+          {
+            "lec_no": "L-304",
+            "title": "14. Array Methods",
+            "video_id": 6733,
+            "notes_id": 304
+          },
+          {
+            "lec_no": "L-305",
+            "title": "15. Practice Qs",
+            "video_id": 6744,
+            "notes_id": 305
+          },
+          {
+            "lec_no": "L-306",
+            "title": "16. indexOf & includes Method",
+            "video_id": 6735,
+            "notes_id": 306
+          },
+          {
+            "lec_no": "L-307",
+            "title": "17. Concatenation & Reverse",
+            "video_id": 6736,
+            "notes_id": 307
+          },
+          {
+            "lec_no": "L-308",
+            "title": "18. Slice in Arrays",
+            "video_id": 6737,
+            "notes_id": 308
+          },
+          {
+            "lec_no": "L-309",
+            "title": "19. Splice in Arrays",
+            "video_id": 6738,
+            "notes_id": 309
+          },
+          {
+            "lec_no": "L-310",
+            "title": "20. Sort in Arrays",
+            "video_id": 6739,
+            "notes_id": 310
+          },
+          {
+            "lec_no": "L-311",
+            "title": "21. Practice Qs",
+            "video_id": 6740,
+            "notes_id": 311
+          },
+          {
+            "lec_no": "L-312",
+            "title": "22. Arrays References",
+            "video_id": 6741,
+            "notes_id": 312
+          },
+          {
+            "lec_no": "L-313",
+            "title": "23. Constant Arrays",
+            "video_id": 6742,
+            "notes_id": 313
+          },
+          {
+            "lec_no": "L-314",
+            "title": "24. Nested Arrays",
+            "video_id": 6743,
+            "notes_id": 314
+          },
+          {
+            "lec_no": "L-315",
+            "title": "25. Practice Qs",
+            "video_id": 6744,
+            "notes_id": 315
+          },
+          {
+            "lec_no": "L-316",
+            "title": "26. JS Part3 (Qs).pdf",
+            "video_id": null,
+            "notes_id": 316
+          },
+          {
+            "lec_no": "L-317",
+            "title": "27. JS Part 3 (Ans).pdf",
+            "video_id": null,
+            "notes_id": 317
+          }
+        ]
+      },
+      {
+        "chapter_name": "JAVASCRIPT (PART 04)",
+        "lectures": [
+          {
+            "lec_no": "L-319",
+            "title": "01. for Loops",
+            "video_id": 6745,
+            "notes_id": 319
+          },
+          {
+            "lec_no": "L-320",
+            "title": "02. Dry Run",
+            "video_id": 6746,
+            "notes_id": 320
+          },
+          {
+            "lec_no": "L-321",
+            "title": "03. Print Odd Numbers",
+            "video_id": 6747,
+            "notes_id": 321
+          },
+          {
+            "lec_no": "L-322",
+            "title": "04. Print Even Numbers",
+            "video_id": 6748,
+            "notes_id": 322
+          },
+          {
+            "lec_no": "L-323",
+            "title": "05. Infinite Loops",
+            "video_id": 6749,
+            "notes_id": 323
+          },
+          {
+            "lec_no": "L-324",
+            "title": "06. Print Multiplication Table",
+            "video_id": 6750,
+            "notes_id": 324
+          },
+          {
+            "lec_no": "L-325",
+            "title": "07. Nested for Loop",
+            "video_id": 6751,
+            "notes_id": 325
+          },
+          {
+            "lec_no": "L-326",
+            "title": "08. while Loops",
+            "video_id": 6752,
+            "notes_id": 326
+          },
+          {
+            "lec_no": "L-327",
+            "title": "09. Favorite Movie",
+            "video_id": 6753,
+            "notes_id": 327
+          },
+          {
+            "lec_no": "L-328",
+            "title": "10. break Keyword",
+            "video_id": 6754,
+            "notes_id": 328
+          },
+          {
+            "lec_no": "L-329",
+            "title": "11. Loops with Arrays",
+            "video_id": 6755,
+            "notes_id": 329
+          },
+          {
+            "lec_no": "L-330",
+            "title": "12. Loops with Nested Arrays",
+            "video_id": 6756,
+            "notes_id": 330
+          },
+          {
+            "lec_no": "L-331",
+            "title": "13. for-of Loops",
+            "video_id": 6757,
+            "notes_id": 331
+          },
+          {
+            "lec_no": "L-332",
+            "title": "14. Nested for-of Loop",
+            "video_id": 6758,
+            "notes_id": 332
+          },
+          {
+            "lec_no": "L-333",
+            "title": "15. Todo App (only JS)",
+            "video_id": 6759,
+            "notes_id": 333
+          },
+          {
+            "lec_no": "L-334",
+            "title": "16. JS Part 4 (Qs).pdf",
+            "video_id": null,
+            "notes_id": 334
+          },
+          {
+            "lec_no": "L-335",
+            "title": "17. JS Part 4 (Ans).pdf",
+            "video_id": null,
+            "notes_id": 335
+          }
+        ]
+      },
+      {
+        "chapter_name": "JAVASCRIPT (PART 05)",
+        "lectures": [
+          {
+            "lec_no": "L-337",
+            "title": "01. Object Literals",
+            "video_id": 6760,
+            "notes_id": 337
+          },
+          {
+            "lec_no": "L-338",
+            "title": "02. Creating Object Literals",
+            "video_id": 6761,
+            "notes_id": 338
+          },
+          {
+            "lec_no": "L-339",
+            "title": "03. Creating a Post",
+            "video_id": 6762,
+            "notes_id": 339
+          },
+          {
+            "lec_no": "L-340",
+            "title": "04. Get Values",
+            "video_id": 6763,
+            "notes_id": 340
+          },
+          {
+            "lec_no": "L-341",
+            "title": "05. Conversion in Get Values",
+            "video_id": 6764,
+            "notes_id": 341
+          },
+          {
+            "lec_no": "L-342",
+            "title": "06. Add _ Update Values",
+            "video_id": 6765,
+            "notes_id": 342
+          },
+          {
+            "lec_no": "L-343",
+            "title": "07. Nested Objects",
+            "video_id": 6766,
+            "notes_id": 343
+          },
+          {
+            "lec_no": "L-344",
+            "title": "08. Array of Objects",
+            "video_id": 6767,
+            "notes_id": 344
+          },
+          {
+            "lec_no": "L-345",
+            "title": "09. Math Object",
+            "video_id": 6768,
+            "notes_id": 345
+          },
+          {
+            "lec_no": "L-346",
+            "title": "10. Random Integers",
+            "video_id": 6769,
+            "notes_id": 346
+          },
+          {
+            "lec_no": "L-347",
+            "title": "11. Practice Qs",
+            "video_id": 6770,
+            "notes_id": 347
+          },
+          {
+            "lec_no": "L-348",
+            "title": "12. Guessing Game",
+            "video_id": 6771,
+            "notes_id": 348
+          },
+          {
+            "lec_no": "L-349",
+            "title": "13. JS Part 5 (Qs).pdf",
+            "video_id": null,
+            "notes_id": 349
+          },
+          {
+            "lec_no": "L-350",
+            "title": "14. JS Part 5 (Ans).pdf",
+            "video_id": null,
+            "notes_id": 350
+          }
+        ]
+      },
+      {
+        "chapter_name": "JAVASCRIPT (PART 06)",
+        "lectures": [
+          {
+            "lec_no": "L-352",
+            "title": "01. What are functions-",
+            "video_id": 6772,
+            "notes_id": 352
+          },
+          {
+            "lec_no": "L-353",
+            "title": "02. Practice Qs1",
+            "video_id": 6773,
+            "notes_id": 353
+          },
+          {
+            "lec_no": "L-354",
+            "title": "03. Practice Qs 2",
+            "video_id": 6774,
+            "notes_id": 354
+          },
+          {
+            "lec_no": "L-355",
+            "title": "04. Functions with Arguments",
+            "video_id": 6775,
+            "notes_id": 355
+          },
+          {
+            "lec_no": "L-356",
+            "title": "05. Practice Qs 3",
+            "video_id": 6776,
+            "notes_id": 356
+          },
+          {
+            "lec_no": "L-357",
+            "title": "06. Practice Qs 4",
+            "video_id": 6777,
+            "notes_id": 357
+          },
+          {
+            "lec_no": "L-358",
+            "title": "07. return Keyword",
+            "video_id": 6778,
+            "notes_id": 358
+          },
+          {
+            "lec_no": "L-359",
+            "title": "08. Practice Qs 5",
+            "video_id": 6779,
+            "notes_id": 359
+          },
+          {
+            "lec_no": "L-360",
+            "title": "09. Practice Qs 6",
+            "video_id": 6780,
+            "notes_id": 360
+          },
+          {
+            "lec_no": "L-361",
+            "title": "10. What is Scope-",
+            "video_id": 6781,
+            "notes_id": 361
+          },
+          {
+            "lec_no": "L-362",
+            "title": "11. Block Scope",
+            "video_id": 6782,
+            "notes_id": 362
+          },
+          {
+            "lec_no": "L-363",
+            "title": "12. Lexical Scope",
+            "video_id": 6783,
+            "notes_id": 363
+          },
+          {
+            "lec_no": "L-364",
+            "title": "13. Practice Qs 7",
+            "video_id": 6784,
+            "notes_id": 364
+          },
+          {
+            "lec_no": "L-365",
+            "title": "14. Functions Expressions",
+            "video_id": 6785,
+            "notes_id": 365
+          },
+          {
+            "lec_no": "L-366",
+            "title": "15. Higher Order Functions",
+            "video_id": 6786,
+            "notes_id": 366
+          },
+          {
+            "lec_no": "L-367",
+            "title": "16. Higher Order Functions (Returns)",
+            "video_id": 6787,
+            "notes_id": 367
+          },
+          {
+            "lec_no": "L-368",
+            "title": "17. Methods",
+            "video_id": 6788,
+            "notes_id": 368
+          },
+          {
+            "lec_no": "L-369",
+            "title": "18. JS Part 6 (Qs).pdf",
+            "video_id": null,
+            "notes_id": 369
+          },
+          {
+            "lec_no": "L-370",
+            "title": "19. JS Part 6 (Ans).pdf",
+            "video_id": null,
+            "notes_id": 370
+          }
+        ]
+      },
+      {
+        "chapter_name": "JAVASCRIPT (PART 07)",
+        "lectures": [
+          {
+            "lec_no": "L-372",
+            "title": "01. 'this' in JavaScript",
+            "video_id": 6789,
+            "notes_id": 372
+          },
+          {
+            "lec_no": "L-373",
+            "title": "02. Try & Catch",
+            "video_id": 6790,
+            "notes_id": 373
+          },
+          {
+            "lec_no": "L-374",
+            "title": "03. Arrow Functions",
+            "video_id": 6791,
+            "notes_id": 374
+          },
+          {
+            "lec_no": "L-375",
+            "title": "04. Implicit Return in Arrow Functions",
+            "video_id": 6792,
+            "notes_id": 375
+          },
+          {
+            "lec_no": "L-376",
+            "title": "05. Set TimeOut Function",
+            "video_id": 6793,
+            "notes_id": 376
+          },
+          {
+            "lec_no": "L-377",
+            "title": "06. Set Interval Function",
+            "video_id": 6794,
+            "notes_id": 377
+          },
+          {
+            "lec_no": "L-378",
+            "title": "07. this with Arrow Functions",
+            "video_id": 6795,
+            "notes_id": 378
+          },
+          {
+            "lec_no": "L-379",
+            "title": "08. Practice Qs",
+            "video_id": 6796,
+            "notes_id": 379
+          },
+          {
+            "lec_no": "L-380",
+            "title": "09. JS Part 7 (Qs).pdf",
+            "video_id": null,
+            "notes_id": 380
+          },
+          {
+            "lec_no": "L-381",
+            "title": "10. JS Part 7 (Ans).pdf",
+            "video_id": null,
+            "notes_id": 381
+          }
+        ]
+      },
+      {
+        "chapter_name": "JAVASCRIPT (PART 08)",
+        "lectures": [
+          {
+            "lec_no": "L-383",
+            "title": "01. Array Methods",
+            "video_id": 6797,
+            "notes_id": 383
+          },
+          {
+            "lec_no": "L-384",
+            "title": "02. Map & Filter",
+            "video_id": 6798,
+            "notes_id": 384
+          },
+          {
+            "lec_no": "L-385",
+            "title": "03. Every & Sum",
+            "video_id": 6799,
+            "notes_id": 385
+          },
+          {
+            "lec_no": "L-386",
+            "title": "04. Reduce Method",
+            "video_id": 6800,
+            "notes_id": 386
+          },
+          {
+            "lec_no": "L-387",
+            "title": "05. Maximum in Array",
+            "video_id": 6801,
+            "notes_id": 387
+          },
+          {
+            "lec_no": "L-388",
+            "title": "06. Practice Qs",
+            "video_id": 6802,
+            "notes_id": 388
+          },
+          {
+            "lec_no": "L-389",
+            "title": "07. Default Parameters",
+            "video_id": 6803,
+            "notes_id": 389
+          },
+          {
+            "lec_no": "L-390",
+            "title": "08. Spread",
+            "video_id": 6804,
+            "notes_id": 390
+          },
+          {
+            "lec_no": "L-391",
+            "title": "09. Spread (Array Literals)",
+            "video_id": 6805,
+            "notes_id": 391
+          },
+          {
+            "lec_no": "L-392",
+            "title": "10. Spread (Object Literals)",
+            "video_id": 6806,
+            "notes_id": 392
+          },
+          {
+            "lec_no": "L-393",
+            "title": "11. Rest",
+            "video_id": 6807,
+            "notes_id": 393
+          },
+          {
+            "lec_no": "L-394",
+            "title": "12. Destructuring",
+            "video_id": 6808,
+            "notes_id": 394
+          },
+          {
+            "lec_no": "L-395",
+            "title": "13. Destructuring (Objects)",
+            "video_id": 6809,
+            "notes_id": 395
+          },
+          {
+            "lec_no": "L-396",
+            "title": "14. JS Part 8 (Qs).pdf",
+            "video_id": null,
+            "notes_id": 396
+          },
+          {
+            "lec_no": "L-397",
+            "title": "15. JS Part 8 (Ans).pdf",
+            "video_id": null,
+            "notes_id": 397
+          },
+          {
+            "lec_no": "L-398",
+            "title": "01. JS Call Stack",
+            "video_id": 6810,
+            "notes_id": 398
+          },
+          {
+            "lec_no": "L-399",
+            "title": "02. Visualizing the Call stack",
+            "video_id": 6811,
+            "notes_id": 399
+          },
+          {
+            "lec_no": "L-400",
+            "title": "03. Breakpoints",
+            "video_id": 6812,
+            "notes_id": 400
+          },
+          {
+            "lec_no": "L-401",
+            "title": "04. JS is Single Threaded",
+            "video_id": 6813,
+            "notes_id": 401
+          },
+          {
+            "lec_no": "L-402",
+            "title": "05. Callback Hell",
+            "video_id": 6814,
+            "notes_id": 402
+          }
+        ]
+      },
+      {
+        "chapter_name": "JAVASCRIPT (PART 09)",
+        "lectures": [
+          {
+            "lec_no": "L-404",
+            "title": "01. Introduction",
+            "video_id": 6815,
+            "notes_id": 404
+          },
+          {
+            "lec_no": "L-405",
+            "title": "02. What is DOM",
+            "video_id": 6816,
+            "notes_id": 405
+          },
+          {
+            "lec_no": "L-406",
+            "title": "03. Download Starter Code",
+            "video_id": 6817,
+            "notes_id": 406
+          },
+          {
+            "lec_no": "L-407",
+            "title": "04. Link For Download.pdf",
+            "video_id": null,
+            "notes_id": 407
+          },
+          {
+            "lec_no": "L-408",
+            "title": "05. Selecting Element by ID ",
+            "video_id": 6818,
+            "notes_id": 408
+          },
+          {
+            "lec_no": "L-409",
+            "title": "06. Selecting Elements by Class Name ",
+            "video_id": 6819,
+            "notes_id": 409
+          },
+          {
+            "lec_no": "L-410",
+            "title": "07. Selecting Elements by Tag Name",
+            "video_id": 6820,
+            "notes_id": 410
+          },
+          {
+            "lec_no": "L-411",
+            "title": "08. Query Selectors",
+            "video_id": 6821,
+            "notes_id": 411
+          },
+          {
+            "lec_no": "L-412",
+            "title": "09. Setting Content in Objects",
+            "video_id": 6822,
+            "notes_id": 412
+          },
+          {
+            "lec_no": "L-413",
+            "title": "10. Manipulating Attributes",
+            "video_id": 6823,
+            "notes_id": 413
+          },
+          {
+            "lec_no": "L-414",
+            "title": "11. Manipulating Style (with style attribute)",
+            "video_id": 6824,
+            "notes_id": 414
+          },
+          {
+            "lec_no": "L-415",
+            "title": "12. classList Property",
+            "video_id": 6825,
+            "notes_id": 415
+          },
+          {
+            "lec_no": "L-416",
+            "title": "13. Navigation on Page",
+            "video_id": 6826,
+            "notes_id": 416
+          },
+          {
+            "lec_no": "L-417",
+            "title": "14. Adding Elements on Page",
+            "video_id": 6827,
+            "notes_id": 417
+          },
+          {
+            "lec_no": "L-418",
+            "title": "15. Removing Elements from Page",
+            "video_id": 6828,
+            "notes_id": 418
+          },
+          {
+            "lec_no": "L-419",
+            "title": "16. Practice Qs",
+            "video_id": 6829,
+            "notes_id": 419
+          },
+          {
+            "lec_no": "L-420",
+            "title": "17. Assignment Questions.pdf",
+            "video_id": null,
+            "notes_id": 420
+          },
+          {
+            "lec_no": "L-421",
+            "title": "18. Assignment Solutions.pdf",
+            "video_id": null,
+            "notes_id": 421
+          }
+        ]
+      },
+      {
+        "chapter_name": "JAVASCRIPT (PART 10)",
+        "lectures": [
+          {
+            "lec_no": "L-423",
+            "title": "01. DOM Events",
+            "video_id": 6830,
+            "notes_id": 423
+          },
+          {
+            "lec_no": "L-424",
+            "title": "02. Mouse_ Pointer Events",
+            "video_id": 6831,
+            "notes_id": 424
+          },
+          {
+            "lec_no": "L-425",
+            "title": "03. Event Listeners",
+            "video_id": 6832,
+            "notes_id": 425
+          },
+          {
+            "lec_no": "L-426",
+            "title": "04. Activity",
+            "video_id": 6833,
+            "notes_id": 426
+          },
+          {
+            "lec_no": "L-427",
+            "title": "05. Event Listeners for Elements",
+            "video_id": 6834,
+            "notes_id": 427
+          },
+          {
+            "lec_no": "L-428",
+            "title": "06. this in Event Listeners",
+            "video_id": 6835,
+            "notes_id": 428
+          },
+          {
+            "lec_no": "L-429",
+            "title": "07. Keyboard Events",
+            "video_id": 6836,
+            "notes_id": 429
+          },
+          {
+            "lec_no": "L-430",
+            "title": "08. Form Events",
+            "video_id": 6837,
+            "notes_id": 430
+          },
+          {
+            "lec_no": "L-431",
+            "title": "09. Extracting Form Data",
+            "video_id": 6838,
+            "notes_id": 431
+          },
+          {
+            "lec_no": "L-432",
+            "title": "10. More Events",
+            "video_id": 6839,
+            "notes_id": 432
+          },
+          {
+            "lec_no": "L-433",
+            "title": "11. JS Part 10 (Qs).pdf",
+            "video_id": null,
+            "notes_id": 433
+          }
+        ]
+      },
+      {
+        "chapter_name": "JAVASCRIPT (MINI PROJECT)",
+        "lectures": [
+          {
+            "lec_no": "L-435",
+            "title": "01. Event Bubbling",
+            "video_id": 6840,
+            "notes_id": 435
+          },
+          {
+            "lec_no": "L-436",
+            "title": "02. Building Todo with DOM",
+            "video_id": 6841,
+            "notes_id": 436
+          },
+          {
+            "lec_no": "L-437",
+            "title": "03. Event Delegation",
+            "video_id": 6842,
+            "notes_id": 437
+          },
+          {
+            "lec_no": "L-438",
+            "title": "04. How to play Simon",
+            "video_id": 6843,
+            "notes_id": 438
+          },
+          {
+            "lec_no": "L-439",
+            "title": "05. Setting up Project",
+            "video_id": 6844,
+            "notes_id": 439
+          },
+          {
+            "lec_no": "L-440",
+            "title": "06. Start Game",
+            "video_id": 6845,
+            "notes_id": 440
+          },
+          {
+            "lec_no": "L-441",
+            "title": "07. Flash Buttons & Level Up",
+            "video_id": 6846,
+            "notes_id": 441
+          },
+          {
+            "lec_no": "L-442",
+            "title": "08. Button Event Listeners",
+            "video_id": 6847,
+            "notes_id": 442
+          },
+          {
+            "lec_no": "L-443",
+            "title": "09. Matching Sequence",
+            "video_id": 6848,
+            "notes_id": 443
+          },
+          {
+            "lec_no": "L-444",
+            "title": "10. Reset Game",
+            "video_id": 6849,
+            "notes_id": 444
+          },
+          {
+            "lec_no": "L-445",
+            "title": "11. Display Score",
+            "video_id": 6850,
+            "notes_id": 445
+          }
+        ]
+      },
+      {
+        "chapter_name": "JAVASCRIPT (PART 11)",
+        "lectures": [
+          {
+            "lec_no": "L-447",
+            "title": "01. JS Call Stack",
+            "video_id": 6851,
+            "notes_id": 447
+          },
+          {
+            "lec_no": "L-448",
+            "title": "02. Visualizing the Call stack",
+            "video_id": 6852,
+            "notes_id": 448
+          },
+          {
+            "lec_no": "L-449",
+            "title": "03. Breakpoints",
+            "video_id": 6853,
+            "notes_id": 449
+          },
+          {
+            "lec_no": "L-450",
+            "title": "04. JS is Single Threaded",
+            "video_id": 6854,
+            "notes_id": 450
+          },
+          {
+            "lec_no": "L-451",
+            "title": "05. Callback Hell",
+            "video_id": 6855,
+            "notes_id": 451
+          },
+          {
+            "lec_no": "L-452",
+            "title": "06. Setting up for Promises",
+            "video_id": 6856,
+            "notes_id": 452
+          },
+          {
+            "lec_no": "L-453",
+            "title": "07. Refactoring with Promises",
+            "video_id": 6857,
+            "notes_id": 453
+          },
+          {
+            "lec_no": "L-454",
+            "title": "08. then( ) and catch( ) methods",
+            "video_id": 6858,
+            "notes_id": 454
+          },
+          {
+            "lec_no": "L-455",
+            "title": "09. Promise chaining",
+            "video_id": 6859,
+            "notes_id": 455
+          },
+          {
+            "lec_no": "L-456",
+            "title": "10. Results & Errors in Promises",
+            "video_id": 6860,
+            "notes_id": 456
+          },
+          {
+            "lec_no": "L-457",
+            "title": "11. Refactoring old code",
+            "video_id": 6861,
+            "notes_id": 457
+          }
+        ]
+      },
+      {
+        "chapter_name": "JAVASCRIPT (PART 12)",
+        "lectures": [
+          {
+            "lec_no": "L-459",
+            "title": "01. async Functions",
+            "video_id": 6862,
+            "notes_id": 459
+          },
+          {
+            "lec_no": "L-460",
+            "title": "02. await Keyword",
+            "video_id": 6863,
+            "notes_id": 460
+          },
+          {
+            "lec_no": "L-461",
+            "title": "03. Handing Rejections",
+            "video_id": 6864,
+            "notes_id": 461
+          },
+          {
+            "lec_no": "L-462",
+            "title": "04. What is an API_",
+            "video_id": 6865,
+            "notes_id": 462
+          },
+          {
+            "lec_no": "L-463",
+            "title": "05. Accessing some APIs",
+            "video_id": 6866,
+            "notes_id": 463
+          },
+          {
+            "lec_no": "L-464",
+            "title": "06. What is JSON_",
+            "video_id": 6867,
+            "notes_id": 464
+          },
+          {
+            "lec_no": "L-465",
+            "title": "07. Accessing JSON data",
+            "video_id": 6868,
+            "notes_id": 465
+          },
+          {
+            "lec_no": "L-466",
+            "title": "08. API Testing Tools",
+            "video_id": 6869,
+            "notes_id": 466
+          },
+          {
+            "lec_no": "L-467",
+            "title": "09. What is Ajax_",
+            "video_id": 6870,
+            "notes_id": 467
+          },
+          {
+            "lec_no": "L-468",
+            "title": "10. Https Verbs",
+            "video_id": 6871,
+            "notes_id": 468
+          },
+          {
+            "lec_no": "L-469",
+            "title": "11. Status Codes",
+            "video_id": 6872,
+            "notes_id": 469
+          },
+          {
+            "lec_no": "L-470",
+            "title": "12. Adding Information in URLs",
+            "video_id": 6873,
+            "notes_id": 470
+          },
+          {
+            "lec_no": "L-471",
+            "title": "13. Https Headers",
+            "video_id": 6874,
+            "notes_id": 471
+          },
+          {
+            "lec_no": "L-472",
+            "title": "14. Our First API request",
+            "video_id": 6875,
+            "notes_id": 472
+          },
+          {
+            "lec_no": "L-473",
+            "title": "15. Using Fetch with async-await",
+            "video_id": 6876,
+            "notes_id": 473
+          }
+        ]
+      },
+      {
+        "chapter_name": "JAVASCRIPT (PART 13)",
+        "lectures": [
+          {
+            "lec_no": "L-475",
+            "title": "01. Using Axios",
+            "video_id": 6877,
+            "notes_id": 475
+          },
+          {
+            "lec_no": "L-476",
+            "title": "02. DogPictures API",
+            "video_id": 6878,
+            "notes_id": 476
+          },
+          {
+            "lec_no": "L-477",
+            "title": "03. Sending Headers with API requests",
+            "video_id": 6879,
+            "notes_id": 477
+          },
+          {
+            "lec_no": "L-478",
+            "title": "04. Activity using Query Strings",
+            "video_id": 6880,
+            "notes_id": 478
+          },
+          {
+            "lec_no": "L-479",
+            "title": "05. Free APIs List for Project.pdf",
+            "video_id": null,
+            "notes_id": 479
+          }
+        ]
+      },
+      {
+        "chapter_name": "TERMINAL",
+        "lectures": [
+          {
+            "lec_no": "L-481",
+            "title": "01. What is the Terminal_",
+            "video_id": 6881,
+            "notes_id": 481
+          },
+          {
+            "lec_no": "L-482",
+            "title": "02. Different Terms related to Terminal",
+            "video_id": 6882,
+            "notes_id": 482
+          },
+          {
+            "lec_no": "L-483",
+            "title": "03. (Window Users Only) Installing Git Bash",
+            "video_id": 6883,
+            "notes_id": 483
+          },
+          {
+            "lec_no": "L-484",
+            "title": "04. Basic Commands",
+            "video_id": 6884,
+            "notes_id": 484
+          },
+          {
+            "lec_no": "L-485",
+            "title": "05. Navigation Commands",
+            "video_id": 6885,
+            "notes_id": 485
+          },
+          {
+            "lec_no": "L-486",
+            "title": "06. Paths in Navigation",
+            "video_id": 6886,
+            "notes_id": 486
+          },
+          {
+            "lec_no": "L-487",
+            "title": "07. Making Directories",
+            "video_id": 6887,
+            "notes_id": 487
+          },
+          {
+            "lec_no": "L-488",
+            "title": "08. What are Flags_",
+            "video_id": 6888,
+            "notes_id": 488
+          },
+          {
+            "lec_no": "L-489",
+            "title": "09. Touch Command",
+            "video_id": 6889,
+            "notes_id": 489
+          },
+          {
+            "lec_no": "L-490",
+            "title": "10. Deleting Files & Folders",
+            "video_id": 6890,
+            "notes_id": 490
+          },
+          {
+            "lec_no": "L-491",
+            "title": "Today is Day #1",
+            "video_id": 6891,
+            "notes_id": 491
+          }
+        ]
+      },
+      {
+        "chapter_name": "GIT & GITHUB",
+        "lectures": [
+          {
+            "lec_no": "L-493",
+            "title": "01. What is Git & Github_",
+            "video_id": 6892,
+            "notes_id": 493
+          },
+          {
+            "lec_no": "L-494",
+            "title": "02. Creating a Github Account",
+            "video_id": 6893,
+            "notes_id": 494
+          },
+          {
+            "lec_no": "L-495",
+            "title": "03. Using Github",
+            "video_id": 6894,
+            "notes_id": 495
+          },
+          {
+            "lec_no": "L-496",
+            "title": "04. Using Git",
+            "video_id": 6895,
+            "notes_id": 496
+          },
+          {
+            "lec_no": "L-497",
+            "title": "05. Configuring Git",
+            "video_id": 6896,
+            "notes_id": 497
+          },
+          {
+            "lec_no": "L-498",
+            "title": "06. Git with VSCode",
+            "video_id": 6897,
+            "notes_id": 498
+          },
+          {
+            "lec_no": "L-499",
+            "title": "07. Clone command",
+            "video_id": 6898,
+            "notes_id": 499
+          },
+          {
+            "lec_no": "L-500",
+            "title": "08. Status command",
+            "video_id": 6899,
+            "notes_id": 500
+          },
+          {
+            "lec_no": "L-501",
+            "title": "09. Add & Commit Commands",
+            "video_id": 6900,
+            "notes_id": 501
+          },
+          {
+            "lec_no": "L-502",
+            "title": "10. Push command",
+            "video_id": 6901,
+            "notes_id": 502
+          },
+          {
+            "lec_no": "L-503",
+            "title": "11. Init Command",
+            "video_id": 6902,
+            "notes_id": 503
+          },
+          {
+            "lec_no": "L-504",
+            "title": "12. Pushing Local repo",
+            "video_id": 6903,
+            "notes_id": 504
+          },
+          {
+            "lec_no": "L-505",
+            "title": "13. Workflow",
+            "video_id": 6904,
+            "notes_id": 505
+          },
+          {
+            "lec_no": "L-506",
+            "title": "14. Git branches",
+            "video_id": 6905,
+            "notes_id": 506
+          },
+          {
+            "lec_no": "L-507",
+            "title": "15. Branch Commands",
+            "video_id": 6906,
+            "notes_id": 507
+          },
+          {
+            "lec_no": "L-508",
+            "title": "16. Merging Branches",
+            "video_id": 6907,
+            "notes_id": 508
+          },
+          {
+            "lec_no": "L-509",
+            "title": "17. Pull command",
+            "video_id": 6908,
+            "notes_id": 509
+          },
+          {
+            "lec_no": "L-510",
+            "title": "18. Merge Conflicts",
+            "video_id": 6909,
+            "notes_id": 510
+          },
+          {
+            "lec_no": "L-511",
+            "title": "19. Fixing Mistakes",
+            "video_id": 6910,
+            "notes_id": 511
+          },
+          {
+            "lec_no": "L-512",
+            "title": "20. What is Forking_",
+            "video_id": 6911,
+            "notes_id": 512
+          }
+        ]
+      },
+      {
+        "chapter_name": "NODE.JS",
+        "lectures": [
+          {
+            "lec_no": "L-514",
+            "title": "01. What is node.js",
+            "video_id": 6912,
+            "notes_id": 514
+          },
+          {
+            "lec_no": "L-515",
+            "title": "02. Node Installation",
+            "video_id": 6913,
+            "notes_id": 515
+          },
+          {
+            "lec_no": "L-516",
+            "title": "04. Node REPL",
+            "video_id": 6914,
+            "notes_id": 516
+          },
+          {
+            "lec_no": "L-517",
+            "title": "05. Node Files",
+            "video_id": 6915,
+            "notes_id": 517
+          },
+          {
+            "lec_no": "L-518",
+            "title": "06. Process in Node",
+            "video_id": 6916,
+            "notes_id": 518
+          },
+          {
+            "lec_no": "L-519",
+            "title": "07. Export in Files",
+            "video_id": 6917,
+            "notes_id": 519
+          },
+          {
+            "lec_no": "L-520",
+            "title": "08. Export in Directories",
+            "video_id": 6918,
+            "notes_id": 520
+          },
+          {
+            "lec_no": "L-521",
+            "title": "09. What is npm_",
+            "video_id": 6919,
+            "notes_id": 521
+          },
+          {
+            "lec_no": "L-522",
+            "title": "10. Installing Packages",
+            "video_id": 6920,
+            "notes_id": 522
+          },
+          {
+            "lec_no": "L-523",
+            "title": "11. package.json",
+            "video_id": 6921,
+            "notes_id": 523
+          },
+          {
+            "lec_no": "L-524",
+            "title": "12. Local v_s Global Installation",
+            "video_id": 6922,
+            "notes_id": 524
+          },
+          {
+            "lec_no": "L-525",
+            "title": "13. import modules",
+            "video_id": 6923,
+            "notes_id": 525
+          },
+          {
+            "lec_no": "L-526",
+            "title": ".trashed-1715257019-03. Node Installation.pdf",
+            "video_id": null,
+            "notes_id": 526
+          }
+        ]
+      },
+      {
+        "chapter_name": "EXPRESS",
+        "lectures": [
+          {
+            "lec_no": "L-528",
+            "title": "01. What is Express_",
+            "video_id": 6924,
+            "notes_id": 528
+          },
+          {
+            "lec_no": "L-529",
+            "title": "02. Getting started with Express",
+            "video_id": 6925,
+            "notes_id": 529
+          },
+          {
+            "lec_no": "L-530",
+            "title": "03. Handling requests",
+            "video_id": 6926,
+            "notes_id": 530
+          },
+          {
+            "lec_no": "L-531",
+            "title": "04. Sending a Response",
+            "video_id": 6927,
+            "notes_id": 531
+          },
+          {
+            "lec_no": "L-532",
+            "title": "05. Routing",
+            "video_id": 6928,
+            "notes_id": 532
+          },
+          {
+            "lec_no": "L-533",
+            "title": "06. Installing Nodemon",
+            "video_id": 6929,
+            "notes_id": 533
+          },
+          {
+            "lec_no": "L-534",
+            "title": "07. Path Parameters",
+            "video_id": 6930,
+            "notes_id": 534
+          },
+          {
+            "lec_no": "L-535",
+            "title": "08. Query Strings",
+            "video_id": 6931,
+            "notes_id": 535
+          }
+        ]
+      },
+      {
+        "chapter_name": "EJS",
+        "lectures": [
+          {
+            "lec_no": "L-537",
+            "title": "01. What is Templating_",
+            "video_id": 6932,
+            "notes_id": 537
+          },
+          {
+            "lec_no": "L-538",
+            "title": "02. Using EJS",
+            "video_id": 6933,
+            "notes_id": 538
+          },
+          {
+            "lec_no": "L-539",
+            "title": "03. Views Directory",
+            "video_id": 6934,
+            "notes_id": 539
+          },
+          {
+            "lec_no": "L-540",
+            "title": "04. Interpolation Syntax",
+            "video_id": 6935,
+            "notes_id": 540
+          },
+          {
+            "lec_no": "L-541",
+            "title": "05. Passing data to EJS",
+            "video_id": 6936,
+            "notes_id": 541
+          },
+          {
+            "lec_no": "L-542",
+            "title": "06. Instagram EJS",
+            "video_id": 6937,
+            "notes_id": 542
+          },
+          {
+            "lec_no": "L-543",
+            "title": "07. Conditional Statements",
+            "video_id": 6938,
+            "notes_id": 543
+          },
+          {
+            "lec_no": "L-544",
+            "title": "08. Loops",
+            "video_id": 6939,
+            "notes_id": 544
+          },
+          {
+            "lec_no": "L-545",
+            "title": "09. Instagram Page with EJS",
+            "video_id": 6940,
+            "notes_id": 545
+          },
+          {
+            "lec_no": "L-546",
+            "title": "10. Includes",
+            "video_id": 6941,
+            "notes_id": 546
+          }
+        ]
+      },
+      {
+        "chapter_name": "MISCELLANEOUS",
+        "lectures": [
+          {
+            "lec_no": "L-548",
+            "title": "01. GET & POST Request",
+            "video_id": 6942,
+            "notes_id": 548
+          },
+          {
+            "lec_no": "L-549",
+            "title": "02. Handling POST requests",
+            "video_id": 6943,
+            "notes_id": 549
+          },
+          {
+            "lec_no": "L-550",
+            "title": "03. Revisiting JS (OOPS)",
+            "video_id": 6944,
+            "notes_id": 550
+          },
+          {
+            "lec_no": "L-551",
+            "title": "04. Object Prototypes",
+            "video_id": 6945,
+            "notes_id": 551
+          },
+          {
+            "lec_no": "L-552",
+            "title": "05. Factory Functions",
+            "video_id": 6946,
+            "notes_id": 552
+          },
+          {
+            "lec_no": "L-553",
+            "title": "06. New Operator",
+            "video_id": 6947,
+            "notes_id": 553
+          },
+          {
+            "lec_no": "L-554",
+            "title": "07. Classes in JS",
+            "video_id": 6948,
+            "notes_id": 554
+          },
+          {
+            "lec_no": "L-555",
+            "title": "08. Inheritance",
+            "video_id": 6949,
+            "notes_id": 555
+          },
+          {
+            "lec_no": "L-556",
+            "title": "09. JS OOPS 11 (Qs).pdf",
+            "video_id": null,
+            "notes_id": 556
+          },
+          {
+            "lec_no": "L-557",
+            "title": "Very Important PDF.pdf",
+            "video_id": null,
+            "notes_id": 557
+          }
+        ]
+      },
+      {
+        "chapter_name": "BACKEND 4 REST",
+        "lectures": [
+          {
+            "lec_no": "L-566",
+            "title": "01. What is REST-",
+            "video_id": 6950,
+            "notes_id": 566
+          },
+          {
+            "lec_no": "L-567",
+            "title": "02. CRUD Operations",
+            "video_id": 6951,
+            "notes_id": 567
+          },
+          {
+            "lec_no": "L-568",
+            "title": "03. Creating RESTful APIs",
+            "video_id": 6952,
+            "notes_id": 568
+          },
+          {
+            "lec_no": "L-569",
+            "title": "04. Index Route",
+            "video_id": 6953,
+            "notes_id": 569
+          },
+          {
+            "lec_no": "L-570",
+            "title": "05. Create & New Route",
+            "video_id": 6954,
+            "notes_id": 570
+          },
+          {
+            "lec_no": "L-571",
+            "title": "06. Redirect",
+            "video_id": 6955,
+            "notes_id": 571
+          },
+          {
+            "lec_no": "L-572",
+            "title": "07. Show Route",
+            "video_id": 6956,
+            "notes_id": 572
+          },
+          {
+            "lec_no": "L-573",
+            "title": "08. Creating Ids (UUID)",
+            "video_id": 6957,
+            "notes_id": 573
+          },
+          {
+            "lec_no": "L-574",
+            "title": "09. Update Route",
+            "video_id": 6958,
+            "notes_id": 574
+          },
+          {
+            "lec_no": "L-575",
+            "title": "10. Edit Route",
+            "video_id": 6959,
+            "notes_id": 575
+          },
+          {
+            "lec_no": "L-576",
+            "title": "11. Destroy Route",
+            "video_id": 6960,
+            "notes_id": 576
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch_name": "PRIME: AI/ML",
+    "channel_id": "-1002958338402",
+    "chapters": [
+      {
+        "chapter_name": "Chapter 1",
+        "lectures": [
+          {
+            "lec_no": null,
+            "title": "AIML Complete Course for Job Preparation 2025 QNA",
+            "video_id": 77299,
+            "notes_id": null
+          },
+          {
+            "lec_no": null,
+            "title": "New Complete AIML Batch AI Engineering & Data Science PRIME Batch",
+            "video_id": 77300,
+            "notes_id": null
+          },
+          {
+            "lec_no": null,
+            "title": "AI Complete RoadMap OneShot Course for Beginners Learn AI & ML Fundamentals From Scratch",
+            "video_id": 77301,
+            "notes_id": null
+          }
+        ]
+      },
+      {
+        "chapter_name": "Chapter 2",
+        "lectures": [
+          {
+            "lec_no": null,
+            "title": "Orientation Session for AIML PRIME Batch",
+            "video_id": 77307,
+            "notes_id": 77305
+          },
+          {
+            "lec_no": null,
+            "title": "01. Course Objective",
+            "video_id": 77308,
+            "notes_id": null
+          },
+          {
+            "lec_no": null,
+            "title": "02. What will we Learn",
+            "video_id": 77309,
+            "notes_id": null
+          },
+          {
+            "lec_no": null,
+            "title": "03. Schedule",
+            "video_id": 77310,
+            "notes_id": null
+          },
+          {
+            "lec_no": null,
+            "title": "04. Why did we choose Python",
+            "video_id": 77311,
+            "notes_id": null
+          },
+          {
+            "lec_no": null,
+            "title": "05. Tools to Install",
+            "video_id": 77312,
+            "notes_id": 77313
+          },
+          {
+            "lec_no": null,
+            "title": "07. Using Visual Studio Code",
+            "video_id": 77314,
+            "notes_id": null
+          }
+        ]
+      },
+      {
+        "chapter_name": "Chapter 3",
+        "lectures": [
+          {
+            "lec_no": null,
+            "title": "01. Our First Program",
+            "video_id": 77317,
+            "notes_id": null
+          },
+          {
+            "lec_no": null,
+            "title": "02. Variables in Python",
+            "video_id": 77318,
+            "notes_id": null
+          },
+          {
+            "lec_no": null,
+            "title": "03. Data Types in Python",
+            "video_id": 77319,
+            "notes_id": null
+          },
+          {
+            "lec_no": null,
+            "title": "04. Keywords & Comments",
+            "video_id": 77320,
+            "notes_id": null
+          },
+          {
+            "lec_no": null,
+            "title": "05. Style Guide",
+            "video_id": 77321,
+            "notes_id": null
+          },
+          {
+            "lec_no": null,
+            "title": "06. Arithmetic Operators",
+            "video_id": 77322,
+            "notes_id": null
+          },
+          {
+            "lec_no": null,
+            "title": "07. Relational Operators",
+            "video_id": 77323,
+            "notes_id": null
+          },
+          {
+            "lec_no": null,
+            "title": "08. Assignment Operators",
+            "video_id": 77324,
+            "notes_id": null
+          },
+          {
+            "lec_no": null,
+            "title": "09. Logical Operators",
+            "video_id": 77325,
+            "notes_id": null
+          },
+          {
+            "lec_no": null,
+            "title": "10. Operator Precedence",
+            "video_id": 77326,
+            "notes_id": null
+          },
+          {
+            "lec_no": null,
+            "title": "11. Type Conversion & Casting",
+            "video_id": 77327,
+            "notes_id": null
+          },
+          {
+            "lec_no": null,
+            "title": "12. Taking User Input",
+            "video_id": 77328,
+            "notes_id": null
+          },
+          {
+            "lec_no": null,
+            "title": "13. Average of 2 Nums",
+            "video_id": 77329,
+            "notes_id": null
+          },
+          {
+            "lec_no": null,
+            "title": "14. Python Fundamentals Part1",
+            "video_id": null,
+            "notes_id": 77330
+          },
+          {
+            "lec_no": null,
+            "title": "15. Python Fundamentals Assignment1",
+            "video_id": null,
+            "notes_id": 77331
+          }
+        ]
+      },
+      {
+        "chapter_name": "Chapter 4",
+        "lectures": [
+          {
+            "lec_no": null,
+            "title": "01. Conditional Statements in Python ",
+            "video_id": 77335,
+            "notes_id": null
+          },
+          {
+            "lec_no": null,
+            "title": "02. Practice Examples (Conditionals) ",
+            "video_id": 77336,
+            "notes_id": null
+          },
+          {
+            "lec_no": null,
+            "title": "03. Odd or Even ",
+            "video_id": 77337,
+            "notes_id": null
+          },
+          {
+            "lec_no": null,
+            "title": "04. Nesting ",
+            "video_id": 77338,
+            "notes_id": null
+          },
+          {
+            "lec_no": null,
+            "title": "05. Match case in Python ",
+            "video_id": 77339,
+            "notes_id": null
+          },
+          {
+            "lec_no": null,
+            "title": "06. Loops using while ",
+            "video_id": 77340,
+            "notes_id": null
+          },
+          {
+            "lec_no": null,
+            "title": "07. Practice Examples (Loops) ",
+            "video_id": 77341,
+            "notes_id": null
+          },
+          {
+            "lec_no": null,
+            "title": "08. Multiplication Table of N ",
+            "video_id": 77342,
+            "notes_id": null
+          },
+          {
+            "lec_no": null,
+            "title": "09. Break & Continue ",
+            "video_id": 77343,
+            "notes_id": null
+          },
+          {
+            "lec_no": null,
+            "title": "10. Loops using for ",
+            "video_id": 77344,
+            "notes_id": null
+          },
+          {
+            "lec_no": null,
+            "title": "11. Vowel Count ",
+            "video_id": 77345,
+            "notes_id": null
+          },
+          {
+            "lec_no": null,
+            "title": "12. range( ) Function ",
+            "video_id": 77346,
+            "notes_id": null
+          },
+          {
+            "lec_no": null,
+            "title": "13. Sum of N numbers ",
+            "video_id": 77347,
+            "notes_id": null
+          },
+          {
+            "lec_no": null,
+            "title": "14. Functions in Python ",
+            "video_id": 77348,
+            "notes_id": null
+          },
+          {
+            "lec_no": null,
+            "title": "15. Practice Examples (Functions) ",
+            "video_id": 77349,
+            "notes_id": null
+          },
+          {
+            "lec_no": null,
+            "title": "16. Types of Functions ",
+            "video_id": 77350,
+            "notes_id": null
+          },
+          {
+            "lec_no": null,
+            "title": "17. Lambda Functions ",
+            "video_id": 77351,
+            "notes_id": null
+          },
+          {
+            "lec_no": null,
+            "title": "18. Factorial of N ",
+            "video_id": 77352,
+            "notes_id": null
+          },
+          {
+            "lec_no": null,
+            "title": "19. Python Fundamentals _Part2 ",
+            "video_id": null,
+            "notes_id": 77353
+          },
+          {
+            "lec_no": null,
+            "title": "20. Python Fundamentals _Assignment2",
+            "video_id": null,
+            "notes_id": 77354
+          }
+        ]
+      },
+      {
+        "chapter_name": "Chapter 5",
+        "lectures": [
+          {
+            "title": "01. Strings in python",
+            "video_id": 77356
+          },
+          {
+            "title": "02. Slicing in strings ",
+            "video_id": 77357
+          },
+          {
+            "title": "02.5 String Formatting - f-string & format( )",
+            "video_id": 77358
+          },
+          {
+            "title": "03. Lists in Python ",
+            "video_id": 77359
+          },
+          {
+            "title": "04. List Methods ",
+            "video_id": 77360
+          },
+          {
+            "title": "05. Using Loops with Lists",
+            "video_id": 77361
+          },
+          {
+            "title": "06. Tuples in Python",
+            "video_id": 77362
+          },
+          {
+            "title": "07. Tuple Methods ",
+            "video_id": 77363
+          },
+          {
+            "title": "08. Dictionary in Python ",
+            "video_id": 77364
+          },
+          {
+            "title": "09. Dictionary Methods ",
+            "video_id": 77365
+          },
+          {
+            "title": "10. Sets in Python ",
+            "video_id": 77366,
+            "notes_id": 77475
+          },
+          {
+            "title": "11. Set Methods ",
+            "video_id": 77367
+          },
+          {
+            "title": "12. Practice Problem (Part a & b) ",
+            "video_id": 77368
+          },
+          {
+            "title": "13. Practice Problem (Part c) ",
+            "video_id": 77369
+          },
+          {
+            "title": "14. Python Fundamentals _Assignment3 ",
+            "notes_id": 77370
+          },
+          {
+            "title": "Python Fundamentals part3 ",
+            "notes_id": 77478
+          }
+        ]
+      },
+      {
+        "chapter_name": "Chapter 6",
+        "lectures": [
+          {
+            "title": "01. What is Object Oriented Programming ",
+            "video_id": 77373
+          },
+          {
+            "title": "02. Classes & Objects ",
+            "video_id": 77374
+          },
+          {
+            "title": "03. Attributes & Methods ",
+            "video_id": 77375
+          },
+          {
+            "title": "04. Constructor - init( ) Method ",
+            "video_id": 77376
+          },
+          {
+            "title": "05. Types of Constructors ",
+            "video_id": 77377
+          },
+          {
+            "title": "06. Attributes - class & instance  ",
+            "video_id": 77378
+          },
+          {
+            "title": "07. Instance Methods ",
+            "video_id": 77379
+          },
+          {
+            "title": "08. Class Methods ",
+            "video_id": 77380
+          },
+          {
+            "title": "09. Static Methods ",
+            "video_id": 77381
+          },
+          {
+            "title": "10. Practice Problem ",
+            "video_id": 77382
+          },
+          {
+            "title": "11. Encapsulation in OOPs ",
+            "video_id": 77383
+          },
+          {
+            "title": "12. Inheritance in OOPs ",
+            "video_id": 77384
+          },
+          {
+            "title": "13. Types of Inheritance ",
+            "video_id": 77385
+          },
+          {
+            "title": "14. Abstraction ",
+            "video_id": 77386
+          },
+          {
+            "title": "15. Polymorphism (Function Overriding) ",
+            "video_id": 77387
+          },
+          {
+            "title": "16. Polymorphism (Duck Typing) ",
+            "video_id": 77388
+          },
+          {
+            "title": "17. Abstraction ",
+            "notes_id": 77389
+          },
+          {
+            "title": "18. Polymorphism (Function Overriding) ",
+            "notes_id": 77390
+          },
+          {
+            "title": "19. Polymorphism (Duck Typing) ",
+            "notes_id": 77391
+          }
+        ]
+      },
+      {
+        "chapter_name": "Day - 7 Python Fundamentals ( part 5 )",
+        "lectures": [
+          {
+            "title": "01. File I O in Python ",
+            "video_id": 77398
+          },
+          {
+            "title": "02. Operations on Files ",
+            "video_id": 77399
+          },
+          {
+            "title": "03. Modes in File Operations",
+            "video_id": 77400
+          },
+          {
+            "title": "04. with Keyword",
+            "video_id": 77401
+          },
+          {
+            "title": "05. Delete Files ",
+            "video_id": 77402
+          },
+          {
+            "title": "06. Practice Problem",
+            "video_id": 77403
+          },
+          {
+            "title": "07. Exception Handling",
+            "video_id": 77404
+          },
+          {
+            "title": "08. _finally_ Keyword",
+            "video_id": 77405
+          },
+          {
+            "title": "09. List Comprehensions",
+            "video_id": 77406
+          },
+          {
+            "title": "10. Working with JSON Module",
+            "video_id": 77407
+          },
+          {
+            "title": "11. Python Fundamentals Part5",
+            "notes_id": 77406
+          },
+          {
+            "title": "12. Python Fundamentals _Assignment5",
+            "notes_id": 77407
+          }
+        ]
+      },
+      {
+        "chapter_name": "Chapter 8",
+        "lectures": [
+          {
+            "title": "01. Installing Anaconda",
+            "video_id": 77412
+          },
+          {
+            "title": "02. Conda prompt",
+            "video_id": 77413
+          },
+          {
+            "title": "03. Installing Jupyter Notebook",
+            "video_id": 77414
+          },
+          {
+            "title": "04. Installing JupyterLab",
+            "video_id": 77415
+          }
+        ]
+      },
+      {
+        "chapter_name": "Chapter 9",
+        "lectures": [
+          {
+            "title": "01.Thinking in Terms of Data ",
+            "video_id": 77417
+          },
+          {
+            "title": "02. Getting started ",
+            "video_id": 77418
+          },
+          {
+            "title": "03. Set up JSON data ",
+            "video_id": 77419
+          },
+          {
+            "title": "04 Amazon Store Clean & Structure Data RATNA",
+            "video_id": 77420
+          },
+          {
+            "title": "05. Amazon Store Meaningful Insights ",
+            "video_id": 77421
+          },
+          {
+            "title": "06 Amazon Store Recommendation Feature ",
+            "video_id": 77422
+          }
+        ]
+      },
+      {
+        "chapter_name": "Chapter 10",
+        "lectures": [
+          {
+            "title": "01. Introduction to NumPy",
+            "video_id": 77426,
+            "notes_id": 77444
+          },
+          {
+            "title": "02. Installation & usage of NumPy",
+            "video_id": 77427,
+            "notes_id": 77445
+          },
+          {
+            "title": "03. Python list vs NumPy Array",
+            "video_id": 77428
+          },
+          {
+            "title": "04. Creating arrays from list",
+            "video_id": 77429
+          },
+          {
+            "title": "05. Creating arrays",
+            "video_id": 77430
+          },
+          {
+            "title": "06. Array properties",
+            "video_id": 77431
+          },
+          {
+            "title": "07. Reshaping Arrays",
+            "video_id": 77432
+          },
+          {
+            "title": "08. Indexing on Arrays",
+            "video_id": 77433
+          },
+          {
+            "title": "09. Slicing Arrays",
+            "video_id": 77434
+          },
+          {
+            "title": "10. Copy Vs View in Slice",
+            "video_id": 77435
+          },
+          {
+            "title": "11. Common NumPy Data Types",
+            "video_id": 77436
+          },
+          {
+            "title": "12. Multi Dimensional Arrays & Axes",
+            "video_id": 77437
+          },
+          {
+            "title": "13. 3d Arrays",
+            "video_id": 77438
+          },
+          {
+            "title": "14. Vectorization & Broadcasting",
+            "video_id": 77439
+          },
+          {
+            "title": "15. Vector Normalization",
+            "video_id": 77440
+          },
+          {
+            "title": "16. Math Mean & Standard Deviation",
+            "video_id": 77441
+          },
+          {
+            "title": "17. Mathematical Functions Aggregate",
+            "video_id": 77442
+          },
+          {
+            "title": "18. Other Maths Functions",
+            "video_id": 77443
+          }
+        ]
+      },
+      {
+        "chapter_name": "Chapter 11",
+        "lectures": [
+          {
+            "title": "01. Data science process ",
+            "video_id": 77448
+          },
+          {
+            "title": " 02. What is EDA? ",
+            "video_id": 77449
+          },
+          {
+            "title": "02.5 Introduction to Pandas",
+            "video_id": 77450
+          },
+          {
+            "title": " 03. Series in Pandas ",
+            "video_id": 77451
+          },
+          {
+            "title": "04. Series Properties",
+            "video_id": 77452
+          },
+          {
+            "title": " 05. Dataframe in Pandas ",
+            "video_id": 77453
+          },
+          {
+            "title": " 06. Pandas With CSV ",
+            "video_id": 77454
+          },
+          {
+            "title": " 07. Dataframe methods",
+            "video_id": 77455
+          },
+          {
+            "title": "08. Using Kaggle DataSet",
+            "video_id": 77456
+          },
+          {
+            "title": " 09. Indexing & Selecting Data ",
+            "video_id": 77457
+          },
+          {
+            "title": "10. Filtering Data",
+            "video_id": 77458
+          },
+          {
+            "title": " 11. Filtering Data Using Query ",
+            "video_id": 77459
+          },
+          {
+            "title": " 12. Data cleaning part 1",
+            "video_id": 77460
+          },
+          {
+            "title": " 13. Data cleaning part 2 ",
+            "video_id": 77461
+          },
+          {
+            "title": "14. Data cleaning part 3",
+            "video_id": 77462
+          },
+          {
+            "title": " 15. Data cleaning part 4",
+            "video_id": 77463
+          }
+        ]
+      },
+      {
+        "chapter_name": "Chapter 12",
+        "lectures": [
+          {
+            "title": " 01. Data transformation",
+            "video_id": 77466
+          },
+          {
+            "title": " 02. Data transfer mission other method",
+            "video_id": 77467
+          },
+          {
+            "title": " 03. Practice task",
+            "video_id": 77468
+          },
+          {
+            "title": " 04. Writing data to csv and Json files",
+            "video_id": 77469
+          },
+          {
+            "title": " 05. Group by an aggregation",
+            "video_id": 77470
+          },
+          {
+            "title": "06. Melt & Pivot For Reshaping",
+            "video_id": 77471
+          },
+          {
+            "title": " 07. Basic visualisation with Pandas",
+            "video_id": 77472
+          },
+          {
+            "title": "08. Merge & Join Data",
+            "video_id": 77473
+          },
+          {
+            "title": " 09. Data concentration with pandas",
+            "video_id": 77474
+          },
+          {
+            "title": "10. Pandas_Notes",
+            "video_id": 77475
+          },
+          {
+            "title": " 11. Pandas_Assignment_Problems",
+            "video_id": 77476
+          },
+          {
+            "title": "sticker .webp",
+            "video_id": 77479
+          },
+          {
+            "title": "PYTHON COMBINED",
+            "video_id": 77480
+          }
+        ]
+      },
+      {
+        "chapter_name": "Chapter 13 Data Collection & Visualization",
+        "lectures": [
+          {
+            "title": "01. What is data collection ",
+            "video_id": 77483
+          },
+          {
+            "title": "02. Multiple Sources Of Data Science ",
+            "video_id": 77484
+          },
+          {
+            "title": "03. STARTING WITH SQL",
+            "video_id": 77485
+          },
+          {
+            "title": "PYTHON COMBINED ASSIGNMENT",
+            "video_id": 77487
+          },
+          {
+            "title": "VID 20251218 001814 748",
+            "video_id": 77500
+          },
+          {
+            "title": "VID 20251218 001842 445",
+            "video_id": 77501
+          },
+          {
+            "title": "VID 20251218 001905 006",
+            "video_id": 77502
+          },
+          {
+            "title": "VID 20251218 002146 607",
+            "video_id": 77503
+          },
+          {
+            "title": "VID 20251218 002216 642",
+            "video_id": 77504
+          },
+          {
+            "title": "VID 20251218 002435 511",
+            "video_id": 77505
+          },
+          {
+            "title": "VID 20251218 002456 700",
+            "video_id": 77506
+          }
+        ]
+      },
+      {
+        "chapter_name": "Chapter 19 Data Visualization",
+        "lectures": [
+          {
+            "title": " 1 What is Data Visualization @pro",
+            "video_id": 77515
+          },
+          {
+            "title": " 2 How to Plot data ",
+            "video_id": 77516
+          },
+          {
+            "title": " 3 Introduction to Matplotlib @pro",
+            "video_id": 77517
+          },
+          {
+            "title": " 4 Important Plot Methods @provide",
+            "video_id": 77519
+          },
+          {
+            "title": " 5 Multiple datasets on Line Plot",
+            "video_id": 77520
+          },
+          {
+            "title": " 6 Format Strings ",
+            "video_id": 77521
+          },
+          {
+            "title": " 7 Styling & Saving Plots @provide",
+            "video_id": 77522
+          },
+          {
+            "title": " 8 Common Plots & Charts @provider",
+            "video_id": 77523
+          },
+          {
+            "title": " 9 Bar Charts (Vertical) @provider",
+            "video_id": 77524
+          },
+          {
+            "title": " 10 Add Bar labels ",
+            "video_id": 77525
+          },
+          {
+            "title": " 11 Multiple datasets on Bar Chart",
+            "video_id": 77526
+          },
+          {
+            "title": " 12 Bar Charts (Horizontal) @provi",
+            "video_id": 77527
+          },
+          {
+            "title": " 13 Scatter Plots ",
+            "video_id": 77528
+          },
+          {
+            "title": " 14 Customizations on Scatter PlotsAnandX",
+            "video_id": 77529
+          },
+          {
+            "title": " 15 Add Annotations ",
+            "video_id": 77530
+          },
+          {
+            "title": " 16 Multiple datasets on Scatter PlotsAna",
+            "video_id": 77531
+          },
+          {
+            "title": " 17 Pie Charts ",
+            "video_id": 77532
+          },
+          {
+            "title": " 18 Customizations on Pie Charts @",
+            "video_id": 77533
+          }
+        ]
+      },
+      {
+        "chapter_name": "Chapter 21",
+        "lectures": [
+          {
+            "title": "1 Math for AI ",
+            "video_id": 77540
+          },
+          {
+            "title": "2 Understanding Probability ",
+            "video_id": 77541
+          },
+          {
+            "title": "3 Probability Examples ",
+            "video_id": 77542
+          },
+          {
+            "title": "4 Solving Practice Problems ",
+            "video_id": 77543
+          },
+          {
+            "title": "5 Types of Events ",
+            "video_id": 77544
+          },
+          {
+            "title": "6 Complementary Rule ",
+            "video_id": 77545
+          },
+          {
+            "title": "7 Addition Rule ",
+            "video_id": 77546
+          },
+          {
+            "title": "8 Multiplication Rule ",
+            "video_id": 77547
+          },
+          {
+            "title": "9 Solving Practice Problems ",
+            "video_id": 77548
+          },
+          {
+            "title": "10 Conditional Probability ",
+            "video_id": 77549
+          },
+          {
+            "title": "11 Law of Total Probability ",
+            "video_id": 77550
+          },
+          {
+            "title": "12 Bayes Theorem ",
+            "video_id": 77551
+          },
+          {
+            "title": "13 Solving Practice Problem ",
+            "video_id": 77552
+          },
+          {
+            "title": "14 Random Variables ",
+            "video_id": 77553
+          },
+          {
+            "title": "15 Mean, Median & Mode ",
+            "video_id": 77554
+          },
+          {
+            "title": "16 Variance & Standard Deviation ",
+            "video_id": 77555
+          },
+          {
+            "title": "17 Probability Distributions & its Types ",
+            "video_id": 77556
+          },
+          {
+            "title": "18 Binomial Distribution ",
+            "video_id": 77557
+          },
+          {
+            "title": "19 Uniform Distribution ",
+            "video_id": 77558
+          },
+          {
+            "title": "20 Normal Distribution ",
+            "video_id": 77559
+          },
+          {
+            "title": "LIVE SESSION RECORDING",
+            "video_id": 77562
+          }
+        ]
+      },
+      {
+        "chapter_name": "Chapter 22",
+        "lectures": [
+          {
+            "title": "1. Introduction to Linear Algebra",
+            "video_id": 77567
+          },
+          {
+            "title": "2 Straight Lines",
+            "video_id": 77568
+          },
+          {
+            "title": "3 Distance between 2 Points",
+            "video_id": 77569
+          },
+          {
+            "title": "4 Parallel & Perpendicular Lines",
+            "video_id": 77570
+          },
+          {
+            "title": "5 Distance between Parallel Lines",
+            "video_id": 77571
+          },
+          {
+            "title": "6 Practice Problem  ",
+            "video_id": 77572
+          },
+          {
+            "title": "7 Vectors  ",
+            "video_id": 77573
+          },
+          {
+            "title": "8 Vector Addition  ",
+            "video_id": 77574
+          },
+          {
+            "title": "9 Scalar Multiplication  ",
+            "video_id": 77575
+          },
+          {
+            "title": "10 Dot Product  ",
+            "video_id": 77576
+          },
+          {
+            "title": "11 Cross Product  ",
+            "video_id": 77577
+          },
+          {
+            "title": "12 Matrix  ",
+            "video_id": 77578
+          },
+          {
+            "title": "13 Operations on Matrices  ",
+            "video_id": 77579
+          },
+          {
+            "title": "14 Determinants  ",
+            "video_id": 77582
+          },
+          {
+            "title": "15 Eigen Vectors & Eigen Values",
+            "video_id": 77584
+          }
+        ]
+      },
+      {
+        "chapter_name": "Chapter 23",
+        "lectures": [
+          {
+            "title": "1 Calculus Introduction",
+            "video_id": 77586
+          },
+          {
+            "title": "2 Functions ",
+            "video_id": 77587
+          },
+          {
+            "title": "3 Composite Functions ",
+            "video_id": 77588
+          },
+          {
+            "title": "4 Functions Scalar Multiplication & Addition ",
+            "video_id": 77589
+          },
+          {
+            "title": "5 Input Scalar Multiplication & Addition ",
+            "video_id": 77590
+          },
+          {
+            "title": "6 Differentiation ",
+            "video_id": 77591
+          },
+          {
+            "title": "7 Differentiation Rules ",
+            "video_id": 77592
+          },
+          {
+            "title": "8 Finding Minima  Maxima ",
+            "video_id": 77595
+          },
+          {
+            "title": "9 Practice Problem ",
+            "video_id": 77596
+          }
+        ]
+      },
+      {
+        "chapter_name": "Chapter 24 Machine Learning Part 2",
+        "lectures": [
+          {
+            "title": "1. Introduction to ML ",
+            "video_id": 77601
+          },
+          {
+            "title": "2. Types of ML (Supervised) ",
+            "video_id": 77602
+          },
+          {
+            "title": "3. Types of ML (Unsupervised & RL) ",
+            "video_id": 77603
+          },
+          {
+            "title": "4. Supervised Machine Learning ",
+            "video_id": 77604
+          },
+          {
+            "title": "5. Regression & Classification ",
+            "video_id": 77605
+          },
+          {
+            "title": "6. Introduction to sklearn ",
+            "video_id": 77606
+          },
+          {
+            "title": "7. Starting with Linear Regression ",
+            "video_id": 77607
+          },
+          {
+            "title": "8. What is Best Fit Line ",
+            "video_id": 77608
+          },
+          {
+            "title": "9. What is Cost Function ",
+            "video_id": 77609
+          },
+          {
+            "title": "10. Understanding Cost Function Curve ",
+            "video_id": 77610
+          },
+          {
+            "title": "11. What is Gradient Descent ",
+            "video_id": 77611
+          },
+          {
+            "title": "12. Summary ",
+            "video_id": 77612
+          },
+          {
+            "title": "13. Linear Regression (Code) ",
+            "video_id": 77613
+          },
+          {
+            "title": "14. Evaluation Metrics ",
+            "video_id": 77614
+          },
+          {
+            "title": "insurance .csv",
+            "video_id": 77617
+          }
+        ]
+      },
+      {
+        "chapter_name": "Chapter 25 Machine Learning Part 2",
+        "lectures": [
+          {
+            "title": "1. Feature Engineering - Encoding ",
+            "video_id": 77620
+          },
+          {
+            "title": "2. Dummy Variable Trap ",
+            "video_id": 77621
+          },
+          {
+            "title": "3. Other FE Techniques ",
+            "video_id": 77622
+          },
+          {
+            "title": "4. Overfitting ",
+            "video_id": 77623
+          },
+          {
+            "title": "5. Underfitting ",
+            "video_id": 77624
+          },
+          {
+            "title": "6. How to fix Underfit & Overfit ",
+            "video_id": 77625
+          },
+          {
+            "title": "7. Is Model underfitting or overfitting ",
+            "video_id": 77626
+          },
+          {
+            "title": "8. Regularization (Lasso Regression) ",
+            "video_id": 77627
+          },
+          {
+            "title": "9. Regularization (Ridge Regression) ",
+            "video_id": 77628
+          },
+          {
+            "title": "10. Lasso Regression (Implementation) ",
+            "video_id": 77629
+          },
+          {
+            "title": "11. Using LassoCV ",
+            "video_id": 77630
+          },
+          {
+            "title": "12. ElasticNet Overview ",
+            "video_id": 77631
+          },
+          {
+            "title": "12. Logistic Regression (Intuition) ",
+            "video_id": 77632
+          },
+          {
+            "title": "heart .csv",
+            "video_id": 77634
+          },
+          {
+            "title": "13. Logistic Regression (Cost Fnx) ",
+            "video_id": 77638
+          },
+          {
+            "title": "14. Logistic Regression (Code) ",
+            "video_id": 77639
+          },
+          {
+            "title": "2) loan approval data .csv",
+            "video_id": 77652
+          },
+          {
+            "title": "-2147483648 -217365.webp",
+            "video_id": 77661
+          }
+        ]
+      },
+      {
+        "chapter_name": "Chapter 26 Machine Learning Part 3",
+        "lectures": [
+          {
+            "title": "01.1)Problem Statement continued.jpg",
+            "video_id": 77664
+          },
+          {
+            "title": "10) Feature Engineering to Improve Model",
+            "video_id": 77665,
+            "notes_id": 77475
+          },
+          {
+            "title": "IMG 20260203 212806 114.jpg",
+            "video_id": 77674
+          },
+          {
+            "title": "05) AdaBoost (Intuition) ",
+            "video_id": 77679
+          },
+          {
+            "title": "06) AdaBoost (Code) ",
+            "video_id": 77680,
+            "notes_id": 77313
+          },
+          {
+            "title": "07) Other Boosting Algorithms ",
+            "video_id": 77681
+          },
+          {
+            "title": "08) XGBoost Code ",
+            "video_id": 77682
+          },
+          {
+            "title": "09) Homogenous vs Heterogenous Ensemble ",
+            "video_id": 77683
+          },
+          {
+            "title": "10) Voting (Logic) ",
+            "video_id": 77684,
+            "notes_id": 77475
+          },
+          {
+            "title": "11) Voting (Code) ",
+            "video_id": 77685,
+            "notes_id": 77476
+          },
+          {
+            "title": "12) Stacking (Logic) ",
+            "video_id": 77686,
+            "notes_id": 77409
+          },
+          {
+            "title": "video 2026-05-27 13-49-04 ",
+            "video_id": 77700
+          },
+          {
+            "title": "video 2026-05-27 13-50-28 ",
+            "video_id": 77701
+          },
+          {
+            "title": "video 2026-05-27 13-53-41 ",
+            "video_id": 77704
+          },
+          {
+            "title": "video 2026-05-27 13-52-58 ",
+            "video_id": 77705
+          },
+          {
+            "title": "video 2026-05-27 13-54-19 ",
+            "video_id": 77706
+          },
+          {
+            "title": "video 2026-05-27 13-54-56 ",
+            "video_id": 77707
+          },
+          {
+            "title": "smartcart.ipynb",
+            "video_id": 77711
+          },
+          {
+            "title": "smartcart customers.csv",
+            "video_id": 77713
+          }
+        ]
+      }
+    ]
+  }
+]

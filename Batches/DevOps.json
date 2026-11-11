@@ -1,0 +1,312 @@
+{
+  "dataClass110": [
+    {
+      "batch_name": "Development Operations",
+      "channel_id": "-1003637459451",
+      "chapters": [
+        {
+          "chapter_name": "Development Operations",
+          "lectures": [
+            {
+              "lec_no": "L-01",
+              "title": "Lecture - 01",
+              "video_id": 3271
+            },
+            {
+              "lec_no": "L-02",
+              "title": "Lecture - 02",
+              "video_id": 3272
+            },
+            {
+              "lec_no": "L-03",
+              "title": "Lecture - 03",
+              "video_id": 3273
+            },
+            {
+              "lec_no": "L-04",
+              "title": "Lecture - 04",
+              "video_id": 3274
+            },
+            {
+              "lec_no": "L-05",
+              "title": "Lecture - 05",
+              "video_id": 3275
+            },
+            {
+              "lec_no": "L-06",
+              "title": "Lecture - 06",
+              "video_id": 3276
+            },
+            {
+              "lec_no": "L-07",
+              "title": "Lecture - 07",
+              "video_id": 3277
+            },
+            {
+              "lec_no": "L-08",
+              "title": "Lecture - 08",
+              "video_id": 3278
+            },
+            {
+              "lec_no": "L-09",
+              "title": "Lecture - 09",
+              "video_id": 3279
+            },
+            {
+              "lec_no": "L-10",
+              "title": "Lecture - 10",
+              "video_id": 3280
+            },
+            {
+              "lec_no": "L-11",
+              "title": "Lecture - 11",
+              "video_id": 3281
+            },
+            {
+              "lec_no": "L-12",
+              "title": "Lecture - 12",
+              "video_id": 3282
+            },
+            {
+              "lec_no": "L-13",
+              "title": "Lecture - 13",
+              "video_id": 3283
+            },
+            {
+              "lec_no": "L-14",
+              "title": "Lecture - 14",
+              "video_id": 3284
+            },
+            {
+              "lec_no": "L-15",
+              "title": "Lecture - 15",
+              "video_id": 3285
+            },
+            {
+              "lec_no": "L-16",
+              "title": "Lecture - 16",
+              "video_id": 3286
+            },
+            {
+              "lec_no": "L-17",
+              "title": "Lecture - 17",
+              "video_id": 3287
+            },
+            {
+              "lec_no": "L-18",
+              "title": "Lecture - 18",
+              "video_id": 3288
+            },
+            {
+              "lec_no": "L-19",
+              "title": "Lecture - 19",
+              "video_id": 3289
+            },
+            {
+              "lec_no": "L-20",
+              "title": "Lecture - 20",
+              "video_id": 3290
+            },
+            {
+              "lec_no": "L-21",
+              "title": "Lecture - 21",
+              "video_id": 3291
+            },
+            {
+              "lec_no": "L-22",
+              "title": "Lecture - 22",
+              "video_id": 3292
+            }
+          ],
+          "sheets": [
+            {
+              "lec_no": "L-S-01",
+              "title": "Sheet - 01",
+              "notes_id": 3293
+            },
+            {
+              "lec_no": "L-S-02",
+              "title": "Sheet - 02",
+              "notes_id": 3294
+            },
+            {
+              "lec_no": "L-S-03",
+              "title": "Sheet - 03",
+              "notes_id": 3295
+            },
+            {
+              "lec_no": "L-S-04",
+              "title": "Sheet - 04",
+              "notes_id": 3296
+            },
+            {
+              "lec_no": "L-S-05",
+              "title": "Sheet - 05",
+              "notes_id": 3297
+            },
+            {
+              "lec_no": "L-S-06",
+              "title": "Sheet - 06",
+              "notes_id": 3298
+            },
+            {
+              "lec_no": "L-S-07",
+              "title": "Sheet - 07",
+              "notes_id": 3299
+            },
+            {
+              "lec_no": "L-S-08",
+              "title": "Sheet - 08",
+              "notes_id": 3300
+            },
+            {
+              "lec_no": "L-S-09",
+              "title": "Sheet - 09",
+              "notes_id": 3301
+            },
+            {
+              "lec_no": "L-S-10",
+              "title": "Sheet - 10",
+              "notes_id": 3302
+            },
+            {
+              "lec_no": "L-S-11",
+              "title": "Sheet - 11",
+              "notes_id": 3303
+            },
+            {
+              "lec_no": "L-S-12",
+              "title": "Sheet - 12",
+              "notes_id": 3304
+            },
+            {
+              "lec_no": "L-S-13",
+              "title": "Sheet - 13",
+              "notes_id": 3305
+            },
+            {
+              "lec_no": "L-S-14",
+              "title": "Sheet - 14",
+              "notes_id": 3306
+            },
+            {
+              "lec_no": "L-S-15",
+              "title": "Sheet - 15",
+              "notes_id": 3307
+            },
+            {
+              "lec_no": "L-S-16",
+              "title": "Sheet - 16",
+              "notes_id": 3308
+            },
+            {
+              "lec_no": "L-S-17",
+              "title": "Sheet - 17",
+              "notes_id": 3309
+            },
+            {
+              "lec_no": "L-S-18",
+              "title": "Sheet - 18",
+              "notes_id": 3310
+            },
+            {
+              "lec_no": "L-S-19",
+              "title": "Sheet - 19",
+              "notes_id": 3311
+            },
+            {
+              "lec_no": "L-S-20",
+              "title": "Sheet - 20",
+              "notes_id": 3312
+            },
+            {
+              "lec_no": "L-S-21",
+              "title": "Sheet - 21",
+              "notes_id": 3313
+            },
+            {
+              "lec_no": "L-S-22",
+              "title": "Sheet - 22",
+              "notes_id": 3314
+            },
+            {
+              "lec_no": "L-S-23",
+              "title": "Sheet - 23",
+              "notes_id": 3315
+            },
+            {
+              "lec_no": "L-S-24",
+              "title": "Sheet - 24",
+              "notes_id": 3316
+            },
+            {
+              "lec_no": "L-S-25",
+              "title": "Sheet - 25",
+              "notes_id": 3317
+            },
+            {
+              "lec_no": "L-S-26",
+              "title": "Sheet - 26",
+              "notes_id": 3318
+            },
+            {
+              "lec_no": "L-S-27",
+              "title": "Sheet - 27",
+              "notes_id": 3319
+            },
+            {
+              "lec_no": "L-S-28",
+              "title": "Sheet - 28",
+              "notes_id": 3320
+            },
+            {
+              "lec_no": "L-S-29",
+              "title": "Sheet - 29",
+              "notes_id": 3321
+            },
+            {
+              "lec_no": "L-S-30",
+              "title": "Sheet - 30",
+              "notes_id": 3322
+            },
+            {
+              "lec_no": "L-S-31",
+              "title": "Sheet - 31",
+              "notes_id": 3323
+            },
+            {
+              "lec_no": "L-S-32",
+              "title": "Sheet - 32",
+              "notes_id": 3324
+            },
+            {
+              "lec_no": "L-S-33",
+              "title": "Sheet - 33",
+              "notes_id": 3325
+            },
+            {
+              "lec_no": "L-S-34",
+              "title": "Sheet - 34",
+              "notes_id": 3326
+            },
+            {
+              "lec_no": "L-S-35",
+              "title": "Sheet - 35",
+              "notes_id": 3327
+            },
+            {
+              "lec_no": "L-S-36",
+              "title": "Sheet - 36",
+              "notes_id": 3328
+            },
+            {
+              "lec_no": "L-S-37",
+              "title": "Sheet - 37",
+              "notes_id": 3329
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

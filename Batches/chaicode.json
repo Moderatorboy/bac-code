@@ -1,0 +1,277 @@
+[
+  {
+    "batch_name": "WEB DEV COHORT",
+    "parent_batch": "CHAI CODE",
+    "channel_id": "-1003570657515",
+    "chapters": [
+      {
+        "chapter_name": "WEB DEV COHORT",
+        "lectures": [
+          {
+            "lec_no": "L-6474",
+            "title": "Lecture 01",
+            "video_id": 6474
+          },
+          {
+            "lec_no": "L-6475",
+            "title": "Lecture 02",
+            "video_id": 6475
+          },
+          {
+            "lec_no": "L-6476",
+            "title": "Lecture 03",
+            "video_id": 6476
+          },
+          {
+            "lec_no": "L-6477",
+            "title": "Lecture 04",
+            "video_id": 6477
+          },
+          {
+            "lec_no": "L-6478",
+            "title": "Lecture 05",
+            "video_id": 6478
+          },
+          {
+            "lec_no": "L-6479",
+            "title": "Lecture 06",
+            "video_id": 6479
+          },
+          {
+            "lec_no": "L-6480",
+            "title": "Lecture 07",
+            "video_id": 6480
+          },
+          {
+            "lec_no": "L-6481",
+            "title": "Lecture 08",
+            "video_id": 6481
+          },
+          {
+            "lec_no": "L-6482",
+            "title": "Lecture 09",
+            "video_id": 6482
+          },
+          {
+            "lec_no": "L-6483",
+            "title": "Lecture 10",
+            "video_id": 6483
+          },
+          {
+            "lec_no": "L-6484",
+            "title": "Lecture 11",
+            "video_id": 6484
+          },
+          {
+            "lec_no": "L-6485",
+            "title": "Lecture 12",
+            "video_id": 6485
+          },
+          {
+            "lec_no": "L-6486",
+            "title": "Lecture 13",
+            "video_id": 6486
+          },
+          {
+            "lec_no": "L-6487",
+            "title": "Lecture 14",
+            "video_id": 6487
+          },
+          {
+            "lec_no": "L-6488",
+            "title": "Lecture 15",
+            "video_id": 6488
+          },
+          {
+            "lec_no": "L-6489",
+            "title": "Lecture 16",
+            "video_id": 6489
+          },
+          {
+            "lec_no": "L-6490",
+            "title": "Lecture 17",
+            "video_id": 6490
+          },
+          {
+            "lec_no": "L-6491",
+            "title": "Lecture 18",
+            "video_id": 6491
+          },
+          {
+            "lec_no": "L-6492",
+            "title": "Lecture 19",
+            "video_id": 6492
+          },
+          {
+            "lec_no": "L-6493",
+            "title": "Lecture 20",
+            "video_id": 6493
+          },
+          {
+            "lec_no": "L-6494",
+            "title": "Lecture 21",
+            "video_id": 6494
+          },
+          {
+            "lec_no": "L-6495",
+            "title": "Lecture 22",
+            "video_id": 6495
+          },
+          {
+            "lec_no": "L-6496",
+            "title": "Lecture 23",
+            "video_id": 6496
+          },
+          {
+            "lec_no": "L-6497",
+            "title": "Lecture 24",
+            "video_id": 6497
+          },
+          {
+            "lec_no": "L-6498",
+            "title": "Lecture 25",
+            "video_id": 6498
+          },
+          {
+            "lec_no": "L-6499",
+            "title": "Lecture 26",
+            "video_id": 6499
+          },
+          {
+            "lec_no": "L-6500",
+            "title": "Lecture 27",
+            "video_id": 6500
+          },
+          {
+            "lec_no": "L-6501",
+            "title": "Lecture 28",
+            "video_id": 6501
+          },
+          {
+            "lec_no": "L-6502",
+            "title": "Lecture 29",
+            "video_id": 6502
+          },
+          {
+            "lec_no": "L-6503",
+            "title": "Lecture 30",
+            "video_id": 6503
+          },
+          {
+            "lec_no": "L-6504",
+            "title": "Lecture 31",
+            "video_id": 6504
+          },
+          {
+            "lec_no": "L-6505",
+            "title": "Lecture 32",
+            "video_id": 6505
+          },
+          {
+            "lec_no": "L-6506",
+            "title": "Lecture 33",
+            "video_id": 6506
+          },
+          {
+            "lec_no": "L-6507",
+            "title": "Lecture 34",
+            "video_id": 6507
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch_name": "GEN AI",
+    "parent_batch": "CHAI CODE",
+    "channel_id": "-1003570657515",
+    "chapters": [
+      {
+        "chapter_name": "GEN AI",
+        "lectures": [
+          {
+            "lec_no": "L-6508",
+            "title": "Lecture 01 - Introduction to Gen AI",
+            "video_id": 6508,
+            "link": "https://youtu.be/4ySx0utEIlA?si=LCGm2aMUgIiS9M33"
+          },
+          {
+            "lec_no": "L-6509",
+            "title": "Lecture 02",
+            "video_id": 6509
+          },
+          {
+            "lec_no": "L-6510",
+            "title": "Lecture 03",
+            "video_id": 6510
+          },
+          {
+            "lec_no": "L-6511",
+            "title": "Lecture 04",
+            "video_id": 6511
+          },
+          {
+            "lec_no": "L-6512",
+            "title": "Lecture 05",
+            "video_id": 6512
+          },
+          {
+            "lec_no": "L-6513",
+            "title": "Lecture 06",
+            "video_id": 6513
+          },
+          {
+            "lec_no": "L-6514",
+            "title": "Lecture 07",
+            "video_id": 6514
+          },
+          {
+            "lec_no": "L-6515",
+            "title": "Lecture 08",
+            "video_id": 6515
+          },
+          {
+            "lec_no": "L-6516",
+            "title": "Lecture 09",
+            "video_id": 6516
+          },
+          {
+            "lec_no": "L-6517",
+            "title": "Lecture 10",
+            "video_id": 6517
+          },
+          {
+            "lec_no": "L-6518",
+            "title": "Lecture 11",
+            "video_id": 6518
+          },
+          {
+            "lec_no": "L-6519",
+            "title": "Lecture 12",
+            "video_id": 6519
+          },
+          {
+            "lec_no": "L-6520",
+            "title": "Lecture 13",
+            "video_id": 6520
+          },
+          {
+            "lec_no": "L-6521",
+            "title": "Lecture 14",
+            "video_id": 6521
+          },
+          {
+            "lec_no": "L-6522",
+            "title": "Lecture 15",
+            "video_id": 6522
+          },
+          {
+            "lec_no": "L-6523",
+            "title": "Lecture 16",
+            "video_id": 6523
+          }
+        ]
+      }
+    ]
+  }
+]

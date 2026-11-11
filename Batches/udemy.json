@@ -1,0 +1,4039 @@
+[
+  {
+    "batch_name": "ZERO TO MASTERY BY LUIS RAMIREZ",
+    "parent_batch": "UDEMY",
+    "direct_subject": "ZERO TO MASTERY BY LUIS RAMIREZ",
+    "thumb": "http://127.0.0.1:8000/image/udemy.jpg",
+    "channel_id": "-1003637459451",
+    "chapters": [
+      {
+        "chapter_name": "UNITY BOOTCAMP 3D GAME DEVELOPMENT",
+        "lectures": [
+          {
+            "lec_no": "L-01",
+            "title": "Lesson 01",
+            "video_id": 2047
+          },
+          {
+            "lec_no": "L-02",
+            "title": "Lesson 02",
+            "video_id": 2048
+          },
+          {
+            "lec_no": "L-03",
+            "title": "Lesson 03",
+            "video_id": 2049
+          },
+          {
+            "lec_no": "L-04",
+            "title": "Lesson 04",
+            "video_id": 2050
+          },
+          {
+            "lec_no": "L-05",
+            "title": "Lesson 05",
+            "video_id": 2051
+          },
+          {
+            "lec_no": "L-06",
+            "title": "Lesson 06",
+            "video_id": 2052
+          },
+          {
+            "lec_no": "L-07",
+            "title": "Lesson 07",
+            "video_id": 2053
+          },
+          {
+            "lec_no": "L-08",
+            "title": "Lesson 08",
+            "video_id": 2054
+          },
+          {
+            "lec_no": "L-09",
+            "title": "Lesson 09",
+            "video_id": 2055
+          },
+          {
+            "lec_no": "L-10",
+            "title": "Lesson 10",
+            "video_id": 2056
+          },
+          {
+            "lec_no": "L-11",
+            "title": "Lesson 11",
+            "video_id": 2057
+          },
+          {
+            "lec_no": "L-12",
+            "title": "Lesson 12",
+            "video_id": 2058
+          },
+          {
+            "lec_no": "L-13",
+            "title": "Lesson 13",
+            "video_id": 2059
+          },
+          {
+            "lec_no": "L-14",
+            "title": "Lesson 14",
+            "video_id": 2060
+          },
+          {
+            "lec_no": "L-15",
+            "title": "Lesson 15",
+            "video_id": 2061
+          },
+          {
+            "lec_no": "L-16",
+            "title": "Lesson 16",
+            "video_id": 2062
+          },
+          {
+            "lec_no": "L-17",
+            "title": "Lesson 17",
+            "video_id": 2063
+          },
+          {
+            "lec_no": "L-18",
+            "title": "Lesson 18",
+            "video_id": 2064
+          },
+          {
+            "lec_no": "L-19",
+            "title": "Lesson 19",
+            "video_id": 2065
+          },
+          {
+            "lec_no": "L-20",
+            "title": "Lesson 20",
+            "video_id": 2066
+          },
+          {
+            "lec_no": "L-21",
+            "title": "Lesson 21",
+            "video_id": 2067
+          },
+          {
+            "lec_no": "L-22",
+            "title": "Lesson 22",
+            "video_id": 2068
+          },
+          {
+            "lec_no": "L-23",
+            "title": "Lesson 23",
+            "video_id": 2069
+          },
+          {
+            "lec_no": "L-24",
+            "title": "Lesson 24",
+            "video_id": 2070
+          },
+          {
+            "lec_no": "L-25",
+            "title": "Lesson 25",
+            "video_id": 2071
+          },
+          {
+            "lec_no": "L-26",
+            "title": "Lesson 26",
+            "video_id": 2072
+          },
+          {
+            "lec_no": "L-27",
+            "title": "Lesson 27",
+            "video_id": 2073
+          },
+          {
+            "lec_no": "L-28",
+            "title": "Lesson 28",
+            "video_id": 2074
+          },
+          {
+            "lec_no": "L-29",
+            "title": "Lesson 29",
+            "video_id": 2075
+          },
+          {
+            "lec_no": "L-30",
+            "title": "Lesson 30",
+            "video_id": 2076
+          },
+          {
+            "lec_no": "L-31",
+            "title": "Lesson 31",
+            "video_id": 2077
+          },
+          {
+            "lec_no": "L-32",
+            "title": "Lesson 32",
+            "video_id": 2078
+          },
+          {
+            "lec_no": "L-33",
+            "title": "Lesson 33",
+            "video_id": 2079
+          },
+          {
+            "lec_no": "L-34",
+            "title": "Lesson 34",
+            "video_id": 2080
+          },
+          {
+            "lec_no": "L-35",
+            "title": "Lesson 35",
+            "video_id": 2081
+          },
+          {
+            "lec_no": "L-36",
+            "title": "Lesson 36",
+            "video_id": 2082
+          },
+          {
+            "lec_no": "L-37",
+            "title": "Lesson 37",
+            "video_id": 2083
+          },
+          {
+            "lec_no": "L-38",
+            "title": "Lesson 38",
+            "video_id": 2084
+          },
+          {
+            "lec_no": "L-39",
+            "title": "Lesson 39",
+            "video_id": 2085
+          },
+          {
+            "lec_no": "L-40",
+            "title": "Lesson 40",
+            "video_id": 2086
+          },
+          {
+            "lec_no": "L-41",
+            "title": "Lesson 41",
+            "video_id": 2087
+          },
+          {
+            "lec_no": "L-42",
+            "title": "Lesson 42",
+            "video_id": 2088
+          },
+          {
+            "lec_no": "L-43",
+            "title": "Lesson 43",
+            "video_id": 2089
+          },
+          {
+            "lec_no": "L-44",
+            "title": "Lesson 44",
+            "video_id": 2090
+          },
+          {
+            "lec_no": "L-45",
+            "title": "Lesson 45",
+            "video_id": 2091
+          },
+          {
+            "lec_no": "L-46",
+            "title": "Lesson 46",
+            "video_id": 2092
+          },
+          {
+            "lec_no": "L-47",
+            "title": "Lesson 47",
+            "video_id": 2093
+          },
+          {
+            "lec_no": "L-48",
+            "title": "Lesson 48",
+            "video_id": 2094
+          },
+          {
+            "lec_no": "L-49",
+            "title": "Lesson 49",
+            "video_id": 2095
+          },
+          {
+            "lec_no": "L-50",
+            "title": "Lesson 50",
+            "video_id": 2096
+          },
+          {
+            "lec_no": "L-51",
+            "title": "Lesson 51",
+            "video_id": 2097
+          },
+          {
+            "lec_no": "L-52",
+            "title": "Lesson 52",
+            "video_id": 2098
+          },
+          {
+            "lec_no": "L-53",
+            "title": "Lesson 53",
+            "video_id": 2099
+          },
+          {
+            "lec_no": "L-54",
+            "title": "Lesson 54",
+            "video_id": 2100
+          },
+          {
+            "lec_no": "L-55",
+            "title": "Lesson 55",
+            "video_id": 2101
+          },
+          {
+            "lec_no": "L-56",
+            "title": "Lesson 56",
+            "video_id": 2102
+          },
+          {
+            "lec_no": "L-57",
+            "title": "Lesson 57",
+            "video_id": 2103
+          },
+          {
+            "lec_no": "L-58",
+            "title": "Lesson 58",
+            "video_id": 2104
+          },
+          {
+            "lec_no": "L-59",
+            "title": "Lesson 59",
+            "video_id": 2105
+          },
+          {
+            "lec_no": "L-60",
+            "title": "Lesson 60",
+            "video_id": 2106
+          },
+          {
+            "lec_no": "L-61",
+            "title": "Lesson 61",
+            "video_id": 2107
+          },
+          {
+            "lec_no": "L-62",
+            "title": "Lesson 62",
+            "video_id": 2108
+          },
+          {
+            "lec_no": "L-63",
+            "title": "Lesson 63",
+            "video_id": 2109
+          },
+          {
+            "lec_no": "L-64",
+            "title": "Lesson 64",
+            "video_id": 2110
+          },
+          {
+            "lec_no": "L-65",
+            "title": "Lesson 65",
+            "video_id": 2111
+          },
+          {
+            "lec_no": "L-66",
+            "title": "Lesson 66",
+            "video_id": 2112
+          },
+          {
+            "lec_no": "L-67",
+            "title": "Lesson 67",
+            "video_id": 2113
+          },
+          {
+            "lec_no": "L-68",
+            "title": "Lesson 68",
+            "video_id": 2114
+          },
+          {
+            "lec_no": "L-69",
+            "title": "Lesson 69",
+            "video_id": 2115
+          },
+          {
+            "lec_no": "L-70",
+            "title": "Lesson 70",
+            "video_id": 2116
+          },
+          {
+            "lec_no": "L-71",
+            "title": "Lesson 71",
+            "video_id": 2117
+          },
+          {
+            "lec_no": "L-72",
+            "title": "Lesson 72",
+            "video_id": 2118
+          },
+          {
+            "lec_no": "L-73",
+            "title": "Lesson 73",
+            "video_id": 2119
+          },
+          {
+            "lec_no": "L-74",
+            "title": "Lesson 74",
+            "video_id": 2120
+          },
+          {
+            "lec_no": "L-75",
+            "title": "Lesson 75",
+            "video_id": 2121
+          },
+          {
+            "lec_no": "L-76",
+            "title": "Lesson 76",
+            "video_id": 2122
+          },
+          {
+            "lec_no": "L-77",
+            "title": "Lesson 77",
+            "video_id": 2123
+          },
+          {
+            "lec_no": "L-78",
+            "title": "Lesson 78",
+            "video_id": 2124
+          },
+          {
+            "lec_no": "L-79",
+            "title": "Lesson 79",
+            "video_id": 2125
+          },
+          {
+            "lec_no": "L-80",
+            "title": "Lesson 80",
+            "video_id": 2126
+          },
+          {
+            "lec_no": "L-81",
+            "title": "Lesson 81",
+            "video_id": 2127
+          },
+          {
+            "lec_no": "L-82",
+            "title": "Lesson 82",
+            "video_id": 2128
+          },
+          {
+            "lec_no": "L-83",
+            "title": "Lesson 83",
+            "video_id": 2129
+          },
+          {
+            "lec_no": "L-84",
+            "title": "Lesson 84",
+            "video_id": 2130
+          },
+          {
+            "lec_no": "L-85",
+            "title": "Lesson 85",
+            "video_id": 2131
+          },
+          {
+            "lec_no": "L-86",
+            "title": "Lesson 86",
+            "video_id": 2132
+          },
+          {
+            "lec_no": "L-87",
+            "title": "Lesson 87",
+            "video_id": 2133
+          },
+          {
+            "lec_no": "L-88",
+            "title": "Lesson 88",
+            "video_id": 2134
+          },
+          {
+            "lec_no": "L-89",
+            "title": "Lesson 89",
+            "video_id": 2135
+          },
+          {
+            "lec_no": "L-90",
+            "title": "Lesson 90",
+            "video_id": 2136
+          },
+          {
+            "lec_no": "L-91",
+            "title": "Lesson 91",
+            "video_id": 2137
+          },
+          {
+            "lec_no": "L-92",
+            "title": "Lesson 92",
+            "video_id": 2138
+          },
+          {
+            "lec_no": "L-93",
+            "title": "Lesson 93",
+            "video_id": 2139
+          },
+          {
+            "lec_no": "L-94",
+            "title": "Lesson 94",
+            "video_id": 2140
+          },
+          {
+            "lec_no": "L-95",
+            "title": "Lesson 95",
+            "video_id": 2141
+          },
+          {
+            "lec_no": "L-96",
+            "title": "Lesson 96",
+            "video_id": 2142
+          },
+          {
+            "lec_no": "L-97",
+            "title": "Lesson 97",
+            "video_id": 2143
+          },
+          {
+            "lec_no": "L-98",
+            "title": "Lesson 98",
+            "video_id": 2144
+          },
+          {
+            "lec_no": "L-99",
+            "title": "Lesson 99",
+            "video_id": 2145
+          },
+          {
+            "lec_no": "L-100",
+            "title": "Lesson 100",
+            "video_id": 2146
+          },
+          {
+            "lec_no": "L-101",
+            "title": "Lesson 101",
+            "video_id": 2147
+          },
+          {
+            "lec_no": "L-102",
+            "title": "Lesson 102",
+            "video_id": 2148
+          },
+          {
+            "lec_no": "L-103",
+            "title": "Lesson 103",
+            "video_id": 2149
+          },
+          {
+            "lec_no": "L-104",
+            "title": "Lesson 104",
+            "video_id": 2150
+          },
+          {
+            "lec_no": "L-105",
+            "title": "Lesson 105",
+            "video_id": 2151
+          },
+          {
+            "lec_no": "L-106",
+            "title": "Lesson 106",
+            "video_id": 2152
+          },
+          {
+            "lec_no": "L-107",
+            "title": "Lesson 107",
+            "video_id": 2153
+          },
+          {
+            "lec_no": "L-108",
+            "title": "Lesson 108",
+            "video_id": 2154
+          },
+          {
+            "lec_no": "L-109",
+            "title": "Lesson 109",
+            "video_id": 2155
+          },
+          {
+            "lec_no": "L-110",
+            "title": "Lesson 110",
+            "video_id": 2156
+          },
+          {
+            "lec_no": "L-111",
+            "title": "Lesson 111",
+            "video_id": 2157
+          },
+          {
+            "lec_no": "L-112",
+            "title": "Lesson 112",
+            "video_id": 2158
+          },
+          {
+            "lec_no": "L-113",
+            "title": "Lesson 113",
+            "video_id": 2159
+          },
+          {
+            "lec_no": "L-114",
+            "title": "Lesson 114",
+            "video_id": 2160
+          },
+          {
+            "lec_no": "L-115",
+            "title": "Lesson 115",
+            "video_id": 2161
+          },
+          {
+            "lec_no": "L-116",
+            "title": "Lesson 116",
+            "video_id": 2162
+          },
+          {
+            "lec_no": "L-117",
+            "title": "Lesson 117",
+            "video_id": 2163
+          },
+          {
+            "lec_no": "L-118",
+            "title": "Lesson 118",
+            "video_id": 2164
+          },
+          {
+            "lec_no": "L-119",
+            "title": "Lesson 119",
+            "video_id": 2165
+          },
+          {
+            "lec_no": "L-120",
+            "title": "Lesson 120",
+            "video_id": 2166
+          },
+          {
+            "lec_no": "L-121",
+            "title": "Lesson 121",
+            "video_id": 2167
+          },
+          {
+            "lec_no": "L-122",
+            "title": "Lesson 122",
+            "video_id": 2168
+          },
+          {
+            "lec_no": "L-123",
+            "title": "Lesson 123",
+            "video_id": 2169
+          },
+          {
+            "lec_no": "L-124",
+            "title": "Lesson 124",
+            "video_id": 2170
+          },
+          {
+            "lec_no": "L-125",
+            "title": "Lesson 125",
+            "video_id": 2171
+          },
+          {
+            "lec_no": "L-126",
+            "title": "Lesson 126",
+            "video_id": 2172
+          },
+          {
+            "lec_no": "L-127",
+            "title": "Lesson 127",
+            "video_id": 2173
+          },
+          {
+            "lec_no": "L-128",
+            "title": "Lesson 128",
+            "video_id": 2174
+          },
+          {
+            "lec_no": "L-129",
+            "title": "Lesson 129",
+            "video_id": 2175
+          },
+          {
+            "lec_no": "L-130",
+            "title": "Lesson 130",
+            "video_id": 2176
+          },
+          {
+            "lec_no": "L-131",
+            "title": "Lesson 131",
+            "video_id": 2177
+          },
+          {
+            "lec_no": "L-132",
+            "title": "Lesson 132",
+            "video_id": 2178
+          },
+          {
+            "lec_no": "L-133",
+            "title": "Lesson 133",
+            "video_id": 2179
+          },
+          {
+            "lec_no": "L-134",
+            "title": "Lesson 134",
+            "video_id": 2180
+          },
+          {
+            "lec_no": "L-135",
+            "title": "Lesson 135",
+            "video_id": 2181
+          },
+          {
+            "lec_no": "L-136",
+            "title": "Lesson 136",
+            "video_id": 2182
+          },
+          {
+            "lec_no": "L-137",
+            "title": "Lesson 137",
+            "video_id": 2183
+          },
+          {
+            "lec_no": "L-138",
+            "title": "Lesson 138",
+            "video_id": 2184
+          },
+          {
+            "lec_no": "L-139",
+            "title": "Lesson 139",
+            "video_id": 2185
+          },
+          {
+            "lec_no": "L-140",
+            "title": "Lesson 140",
+            "video_id": 2186
+          },
+          {
+            "lec_no": "L-141",
+            "title": "Lesson 141",
+            "video_id": 2187
+          },
+          {
+            "lec_no": "L-142",
+            "title": "Lesson 142",
+            "video_id": 2188
+          },
+          {
+            "lec_no": "L-143",
+            "title": "Lesson 143",
+            "video_id": 2189
+          },
+          {
+            "lec_no": "L-144",
+            "title": "Lesson 144",
+            "video_id": 2190
+          },
+          {
+            "lec_no": "L-145",
+            "title": "Lesson 145",
+            "video_id": 2191
+          },
+          {
+            "lec_no": "L-146",
+            "title": "Lesson 146",
+            "video_id": 2192
+          },
+          {
+            "lec_no": "L-147",
+            "title": "Lesson 147",
+            "video_id": 2193
+          },
+          {
+            "lec_no": "L-148",
+            "title": "Lesson 148",
+            "video_id": 2194
+          },
+          {
+            "lec_no": "L-149",
+            "title": "Lesson 149",
+            "video_id": 2195
+          },
+          {
+            "lec_no": "L-150",
+            "title": "Lesson 150",
+            "video_id": 2196
+          },
+          {
+            "lec_no": "L-151",
+            "title": "Lesson 151",
+            "video_id": 2197
+          },
+          {
+            "lec_no": "L-152",
+            "title": "Lesson 152",
+            "video_id": 2198
+          },
+          {
+            "lec_no": "L-153",
+            "title": "Lesson 153",
+            "video_id": 2199
+          },
+          {
+            "lec_no": "L-154",
+            "title": "Lesson 154",
+            "video_id": 2200
+          },
+          {
+            "lec_no": "L-155",
+            "title": "Lesson 155",
+            "video_id": 2201
+          },
+          {
+            "lec_no": "L-156",
+            "title": "Lesson 156",
+            "video_id": 2202
+          },
+          {
+            "lec_no": "L-157",
+            "title": "Lesson 157",
+            "video_id": 2203
+          },
+          {
+            "lec_no": "L-158",
+            "title": "Lesson 158",
+            "video_id": 2204
+          },
+          {
+            "lec_no": "L-159",
+            "title": "Lesson 159",
+            "video_id": 2205
+          },
+          {
+            "lec_no": "L-160",
+            "title": "Lesson 160",
+            "video_id": 2206
+          },
+          {
+            "lec_no": "L-161",
+            "title": "Lesson 161",
+            "video_id": 2207
+          },
+          {
+            "lec_no": "L-162",
+            "title": "Lesson 162",
+            "video_id": 2208
+          },
+          {
+            "lec_no": "L-163",
+            "title": "Lesson 163",
+            "video_id": 2209
+          },
+          {
+            "lec_no": "L-164",
+            "title": "Lesson 164",
+            "video_id": 2210
+          },
+          {
+            "lec_no": "L-165",
+            "title": "Lesson 165",
+            "video_id": 2211
+          },
+          {
+            "lec_no": "L-166",
+            "title": "Lesson 166",
+            "video_id": 2212
+          },
+          {
+            "lec_no": "L-167",
+            "title": "Lesson 167",
+            "video_id": 2213
+          },
+          {
+            "lec_no": "L-168",
+            "title": "Lesson 168",
+            "video_id": 2214
+          },
+          {
+            "lec_no": "L-169",
+            "title": "Lesson 169",
+            "video_id": 2215
+          },
+          {
+            "lec_no": "L-170",
+            "title": "Lesson 170",
+            "video_id": 2216
+          },
+          {
+            "lec_no": "L-171",
+            "title": "Lesson 171",
+            "video_id": 2217
+          },
+          {
+            "lec_no": "L-172",
+            "title": "Lesson 172",
+            "video_id": 2218
+          },
+          {
+            "lec_no": "L-173",
+            "title": "Lesson 173",
+            "video_id": 2219
+          },
+          {
+            "lec_no": "L-174",
+            "title": "Lesson 174",
+            "video_id": 2220
+          },
+          {
+            "lec_no": "L-175",
+            "title": "Lesson 175",
+            "video_id": 2221
+          },
+          {
+            "lec_no": "L-176",
+            "title": "Lesson 176",
+            "video_id": 2222
+          },
+          {
+            "lec_no": "L-177",
+            "title": "Lesson 177",
+            "video_id": 2223
+          },
+          {
+            "lec_no": "L-178",
+            "title": "Lesson 178",
+            "video_id": 2224
+          },
+          {
+            "lec_no": "L-179",
+            "title": "Lesson 179",
+            "video_id": 2225
+          },
+          {
+            "lec_no": "L-180",
+            "title": "Lesson 180",
+            "video_id": 2226
+          },
+          {
+            "lec_no": "L-181",
+            "title": "Lesson 181",
+            "video_id": 2227
+          },
+          {
+            "lec_no": "L-182",
+            "title": "Lesson 182",
+            "video_id": 2228
+          },
+          {
+            "lec_no": "L-183",
+            "title": "Lesson 183",
+            "video_id": 2229
+          },
+          {
+            "lec_no": "L-184",
+            "title": "Lesson 184",
+            "video_id": 2230
+          },
+          {
+            "lec_no": "L-185",
+            "title": "Lesson 185",
+            "video_id": 2231
+          },
+          {
+            "lec_no": "L-186",
+            "title": "Lesson 186",
+            "video_id": 2232
+          },
+          {
+            "lec_no": "L-187",
+            "title": "Lesson 187",
+            "video_id": 2233
+          },
+          {
+            "lec_no": "L-188",
+            "title": "Lesson 188",
+            "video_id": 2234
+          },
+          {
+            "lec_no": "L-189",
+            "title": "Lesson 189",
+            "video_id": 2235
+          },
+          {
+            "lec_no": "L-190",
+            "title": "Lesson 190",
+            "video_id": 2236
+          },
+          {
+            "lec_no": "L-191",
+            "title": "Lesson 191",
+            "video_id": 2237
+          },
+          {
+            "lec_no": "L-192",
+            "title": "Lesson 192",
+            "video_id": 2238
+          },
+          {
+            "lec_no": "L-193",
+            "title": "Lesson 193",
+            "video_id": 2239
+          },
+          {
+            "lec_no": "L-194",
+            "title": "Lesson 194",
+            "video_id": 2240
+          },
+          {
+            "lec_no": "L-195",
+            "title": "Lesson 195",
+            "video_id": 2241
+          },
+          {
+            "lec_no": "L-196",
+            "title": "Lesson 196",
+            "video_id": 2242
+          },
+          {
+            "lec_no": "L-197",
+            "title": "Lesson 197",
+            "video_id": 2243
+          },
+          {
+            "lec_no": "L-198",
+            "title": "Lesson 198",
+            "video_id": 2244
+          },
+          {
+            "lec_no": "L-199",
+            "title": "Lesson 199",
+            "video_id": 2245
+          },
+          {
+            "lec_no": "L-200",
+            "title": "Lesson 200",
+            "video_id": 2247,
+            "notes_id": 2246
+          },
+          {
+            "lec_no": "L-201",
+            "title": "Lesson 201",
+            "video_id": 2248
+          },
+          {
+            "lec_no": "L-202",
+            "title": "Lesson 202",
+            "video_id": 2249
+          },
+          {
+            "lec_no": "L-203",
+            "title": "Lesson 203",
+            "video_id": 2250
+          },
+          {
+            "lec_no": "L-204",
+            "title": "Lesson 204",
+            "video_id": 2251
+          },
+          {
+            "lec_no": "L-205",
+            "title": "Lesson 205",
+            "video_id": 2252
+          },
+          {
+            "lec_no": "L-206",
+            "title": "Lesson 206",
+            "video_id": 2253
+          },
+          {
+            "lec_no": "L-207",
+            "title": "Lesson 207",
+            "video_id": 2254
+          },
+          {
+            "lec_no": "L-208",
+            "title": "Lesson 208",
+            "video_id": 2255
+          },
+          {
+            "lec_no": "L-209",
+            "title": "Lesson 209",
+            "video_id": 2256
+          },
+          {
+            "lec_no": "L-210",
+            "title": "Lesson 210",
+            "video_id": 2257
+          },
+          {
+            "lec_no": "L-211",
+            "title": "Lesson 211",
+            "video_id": 2258
+          },
+          {
+            "lec_no": "L-212",
+            "title": "Lesson 212",
+            "video_id": 2259
+          },
+          {
+            "lec_no": "L-213",
+            "title": "Lesson 213",
+            "video_id": 2260
+          },
+          {
+            "lec_no": "L-214",
+            "title": "Lesson 214",
+            "video_id": 2261
+          },
+          {
+            "lec_no": "L-215",
+            "title": "Lesson 215",
+            "video_id": 2262
+          },
+          {
+            "lec_no": "L-216",
+            "title": "Lesson 216",
+            "video_id": 2263
+          },
+          {
+            "lec_no": "L-217",
+            "title": "Lesson 217",
+            "video_id": 2264
+          },
+          {
+            "lec_no": "L-218",
+            "title": "Lesson 218",
+            "video_id": 2265
+          },
+          {
+            "lec_no": "L-219",
+            "title": "Lesson 219",
+            "video_id": 2266
+          },
+          {
+            "lec_no": "L-220",
+            "title": "Lesson 220",
+            "video_id": 2267
+          },
+          {
+            "lec_no": "L-221",
+            "title": "Lesson 221",
+            "video_id": 2268
+          },
+          {
+            "lec_no": "L-222",
+            "title": "Lesson 222",
+            "video_id": 2269
+          },
+          {
+            "lec_no": "L-223",
+            "title": "Lesson 223",
+            "video_id": 2270
+          },
+          {
+            "lec_no": "L-224",
+            "title": "Lesson 224",
+            "video_id": 2271
+          },
+          {
+            "lec_no": "L-225",
+            "title": "Lesson 225",
+            "video_id": 2272
+          },
+          {
+            "lec_no": "L-226",
+            "title": "Lesson 226",
+            "video_id": 2273
+          },
+          {
+            "lec_no": "L-227",
+            "title": "Lesson 227",
+            "video_id": 2274
+          },
+          {
+            "lec_no": "L-228",
+            "title": "Lesson 228",
+            "video_id": 2275
+          },
+          {
+            "lec_no": "L-229",
+            "title": "Lesson 229",
+            "video_id": 2276
+          },
+          {
+            "lec_no": "L-230",
+            "title": "Lesson 230",
+            "video_id": 2277
+          },
+          {
+            "lec_no": "L-231",
+            "title": "Lesson 231",
+            "video_id": 2278
+          },
+          {
+            "lec_no": "L-232",
+            "title": "Lesson 232",
+            "video_id": 2279
+          },
+          {
+            "lec_no": "L-233",
+            "title": "Lesson 233",
+            "video_id": 2280
+          },
+          {
+            "lec_no": "L-234",
+            "title": "Lesson 234",
+            "video_id": 2281
+          },
+          {
+            "lec_no": "L-235",
+            "title": "Lesson 235",
+            "video_id": 2282
+          },
+          {
+            "lec_no": "L-236",
+            "title": "Lesson 236",
+            "video_id": 2283
+          },
+          {
+            "lec_no": "L-237",
+            "title": "Lesson 237",
+            "video_id": 2284
+          },
+          {
+            "lec_no": "L-238",
+            "title": "Lesson 238",
+            "video_id": 2285
+          },
+          {
+            "lec_no": "L-239",
+            "title": "Lesson 239",
+            "video_id": 2286
+          },
+          {
+            "lec_no": "L-240",
+            "title": "Lesson 240",
+            "video_id": 2287
+          },
+          {
+            "lec_no": "L-241",
+            "title": "Lesson 241",
+            "video_id": 2288
+          },
+          {
+            "lec_no": "L-242",
+            "title": "Lesson 242",
+            "video_id": 2289
+          },
+          {
+            "lec_no": "L-243",
+            "title": "Lesson 243",
+            "video_id": 2290
+          },
+          {
+            "lec_no": "L-244",
+            "title": "Lesson 244",
+            "video_id": 2291
+          },
+          {
+            "lec_no": "L-245",
+            "title": "Lesson 245",
+            "video_id": 2292
+          },
+          {
+            "lec_no": "L-246",
+            "title": "Lesson 246",
+            "video_id": 2293
+          },
+          {
+            "lec_no": "L-247",
+            "title": "Lesson 247",
+            "video_id": 2294
+          },
+          {
+            "lec_no": "L-248",
+            "title": "Lesson 248",
+            "video_id": 2295
+          },
+          {
+            "lec_no": "L-249",
+            "title": "Lesson 249",
+            "video_id": 2296
+          },
+          {
+            "lec_no": "L-250",
+            "title": "Lesson 250",
+            "video_id": 2297
+          },
+          {
+            "lec_no": "L-251",
+            "title": "Lesson 251",
+            "video_id": 2298
+          },
+          {
+            "lec_no": "L-252",
+            "title": "Lesson 252",
+            "video_id": 2299
+          },
+          {
+            "lec_no": "L-253",
+            "title": "Lesson 253",
+            "video_id": 2300
+          },
+          {
+            "lec_no": "L-254",
+            "title": "Lesson 254",
+            "video_id": 2301
+          },
+          {
+            "lec_no": "L-255",
+            "title": "Lesson 255",
+            "video_id": 2302
+          },
+          {
+            "lec_no": "L-256",
+            "title": "Lesson 256",
+            "video_id": 2303
+          },
+          {
+            "lec_no": "L-257",
+            "title": "Lesson 257",
+            "video_id": 2304
+          },
+          {
+            "lec_no": "L-258",
+            "title": "Lesson 258",
+            "video_id": 2305
+          },
+          {
+            "lec_no": "L-259",
+            "title": "Lesson 259",
+            "video_id": 2306
+          },
+          {
+            "lec_no": "L-260",
+            "title": "Lesson 260",
+            "video_id": 2307
+          },
+          {
+            "lec_no": "L-261",
+            "title": "Lesson 261",
+            "video_id": 2308
+          },
+          {
+            "lec_no": "L-262",
+            "title": "Lesson 262",
+            "video_id": 2309
+          },
+          {
+            "lec_no": "L-263",
+            "title": "Lesson 263",
+            "video_id": 2310
+          },
+          {
+            "lec_no": "L-264",
+            "title": "Lesson 264",
+            "video_id": 2311
+          },
+          {
+            "lec_no": "L-265",
+            "title": "Lesson 265",
+            "video_id": 2312
+          },
+          {
+            "lec_no": "L-266",
+            "title": "Lesson 266",
+            "video_id": 2313
+          },
+          {
+            "lec_no": "L-267",
+            "title": "Lesson 267",
+            "video_id": 2314
+          },
+          {
+            "lec_no": "L-268",
+            "title": "Lesson 268",
+            "video_id": 2315
+          },
+          {
+            "lec_no": "L-269",
+            "title": "Lesson 269",
+            "video_id": 2316
+          },
+          {
+            "lec_no": "L-270",
+            "title": "Lesson 270",
+            "video_id": 2317
+          },
+          {
+            "lec_no": "L-271",
+            "title": "Lesson 271",
+            "video_id": 2318
+          },
+          {
+            "lec_no": "L-272",
+            "title": "Lesson 272",
+            "video_id": 2319
+          },
+          {
+            "lec_no": "L-273",
+            "title": "Lesson 273",
+            "video_id": 2320
+          },
+          {
+            "lec_no": "L-274",
+            "title": "Lesson 274",
+            "video_id": 2321
+          },
+          {
+            "lec_no": "L-275",
+            "title": "Lesson 275",
+            "video_id": 2322
+          },
+          {
+            "lec_no": "L-276",
+            "title": "Lesson 276",
+            "video_id": 2323
+          },
+          {
+            "lec_no": "L-277",
+            "title": "Lesson 277",
+            "video_id": 2324
+          },
+          {
+            "lec_no": "L-278",
+            "title": "Lesson 278",
+            "video_id": 2325
+          },
+          {
+            "lec_no": "L-279",
+            "title": "Lesson 279",
+            "video_id": 2326
+          },
+          {
+            "lec_no": "L-280",
+            "title": "Lesson 280",
+            "video_id": 2327
+          },
+          {
+            "lec_no": "L-281",
+            "title": "Lesson 281",
+            "video_id": 2328
+          },
+          {
+            "lec_no": "L-282",
+            "title": "Lesson 282",
+            "video_id": 2329
+          },
+          {
+            "lec_no": "L-283",
+            "title": "Lesson 283",
+            "video_id": 2330
+          },
+          {
+            "lec_no": "L-284",
+            "title": "Lesson 284",
+            "video_id": 2331
+          },
+          {
+            "lec_no": "L-285",
+            "title": "Lesson 285",
+            "video_id": 2332
+          },
+          {
+            "lec_no": "L-286",
+            "title": "Lesson 286",
+            "video_id": 2333
+          },
+          {
+            "lec_no": "L-287",
+            "title": "Lesson 287",
+            "video_id": 2334
+          },
+          {
+            "lec_no": "L-288",
+            "title": "Lesson 288",
+            "video_id": 2335
+          },
+          {
+            "lec_no": "L-289",
+            "title": "Lesson 289",
+            "video_id": 2336
+          },
+          {
+            "lec_no": "L-290",
+            "title": "Lesson 290",
+            "video_id": 2337
+          },
+          {
+            "lec_no": "L-291",
+            "title": "Lesson 291",
+            "video_id": 2338
+          },
+          {
+            "lec_no": "L-292",
+            "title": "Lesson 292",
+            "video_id": 2339
+          },
+          {
+            "lec_no": "L-293",
+            "title": "Lesson 293",
+            "video_id": 2340
+          },
+          {
+            "lec_no": "L-294",
+            "title": "Lesson 294",
+            "video_id": 2341
+          },
+          {
+            "lec_no": "L-295",
+            "title": "Lesson 295",
+            "video_id": 2342
+          },
+          {
+            "lec_no": "L-296",
+            "title": "Lesson 296",
+            "video_id": 2343
+          },
+          {
+            "lec_no": "L-297",
+            "title": "Lesson 297",
+            "video_id": 2344
+          },
+          {
+            "lec_no": "L-298",
+            "title": "Lesson 298",
+            "video_id": 2345
+          },
+          {
+            "lec_no": "L-299",
+            "title": "Lesson 299",
+            "video_id": 2346
+          },
+          {
+            "lec_no": "L-300",
+            "title": "Lesson 300",
+            "video_id": 2347
+          },
+          {
+            "lec_no": "L-301",
+            "title": "Lesson 301",
+            "video_id": 2348
+          },
+          {
+            "lec_no": "L-302",
+            "title": "Lesson 302",
+            "video_id": 2349
+          },
+          {
+            "lec_no": "L-303",
+            "title": "Lesson 303",
+            "video_id": 2350
+          },
+          {
+            "lec_no": "L-304",
+            "title": "Lesson 304",
+            "video_id": 2351
+          },
+          {
+            "lec_no": "L-305",
+            "title": "Lesson 305",
+            "video_id": 2352
+          },
+          {
+            "lec_no": "L-306",
+            "title": "Lesson 306",
+            "video_id": 2353
+          },
+          {
+            "lec_no": "L-307",
+            "title": "Lesson 307",
+            "video_id": 2354
+          },
+          {
+            "lec_no": "L-308",
+            "title": "Lesson 308",
+            "video_id": 2355
+          },
+          {
+            "lec_no": "L-309",
+            "title": "Lesson 309",
+            "video_id": 2356
+          },
+          {
+            "lec_no": "L-310",
+            "title": "Lesson 310",
+            "video_id": 2357
+          },
+          {
+            "lec_no": "L-311",
+            "title": "Lesson 311",
+            "video_id": 2358
+          },
+          {
+            "lec_no": "L-312",
+            "title": "Lesson 312",
+            "video_id": 2359
+          },
+          {
+            "lec_no": "L-313",
+            "title": "Lesson 313",
+            "video_id": 2360
+          },
+          {
+            "lec_no": "L-314",
+            "title": "Lesson 314",
+            "video_id": 2361
+          },
+          {
+            "lec_no": "L-315",
+            "title": "Lesson 315",
+            "video_id": 2362
+          },
+          {
+            "lec_no": "L-316",
+            "title": "Lesson 316",
+            "video_id": 2363
+          },
+          {
+            "lec_no": "L-317",
+            "title": "Lesson 317",
+            "video_id": 2364
+          },
+          {
+            "lec_no": "L-318",
+            "title": "Lesson 318",
+            "video_id": 2365
+          },
+          {
+            "lec_no": "L-319",
+            "title": "Lesson 319",
+            "video_id": 2366
+          },
+          {
+            "lec_no": "L-320",
+            "title": "Lesson 320",
+            "video_id": 2367
+          },
+          {
+            "lec_no": "L-321",
+            "title": "Lesson 321",
+            "video_id": 2368
+          },
+          {
+            "lec_no": "L-322",
+            "title": "Lesson 322",
+            "video_id": 2369
+          },
+          {
+            "lec_no": "L-323",
+            "title": "Lesson 323",
+            "video_id": 2370
+          },
+          {
+            "lec_no": "L-324",
+            "title": "Lesson 324",
+            "video_id": 2371
+          },
+          {
+            "lec_no": "L-325",
+            "title": "Lesson 325",
+            "video_id": 2372
+          },
+          {
+            "lec_no": "L-326",
+            "title": "Lesson 326",
+            "video_id": 2373
+          },
+          {
+            "lec_no": "L-327",
+            "title": "Lesson 327",
+            "video_id": 2374
+          },
+          {
+            "lec_no": "L-328",
+            "title": "Lesson 328",
+            "video_id": 2375
+          },
+          {
+            "lec_no": "L-329",
+            "title": "Lesson 329",
+            "video_id": 2376
+          },
+          {
+            "lec_no": "L-330",
+            "title": "Lesson 330",
+            "video_id": 2377
+          },
+          {
+            "lec_no": "L-331",
+            "title": "Lesson 331",
+            "video_id": 2378
+          },
+          {
+            "lec_no": "L-332",
+            "title": "Lesson 332",
+            "video_id": 2379
+          },
+          {
+            "lec_no": "L-333",
+            "title": "Lesson 333",
+            "video_id": 2380
+          },
+          {
+            "lec_no": "L-334",
+            "title": "Lesson 334",
+            "video_id": 2381
+          },
+          {
+            "lec_no": "L-335",
+            "title": "Lesson 335",
+            "video_id": 2382
+          },
+          {
+            "lec_no": "L-336",
+            "title": "Lesson 336",
+            "video_id": 2383
+          },
+          {
+            "lec_no": "L-337",
+            "title": "Lesson 337",
+            "video_id": 2384
+          },
+          {
+            "lec_no": "L-338",
+            "title": "Lesson 338",
+            "video_id": 2385
+          },
+          {
+            "lec_no": "L-339",
+            "title": "Lesson 339",
+            "video_id": 2386
+          },
+          {
+            "lec_no": "L-340",
+            "title": "Lesson 340",
+            "video_id": 2387
+          },
+          {
+            "lec_no": "L-341",
+            "title": "Lesson 341",
+            "video_id": 2388
+          },
+          {
+            "lec_no": "L-342",
+            "title": "Lesson 342",
+            "video_id": 2389
+          },
+          {
+            "lec_no": "L-343",
+            "title": "Lesson 343",
+            "video_id": 2390
+          },
+          {
+            "lec_no": "L-344",
+            "title": "Lesson 344",
+            "video_id": 2391
+          },
+          {
+            "lec_no": "L-345",
+            "title": "Lesson 345",
+            "video_id": 2392
+          },
+          {
+            "lec_no": "L-346",
+            "title": "Lesson 346",
+            "video_id": 2393
+          },
+          {
+            "lec_no": "L-347",
+            "title": "Lesson 347",
+            "video_id": 2394
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch_name": "FIGMA ADVANCED COURSE BY DANIEL WALTER SCOTT",
+    "parent_batch": "UDEMY",
+    "direct_subject": "FIGMA ADVANCED COURSE BY DANIEL WALTER SCOTT",
+    "channel_id": "-1003637459451",
+    "chapters": [
+      {
+        "chapter_name": "UI/UX Design",
+        "lectures": [
+          {
+            "lec_no": "L-01",
+            "title": "Intro to the Figma Advanced Course",
+            "video_id": 2938
+          },
+          {
+            "lec_no": "L-02",
+            "title": "Getting Started in Figma Advanced Course",
+            "video_id": 2940
+          },
+          {
+            "lec_no": "L-03",
+            "title": "Auto Layout & Responsive Design 101 It's use in responsive design",
+            "video_id": 2941
+          },
+          {
+            "lec_no": "L-04",
+            "title": "Designing in Figma with Auto Spacing in Auto Layouts",
+            "video_id": 2942
+          },
+          {
+            "lec_no": "L-05",
+            "title": "When and when not to use Components in Figma",
+            "video_id": 2943
+          },
+          {
+            "lec_no": "L-06",
+            "title": "What is good spacing to use in Figma",
+            "video_id": 2944
+          },
+          {
+            "lec_no": "L-07",
+            "title": "What spacing should I use for web & app design in Figma",
+            "video_id": 2945
+          },
+          {
+            "lec_no": "L-08",
+            "title": "Auto Layout vs Constraints in Figma",
+            "video_id": 2946
+          },
+          {
+            "lec_no": "L-09",
+            "title": "Autolayout shortcuts Tips and tricks to work with Auto Layout faster",
+            "video_id": 2947
+          },
+          {
+            "lec_no": "L-10",
+            "title": "Class Project 01 - Responsive Lower Navigation",
+            "video_id": 2948
+          },
+          {
+            "lec_no": "L-11",
+            "title": "How to handle files in Figma and become a File Handling Master",
+            "video_id": 2950,
+            "notes_id": 2949
+          },
+          {
+            "lec_no": "L-12",
+            "title": "How to use advanced Copy, Paste, and Selection Tricks in Figma",
+            "video_id": 2951
+          },
+          {
+            "lec_no": "L-13",
+            "title": "How to do crazy things with your Figma fields",
+            "video_id": 2952
+          },
+          {
+            "lec_no": "L-14",
+            "title": "Frame Tricks Tips and Tricks to work with Figma frames effectively",
+            "video_id": 2953
+          },
+          {
+            "lec_no": "L-15",
+            "title": "Advanced Zooming Techniques for precision work in Figma",
+            "video_id": 2954
+          },
+          {
+            "lec_no": "L-16",
+            "title": "Light or Dark vs System Theme Which one to use in Figma",
+            "video_id": 2955
+          },
+          {
+            "lec_no": "L-17",
+            "title": "Class Project 02 - Event Card Constraints",
+            "video_id": 2956
+          },
+          {
+            "lec_no": "L-18",
+            "title": "Class Project 02 - Event Card Constraints - Completed",
+            "video_id": 2958,
+            "notes_id": 2957
+          },
+          {
+            "lec_no": "L-19",
+            "title": "Grid v Constraints v Autolayout in Figma Which one to use and when",
+            "video_id": 2959
+          },
+          {
+            "lec_no": "L-20",
+            "title": "How to copy & paste grids and export grid styles in Figma",
+            "video_id": 2960
+          },
+          {
+            "lec_no": "L-21",
+            "title": "How to add rows and column grids to one layout in Figma",
+            "video_id": 2961
+          },
+          {
+            "lec_no": "L-22",
+            "title": "How to update Grid Styles in Figma",
+            "video_id": 2962
+          },
+          {
+            "lec_no": "L-23",
+            "title": "Grids inside of frames that aren't the main frame",
+            "video_id": 2963
+          },
+          {
+            "lec_no": "L-24",
+            "title": "Class project 03 - Event Branding",
+            "video_id": 2964
+          },
+          {
+            "lec_no": "L-25",
+            "title": "Logos using Iconscout How to use Iconscout to create logos in Figma",
+            "video_id": 2966,
+            "notes_id": 2965
+          },
+          {
+            "lec_no": "L-26",
+            "title": "What are widget compared to plugins in Figma",
+            "video_id": 2967
+          },
+          {
+            "lec_no": "L-27",
+            "title": "How to create ux color variants using a Figma Widget",
+            "video_id": 2968
+          },
+          {
+            "lec_no": "L-28",
+            "title": "Intro to Nested & Responsive Auto layouts Section",
+            "video_id": 2969
+          },
+          {
+            "lec_no": "L-29",
+            "title": "Production video - Tidying up my frame & component mess",
+            "video_id": 2970
+          },
+          {
+            "lec_no": "L-30",
+            "title": "Bring in images using the unsplash plugin in Figma",
+            "video_id": 2971
+          },
+          {
+            "lec_no": "L-31",
+            "title": "Production video - Making the parts for our nested autolayout",
+            "video_id": 2972
+          },
+          {
+            "lec_no": "L-32",
+            "title": "Nesting Multiple Auto Layouts inside each other in Figma",
+            "video_id": 2973
+          },
+          {
+            "lec_no": "L-33",
+            "title": "Autolayout Nesting with variants and responsive text in Figma",
+            "video_id": 2974
+          },
+          {
+            "lec_no": "L-34",
+            "title": "Abstract Gradient Background in Figma the easy way",
+            "video_id": 2977,
+            "notes_id": 2976
+          },
+          {
+            "lec_no": "L-35",
+            "title": "How to copy and paste Interactions in Figma",
+            "video_id": 2978
+          },
+          {
+            "lec_no": "L-36",
+            "title": "How to animate gradient mesh using Variants in Figma",
+            "video_id": 2979
+          },
+          {
+            "lec_no": "L-37",
+            "title": "How to give feedback on a UX project - The Critique Sandwich",
+            "video_id": 2980
+          },
+          {
+            "lec_no": "L-38",
+            "title": "Class project 04 - Background Animation",
+            "video_id": 2981
+          },
+          {
+            "lec_no": "L-39",
+            "title": "Houdini Text How to make a text mask animation Figma",
+            "video_id": 2983,
+            "notes_id": 2982
+          },
+          {
+            "lec_no": "L-40",
+            "title": "How to use the Spring Animations in Figma",
+            "video_id": 2984
+          },
+          {
+            "lec_no": "L-41",
+            "title": "Spring Animation How to make custom Spring Animation in Figma",
+            "video_id": 2985
+          },
+          {
+            "lec_no": "L-42",
+            "title": "Why is interaction on tap on click grayed out of missing in Figma",
+            "video_id": 2986
+          },
+          {
+            "lec_no": "L-43",
+            "title": "Class project 05 - Houdini Text Animation",
+            "video_id": 2987
+          },
+          {
+            "lec_no": "L-44",
+            "title": "Create & remove bulk multiple noodles wires at once in Figma",
+            "video_id": 2989,
+            "notes_id": 2988
+          },
+          {
+            "lec_no": "L-45",
+            "title": "How to bulk update nav links in your Figma prototype",
+            "video_id": 2990
+          },
+          {
+            "lec_no": "L-46",
+            "title": "How to set the right phone and find old prototype phones in Figma",
+            "video_id": 2991
+          },
+          {
+            "lec_no": "L-47",
+            "title": "How to make sticky scroll position search bar in Figma",
+            "video_id": 2992
+          },
+          {
+            "lec_no": "L-48",
+            "title": "How to stack multiple sticky text vertical scrolling in Figma",
+            "video_id": 2993
+          },
+          {
+            "lec_no": "L-49",
+            "title": "Class project 06 - Multiple Sticky Headings",
+            "video_id": 2994
+          },
+          {
+            "lec_no": "L-50",
+            "title": "How to make Interactive Components in Figma",
+            "video_id": 2996,
+            "notes_id": 2995
+          },
+          {
+            "lec_no": "L-51",
+            "title": "How to make a checkmark turn on and off in Figma",
+            "video_id": 2997
+          },
+          {
+            "lec_no": "L-52",
+            "title": "Interactive components with sliding button in navigation for Figma",
+            "video_id": 2998
+          },
+          {
+            "lec_no": "L-53",
+            "title": "Class project 07 - Sliding Button Nav Challenge",
+            "video_id": 2999
+          },
+          {
+            "lec_no": "L-54",
+            "title": "Class project 07 - Completed",
+            "video_id": 3001,
+            "notes_id": 3000
+          },
+          {
+            "lec_no": "L-55",
+            "title": "How to use Sections in Figma for organizing your content",
+            "video_id": 3002
+          },
+          {
+            "lec_no": "L-56",
+            "title": "How to use sections for prototyping in Figma",
+            "video_id": 3003
+          },
+          {
+            "lec_no": "L-57",
+            "title": "How to add iOS battery wifi notch status bar to Figma",
+            "video_id": 3004
+          },
+          {
+            "lec_no": "L-58",
+            "title": "Class project 08 - Operating System UI",
+            "video_id": 3006,
+            "notes_id": 3005
+          },
+          {
+            "lec_no": "L-59",
+            "title": "Be careful what you create in Figma",
+            "video_id": 3008,
+            "notes_id": 3007
+          },
+          {
+            "lec_no": "L-60",
+            "title": "What are the advanced Layer shortcuts in Figma",
+            "video_id": 3009
+          },
+          {
+            "lec_no": "L-61",
+            "title": "How to find layer Zen shortcuts in Figma",
+            "video_id": 3010
+          },
+          {
+            "lec_no": "L-62",
+            "title": "How to hide and lock unlock all layers in Figma",
+            "video_id": 3011
+          },
+          {
+            "lec_no": "L-63",
+            "title": "How to use Locked layers in Figma",
+            "video_id": 3012
+          },
+          {
+            "lec_no": "L-64",
+            "title": "How to Find Replace and Multi-select Layer Search in Figma",
+            "video_id": 3013
+          },
+          {
+            "lec_no": "L-65",
+            "title": "How to Bulk Rename Layers with advanced tricks in Figma",
+            "video_id": 3014
+          },
+          {
+            "lec_no": "L-66",
+            "title": "How to replace instances and variants with shortcuts in Figma",
+            "video_id": 3015
+          },
+          {
+            "lec_no": "L-67",
+            "title": "How to use Instance Swap Component Properties with preferred in Figma",
+            "video_id": 3016
+          },
+          {
+            "lec_no": "L-68",
+            "title": "How to use Component Text Property in Figma",
+            "video_id": 3017
+          },
+          {
+            "lec_no": "L-69",
+            "title": "How to use Boolean Component Property in Figma",
+            "video_id": 3018
+          },
+          {
+            "lec_no": "L-70",
+            "title": "How to make a input field using only component properties in Figma",
+            "video_id": 3019
+          },
+          {
+            "lec_no": "L-71",
+            "title": "How to Combine Variants with Component Properties in Figma",
+            "video_id": 3020
+          },
+          {
+            "lec_no": "L-72",
+            "title": "How to apply component properties to existing design systems",
+            "video_id": 3021
+          },
+          {
+            "lec_no": "L-73",
+            "title": "What is Simplify Instances in Figma",
+            "video_id": 3022
+          },
+          {
+            "lec_no": "L-74",
+            "title": "What does Expose Nested Instances do in Figma",
+            "video_id": 3023
+          },
+          {
+            "lec_no": "L-75",
+            "title": "Class project 09 - One button to rule them all",
+            "video_id": 3024
+          },
+          {
+            "lec_no": "L-76",
+            "title": "What are some font tips and tricks in Figma",
+            "video_id": 3026,
+            "notes_id": 3025
+          },
+          {
+            "lec_no": "L-77",
+            "title": "How to see Live Font Previews in Figma",
+            "video_id": 3027
+          },
+          {
+            "lec_no": "L-78",
+            "title": "How reset fonts & set default fonts in Figma",
+            "video_id": 3028
+          },
+          {
+            "lec_no": "L-79",
+            "title": "How to Use Line Height Percentage in 8pt grid in Figma",
+            "video_id": 3029
+          },
+          {
+            "lec_no": "L-80",
+            "title": "How to use Leading trim to cap height to baseline in Figma",
+            "video_id": 3030
+          },
+          {
+            "lec_no": "L-81",
+            "title": "How to set Hanging Punctuation for pull quotes & call outs in Figma",
+            "video_id": 3031
+          },
+          {
+            "lec_no": "L-82",
+            "title": "What are the Advanced Type Options in Figma",
+            "video_id": 3032
+          },
+          {
+            "lec_no": "L-83",
+            "title": "How to use Variable Type in UX app design in Figma",
+            "video_id": 3033
+          },
+          {
+            "lec_no": "L-84",
+            "title": "How to curve text with type on a path in Figma",
+            "video_id": 3034
+          },
+          {
+            "lec_no": "L-85",
+            "title": "How to use adobe fonts & local fonts in Figma",
+            "video_id": 3035
+          },
+          {
+            "lec_no": "L-86",
+            "title": "How to Preserve text overrides or not in Figma variant",
+            "video_id": 3036
+          },
+          {
+            "lec_no": "L-87",
+            "title": "How to use Chat GPT AI to create placeholder and personas in Figma",
+            "video_id": 3037
+          },
+          {
+            "lec_no": "L-88",
+            "title": "How to create an image style in Figma",
+            "video_id": 3038
+          },
+          {
+            "lec_no": "L-89",
+            "title": "What's the difference with Images inside frames vs fills vs Masked in Figma",
+            "video_id": 3039
+          },
+          {
+            "lec_no": "L-90",
+            "title": "How to crop images using shortcuts in Figma",
+            "video_id": 3040
+          },
+          {
+            "lec_no": "L-91",
+            "title": "How to mask images with text in Figma",
+            "video_id": 3041
+          },
+          {
+            "lec_no": "L-92",
+            "title": "Class Project 10 - Text Mask",
+            "video_id": 3042
+          },
+          {
+            "lec_no": "L-93",
+            "title": "How to mask using transparent pngs with alpha channels in Figma",
+            "video_id": 3044,
+            "notes_id": 3043
+          },
+          {
+            "lec_no": "L-94",
+            "title": "Class Project 11 - Alpha Mask",
+            "video_id": 3045
+          },
+          {
+            "lec_no": "L-95",
+            "title": "How to create a luma mask in Figma",
+            "video_id": 3047,
+            "notes_id": 3046
+          },
+          {
+            "lec_no": "L-96",
+            "title": "Class project 12 - Luma Mask",
+            "video_id": 3048
+          },
+          {
+            "lec_no": "L-97",
+            "title": "How to make a spillover mask outside of the frame in Figma",
+            "video_id": 3050,
+            "notes_id": 3049
+          },
+          {
+            "lec_no": "L-98",
+            "title": "How to use the pen tool to make image masks in Figma",
+            "video_id": 3051
+          },
+          {
+            "lec_no": "L-99",
+            "title": "How to use color layer blending modes in Figma",
+            "video_id": 3052
+          },
+          {
+            "lec_no": "L-100",
+            "title": "Class project 13 - Social Ad",
+            "video_id": 3053
+          },
+          {
+            "lec_no": "L-101",
+            "title": "How to add video in Figma",
+            "video_id": 3055,
+            "notes_id": 3054
+          },
+          {
+            "lec_no": "L-102",
+            "title": "How to make a background autoplay video in Figma",
+            "video_id": 3056
+          },
+          {
+            "lec_no": "L-103",
+            "title": "How to get a video play when you hover in Figma",
+            "video_id": 3057
+          },
+          {
+            "lec_no": "L-104",
+            "title": "Class project 14 - Hover Play",
+            "video_id": 3058
+          },
+          {
+            "lec_no": "L-105",
+            "title": "How to make a play pause button for video in Figma",
+            "video_id": 3060,
+            "notes_id": 3059
+          },
+          {
+            "lec_no": "L-106",
+            "title": "How to build a video card in Figma",
+            "video_id": 3061
+          },
+          {
+            "lec_no": "L-107",
+            "title": "Class project 15 - Video Card",
+            "video_id": 3062
+          },
+          {
+            "lec_no": "L-108",
+            "title": "What are some advanced color tricks in figma",
+            "video_id": 3064,
+            "notes_id": 3063
+          },
+          {
+            "lec_no": "L-109",
+            "title": "How to change replace colors in Figma",
+            "video_id": 3065
+          },
+          {
+            "lec_no": "L-110",
+            "title": "How to create Color Themes for light and dark in Figma",
+            "video_id": 3066
+          },
+          {
+            "lec_no": "L-111",
+            "title": "How to group color styles using slashes or folders in Figma",
+            "video_id": 3067
+          },
+          {
+            "lec_no": "L-112",
+            "title": "How to descriptions to your styles in Figma for others to use",
+            "video_id": 3068
+          },
+          {
+            "lec_no": "L-113",
+            "title": "Editing someone else's styles or component library in Figma",
+            "video_id": 3069
+          },
+          {
+            "lec_no": "L-114",
+            "title": "How to hide color font styles & components from team library in Figma",
+            "video_id": 3070
+          },
+          {
+            "lec_no": "L-115",
+            "title": "How to compare changes in component with overlay in Figma",
+            "video_id": 3071
+          },
+          {
+            "lec_no": "L-116",
+            "title": "How to refactoring styles to another design file in Figma",
+            "video_id": 3072
+          },
+          {
+            "lec_no": "L-117",
+            "title": "How to move relink refactoring components to another design file in Figma",
+            "video_id": 3073
+          },
+          {
+            "lec_no": "L-118",
+            "title": "How to swap parts or entire component & style library in Figma",
+            "video_id": 3074
+          },
+          {
+            "lec_no": "L-119",
+            "title": "What are some advanced drawing tips and tricks in figma",
+            "video_id": 3075
+          },
+          {
+            "lec_no": "L-120",
+            "title": "How to draw in Figma with the pen tool- Anchor point mastery",
+            "video_id": 3076
+          },
+          {
+            "lec_no": "L-121",
+            "title": "How to draw with Bend & Mirror angle in Figma",
+            "video_id": 3077
+          },
+          {
+            "lec_no": "L-122",
+            "title": "Can you animated anchor points or booleans in Figma",
+            "video_id": 3078
+          },
+          {
+            "lec_no": "L-123",
+            "title": "How to animate a mobile nav menu in Figma using a dip",
+            "video_id": 3079
+          },
+          {
+            "lec_no": "L-124",
+            "title": "Class project 16 - Alt Nav Animation",
+            "video_id": 3080
+          },
+          {
+            "lec_no": "L-125",
+            "title": "How to overlap & stack things in a Figma Autolayout",
+            "video_id": 3082,
+            "notes_id": 3081
+          },
+          {
+            "lec_no": "L-126",
+            "title": "What are the shortcuts for hug & fill in Figma",
+            "video_id": 3083
+          },
+          {
+            "lec_no": "L-127",
+            "title": "How to set absolute spacing so things ignore Autolayout in Figma",
+            "video_id": 3084
+          },
+          {
+            "lec_no": "L-128",
+            "title": "How to absolute position something that is responsive in Figma",
+            "video_id": 3085
+          },
+          {
+            "lec_no": "L-129",
+            "title": "How stick things to the bottom right of an auto layout in Figma",
+            "video_id": 3086
+          },
+          {
+            "lec_no": "L-130",
+            "title": "How to resize a box automatically in a Auto Layout to match text in Figma",
+            "video_id": 3087
+          },
+          {
+            "lec_no": "L-131",
+            "title": "What are the autolayout padding and resizing shortcuts",
+            "video_id": 3088
+          },
+          {
+            "lec_no": "L-132",
+            "title": "How to create a minimum width height button in Figma",
+            "video_id": 3089
+          },
+          {
+            "lec_no": "L-133",
+            "title": "How to wrap auto layout objects in Figma",
+            "video_id": 3090
+          },
+          {
+            "lec_no": "L-134",
+            "title": "What does stroke included excluded mean in Figma auto layout",
+            "video_id": 3091
+          },
+          {
+            "lec_no": "L-135",
+            "title": "How to set custom spacing in auto layouts in Figma",
+            "video_id": 3092
+          },
+          {
+            "lec_no": "L-136",
+            "title": "How to create slot placehold components in Figma",
+            "video_id": 3094,
+            "notes_id": 3093
+          },
+          {
+            "lec_no": "L-137",
+            "title": "How to convert an existing website into a figma design",
+            "video_id": 3095
+          },
+          {
+            "lec_no": "L-138",
+            "title": "How to make a drop down using overlays in Figma",
+            "video_id": 3096
+          },
+          {
+            "lec_no": "L-139",
+            "title": "How to make a multi level drop down menu in Figma",
+            "video_id": 3097
+          },
+          {
+            "lec_no": "L-140",
+            "title": "Class project 17 - Nested Dropdown Menu",
+            "video_id": 3098
+          },
+          {
+            "lec_no": "L-141",
+            "title": "How to create a hover grow effect for images in Figma",
+            "video_id": 3100,
+            "notes_id": 3099
+          },
+          {
+            "lec_no": "L-142",
+            "title": "Class project 18 - Hover Grow Effect",
+            "video_id": 3101
+          },
+          {
+            "lec_no": "L-143",
+            "title": "How to make an expanding Search Bar in Figma",
+            "video_id": 3103,
+            "notes_id": 3102
+          },
+          {
+            "lec_no": "L-144",
+            "title": "Class project 19 - Expanding Search Bar",
+            "video_id": 3104
+          },
+          {
+            "lec_no": "L-145",
+            "title": "What are Variables in Figma",
+            "video_id": 3106,
+            "notes_id": 3105
+          },
+          {
+            "lec_no": "L-146",
+            "title": "How to create cart total using number variables in Figma",
+            "video_id": 3107
+          },
+          {
+            "lec_no": "L-147",
+            "title": "How to add add conditions to variables in Figma",
+            "video_id": 3108
+          },
+          {
+            "lec_no": "L-148",
+            "title": "Variant change using Boolean variable - change cart color",
+            "video_id": 3109
+          },
+          {
+            "lec_no": "L-149",
+            "title": "Turning our boolean variable to false in Figma",
+            "video_id": 3110
+          },
+          {
+            "lec_no": "L-150",
+            "title": "Making a Overlay Popup in the Variable action panel in Figma",
+            "video_id": 3111
+          },
+          {
+            "lec_no": "L-151",
+            "title": "Light and Dark Modes using Collections & Color Variables in Figma",
+            "video_id": 3112
+          },
+          {
+            "lec_no": "L-152",
+            "title": "How to change spacing with number Variables in Figma",
+            "video_id": 3113
+          },
+          {
+            "lec_no": "L-153",
+            "title": "What are Design Tokens in Figma",
+            "video_id": 3114
+          },
+          {
+            "lec_no": "L-154",
+            "title": "How to create Design Tokens in Figma",
+            "video_id": 3115
+          },
+          {
+            "lec_no": "L-155",
+            "title": "Creating spacing & radius design tokens in Figma",
+            "video_id": 3116
+          },
+          {
+            "lec_no": "L-156",
+            "title": "When would you use design tokens in Figma",
+            "video_id": 3117
+          },
+          {
+            "lec_no": "L-157",
+            "title": "How do you animate along a path in Figma",
+            "video_id": 3118
+          },
+          {
+            "lec_no": "L-158",
+            "title": "How to add Lottie animation files in Figma",
+            "video_id": 3119
+          },
+          {
+            "lec_no": "L-159",
+            "title": "Making Your Designs Accessible - A Guide to Accessibility plugin in Figma",
+            "video_id": 3120
+          },
+          {
+            "lec_no": "L-160",
+            "title": "What are some tips for working with colleagues in Figma",
+            "video_id": 3121
+          },
+          {
+            "lec_no": "L-161",
+            "title": "How view version history duplicate and restore in Figma",
+            "video_id": 3122
+          },
+          {
+            "lec_no": "L-162",
+            "title": "How to archive and restore previous versions of Figma files",
+            "video_id": 3123
+          },
+          {
+            "lec_no": "L-163",
+            "title": "How to create & share a flows in Figma",
+            "video_id": 3124
+          },
+          {
+            "lec_no": "L-164",
+            "title": "How to use the Slice Tool in Figma",
+            "video_id": 3125
+          },
+          {
+            "lec_no": "L-165",
+            "title": "How export uncropped and unscaled images from Figma",
+            "video_id": 3126
+          },
+          {
+            "lec_no": "L-166",
+            "title": "How to export webp images from Figma & Photoshop",
+            "video_id": 3127
+          },
+          {
+            "lec_no": "L-167",
+            "title": "How to downsize reduce file size of all images in a Figma file",
+            "video_id": 3128
+          },
+          {
+            "lec_no": "L-168",
+            "title": "How to document a component in a design system in Figma",
+            "video_id": 3129
+          },
+          {
+            "lec_no": "L-169",
+            "title": "How to use DEV Mode in Figma",
+            "video_id": 3130
+          },
+          {
+            "lec_no": "L-170",
+            "title": "Class Project 20 - Finish your design",
+            "video_id": 3131
+          },
+          {
+            "lec_no": "L-171",
+            "title": "What's Next - Figma Advanced",
+            "video_id": 3133,
+            "notes_id": 3132
+          }
+        ],
+        "sheets": [
+          {
+            "lec_no": "L-82",
+            "title": " Exercise 2.1 ",
+            "notes_id": 2939
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch_name": "Exploratory Data Analysis in Python",
+    "parent_batch": "UDEMY",
+    "channel_id": "-1003637459451",
+    "chapters": [
+      {
+        "chapter_name": "Introduction",
+        "lectures": [
+          {
+            "lec_no": "L-01",
+            "title": "Introduction to the course",
+            "video_id": 1818,
+            "notes_id": 1819
+          },
+          {
+            "lec_no": "L-02",
+            "title": "What is EDA?",
+            "video_id": 1820,
+            "notes_id": 1821
+          },
+          {
+            "lec_no": "L-03",
+            "title": "The dataset",
+            "notes_id": 1823
+          },
+          {
+            "lec_no": "L-04",
+            "title": "Required Python packages",
+            "notes_id": 1824
+          },
+          {
+            "lec_no": "L-05",
+            "title": "Jupyter notebooks",
+            "video_id": 1825,
+            "notes_id": 1826
+          }
+        ]
+      },
+      {
+        "chapter_name": "Univariate analysis",
+        "lectures": [
+          {
+            "lec_no": "L-06",
+            "title": "A first sight to our dataset",
+            "video_id": 1828,
+            "notes_id": 1830
+          },
+          {
+            "lec_no": "L-07",
+            "title": "Summarization",
+            "notes_id": 1832
+          },
+          {
+            "lec_no": "L-08",
+            "title": "Histograms",
+            "video_id": 1833,
+            "notes_id": 1835
+          },
+          {
+            "lec_no": "L-09",
+            "title": "Boxplots",
+            "video_id": 1836,
+            "notes_id": 1838
+          }
+        ]
+      },
+      {
+        "chapter_name": "Multivariate analysis",
+        "lectures": [
+          {
+            "lec_no": "L-10",
+            "title": "Pairplots",
+            "video_id": 1840,
+            "notes_id": 1842
+          },
+          {
+            "lec_no": "L-11",
+            "title": "Correlation matrix and histograms",
+            "video_id": 1843,
+            "notes_id": 1845
+          },
+          {
+            "lec_no": "L-12",
+            "title": "Stacked histograms",
+            "video_id": 1846,
+            "notes_id": 1848
+          }
+        ]
+      },
+      {
+        "chapter_name": "Some useful libraries",
+        "lectures": [
+          {
+            "lec_no": "L-13",
+            "title": "Sweetviz",
+            "video_id": 1850,
+            "notes_id": 1852
+          },
+          {
+            "lec_no": "L-14",
+            "title": "Pandas profiling",
+            "video_id": 1853,
+            "notes_id": 1855
+          }
+        ]
+      },
+      {
+        "chapter_name": "General guidelines",
+        "lectures": [
+          {
+            "lec_no": "L-15",
+            "title": "Practical suggestions",
+            "notes_id": 1857
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "batch_name": "The Complete JavaScript Course 2025 from Zero to Expert BY jonas Schmedtmann",
+    "parent_batch": "UDEMY",
+    "channel_id": "-1003637459451",
+    "chapters": [
+      {
+        "chapter_name": "Welcome, Welcome, Welcome!",
+        "lectures": [
+          {
+            "title": "Course Structure and Projects",
+            "video_id": 26240
+          },
+          {
+            "title": "Watch Before You Start!",
+            "video_id": 26241
+          },
+          {
+            "title": "Setting Up Our Code Editor",
+            "video_id": 26254
+          }
+        ]
+      },
+      {
+        "chapter_name": "JavaScript Fundamentals Part 1",
+        "lectures": [
+          {
+            "title": "Section Intro",
+            "video_id": 26256
+          },
+          {
+            "title": "Hello World!",
+            "video_id": 26257
+          },
+          {
+            "title": "A Brief Introduction to JavaScript",
+            "video_id": 26258
+          },
+          {
+            "title": "Linking a JavaScript File",
+            "video_id": 26259
+          },
+          {
+            "title": "Values and Variables",
+            "video_id": 26260
+          },
+          {
+            "title": "Data Types",
+            "video_id": 26261
+          },
+          {
+            "title": "let, const and var",
+            "video_id": 26262
+          },
+          {
+            "title": "Basic Operators",
+            "video_id": 26263
+          },
+          {
+            "title": "Operator Precedence:",
+            "video_id": 26264
+          },
+          {
+            "title": "Coding Challenge #1",
+            "video_id": 26266,
+            "notes_id": 26265
+          },
+          {
+            "title": "Strings and Template Literals",
+            "video_id": 26267
+          },
+          {
+            "title": "Taking Decisions_ if _ else Statements",
+            "video_id": 26268
+          },
+          {
+            "title": "Coding Challenge #2",
+            "video_id": 26269
+          },
+          {
+            "title": "Type Conversion and Coercion",
+            "video_id": 26270
+          },
+          {
+            "title": "Truthy and Falsy Values",
+            "video_id": 26271
+          },
+          {
+            "title": " Equality Operators_ == vs. ===",
+            "video_id": 26272
+          },
+          {
+            "title": " Boolean Logic",
+            "video_id": 26273
+          },
+          {
+            "title": " Logical Operators",
+            "video_id": 26274
+          },
+          {
+            "title": " Coding Challenge #3",
+            "video_id": 26275
+          },
+          {
+            "title": " The switch Statement",
+            "video_id": 26276
+          },
+          {
+            "title": " Statements and Expressions",
+            "video_id": 26277
+          },
+          {
+            "title": " The Conditional (Ternary) Operator",
+            "video_id": 26278
+          },
+          {
+            "title": " Coding Challenge #4",
+            "video_id": 26279
+          },
+          {
+            "title": " JavaScript Releases_ ES5, ES6+ and ESNext",
+            "video_id": 26280
+          }
+        ]
+      },
+      {
+        "chapter_name": "JavaScript Fundamentals Part 1",
+        "lectures": [
+          {
+            "title": " Section Intro",
+            "video_id": 26282
+          },
+          {
+            "title": " Activating Strict Mode",
+            "video_id": 26283
+          },
+          {
+            "title": " Functions",
+            "video_id": 26284
+          },
+          {
+            "title": " Function Declarations vs. Expressions",
+            "video_id": 26285
+          },
+          {
+            "title": " Arrow Functions",
+            "video_id": 26286
+          },
+          {
+            "title": " Functions Calling Other Functions",
+            "video_id": 26287
+          },
+          {
+            "title": " Reviewing Functions",
+            "video_id": 26288
+          },
+          {
+            "title": " Coding Challenge #1",
+            "video_id": 26289
+          },
+          {
+            "title": " Introduction to Arrays",
+            "video_id": 26290
+          },
+          {
+            "title": " Basic Array Operations (Methods)",
+            "video_id": 26291
+          },
+          {
+            "title": " Coding Challenge #2",
+            "video_id": 26292
+          },
+          {
+            "title": " Introduction to Objects",
+            "video_id": 26293
+          },
+          {
+            "title": " Dot vs. Bracket Notation",
+            "video_id": 26294
+          },
+          {
+            "title": " Object Methods",
+            "video_id": 26295
+          },
+          {
+            "title": " Coding Challenge #3",
+            "video_id": 26296
+          },
+          {
+            "title": " Iteration_ The for Loop",
+            "video_id": 26297
+          },
+          {
+            "title": " Looping Arrays, Breaking and Continuing",
+            "video_id": 26298
+          },
+          {
+            "title": " Looping Backwards and Loops in Loops",
+            "video_id": 26299
+          },
+          {
+            "title": " The while Loop",
+            "video_id": 26300
+          },
+          {
+            "title": " Coding Challenge #4",
+            "video_id": 26301
+          }
+        ]
+      },
+      {
+        "chapter_name": "How to Navigate This Course",
+        "lectures": [
+          {
+            "title": " Pathways and Section Roadmaps",
+            "video_id": 26303
+          }
+        ]
+      },
+      {
+        "chapter_name": "Developer Skills & Editor Setup",
+        "lectures": [
+          {
+            "title": " Section Intro",
+            "video_id": 26307
+          },
+          {
+            "title": " Setting up Prettier and VS Code",
+            "video_id": 26310
+          },
+          {
+            "title": " Installing Node.js and Setting Up a Dev Environment",
+            "video_id": 26311
+          },
+          {
+            "title": " Learning How to Code",
+            "video_id": 26312
+          },
+          {
+            "title": " How to Think Like a Developer_ Become a Problem Solver!",
+            "video_id": 26313
+          },
+          {
+            "title": " Using Google, StackOverflow and MDN",
+            "video_id": 26314
+          },
+          {
+            "title": " Debugging (Fixing Errors)",
+            "video_id": 26315
+          },
+          {
+            "title": " Debugging with the Console and Breakpoints",
+            "video_id": 26316
+          },
+          {
+            "title": " Coding Challenge #1",
+            "video_id": 26317
+          }
+        ]
+      },
+      {
+        "chapter_name": "[OPTIONAL] HTML & CSS Crash Course",
+        "lectures": [
+          {
+            "title": "064 Basic HTML Structure and Elements",
+            "video_id": 26319
+          },
+          {
+            "title": "065 Attributes, Classes and IDs",
+            "video_id": 26320
+          },
+          {
+            "title": "066 Basic Styling with CSS",
+            "video_id": 26321
+          },
+          {
+            "title": "067 Introduction to the CSS Box Model",
+            "video_id": 26322
+          }
+        ]
+      },
+      {
+        "chapter_name": "JavaScript in the Browser: DOM and Events [Project]",
+        "lectures": [
+          {
+            "title": "Hi Guys",
+            "video_id": 26323
+          },
+          {
+            "title": "07 JavaScript in the Browser_DOM and Events Fundamentals",
+            "video_id": 26324
+          },
+          {
+            "title": "070 PROJECT #1_ Guess My Number!",
+            "video_id": 26327
+          },
+          {
+            "title": "071 What's the DOM and DOM Manipulation",
+            "video_id": 26328
+          },
+          {
+            "title": "072 Selecting and Manipulating Elements",
+            "video_id": 26329
+          },
+          {
+            "title": "073 Handling Click Events",
+            "video_id": 26330
+          },
+          {
+            "title": "075 Manipulating CSS Styles",
+            "video_id": 26331
+          },
+          {
+            "title": "076 Coding Challenge #1",
+            "video_id": 26332
+          },
+          {
+            "title": "077 Implementing Highscores",
+            "video_id": 26333
+          },
+          {
+            "title": "078 Refactoring Our Code_ The DRY Principle",
+            "video_id": 26334
+          },
+          {
+            "title": "079 PROJECT #2_ Modal Window",
+            "video_id": 26335
+          },
+          {
+            "title": "080 Working With Classes",
+            "video_id": 26336
+          },
+          {
+            "title": "081 Handling an _Esc_ Keypress Event",
+            "video_id": 26337
+          },
+          {
+            "title": "082 PROJECT #3_ Pig Game",
+            "video_id": 26338
+          },
+          {
+            "title": "083 Rolling the Dice",
+            "video_id": 26339
+          },
+          {
+            "title": "084 Switching the Active Player",
+            "video_id": 26340
+          },
+          {
+            "title": "085 Holding Current Score",
+            "video_id": 26341
+          },
+          {
+            "title": "086 Resetting the Game",
+            "video_id": 26342
+          }
+        ]
+      },
+      {
+        "chapter_name": "How JavaScript Works Behind the Scenes",
+        "lectures": [
+          {
+            "title": "089 An High-Level Overview of JavaScript",
+            "video_id": 26346
+          },
+          {
+            "title": "090 The JavaScript Engine and Runtime",
+            "video_id": 26347
+          },
+          {
+            "title": "091 Execution Contexts and The Call Stack",
+            "video_id": 26348
+          },
+          {
+            "title": "092 Scope and The Scope Chain",
+            "video_id": 26349
+          },
+          {
+            "title": "093 Scoping in Practice",
+            "video_id": 26350
+          },
+          {
+            "title": "094 Variable Environment_ Hoisting and The TDZ",
+            "video_id": 26351
+          },
+          {
+            "title": "095 Hoisting and TDZ in Practice",
+            "video_id": 26352
+          },
+          {
+            "title": "096 The this Keyword",
+            "video_id": 26353
+          },
+          {
+            "title": "097 The this Keyword in Practice",
+            "video_id": 26354
+          },
+          {
+            "title": "098 Regular Functions vs. Arrow Functions",
+            "video_id": 26355
+          },
+          {
+            "title": "099 Primitives vs. Objects (Primitive vs. Reference Types)",
+            "video_id": 26356
+          },
+          {
+            "title": "100 Primitives vs. Objects in Practice",
+            "video_id": 26357
+          }
+        ]
+      },
+      {
+        "chapter_name": "Data Structures, Modern Operators and Strings",
+        "lectures": [
+          {
+            "title": "101 Section Intro",
+            "video_id": 26359
+          },
+          {
+            "title": "103 Destructuring Arrays",
+            "video_id": 26362
+          },
+          {
+            "title": "104 Destructuring Objects",
+            "video_id": 26363
+          },
+          {
+            "title": "105 The Spread Operator (...)",
+            "video_id": 26364
+          },
+          {
+            "title": "106 Rest Pattern and Parameters",
+            "video_id": 26366
+          },
+          {
+            "title": "107 Short Circuiting (&& and __)",
+            "video_id": 26367
+          },
+          {
+            "title": "108 The Nullish Coalescing Operator (__)",
+            "video_id": 26368
+          },
+          {
+            "title": "109 Coding Challenge #1",
+            "video_id": 26370
+          },
+          {
+            "title": "110 Looping Arrays_ The for-of Loop",
+            "video_id": 26371
+          },
+          {
+            "title": "111 Enhanced Object Literals",
+            "video_id": 26372
+          },
+          {
+            "title": "112 Optional Chaining (._)",
+            "video_id": 26373
+          },
+          {
+            "title": "113 Looping Objects_ Object Keys, Values, and Entries",
+            "video_id": 26374
+          },
+          {
+            "title": "114 Coding Challenge #2",
+            "video_id": 26375
+          },
+          {
+            "title": "115 Sets",
+            "video_id": 26376
+          },
+          {
+            "title": "116 Maps_ Fundamentals",
+            "video_id": 26377
+          },
+          {
+            "title": "117 Maps_ Iteration",
+            "video_id": 26378
+          },
+          {
+            "title": "118 Summary_ Which Data Structure to Use_",
+            "video_id": 26379
+          },
+          {
+            "title": "119 Coding Challenge #3",
+            "video_id": 26380
+          },
+          {
+            "title": "120 Working With Strings - Part 1",
+            "video_id": 26381
+          },
+          {
+            "title": "121 Working With Strings - Part 2",
+            "video_id": 26382
+          },
+          {
+            "title": "122 Working With Strings - Part 3",
+            "video_id": 26383
+          },
+          {
+            "title": "123 Coding Challenge #4",
+            "video_id": 26384
+          }
+        ]
+      },
+      {
+        "chapter_name": "A Closer Look at Functions",
+        "lectures": [
+          {
+            "title": "124 Section Intro",
+            "video_id": 26385
+          },
+          {
+            "title": "126 Default Parameters",
+            "video_id": 26388
+          },
+          {
+            "title": "127 How Passing Arguments Works_ Value vs. Reference",
+            "video_id": 26389
+          },
+          {
+            "title": "128 First-Class and Higher-Order Functions",
+            "video_id": 26390
+          },
+          {
+            "title": "129 Functions Accepting Callback Functions",
+            "video_id": 26391
+          },
+          {
+            "title": "130 Functions Returning Functions",
+            "video_id": 26392
+          },
+          {
+            "title": "131 The call and apply Methods",
+            "video_id": 26393
+          },
+          {
+            "title": "132 The bind Method",
+            "video_id": 26394
+          },
+          {
+            "title": "133 Coding Challenge #1",
+            "video_id": 26395
+          },
+          {
+            "title": "134 Immediately Invoked Function Expressions (IIFE)",
+            "video_id": 26396
+          },
+          {
+            "title": "135 Closures",
+            "video_id": 26397
+          },
+          {
+            "title": "136 More Closure Examples",
+            "video_id": 26398
+          },
+          {
+            "title": "137 Coding Challenge #2",
+            "video_id": 26399
+          }
+        ]
+      },
+      {
+        "chapter_name": "Working With Arrays",
+        "lectures": [
+          {
+            "title": "138 Section Intro",
+            "video_id": 26400
+          },
+          {
+            "title": "140 Simple Array Methods",
+            "video_id": 26403
+          },
+          {
+            "title": "141 Looping Arrays_ forEach",
+            "video_id": 26404
+          },
+          {
+            "title": "142 forEach With Maps and Sets",
+            "video_id": 26405
+          },
+          {
+            "title": "143 PROJECT_ _Bankist_ App",
+            "video_id": 26406
+          },
+          {
+            "title": "144 Creating DOM Elements",
+            "video_id": 26407
+          },
+          {
+            "title": "145 Coding Challenge #1",
+            "video_id": 26408
+          },
+          {
+            "title": "12 Numbers, Dates, Intl and Timers",
+            "video_id": 26409
+          },
+          {
+            "title": "146 Data Transformations_ map, filter, reduce",
+            "video_id": 26410
+          },
+          {
+            "title": "147 The map Method",
+            "video_id": 26411
+          },
+          {
+            "title": "148 Computing Usernames",
+            "video_id": 26412
+          },
+          {
+            "title": "149 The filter Method",
+            "video_id": 26413
+          },
+          {
+            "title": "150 The reduce Method",
+            "video_id": 26414
+          },
+          {
+            "title": "151 Coding Challenge #2",
+            "video_id": 26415
+          },
+          {
+            "title": "152 The Magic of Chaining Methods",
+            "video_id": 26416
+          },
+          {
+            "title": "153 Coding Challenge #3",
+            "video_id": 26417
+          },
+          {
+            "title": "154 The find Method",
+            "video_id": 26418
+          },
+          {
+            "title": "155 Implementing Login",
+            "video_id": 26419
+          },
+          {
+            "title": "156 Implementing Transfers",
+            "video_id": 26420
+          },
+          {
+            "title": "157 The findIndex Method",
+            "video_id": 26421
+          },
+          {
+            "title": "158 some and every",
+            "video_id": 26422
+          },
+          {
+            "title": "159 flat and flatMap",
+            "video_id": 26423
+          },
+          {
+            "title": "160 Sorting Arrays",
+            "video_id": 26424
+          },
+          {
+            "title": "161 More Ways of Creating and Filling Arrays",
+            "video_id": 26425
+          },
+          {
+            "title": "162 Summary_ Which Array Method to Use_",
+            "video_id": 26426
+          },
+          {
+            "title": "163 Coding Challenge #4",
+            "video_id": 26427
+          }
+        ]
+      },
+      {
+        "chapter_name": "Number, Dates, Inti & Timers",
+        "lectures": [
+          {
+            "title": "164 Section Intro",
+            "video_id": 26428
+          },
+          {
+            "title": "166 Converting and Checking Numbers",
+            "video_id": 26431
+          },
+          {
+            "title": "167 Math and Rounding",
+            "video_id": 26432
+          },
+          {
+            "title": "168 The Remainder Operator",
+            "video_id": 26433
+          },
+          {
+            "title": "169 Working with BigInt",
+            "video_id": 26434
+          },
+          {
+            "title": "170 Creating Dates",
+            "video_id": 26435
+          },
+          {
+            "title": "171 Adding Dates to _Bankist_ App",
+            "video_id": 26436
+          },
+          {
+            "title": "172 Operations With Dates",
+            "video_id": 26437
+          },
+          {
+            "title": "173 Internationalizing Dates (Intl)",
+            "video_id": 26438
+          },
+          {
+            "title": "174 Internationalizing Numbers (Intl)",
+            "video_id": 26439
+          },
+          {
+            "title": "175 Timers_ setTimeout and setInterval",
+            "video_id": 26440
+          },
+          {
+            "title": "14 Object-Oriented Programming (OOP) With JavaScript",
+            "video_id": 26442
+          },
+          {
+            "title": "15 Mapty App_ OOP, Geolocation, External Libraries, and More!",
+            "video_id": 26443
+          },
+          {
+            "title": "16 Asynchronous JavaScript_ Promises, Async_Await and AJAX",
+            "video_id": 26444
+          },
+          {
+            "title": "17 Modern JavaScript Development_ Modules and Tooling",
+            "video_id": 26445
+          },
+          {
+            "title": "18 Forkify App_ Building a Modern Application",
+            "video_id": 26446
+          },
+          {
+            "title": "19 Setting Up Git and Deployment",
+            "video_id": 26447
+          },
+          {
+            "title": "20 The End!",
+            "video_id": 26448
+          },
+          {
+            "title": "176 Implementing a Countdown Timer",
+            "video_id": 26449
+          }
+        ]
+      },
+      {
+        "chapter_name": "Advanced DOM and Events",
+        "lectures": [
+          {
+            "title": "177 Section Intro",
+            "video_id": 26450
+          },
+          {
+            "title": "179 PROJECT_ _Bankist_ Website",
+            "video_id": 26453
+          },
+          {
+            "title": "180 How the DOM Really Works",
+            "video_id": 26454
+          },
+          {
+            "title": "181 Selecting, Creating, and Deleting Elements",
+            "video_id": 26455
+          },
+          {
+            "title": "182 Styles, Attributes and Classes",
+            "video_id": 26456
+          },
+          {
+            "title": "183 Implementing Smooth Scrolling",
+            "video_id": 26457
+          },
+          {
+            "title": "184 Types of Events and Event Handlers",
+            "video_id": 26458
+          },
+          {
+            "title": "185 Event Propagation_ Bubbling and Capturing",
+            "video_id": 26459
+          },
+          {
+            "title": "186 Event Propagation in Practice",
+            "video_id": 26460
+          },
+          {
+            "title": "187 Event Delegation_ Implementing Page Navigation",
+            "video_id": 26461
+          },
+          {
+            "title": "188 DOM Traversing",
+            "video_id": 26462
+          },
+          {
+            "title": "189 Building a Tabbed Component",
+            "video_id": 26463
+          },
+          {
+            "title": "190 Passing Arguments to Event Handlers",
+            "video_id": 26464
+          },
+          {
+            "title": "191 Implementing a Sticky Navigation_ The Scroll Event",
+            "video_id": 26465
+          },
+          {
+            "title": "192 A Better Way_ The Intersection Observer API",
+            "video_id": 26466
+          },
+          {
+            "title": "193 Revealing Elements on Scroll",
+            "video_id": 26467
+          },
+          {
+            "title": "194 Lazy Loading Images",
+            "video_id": 26468
+          },
+          {
+            "title": "195 Building a Slider Component_ Part 1",
+            "video_id": 26469
+          },
+          {
+            "title": "196 Building a Slider Component_ Part 2",
+            "video_id": 26470
+          },
+          {
+            "title": "197 Lifecycle DOM Events",
+            "video_id": 26471
+          },
+          {
+            "title": "198 Efficient Script Loading_ defer and async",
+            "video_id": 26472
+          }
+        ]
+      },
+      {
+        "chapter_name": "Object Oriented Programming (OOP) with JavaScript",
+        "lectures": [
+          {
+            "title": "199 Section Intro",
+            "video_id": 26473
+          },
+          {
+            "title": "201 What is Object-Oriented Programming_",
+            "video_id": 26476
+          },
+          {
+            "title": "202 OOP in JavaScript",
+            "video_id": 26477
+          },
+          {
+            "title": "203 Constructor Functions and the new Operator",
+            "video_id": 26478
+          },
+          {
+            "title": "204 Prototypes",
+            "video_id": 26479
+          },
+          {
+            "title": "205 Prototypal Inheritance and The Prototype Chain",
+            "video_id": 26480
+          },
+          {
+            "title": "206 Prototypal Inheritance on Built-In Objects",
+            "video_id": 26481
+          },
+          {
+            "title": "207 Coding Challenge #1",
+            "video_id": 26482
+          },
+          {
+            "title": "208 ES6 Classes",
+            "video_id": 26483
+          },
+          {
+            "title": "209 Setters and Getters",
+            "video_id": 26484
+          },
+          {
+            "title": "210 Static Methods",
+            "video_id": 26486
+          },
+          {
+            "title": "211 Object.create",
+            "video_id": 26487
+          },
+          {
+            "title": "212 Coding Challenge #2",
+            "video_id": 26488
+          },
+          {
+            "title": "213 Inheritance Between _Classes__ Constructor Functions",
+            "video_id": 26489
+          },
+          {
+            "title": "214 Coding Challenge #3",
+            "video_id": 26490
+          },
+          {
+            "title": "215 Inheritance Between _Classes__ ES6 Classes",
+            "video_id": 26491
+          },
+          {
+            "title": "216 Inheritance Between _Classes__ Object.create",
+            "video_id": 26492
+          },
+          {
+            "title": "217 Another Class Example",
+            "video_id": 26493
+          },
+          {
+            "title": "221 ES6 Classes Summary",
+            "video_id": 26494
+          },
+          {
+            "title": "222 Coding Challenge #4",
+            "video_id": 26495
+          }
+        ]
+      },
+      {
+        "chapter_name": "Mapty App: OOP, Geolocation, External Libraries, & More!",
+        "lectures": [
+          {
+            "title": "223 Section Intro",
+            "video_id": 26496
+          },
+          {
+            "title": "225 Project Overview",
+            "video_id": 26499
+          },
+          {
+            "title": "226 How to Plan a Web Project",
+            "video_id": 26500
+          },
+          {
+            "title": "227 Using the Geolocation API",
+            "video_id": 26501
+          },
+          {
+            "title": "228 Displaying a Map Using Leaflet Library",
+            "video_id": 26502
+          },
+          {
+            "title": "229 Displaying a Map Marker",
+            "video_id": 26503
+          },
+          {
+            "title": "230 Rendering Workout Input Form",
+            "video_id": 26504
+          },
+          {
+            "title": "231 Project Architecture",
+            "video_id": 26505
+          },
+          {
+            "title": "232 Refactoring for Project Architecture",
+            "video_id": 26506
+          },
+          {
+            "title": "233 Managing Workout Data_ Creating Classes",
+            "video_id": 26507
+          },
+          {
+            "title": "234 Creating a New Workout",
+            "video_id": 26508
+          },
+          {
+            "title": "235 Rendering Workouts",
+            "video_id": 26509
+          },
+          {
+            "title": "236 Move to Marker On Click",
+            "video_id": 26510
+          },
+          {
+            "title": "237 Working with localStorage",
+            "video_id": 26511
+          },
+          {
+            "title": "238 Final Considerations",
+            "video_id": 26512
+          }
+        ]
+      },
+      {
+        "chapter_name": "Asynchronous JavaScript, Promises, Async/Await & AJAX",
+        "lectures": [
+          {
+            "title": "239 Section Intro",
+            "video_id": 26513
+          },
+          {
+            "title": "241 Asynchronous JavaScript, AJAX and APIs",
+            "video_id": 26516
+          },
+          {
+            "title": "242 Our First AJAX Call_ XMLHttpRequest",
+            "video_id": 26517
+          },
+          {
+            "title": "243 [OPTIONAL] How the Web Works_ Requests and Responses",
+            "video_id": 26518
+          },
+          {
+            "title": "244 Welcome to Callback Hell",
+            "video_id": 26519
+          },
+          {
+            "title": "245 Promises and the Fetch API",
+            "video_id": 26520
+          },
+          {
+            "title": "246 Consuming Promises",
+            "video_id": 26521
+          },
+          {
+            "title": "247 Chaining Promises",
+            "video_id": 26522
+          },
+          {
+            "title": "248 Handling Rejected Promises",
+            "video_id": 26523
+          },
+          {
+            "title": "249 Throwing Errors Manually",
+            "video_id": 26524
+          },
+          {
+            "title": "250 Coding Challenge #1",
+            "video_id": 26525
+          },
+          {
+            "title": "251 Asynchronous Behind the Scenes_ The Event Loop",
+            "video_id": 26526
+          },
+          {
+            "title": "252 The Event Loop in Practice",
+            "video_id": 26527
+          },
+          {
+            "title": "253 Building a Simple Promise",
+            "video_id": 26528
+          },
+          {
+            "title": "254 Promisifying the Geolocation API",
+            "video_id": 26529
+          },
+          {
+            "title": "255 Coding Challenge #2",
+            "video_id": 26530
+          },
+          {
+            "title": "256 Consuming Promises with Async_Await",
+            "video_id": 26531
+          },
+          {
+            "title": "257 Error Handling With try...catch",
+            "video_id": 26532
+          },
+          {
+            "title": "258 Returning Values from Async Functions",
+            "video_id": 26533
+          },
+          {
+            "title": "259 Running Promises in Parallel",
+            "video_id": 26534
+          },
+          {
+            "title": "260 Other Promise Combinators_ race, allSettled and any",
+            "video_id": 26535
+          },
+          {
+            "title": "261 Coding Challenge #3",
+            "video_id": 26536
+          }
+        ]
+      },
+      {
+        "chapter_name": "Modern JavaScript Development: Modules, Tooling & Functional",
+        "lectures": [
+          {
+            "title": "262 Section Intro",
+            "video_id": 26537
+          },
+          {
+            "title": "264 An Overview of Modern JavaScript Development",
+            "video_id": 26540
+          },
+          {
+            "title": "265 An Overview of Modules in JavaScript",
+            "video_id": 26541
+          },
+          {
+            "title": "266 Exporting and Importing in ES6 Modules",
+            "video_id": 26542
+          },
+          {
+            "title": "267 The Module Pattern",
+            "video_id": 26543
+          },
+          {
+            "title": "268 CommonJS Modules",
+            "video_id": 26544
+          },
+          {
+            "title": "269 A Brief Introduction to the Command Line",
+            "video_id": 26545
+          },
+          {
+            "title": "270 Introduction to NPM",
+            "video_id": 26546
+          },
+          {
+            "title": "271 Bundling With Parcel and NPM Scripts",
+            "video_id": 26547
+          },
+          {
+            "title": "272 Configuring Babel and Polyfilling",
+            "video_id": 26548
+          },
+          {
+            "title": "273 Modern, Clean and Declarative JavaScript Programming",
+            "video_id": 26549
+          },
+          {
+            "title": "274 Let's Fix Some Bad Code!",
+            "video_id": 26550
+          }
+        ]
+      },
+      {
+        "chapter_name": "Forkify App: Building a Modern Application",
+        "lectures": [
+          {
+            "title": "275 Section Intro",
+            "video_id": 26551
+          },
+          {
+            "title": "277 Project Overview and Planning (I)",
+            "video_id": 26554
+          },
+          {
+            "title": "278 Loading a Recipe from API",
+            "video_id": 26555
+          },
+          {
+            "title": "279 Rendering the Recipe",
+            "video_id": 26556
+          },
+          {
+            "title": "280 Listening For load and hashchange Events",
+            "video_id": 26557
+          },
+          {
+            "title": "281 The MVC Architecture",
+            "video_id": 26558
+          },
+          {
+            "title": "282 Refactoring for MVC",
+            "video_id": 26559
+          },
+          {
+            "title": "283 Helpers and Configuration Files",
+            "video_id": 26560
+          },
+          {
+            "title": "284 Event Handlers in MVC_ Publisher-Subscriber Pattern",
+            "video_id": 26561
+          },
+          {
+            "title": "285 Implementing Error and Sucess Messages",
+            "video_id": 26562
+          },
+          {
+            "title": "286 Implementing Search Results - Part 1",
+            "video_id": 26563
+          },
+          {
+            "title": "287 Implementing Search Results - Part 2",
+            "video_id": 26564
+          },
+          {
+            "title": "288 Implementing Pagination - Part 1",
+            "video_id": 26565
+          },
+          {
+            "title": "289 Implementing Pagination - Part 2",
+            "video_id": 26566
+          },
+          {
+            "title": "290 Project Planning II",
+            "video_id": 26567
+          },
+          {
+            "title": "291 Updating Recipe Servings",
+            "video_id": 26568
+          },
+          {
+            "title": "292 Developing a DOM Updating Algorithm",
+            "video_id": 26569
+          },
+          {
+            "title": "293 Implementing Bookmarks - Part 1",
+            "video_id": 26570
+          },
+          {
+            "title": "294 Implementing Bookmarks - Part 2",
+            "video_id": 26571
+          },
+          {
+            "title": "295 Storing Bookmarks With localStorage",
+            "video_id": 26572
+          },
+          {
+            "title": "296 Project Planning III",
+            "video_id": 26573
+          },
+          {
+            "title": "297 Uploading a New Recipe - Part 1",
+            "video_id": 26574
+          },
+          {
+            "title": "298 Uploading a New Recipe - Part 2",
+            "video_id": 26575
+          },
+          {
+            "title": "299 Uploading a New Recipe - Part 3",
+            "video_id": 26576
+          },
+          {
+            "title": "300 Wrapping Up_ Final Considerations",
+            "video_id": 26577
+          }
+        ]
+      },
+      {
+        "chapter_name": "Setting Up Git & Deployment",
+        "lectures": [
+          {
+            "title": "301 Section Intro",
+            "video_id": 26578
+          },
+          {
+            "title": "303 Simple Deployment With Netlify",
+            "video_id": 26581
+          },
+          {
+            "title": "304 Setting Up Git and GitHub",
+            "video_id": 26582
+          },
+          {
+            "title": "305 Git Fundamentals",
+            "video_id": 26583
+          },
+          {
+            "title": "307 Setting Up Continuous Integration With Netlify",
+            "video_id": 26584
+          },
+          {
+            "title": "306 Pushing to GitHub",
+            "video_id": 26585
+          }
+        ]
+      }
+    ]
+  }
+]

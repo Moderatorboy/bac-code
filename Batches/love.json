@@ -1,0 +1,1073 @@
+[
+  {
+    "batch_name": "SUPREME COURSE",
+    "channel_id": "-1003570657515",
+    "chapters": [
+      {
+        "chapter_name": "Love Babbar DSA",
+        "lectures": [
+          {
+            "lec_no": "121",
+            "title": "Welcome to Batch coding | Lec - 01",
+            "video_id": 6969
+          },
+          {
+            "lec_no": "122",
+            "title": "Orientation Session - Supreme Batch coding | Lec - 02",
+            "video_id": 6970
+          },
+          {
+            "lec_no": "123",
+            "title": "Programming Fundamentals coding | Lec - 03",
+            "video_id": 6971
+          },
+          {
+            "lec_no": "124",
+            "title": "Create Your First Program & a lot more | Lec - 04",
+            "video_id": 6972
+          },
+          {
+            "lec_no": "125",
+            "title": "Let's solve some Patterns coding | Lec - 05",
+            "video_id": 6973
+          },
+          {
+            "lec_no": "126",
+            "title": "Week-1 [Connect] coding | Lec - 06",
+            "video_id": 6974
+          },
+          {
+            "lec_no": "127",
+            "title": "Flowcharts Q1 coding | Lec - 07",
+            "video_id": 6975
+          },
+          {
+            "lec_no": "128",
+            "title": "Flowcharts Q2 coding | Lec - 08",
+            "video_id": 6976
+          },
+          {
+            "lec_no": "129",
+            "title": "Flowcharts Q3 coding | Lec - 09",
+            "video_id": 6977
+          },
+          {
+            "lec_no": "130",
+            "title": "Flowcharts Q4 coding | Lec - 10",
+            "video_id": 6978
+          },
+          {
+            "lec_no": "131",
+            "title": "Flowcharts Q5 coding | Lec - 11",
+            "video_id": 6979
+          },
+          {
+            "lec_no": "132",
+            "title": "Flowcharts Q6 coding | Lec - 12",
+            "video_id": 6980
+          },
+          {
+            "lec_no": "133",
+            "title": "Flowcharts Q7 coding | Lec - 13",
+            "video_id": 6981
+          },
+          {
+            "lec_no": "134",
+            "title": "Flowcharts Q8 coding | Lec - 14",
+            "video_id": 6982
+          },
+          {
+            "lec_no": "135",
+            "title": "Flowcharts Q9 coding | Lec - 15",
+            "video_id": 6983
+          },
+          {
+            "lec_no": "136",
+            "title": "Patterns Q1 coding | Lec - 16",
+            "video_id": 6984
+          },
+          {
+            "lec_no": "137",
+            "title": "Patterns Q2 coding | Lec - 17",
+            "video_id": 6985
+          },
+          {
+            "lec_no": "138",
+            "title": "Patterns Q3 coding | Lec - 18",
+            "video_id": 6986
+          },
+          {
+            "lec_no": "139",
+            "title": "Patterns Q4 coding | Lec - 19",
+            "video_id": 6987
+          },
+          {
+            "lec_no": "140",
+            "title": "Pattern continues coding | Lec - 20",
+            "video_id": 6988
+          },
+          {
+            "lec_no": "141",
+            "title": "Operators, Loops & Conditionals codin | Lec - 21",
+            "video_id": 6989
+          },
+          {
+            "lec_no": "142",
+            "title": "Functions & some Problem Statements c | Lec - 22",
+            "video_id": 6990
+          },
+          {
+            "lec_no": "143",
+            "title": "Number System Binary && Decimal coding | Lec - 23",
+            "video_id": 6991
+          },
+          {
+            "lec_no": "144",
+            "title": "Numeric Hollow Half Pyramid coding | Lec - 24",
+            "video_id": 6992
+          },
+          {
+            "lec_no": "145",
+            "title": "Numeric Hollow Inverted Half Pyramid codin | Lec - 25",
+            "video_id": 6993
+          },
+          {
+            "lec_no": "146",
+            "title": "Numeric Palindrome Equilateral Pyramid cod | Lec - 26",
+            "video_id": 6994
+          },
+          {
+            "lec_no": "147",
+            "title": "Solid Half Diamond coding | Lec - 27",
+            "video_id": 6995
+          },
+          {
+            "lec_no": "148",
+            "title": "Fancy Pattern #1 coding | Lec - 28",
+            "video_id": 6996
+          },
+          {
+            "lec_no": "149",
+            "title": "Fancy Pattern #2 coding | Lec - 29",
+            "video_id": 6997
+          },
+          {
+            "lec_no": "150",
+            "title": "Fancy Pattern #3 coding | Lec - 30",
+            "video_id": 6998
+          },
+          {
+            "lec_no": "151",
+            "title": "Floyd's Triangle Pattern coding | Lec - 31",
+            "video_id": 6999
+          },
+          {
+            "lec_no": "152",
+            "title": "Pascal's Triangle Pattern coding | Lec - 32",
+            "video_id": 7000
+          },
+          {
+            "lec_no": "153",
+            "title": "Butterfly Pattern coding | Lec - 33",
+            "video_id": 7001
+          },
+          {
+            "lec_no": "154",
+            "title": "Display Area Of Circle coding | Lec - 34",
+            "video_id": 7002
+          },
+          {
+            "lec_no": "155",
+            "title": "Given Number Is Even or Odd coding | Lec - 35",
+            "video_id": 7003
+          },
+          {
+            "lec_no": "156",
+            "title": "Find The Factorial coding | Lec - 36",
+            "video_id": 7004
+          },
+          {
+            "lec_no": "157",
+            "title": "Check Given Number Prime or Not coding | Lec - 37",
+            "video_id": 7005
+          },
+          {
+            "lec_no": "158",
+            "title": "Print All Prime From 1 to N coding | Lec - 38",
+            "video_id": 7006
+          },
+          {
+            "lec_no": "159",
+            "title": "Reverse Integer coding | Lec - 39",
+            "video_id": 7007
+          },
+          {
+            "lec_no": "160",
+            "title": "Set the Kth Bit coding | Lec - 40",
+            "video_id": 7008
+          },
+          {
+            "lec_no": "161",
+            "title": "Convert the Temperature coding | Lec - 41",
+            "video_id": 7009
+          },
+          {
+            "lec_no": "162",
+            "title": "Introduction to Time & Space Complexity co | Lec - 42",
+            "video_id": 7010
+          },
+          {
+            "lec_no": "163",
+            "title": "Arrays1 coding | Lec - 43",
+            "video_id": 7011
+          },
+          {
+            "lec_no": "164",
+            "title": "Arrays - Class 2 coding | Lec - 44",
+            "video_id": 7012
+          },
+          {
+            "lec_no": "165",
+            "title": "Arrays - Class 3 coding | Lec - 45",
+            "video_id": 7013
+          },
+          {
+            "lec_no": "166",
+            "title": "Sort Colors coding | Lec - 46",
+            "video_id": 7014
+          },
+          {
+            "lec_no": "167",
+            "title": "Move All Negative Number To The Left Side Of An Arra | Lec - 47",
+            "video_id": 7015
+          },
+          {
+            "lec_no": "168",
+            "title": "Find Duplicate Number coding | Lec - 48",
+            "video_id": 7016
+          },
+          {
+            "lec_no": "169",
+            "title": "Missing Elements From An Array With Duplicates | Lec - 49",
+            "video_id": 7017
+          },
+          {
+            "lec_no": "170",
+            "title": "Find First Repeating Element coding | Lec - 50",
+            "video_id": 7018
+          },
+          {
+            "lec_no": "171",
+            "title": "Common Elements In 3 Sorted Array coding | Lec - 51",
+            "video_id": 7019
+          },
+          {
+            "lec_no": "172",
+            "title": "Wave Print A Matrix coding | Lec - 52",
+            "video_id": 7020
+          },
+          {
+            "lec_no": "173",
+            "title": "Spiral Print A Matrix coding | Lec - 53",
+            "video_id": 7021
+          },
+          {
+            "lec_no": "174",
+            "title": "Factorial Of A Large Number coding | Lec - 54",
+            "video_id": 7022
+          },
+          {
+            "lec_no": "175",
+            "title": "Searching and Sorting Class - I codin | Lec - 55",
+            "video_id": 7023
+          },
+          {
+            "lec_no": "176",
+            "title": "Searching and Sorting Class - II codi | Lec - 56",
+            "video_id": 7024
+          },
+          {
+            "lec_no": "177",
+            "title": "Searching and Sorting Class - III cod | Lec - 57",
+            "video_id": 7025
+          },
+          {
+            "lec_no": "178",
+            "title": "Week-4 [Connect] coding | Lec - 58",
+            "video_id": 7026
+          },
+          {
+            "lec_no": "179",
+            "title": "K-Diff Pairs In An Array coding | Lec - 59",
+            "video_id": 7027
+          },
+          {
+            "lec_no": "180",
+            "title": "Find K-Closest Element coding | Lec - 60",
+            "video_id": 7028
+          },
+          {
+            "lec_no": "181",
+            "title": "Exponential Search & Unbounded Binary Search | Lec - 61",
+            "video_id": 7029
+          },
+          {
+            "lec_no": "182",
+            "title": "Book Allocation Problem coding | Lec - 62",
+            "video_id": 7030
+          },
+          {
+            "lec_no": "183",
+            "title": "Painters Partition Problem coding | Lec - 63",
+            "video_id": 7031
+          },
+          {
+            "lec_no": "184",
+            "title": "Aggresive Cows coding | Lec - 64",
+            "video_id": 7032
+          },
+          {
+            "lec_no": "185",
+            "title": "EKO SPOJ coding | Lec - 65",
+            "video_id": 7033
+          },
+          {
+            "lec_no": "186",
+            "title": "PRATA SPOJ coding | Lec - 66",
+            "video_id": 7034
+          },
+          {
+            "lec_no": "187",
+            "title": "Char Arrays & Strings - Class I codin | Lec - 67",
+            "video_id": 7035
+          },
+          {
+            "lec_no": "188",
+            "title": "Char Arrays & Strings - Class II codi | Lec - 68",
+            "video_id": 7036
+          },
+          {
+            "lec_no": "189",
+            "title": "Week-5 [Connect] coding | Lec - 69",
+            "video_id": 7037
+          },
+          {
+            "lec_no": "190",
+            "title": "Valid Anagram coding | Lec - 70",
+            "video_id": 7038
+          },
+          {
+            "lec_no": "191",
+            "title": "Reverse Only Letters coding | Lec - 71",
+            "video_id": 7039
+          },
+          {
+            "lec_no": "192",
+            "title": "Longest Common Prefix coding | Lec - 72",
+            "video_id": 7040
+          },
+          {
+            "lec_no": "193",
+            "title": "Reverse Vowels Of A String coding | Lec - 73",
+            "video_id": 7041
+          },
+          {
+            "lec_no": "194",
+            "title": "Isomorphic Strings coding | Lec - 74",
+            "video_id": 7042
+          },
+          {
+            "lec_no": "195",
+            "title": "Reorganise String coding | Lec - 75",
+            "video_id": 7043
+          },
+          {
+            "lec_no": "196",
+            "title": "Group Anagrams coding | Lec - 76",
+            "video_id": 7044
+          },
+          {
+            "lec_no": "197",
+            "title": "Longest Palindromic Substring coding | Lec - 77",
+            "video_id": 7045
+          },
+          {
+            "lec_no": "198",
+            "title": "Find The Index Of First Occurence in a String | Lec - 78",
+            "video_id": 7046
+          },
+          {
+            "lec_no": "199",
+            "title": "String To Integer (atoi) coding | Lec - 79",
+            "video_id": 7047
+          },
+          {
+            "lec_no": "200",
+            "title": "String Compression coding | Lec - 80",
+            "video_id": 7048
+          },
+          {
+            "lec_no": "201",
+            "title": "Integer To Romans coding | Lec - 81",
+            "video_id": 7049
+          },
+          {
+            "lec_no": "202",
+            "title": "Zig-Zag Conversion coding | Lec - 82",
+            "video_id": 7050
+          },
+          {
+            "lec_no": "203",
+            "title": "Largest Number coding | Lec - 83",
+            "video_id": 7051
+          },
+          {
+            "lec_no": "204",
+            "title": "Pointers - Level 1 coding | Lec - 84",
+            "video_id": 7052
+          },
+          {
+            "lec_no": "205",
+            "title": "Pointers - Level 2 coding | Lec - 85",
+            "video_id": 7053
+          },
+          {
+            "lec_no": "206",
+            "title": "Basic Mathematics For DSA coding | Lec - 86",
+            "video_id": 7054
+          },
+          {
+            "lec_no": "207",
+            "title": "Pointers - Level 3 coding | Lec - 87",
+            "video_id": 7055
+          },
+          {
+            "lec_no": "208",
+            "title": "Optimising Sieve & Segmented Sieve coding | Lec - 88",
+            "video_id": 7056
+          },
+          {
+            "lec_no": "209",
+            "title": "Let's Practice Pointers coding | Lec - 89",
+            "video_id": 7057
+          },
+          {
+            "lec_no": "210",
+            "title": "Time & Space Complexity Of Recursive Solutions | Lec - 90",
+            "video_id": 7058
+          },
+          {
+            "lec_no": "211",
+            "title": "Recursion - Level 1 coding | Lec - 91",
+            "video_id": 7059
+          },
+          {
+            "lec_no": "212",
+            "title": "Recursion - Level 2 coding | Lec - 92",
+            "video_id": 7060
+          },
+          {
+            "lec_no": "213",
+            "title": "Recursion - Level 3 coding | Lec - 93",
+            "video_id": 7061
+          },
+          {
+            "lec_no": "214",
+            "title": "Recursion - Level 4 coding | Lec - 94",
+            "video_id": 7062
+          },
+          {
+            "lec_no": "215",
+            "title": "Last Occurence Of A Char coding | Lec - 95",
+            "video_id": 7063
+          },
+          {
+            "lec_no": "216",
+            "title": "Reverse A String RE coding | Lec - 96",
+            "video_id": 7064
+          },
+          {
+            "lec_no": "217",
+            "title": "Add Strings RE coding | Lec - 97",
+            "video_id": 7065
+          },
+          {
+            "lec_no": "218",
+            "title": "Palindrome Check RE coding | Lec - 98",
+            "video_id": 7066
+          },
+          {
+            "lec_no": "219",
+            "title": "Remove All Occurrences of a Substring codi | Lec - 99",
+            "video_id": 7067
+          },
+          {
+            "lec_no": "221",
+            "title": "Buy & Sell Stocks coding | Lec - 100",
+            "video_id": 7069
+          },
+          {
+            "lec_no": "222",
+            "title": "House Robber Problem coding | Lec - 101",
+            "video_id": 7070
+          },
+          {
+            "lec_no": "223",
+            "title": "Integer to English Words coding | Lec - 102",
+            "video_id": 7071
+          },
+          {
+            "lec_no": "224",
+            "title": "Wild Card Matching Matching coding | Lec - 103",
+            "video_id": 7072
+          },
+          {
+            "lec_no": "225",
+            "title": "Perfect Squares coding | Lec - 104",
+            "video_id": 7073
+          },
+          {
+            "lec_no": "226",
+            "title": "Minimum Cost For Tickets coding | Lec - 105",
+            "video_id": 7074
+          },
+          {
+            "lec_no": "227",
+            "title": "Number Of Dice Roll With Target Sum codin | Lec - 106",
+            "video_id": 7075
+          },
+          {
+            "lec_no": "228",
+            "title": "DnC Level-1 coding | Lec - 107",
+            "video_id": 7076
+          },
+          {
+            "lec_no": "230",
+            "title": "DnC Level-3 coding | Lec - 108",
+            "video_id": 7077
+          },
+          {
+            "lec_no": "231",
+            "title": "DnC Level-4 coding | Lec - 109",
+            "video_id": 7078
+          },
+          {
+            "lec_no": "232",
+            "title": "DnC Level-5 coding | Lec - 110",
+            "video_id": 7079
+          },
+          {
+            "lec_no": "233",
+            "title": "Time and Space Complexity of Recursive Problems [HD | Lec - 111",
+            "video_id": 7080
+          },
+          {
+            "lec_no": "234",
+            "title": "Count Inversions coding | Lec - 112",
+            "video_id": 7081
+          },
+          {
+            "lec_no": "235",
+            "title": "In-Place Merge Sort coding | Lec - 113",
+            "video_id": 7082
+          },
+          {
+            "lec_no": "236",
+            "title": "Max Sub Array Sum coding | Lec - 114",
+            "video_id": 7083
+          },
+          {
+            "lec_no": "237",
+            "title": "Quick Sort [End Element as Pivot] - By Lakshay Bhai | Lec - 115",
+            "video_id": 7084
+          },
+          {
+            "lec_no": "238",
+            "title": "Combination Sum coding | Lec - 116",
+            "video_id": 7085
+          },
+          {
+            "lec_no": "239",
+            "title": "Combination Sum - II coding | Lec - 117",
+            "video_id": 7086
+          },
+          {
+            "lec_no": "240",
+            "title": "Permutation - II coding | Lec - 118",
+            "video_id": 7087
+          },
+          {
+            "lec_no": "241",
+            "title": "Beautiful Arrangement coding | Lec - 119",
+            "video_id": 7088
+          },
+          {
+            "lec_no": "242",
+            "title": "Distribute Repeating Integers coding | Lec - 120",
+            "video_id": 7089
+          },
+          {
+            "lec_no": "243",
+            "title": "OOPs Class-1 coding | Lec - 121",
+            "video_id": 7090
+          },
+          {
+            "lec_no": "244",
+            "title": "OOPs Class-2 coding | Lec - 122",
+            "video_id": 7091
+          },
+          {
+            "lec_no": "245",
+            "title": "OOPs Class-3 coding | Lec - 123",
+            "video_id": 7092
+          },
+          {
+            "lec_no": "246",
+            "title": "const keyword Initialization list MACROS | Lec - 124",
+            "video_id": 7093
+          },
+          {
+            "lec_no": "247",
+            "title": "Shallow vs Deep Copy coding | Lec - 125",
+            "video_id": 7094
+          },
+          {
+            "lec_no": "248",
+            "title": "Local & Global Variables coding | Lec - 126",
+            "video_id": 7095
+          },
+          {
+            "lec_no": "249",
+            "title": "Static Keyword In Class coding | Lec - 127",
+            "video_id": 7096
+          },
+          {
+            "lec_no": "250",
+            "title": "Abstraction In C++ coding | Lec - 128",
+            "video_id": 7097
+          },
+          {
+            "lec_no": "251",
+            "title": "Inline Functions coding | Lec - 129",
+            "video_id": 7098
+          },
+          {
+            "lec_no": "252",
+            "title": "Friend Keyword In C++ coding | Lec - 130",
+            "video_id": 7099
+          },
+          {
+            "lec_no": "253",
+            "title": "Can Constructor Be Made Private coding | Lec - 131",
+            "video_id": 7100
+          },
+          {
+            "lec_no": "255",
+            "title": "Memory Layout Of A Program coding | Lec - 132",
+            "video_id": 7101
+          },
+          {
+            "lec_no": "256",
+            "title": "LL Class - 1 coding | Lec - 133",
+            "video_id": 7102
+          },
+          {
+            "lec_no": "257",
+            "title": "LL Class - 2 coding | Lec - 134",
+            "video_id": 7103
+          },
+          {
+            "lec_no": "258",
+            "title": "LL Class - 3 coding | Lec - 135",
+            "video_id": 7104
+          },
+          {
+            "lec_no": "259",
+            "title": "LL Class - 4 coding | Lec - 136",
+            "video_id": 7105
+          },
+          {
+            "lec_no": "260",
+            "title": "Print Kth Node From The End coding | Lec - 137",
+            "video_id": 7106
+          },
+          {
+            "lec_no": "261",
+            "title": "Intersection Of 2 Link Lists coding | Lec - 138",
+            "video_id": 7107
+          },
+          {
+            "lec_no": "262",
+            "title": "Merge Two Sorted Lists coding | Lec - 139",
+            "video_id": 7108
+          },
+          {
+            "lec_no": "263",
+            "title": "Sort List Using Merge Sort coding | Lec - 140",
+            "video_id": 7109
+          },
+          {
+            "lec_no": "264",
+            "title": "Flatten Linked List coding | Lec - 141",
+            "video_id": 7110
+          },
+          {
+            "lec_no": "265",
+            "title": "Copy List with Random Pointer coding | Lec - 142",
+            "video_id": 7111
+          },
+          {
+            "lec_no": "266",
+            "title": "Rotate List coding | Lec - 143",
+            "video_id": 7112
+          },
+          {
+            "lec_no": "267",
+            "title": "Delete N Nodes After M Nodes coding | Lec - 144",
+            "video_id": 7113
+          },
+          {
+            "lec_no": "268",
+            "title": "Find minmax number between critical points (LC-2058 | Lec - 145",
+            "video_id": 7114
+          },
+          {
+            "lec_no": "269",
+            "title": "Merge Nodes In Between Zeros coding | Lec - 146",
+            "video_id": 7115
+          },
+          {
+            "lec_no": "270",
+            "title": "Stack Class - 1 coding | Lec - 147",
+            "video_id": 7116
+          },
+          {
+            "lec_no": "271",
+            "title": "Stack Class - 2 coding | Lec - 148",
+            "video_id": 7117
+          },
+          {
+            "lec_no": "272",
+            "title": "Stack Class - 3 and 4 coding | Lec - 149",
+            "video_id": 7118
+          },
+          {
+            "lec_no": "273",
+            "title": "Remove All Adjacent Strings coding | Lec - 150",
+            "video_id": 7119
+          },
+          {
+            "lec_no": "274",
+            "title": "Minimum Bracket Reversal coding | Lec - 151",
+            "video_id": 7120
+          },
+          {
+            "lec_no": "275",
+            "title": "Next Greater Element In LL coding | Lec - 152",
+            "video_id": 7121
+          },
+          {
+            "lec_no": "276",
+            "title": "Celebrity Problem coding | Lec - 153",
+            "video_id": 7122
+          },
+          {
+            "lec_no": "277",
+            "title": "N Stacks In An Array coding | Lec - 154",
+            "video_id": 7123
+          },
+          {
+            "lec_no": "278",
+            "title": "Online Stock Span coding | Lec - 155",
+            "video_id": 7124
+          },
+          {
+            "lec_no": "279",
+            "title": "Simplify Path coding | Lec - 156",
+            "video_id": 7125
+          },
+          {
+            "lec_no": "280",
+            "title": "Check If Word Is Valid After Substitutions | Lec - 157",
+            "video_id": 7126
+          },
+          {
+            "lec_no": "281",
+            "title": "Decode String coding | Lec - 158",
+            "video_id": 7127
+          },
+          {
+            "lec_no": "282",
+            "title": "Max Rectangle In Binary Matrix coding | Lec - 159",
+            "video_id": 7128
+          },
+          {
+            "lec_no": "283",
+            "title": "Car Fleet coding | Lec - 160",
+            "video_id": 7129
+          },
+          {
+            "lec_no": "284",
+            "title": "Car Fleet-II coding | Lec - 161",
+            "video_id": 7130
+          },
+          {
+            "lec_no": "285",
+            "title": "Queue - Class 1 coding | Lec - 162",
+            "video_id": 7131
+          },
+          {
+            "lec_no": "286",
+            "title": "Queue - Class 2 coding | Lec - 163",
+            "video_id": 7132
+          },
+          {
+            "lec_no": "287",
+            "title": "Queue - Class 3 coding | Lec - 164",
+            "video_id": 7133
+          },
+          {
+            "lec_no": "288",
+            "title": "Queue Using Stacks coding | Lec - 165",
+            "video_id": 7134
+          },
+          {
+            "lec_no": "289",
+            "title": "Stacks Using Queue coding | Lec - 166",
+            "video_id": 7135
+          },
+          {
+            "lec_no": "290",
+            "title": "K Queues In An Array coding | Lec - 167",
+            "video_id": 7136
+          },
+          {
+            "lec_no": "291",
+            "title": "Sum Of Min & Max Elements Of All Subarray Of Size K | Lec - 168",
+            "video_id": 7137
+          },
+          {
+            "lec_no": "292",
+            "title": "Trees Class - 1 coding | Lec - 169",
+            "video_id": 7138
+          },
+          {
+            "lec_no": "293",
+            "title": "Trees Class - 2 coding | Lec - 170",
+            "video_id": 7139
+          },
+          {
+            "lec_no": "294",
+            "title": "Trees Class - 3 coding | Lec - 171",
+            "video_id": 7140
+          },
+          {
+            "lec_no": "295",
+            "title": "Trees Class - 4 coding | Lec - 172",
+            "video_id": 7141
+          },
+          {
+            "lec_no": "296",
+            "title": "FW To Find Diameter coding | Lec - 173",
+            "video_id": 7142
+          },
+          {
+            "lec_no": "297",
+            "title": "FW To Find Height Balanced Tree coding | Lec - 174",
+            "video_id": 7143
+          },
+          {
+            "lec_no": "298",
+            "title": "Two Trees Mirror OR Identical coding | Lec - 175",
+            "video_id": 7144
+          },
+          {
+            "lec_no": "299",
+            "title": "Diagonal Traversal coding | Lec - 176",
+            "video_id": 7145
+          },
+          {
+            "lec_no": "300",
+            "title": "Zig-Zag Traversal coding | Lec - 177",
+            "video_id": 7146
+          },
+          {
+            "lec_no": "301",
+            "title": "Transform To Sum Tree coding | Lec - 178",
+            "video_id": 7147
+          },
+          {
+            "lec_no": "302",
+            "title": "Vertical Order Traversal coding | Lec - 179",
+            "video_id": 7148
+          },
+          {
+            "lec_no": "303",
+            "title": "K-Sum Paths coding | Lec - 180",
+            "video_id": 7149
+          },
+          {
+            "lec_no": "304",
+            "title": "BST Class - 1 coding | Lec - 181",
+            "video_id": 7150
+          },
+          {
+            "lec_no": "305",
+            "title": "BST Class - 2 coding | Lec - 182",
+            "video_id": 7151
+          },
+          {
+            "lec_no": "306",
+            "title": "BST Class - 3 coding | Lec - 183",
+            "video_id": 7152
+          },
+          {
+            "lec_no": "307",
+            "title": "Heaps Class - 1 coding | Lec - 184",
+            "video_id": 7153
+          },
+          {
+            "lec_no": "308",
+            "title": "Heaps Class - 2 coding | Lec - 185",
+            "video_id": 7154
+          },
+          {
+            "lec_no": "309",
+            "title": "Heaps Class - 3 coding | Lec - 186",
+            "video_id": 7155
+          },
+          {
+            "lec_no": "310",
+            "title": "Heaps Class - 4 coding | Lec - 187",
+            "video_id": 7156
+          },
+          {
+            "lec_no": "311",
+            "title": "Hashmaps & Tries - Class 1 coding | Lec - 188",
+            "video_id": 7157
+          },
+          {
+            "lec_no": "312",
+            "title": "Hashmaps & Tries - Class 2 coding | Lec - 189",
+            "video_id": 7158
+          },
+          {
+            "lec_no": "313",
+            "title": "Hashmaps Tries Class 3 | Lec - 190",
+            "video_id": 7159
+          },
+          {
+            "lec_no": "314",
+            "title": "Dynamic Programming 1 Class 1 | Lec - 191",
+            "video_id": 7160
+          },
+          {
+            "lec_no": "315",
+            "title": "Dynamic Programming 1 Class 2 | Lec - 192",
+            "video_id": 7161
+          },
+          {
+            "lec_no": "316",
+            "title": "Dynamic Programming 1 Class 3 | Lec - 193",
+            "video_id": 7162
+          },
+          {
+            "lec_no": "317",
+            "title": "Dynamic Programming 1 Class 4 | Lec - 194",
+            "video_id": 7163
+          },
+          {
+            "lec_no": "318",
+            "title": "Dynamic Programming 2 Class 5 | Lec - 195",
+            "video_id": 7164
+          },
+          {
+            "lec_no": "319",
+            "title": "Dynamic Programming 2 Class 6 | Lec - 196",
+            "video_id": 7165
+          },
+          {
+            "lec_no": "320",
+            "title": "Dynamic Programming 2 Class 7 | Lec - 197",
+            "video_id": 7166
+          },
+          {
+            "lec_no": "321",
+            "title": "Graphs 1 Class 1 | Lec - 198",
+            "video_id": 7167
+          },
+          {
+            "lec_no": "322",
+            "title": "Graphs 1 Class 2 | Lec - 199",
+            "video_id": 7168
+          },
+          {
+            "lec_no": "323",
+            "title": "Graphs 1 Class 3 | Lec - 200",
+            "video_id": 7169
+          },
+          {
+            "lec_no": "324",
+            "title": "Graphs 1 Class 4 | Lec - 201",
+            "video_id": 7170
+          },
+          {
+            "lec_no": "325",
+            "title": "Graphs 2 Class 5 | Lec - 202",
+            "video_id": 7171
+          },
+          {
+            "lec_no": "326",
+            "title": "Graphs 2 Class 6 | Lec - 203",
+            "video_id": 7172
+          },
+          {
+            "lec_no": "327",
+            "title": "Graphs 2 Class 7 | Lec - 204",
+            "video_id": 7173
+          },
+          {
+            "lec_no": "328",
+            "title": "Graphs 2 Class 8 | Lec - 205",
+            "video_id": 7174
+          },
+          {
+            "lec_no": "329",
+            "title": "Bonus Class Greedy Algorithm | Lec - 206",
+            "video_id": 7175
+          },
+          {
+            "lec_no": "330",
+            "title": "Bonus Class Sliding Windows | Lec - 207",
+            "video_id": 7176
+          },
+          {
+            "lec_no": "331",
+            "title": "Bonus Class Bit Manipulation | Lec - 208",
+            "video_id": 7177
+          },
+          {
+            "lec_no": "332",
+            "title": "Interview Do s and Dont s | Lec - 209",
+            "video_id": 7178
+          },
+          {
+            "lec_no": "333",
+            "title": "Let s Talk about Resume | Lec - 210",
+            "video_id": 7179
+          },
+          {
+            "lec_no": "334",
+            "title": "Let's talk about Placement Opportunities Join Telegr | Lec - 211",
+            "video_id": 7180
+          },
+          {
+            "lec_no": "335",
+            "title": "Last Class | Lec - 212",
+            "video_id": 7181
+          }
+        ]
+      }
+    ]
+  }
+]

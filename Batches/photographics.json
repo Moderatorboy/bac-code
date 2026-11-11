@@ -1,0 +1,698 @@
+[
+  {
+    "batch_name": "PHOTOGRAPICS",
+    "channel_id": "-1002934518635",
+    "chapters": [
+      {
+        "chapter_name": "Chapter 01",
+        "lectures": [
+          {
+            "title": "1 Way to Succeed in Photography What you will learn from this course",
+            "video_id": 370
+          },
+          {
+            "title": "Warm welcome to this course!",
+            "video_id": 371
+          },
+          {
+            "title": "Why we like photography",
+            "video_id": 372
+          },
+          {
+            "title": "Why we like photography",
+            "video_id": 373
+          }
+        ]
+      },
+      {
+        "chapter_name": "Chapter 2",
+        "lectures": [
+          {
+            "title": "Introduction to Long Exposure Photography",
+            "video_id": 374
+          },
+          {
+            "title": "ND filter guide for Long Exposure Shots",
+            "video_id": 375
+          },
+          {
+            "title": "What equipment needed for Long Exposure Shots",
+            "video_id": 376
+          },
+          {
+            "title": "Analysis # 1  Long Exposure Shot",
+            "video_id": 377
+          },
+          {
+            "title": "Analysis # 2  Long Exposure Shot",
+            "video_id": 378
+          },
+          {
+            "title": "Analysis # 3  Long Exposure Shot",
+            "video_id": 379
+          },
+          {
+            "title": "Tips for better Long Exposure Shot",
+            "video_id": 380
+          }
+        ]
+      },
+      {
+        "chapter_name": "Chapter 3",
+        "lectures": [
+          {
+            "title": "Create a Vintage Looking Image with Photoshop",
+            "video_id": 381
+          },
+          {
+            "title": "Create Black and White with Warm Tone",
+            "video_id": 382
+          },
+          {
+            "title": "Color Pop in Photoshop",
+            "video_id": 383
+          },
+          {
+            "title": "Sharpen in Photoshop",
+            "video_id": 384
+          },
+          {
+            "title": "How to Create a Simple Matte Effect in Photoshop",
+            "video_id": 385
+          },
+          {
+            "title": "Add Reflections to Sunglasses with Photoshop",
+            "video_id": 386
+          },
+          {
+            "title": "How to Create HDR Effects in Photoshop",
+            "video_id": 387
+          }
+        ]
+      },
+      {
+        "chapter_name": "Chapter 4",
+        "lectures": [
+          {
+            "title": "How picture taking process works inside DSLR",
+            "video_id": 388
+          },
+          {
+            "title": "Summary What is Aperture Depth of Field explained",
+            "video_id": 389
+          },
+          {
+            "title": "Demonstration Aperture & Depth of Field",
+            "video_id": 390
+          },
+          {
+            "title": "Understanding Shutter Speed",
+            "video_id": 391
+          },
+          {
+            "title": "Summary What is Shutter Speed",
+            "video_id": 392
+          },
+          {
+            "title": "Cheat Sheet Shutter Speed and It's use cases",
+            "video_id": 393
+          },
+          {
+            "title": "Chart Sensor Size of Various Camera",
+            "video_id": 394
+          },
+          {
+            "title": "Deep understanding on APS-C",
+            "video_id": 395
+          },
+          {
+            "title": "Chart APS-C",
+            "video_id": 396
+          },
+          {
+            "title": "Chart Creative Mode Dial",
+            "video_id": 397
+          },
+          {
+            "title": "Chart Parts of a DSLR (Nikon view)",
+            "video_id": 398
+          },
+          {
+            "title": "Summary How picture taking process works inside DSLR",
+            "video_id": 399
+          },
+          {
+            "title": "Chart Parts of DSLR (Canon view)",
+            "video_id": 400
+          },
+          {
+            "title": "21 Photography Basics Understand with easy and funny examples",
+            "video_id": 401,
+            "notes_id": 502
+          },
+          {
+            "title": "How view finder works",
+            "video_id": 402
+          },
+          {
+            "title": "Summary How viewfinder works inside DSLR",
+            "video_id": 403
+          },
+          {
+            "title": "Why you should shoot in RAW format",
+            "video_id": 404
+          },
+          {
+            "title": "Summary Why you should shoot in RAW format",
+            "video_id": 405
+          },
+          {
+            "title": "What is ISO",
+            "video_id": 406
+          },
+          {
+            "title": "Summary What is ISO",
+            "video_id": 407
+          },
+          {
+            "title": "What is Aperture",
+            "video_id": 408
+          }
+        ]
+      },
+      {
+        "chapter_name": "Chapter 5",
+        "lectures": [
+          {
+            "title": "What you will learn # Mastering Lighting in Photography",
+            "video_id": 409
+          },
+          {
+            "title": "Summary # Photography at Golden Hour",
+            "video_id": 410
+          },
+          {
+            "title": "Check Lists for Photography in Golden Hour",
+            "video_id": 411
+          },
+          {
+            "title": "Assignment # Photography at Golden Hour",
+            "video_id": 412
+          },
+          {
+            "title": "Photography at Golden Hour",
+            "video_id": 413
+          },
+          {
+            "title": "Understanding direction of light",
+            "video_id": 414
+          },
+          {
+            "title": "Summary # Understanding direction of light",
+            "video_id": 415
+          },
+          {
+            "title": "9 important points about light in Photography",
+            "video_id": 416
+          },
+          {
+            "title": "Reflector to shoot amazing photos",
+            "video_id": 417
+          },
+          {
+            "title": "Cheat Sheet Reflector",
+            "video_id": 418
+          },
+          {
+            "title": "Diffuser to get rid of harsh light and harsh shadows",
+            "video_id": 419
+          },
+          {
+            "title": "Why Lighting important in Photography",
+            "video_id": 420
+          },
+          {
+            "title": "20 Top things you learned # Mastering Lighiting in Photography",
+            "video_id": 421
+          },
+          {
+            "title": "Understanding Natural Light",
+            "video_id": 422
+          },
+          {
+            "title": "Summary # Understanding natural light",
+            "video_id": 423
+          },
+          {
+            "title": "5 Problems to shoot photo in Midday Highest Contrast Light",
+            "video_id": 424
+          },
+          {
+            "title": "Photography at Blue Hour",
+            "video_id": 425
+          },
+          {
+            "title": "Summary # Photography at Blue Hour",
+            "video_id": 426
+          },
+          {
+            "title": "Check Lists for Photography in Blue Hour",
+            "video_id": 427
+          },
+          {
+            "title": "Photography at Golden Hour",
+            "video_id": 428
+          }
+        ]
+      },
+      {
+        "chapter_name": "Chapter 6",
+        "lectures": [
+          {
+            "title": "What you will learn # Mastering Macro Photography",
+            "video_id": 429
+          },
+          {
+            "title": "Summary Larger Depth of Field to get more detail",
+            "video_id": 430
+          },
+          {
+            "title": "Focusing rail to save time & perfect the focus",
+            "video_id": 431
+          },
+          {
+            "title": "12 Summary Use a focusing rail to save time & perfect the focus",
+            "video_id": 432
+          },
+          {
+            "title": "Use manual focus instead of auto focus",
+            "video_id": 433
+          },
+          {
+            "title": "Summary Use manual focus instead of auto focus",
+            "video_id": 434
+          },
+          {
+            "title": "Diffuser  Umbrella for better macro shots",
+            "video_id": 435
+          },
+          {
+            "title": "Wind Killer of Macro Photos",
+            "video_id": 436
+          },
+          {
+            "title": "Macro targeted Flash",
+            "video_id": 437
+          },
+          {
+            "title": "Better Tripod to get rid of bluriness",
+            "video_id": 438
+          },
+          {
+            "title": "Higher ISO; Reason for Noisy & Grainy Photo",
+            "video_id": 439
+          },
+          {
+            "title": "What is Macro Photography",
+            "video_id": 440
+          },
+          {
+            "title": "Top things you learned # Mastering Macro Photography",
+            "video_id": 441
+          },
+          {
+            "title": "Benefits of Macro Photography",
+            "video_id": 442
+          },
+          {
+            "title": "Summary Benefits of Macro photography",
+            "video_id": 443
+          },
+          {
+            "title": "Top 10 Inspirational Macro Shots",
+            "video_id": 444
+          },
+          {
+            "title": "Focus staking # To increase apparent depth of field",
+            "video_id": 445
+          },
+          {
+            "title": "Live view to get Sharp & Crispy Image",
+            "video_id": 446
+          },
+          {
+            "title": "Summary Live View to get sharp & chrispy image",
+            "video_id": 447
+          },
+          {
+            "title": "Larger depth of field to get more detail",
+            "video_id": 448
+          }
+        ]
+      },
+      {
+        "chapter_name": "Chapter 7",
+        "lectures": [
+          {
+            "title": "1 What you will learn # Mastering Black and White Photography",
+            "video_id": 449
+          },
+          {
+            "title": "Summary # Cool tips for black & white photography",
+            "video_id": 450
+          },
+          {
+            "title": "Top 10 inspirational Black & White Shots",
+            "video_id": 451
+          },
+          {
+            "title": "Assignment Mastering Black & White Photography",
+            "video_id": 452
+          },
+          {
+            "title": "Check Lists for Black & White Photography",
+            "video_id": 453
+          },
+          {
+            "title": "14 Top things you learned # Mastering Black and White Photography",
+            "video_id": 454
+          },
+          {
+            "title": "Why Black & White Photography",
+            "video_id": 455
+          },
+          {
+            "title": "Power of black and white photography",
+            "video_id": 456
+          },
+          {
+            "title": "Black and White vs. Color Photography",
+            "video_id": 457
+          },
+          {
+            "title": "Cool tips for Black & White Photography",
+            "video_id": 458
+          },
+          {
+            "title": "Create a Vintage Looking Image with Photoshop",
+            "video_id": 459
+          },
+          {
+            "title": "Create Black and White with Warm Tone",
+            "video_id": 460
+          },
+          {
+            "title": "High-Key Black & White Portrait Effect in Photoshop",
+            "video_id": 461
+          },
+          {
+            "title": "9 Creating Black & White Effect using HueSaturation Tool in Photoshop",
+            "video_id": 462
+          }
+        ]
+      },
+      {
+        "chapter_name": "Chapter 8",
+        "lectures": [
+          {
+            "title": "Challenge to YOU!! Mastering Composition",
+            "video_id": 463
+          },
+          {
+            "title": "Composition Technique # 02 Separation of Subject",
+            "video_id": 464
+          },
+          {
+            "title": "11 Summary Composition Technique # 02 Separation of Subject",
+            "video_id": 465
+          },
+          {
+            "title": "Composition Technique # 03 Balance of elements",
+            "video_id": 466
+          },
+          {
+            "title": "Summary Composition Technique # 03 Balance of elements",
+            "video_id": 467
+          },
+          {
+            "title": "Composition Technique # 04 Linear Perspective",
+            "video_id": 468
+          },
+          {
+            "title": "Composition Technique # 05 Height Perspective",
+            "video_id": 469
+          },
+          {
+            "title": "Example of Height Perspective",
+            "video_id": 470
+          },
+          {
+            "title": "Composition Technique # 06 Overlap perspective",
+            "video_id": 471
+          },
+          {
+            "title": "Example of Overlap Perspective",
+            "video_id": 472
+          },
+          {
+            "title": "Composition Technique # 07 Aerial perspective",
+            "video_id": 473
+          },
+          {
+            "title": "What you will learn # Mastering Composition",
+            "video_id": 474
+          },
+          {
+            "title": "Example of Aerial Perspective",
+            "video_id": 475
+          },
+          {
+            "title": "Composition Technique # 08 Fill the frame",
+            "video_id": 476,
+            "notes_id": 502
+          },
+          {
+            "title": "Composition Technique # 09 Pattern",
+            "video_id": 477
+          },
+          {
+            "title": "Composition Technique # 10 Leading lines",
+            "video_id": 478
+          },
+          {
+            "title": "Composition Technique # 11 Rule of Thirds",
+            "video_id": 479
+          },
+          {
+            "title": "Composition Technique # 12 Golden ratio",
+            "video_id": 480
+          },
+          {
+            "title": "What makes a great picture",
+            "video_id": 481
+          },
+          {
+            "title": "Why composition important in Photography",
+            "video_id": 482
+          },
+          {
+            "title": "Summary # Why Composition important in Photography",
+            "video_id": 483
+          },
+          {
+            "title": "Popular composition techniques",
+            "video_id": 484
+          },
+          {
+            "title": "Summary # Popular composition techniques in Photography",
+            "video_id": 485
+          },
+          {
+            "title": "Composition Technique # 01 Placement of Subject",
+            "video_id": 486
+          },
+          {
+            "title": "9 Summary Composition Technique # 01 Placement of Subject",
+            "video_id": 487
+          }
+        ]
+      },
+      {
+        "chapter_name": "Chapter 9",
+        "lectures": [
+          {
+            "title": "Why stock photography popular amoung Photographers",
+            "video_id": 488
+          },
+          {
+            "title": "10 Summary Shoot images having both literal and conceptual meaning",
+            "video_id": 489
+          },
+          {
+            "title": "Save some negative space",
+            "video_id": 490
+          },
+          {
+            "title": "Summary Save some negative space",
+            "video_id": 491
+          },
+          {
+            "title": "Expert yourself in a few domain",
+            "video_id": 492
+          },
+          {
+            "title": "Summary Expert yourself in a few domain",
+            "video_id": 493
+          },
+          {
+            "title": "Prepare yourself before shooting",
+            "video_id": 494
+          },
+          {
+            "title": "Summary Prepare yourself before shooting",
+            "video_id": 495
+          },
+          {
+            "title": "Shoot more and more",
+            "video_id": 496
+          },
+          {
+            "title": "Summary Shoot more and more.",
+            "video_id": 497
+          },
+          {
+            "title": "Get model release early",
+            "video_id": 498
+          },
+          {
+            "title": "Success theory of stock photography",
+            "video_id": 499
+          },
+          {
+            "title": "Summary Get model release early",
+            "video_id": 500
+          },
+          {
+            "title": "Use universal model release form",
+            "video_id": 501,
+            "notes_id": 502
+          },
+          {
+            "title": "Summary Use universal model release form",
+            "video_id": 503
+          },
+          {
+            "title": "Submit to multiple stock agency sites",
+            "video_id": 504
+          },
+          {
+            "title": "Summary Submit to multiple stock agency sites",
+            "video_id": 505
+          },
+          {
+            "title": "Brand Yourself  Your agency",
+            "video_id": 506
+          },
+          {
+            "title": "Summary BrandMarket Yourself Your Agency",
+            "video_id": 507
+          },
+          {
+            "title": "Invest your time in proper meta data and keywording",
+            "video_id": 508
+          },
+          {
+            "title": "28 Summary Invest your time in proper meta data and keywording",
+            "video_id": 509
+          },
+          {
+            "title": "Don't spam while keywording",
+            "video_id": 510
+          },
+          {
+            "title": "Summary Success Theory of Stock Photography",
+            "video_id": 511
+          },
+          {
+            "title": "Summary Don't spam while keywording",
+            "video_id": 512
+          },
+          {
+            "title": "Analyze the Market through useful tools",
+            "video_id": 513
+          },
+          {
+            "title": "Assignment of Market Analysis",
+            "video_id": 514
+          },
+          {
+            "title": "Summary Analyze the market through useful tools",
+            "video_id": 515
+          },
+          {
+            "title": "Learn what type of images buyer want",
+            "video_id": 516
+          },
+          {
+            "title": "Summary Learn what type of images buyer want",
+            "video_id": 517
+          },
+          {
+            "title": "Shoot images having both literal and conceptual meaning",
+            "video_id": 518
+          }
+        ]
+      },
+      {
+        "chapter_name": "Chapter 10",
+        "lectures": [
+          {
+            "title": "What is Portrait Photography",
+            "video_id": 519
+          },
+          {
+            "title": "Key concepts in portrait photography",
+            "video_id": 520
+          },
+          {
+            "title": "Indoor #  portrait photography setup",
+            "video_id": 521
+          },
+          {
+            "title": "Analysis on Bad Portrait Shot # Example 1",
+            "video_id": 522
+          },
+          {
+            "title": "Analysis on Bad Portrait Shot # Example 2",
+            "video_id": 523
+          },
+          {
+            "title": "Analysis on Bad Portrait Shot # Example 3",
+            "video_id": 524
+          },
+          {
+            "title": "Common mistakes in daily portrait shots!",
+            "video_id": 525
+          },
+          {
+            "title": "Cheat Sheet Portrait Lighting",
+            "video_id": 526
+          }
+        ]
+      },
+      {
+        "chapter_name": "Chapter 11",
+        "lectures": [
+          {
+            "title": "Nikon DSLR Timeline",
+            "video_id": 527
+          },
+          {
+            "title": "Canon DSLR Timeline",
+            "video_id": 528
+          }
+        ]
+      }
+    ]
+  }
+]
